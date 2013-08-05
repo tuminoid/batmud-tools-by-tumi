@@ -1,0 +1,65 @@
+Merfolk
+                               ,----------------------------.
+                               |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  11 |  79 | 100 |       77 |
+| Controlled panic              |   0 |  79 |  60 |       24 |
+| Burial ceremony               |  34 |  79 | 100 |     1023 |
+| First aid                     |  50 |  79 |  90 |     2987 |
+| Alertness                     |  32 |  79 |  50 |     1032 |
+| Bash                          |   0 |  79 | 100 |       35 |
+| Swim                          |   0 |  79 |  90 |       35 |
+| Hiking                        |  19 |  79 |  30 |      429 |
+| Tempt                         |  40 |  79 | 100 |     2672 |
+| Baptize                       |  55 |  79 | 100 |     8191 |
+| Bless                         |  44 |  79 | 100 |     3910 |
+| Kick                          |  79 |  79 |  90 |    75996 |
+| Cast generic                  |  80 |  79 | 100 |    48914 |
+| Cast heal                     |  70 |  79 |  50 |    (n/a) |
+| Cast information              |  75 |  79 |  50 |    (n/a) |
+| Cast protection               |  79 |  79 | 100 |    46150 |
+| Cast special                  |  50 |  79 |  50 |    (n/a) |
+| Attack                        |  75 |  79 | 100 |    45460 |
+| Shield bash                   |   0 |  79 |  90 |      128 |
+| Stance of the righteous       |   0 |  79 | 100 |      142 |
+| Mastery of shielding          |  52 |  79 | 100 |    20270 |
+| Prayer                        |  61 |  79 | 100 |    38629 |
+| Bludgeons                     |  71 |  79 | 100 |    80374 |
+| Rescue                        |  69 |  79 | 100 |    70347 |
+| Find weakness                 |   0 |  79 |  30 |      155 |
+| Endurance                     |  19 |  79 |  30 |     1119 |
+| Pound                         |   0 |  79 | 100 |      165 |
+| Stun                          |   0 |  79 |  60 |      165 |
+| Holy strike                   |   0 |  79 | 100 |      168 |
+| Riposte                       |   0 |  79 |  90 |      171 |
+| Combat damage analysis        |   0 |  79 | 100 |      190 |
+| Holy blaze                    |   0 |  79 | 100 |      193 |
+| Leadership                    |  26 |  79 |  40 |     2919 |
+| Discipline                    |  68 |  79 |  90 |   100651 |
+| Holy warfare                  |   0 |  79 | 100 |      213 |
+| Enhance criticals             |   0 |  79 |  40 |      225 |
+| Pulverize                     |   0 |  79 |  75 |      225 |
+| Holy smite                    |  50 |  79 | 100 |    29094 |
+| Parry                         |  59 |  79 |  90 |    58761 |
+| Stunned maneuvers             |  63 |  79 |  90 |    90287 |
+| Combat sense                  |  53 |  79 |  80 |    43817 |
+| Dodge                         |  30 |  79 |  50 |     5797 |
+| Protection by sacrifice       |  30 |  79 | 100 |     5797 |
+| Righteousness                 |   0 |  79 | 100 |      280 |
+`-----------------------------------------------------------'
+                               ,----------------------------.
+                               |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Detect alignment              |  54 |  89 | 100 |     3459 |
+| Bless armament                |  67 |  89 | 100 |     8972 |
+| Light                         |  46 |  89 | 100 |     2534 |
+| Remove poison                 |  50 |  89 | 100 |     8223 |
+| Divine enhancement            |  68 |  89 | 100 |    51715 |
+| Laying on hands               |  46 |  89 | 100 |    12815 |
+| Blessing of faerwon           |  54 |  89 | 100 |    28350 |
+| Shield of faith               |  67 |  89 | 100 |    73669 |
+`-----------------------------------------------------------'

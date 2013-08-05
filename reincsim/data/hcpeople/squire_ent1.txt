@@ -1,0 +1,36 @@
+Ent
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 15  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  70 |  70 |    (n/a) |
+| Evaluate mount                |   0 |  35 |        5 |
+| Push                          |   0 |  90 |        5 |
+| Tinning                       |   0 |  60 |        5 |
+| Compare                       |   0 |  85 |        9 |
+| First aid                     |  50 |  65 |      990 |
+| Alertness                     |  40 |  50 |      613 |
+| Swim                          |   0 |  80 |       18 |
+| Plant lore                    |   0 |  40 |       21 |
+| Torch creation                |   0 |  60 |       24 |
+| Hunting                       |   0 |  40 |       26 |
+| Camping                       |   0 |  50 |       28 |
+| Fire building                 |   0 |  30 |       28 |
+| Hiking                        |  35 |  40 |      620 |
+| Riding                        |   0 |  25 |       28 |
+| Kick                          |  60 |  70 |     5789 |
+| Throw weight                  |  50 |  25 |    (n/a) |
+| Switch weapon                 |  70 |  60 |    (n/a) |
+| Attack                        |  75 |  98 |    35474 |
+| Make mount feed               |   0 |  25 |       63 |
+| Short blades                  |  73 |  30 |    (n/a) |
+| Polearms                      |   0 |  35 |      109 |
+| Negate offhand penalty        |  70 |  40 |    (n/a) |
+| Shield bash                   |   0 |  30 |      117 |
+| Combat riding                 |   0 |  50 |      170 |
+| Rescue                        |   0 |  35 |      170 |
+| Stun                          |  37 |  20 |    (n/a) |
+| Tame mount                    |   0 |  10 |      570 |
+| Dodge                         |  60 |  10 |    (n/a) |
+`------------------------------------------------------'

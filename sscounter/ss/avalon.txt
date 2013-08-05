@@ -1,0 +1,18 @@
+name: Legion of Sacred Avalon
+gms: Stalker, Dargoth, Cutter, Heinz, Vivian, Stormslayer, Idles and K
+maxlvl: 15
+1: dex,skillmax,int,con
+2: dex,int,con,skillmax
+3: dex,con,skillmax,parry 
+4: dex,con,skillmax,dodge 
+5: dex,con,skillmax,parry 
+6: dex,int,wis,con
+7: dex,int,wis,con
+8: wis,dex,con,dodge 
+9: int,wis,dex,con
+10: int,wis,dex,con
+11: wis,dex,con,skillmax
+12: wis,dex,con,str
+13: con,dex,skillmax
+14: con,dex,skillmax
+15: con,dex,skillmax

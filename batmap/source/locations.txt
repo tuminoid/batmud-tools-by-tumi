@@ -1,0 +1,351 @@
+54,97:   CITY Batcity
+56,337:  CITY Shadowkeep
+104,105: CITY Old Batcity
+254,209: CITY Calythien
+420,383: CITY Rilynt'tar
+466,16:  CITY Lorenchia
+
+6,302:   SHRINE Merfolk
+8,465:   SHRINE Penguin
+17,45:   SHRINE Minotaur
+27,288:  SHRINE Brownie
+31,210:  SHRINE Leprechaun
+35,308:  SHRINE Demon
+37,388:  SHRINE Dwarf
+38,344:  SHRINE Valar
+42,279:  SHRINE Tinmen
+53,63:   SHRINE Gargoyle
+57,167:  ?SHRINE Doppelganger
+88,313:  SHRINE Hobbit
+92,234:  SHRINE Sprite
+92,90:   SHRINE Cromagnon
+99,113:  SHRINE Giant
+102,194: SHRINE Troll
+107,108: SHRINE Human
+116,120: SHRINE Barsoomian
+125,85:  SHRINE Shadow
+152,402: SHRINE Thrikhren
+155,298: SHRINE Gnome
+166,126: SHRINE Vampire
+169,169: SHRINE Drow
+178,10:  SHRINE Wolfmen
+188,171: SHRINE Elf
+191,312: SHRINE Duck
+262,464: SHRINE Lizardman
+275,241: SHRINE Catfolk
+285,310: SHRINE Ent
+302,302: SHRINE Draconian
+310,77:  SHRINE Titan?
+327,127: SHRINE Leech
+346,205: SHRINE Gnoll
+352,43:  SHRINE Ogre
+373,84:  SHRINE Skeleton
+377,379: SHRINE Kobold
+382,79:  SHRINE Lich
+385,399: SHRINE Duergar
+394,439: SHRINE Satyr
+397,365: SHRINE Orc
+403,202: SHRINE Zombie
+421,466: SHRINE Cyclops
+433,150: SHRINE Moomin
+436,302: SHRINE Centaur
+
+60,446:  GUILD Mage/cold
+138,41:  GUILD Mage/electric
+265,390: GUILD Mage/asphyx
+287,155: GUILD Mage/acid
+301,256: GUILD Mage/poison
+367,122: GUILD Mage/magical
+477,453: GUILD Mage/fire
+
+9,291:   GUILD Beastmaster
+20,35:   ?GUILD Spidershrine1
+28,257:  GUILD Barbarian
+29,124:  GUILD Tarmalen Winter
+32,188:  GUILD Runemage
+38,369:  GUILD Nuns
+46,115:  GUILD Sailor
+51,110:  GUILD Squire/Cavalier
+51,215:  ?GUILD Spidershrine2
+52,115:  ?GUILD Knights
+53,206:  GUILD Tarmalen Spring
+60,139:  GUILD New LoC
+61,157:  ?GUILD Priests
+66,21:   GUILD Conjurer
+72,212:  GUILD Crimson brigade
+89,155:  GUILD Tigers
+90,112:  GUILD Merchant
+95,103:  GUILD Rangers
+96,88:   Diggas/GUILD Barbarian
+97,122:  GUILD Psionicist
+103,357: ?GUILD Spidershrine3
+113,90:  GUILD Tarmalen Autumn
+121,412: GUILD Runemage east
+129,294: GUILD Templar
+142,172: GUILD Druids
+151,108: ?GUILD Spidershrine4
+166,68:  GUILD Lords of Chaos
+166,296: GUILD Monks
+179,155: GUILD New LoC Temple of Tzarakk
+221,136: ?GUILD Spidershrine5
+261,58:  GUILD Runemage west
+276,77:  GUILD Tarmalen Summer
+276,251: ?GUILD Spidershrine6
+317,442: GUILD CLOSED Tree navigators?
+312,372: ?GUILD Spidershrine7
+337,93:  GUILD Channeller
+365,252: GUILD Navigators
+413,423: GUILD Reavers
+437,182: GUILD Alchemist
+460,415: ?GUILD Spidershrine8
+
+3,52:    ?Stone circle2
+6,281:   Seashore
+11,274:  Barbarian colosseum
+11,466:  Ice castle
+15,227:  Sunderland
+15,256:  ?Oysteria
+17,279:  ?Plakhstan
+23,181:  Taiga
+25,226:  Cevi Village
+26,137:  ?Stone circle
+27,132:  Gauntlet
+28,321:  ?Tinmen Monastery
+28,201:  ?CLOSED Iron/Moria
+29,95:   Hell's dojo
+30,33:   Lonely mountain
+30,285:  Farmhouse
+30,406:  Lighthouse
+31,89:   Rendburg
+33,27:   Red tides village
+42,338:  Smurf
+44,352:  Katvil forest
+46,288:  Pigfarm
+47,343:  Horn Durath
+48,87:   Beastlands
+48,115:  Wharves
+49,97:   Newbie zoo
+50,81:   Drawbridge
+50,111:  Pleasantville
+53,48:   Newbie mines
+52,237:  Hugoville
+53,128:  ?
+54,28:   Rounce
+54,129:  100 acre forest
+55,82:   Old nuns
+54,115:  Great tree
+56,111:  Newberry
+57,57:   Followers of Vanion
+57,94:   Dump
+59,128:  Paladin Stronghold
+59,165:  Zonni's swamp
+57,443:  CLOSED Pirate cave
+60,257:  Dunamor
+61,105:  Stables
+62,53:   Swamp
+62,96:   Ivory tower
+64,139:  Newbie taskmaster
+64,158:  Orthanc
+65,111:  Wibble Village
+65,324:  Obelisk
+65,384:  Soy's
+63,464:  Island of Lanzia
+66,91:   Dungeon
+67,419:  Goddess garden
+70,60:   Temple
+70,79:   Peacock farm
+73,125:  Orc scouts
+74,147:  Hairikko Forest
+75,82:   Playground
+75,453:  Norse village?
+77,132:  ?Moongate
+77,168:  ?Abandoned house
+78,381:  Under volcano
+78,461:  ?Wormhole
+79,93:   Ochimo
+79,143:  Kilrathi
+80,45:   Mushroom Hill?
+83,111:  Bob's Orchard
+83,127:  Mist
+84,16:   Ancient temple of Gods
+84,234:  Secladin Village
+85,134:  Crack
+85,457:  ?Harazam tower
+86,453:  ?Norse cave
+87,83:   Circus
+87,276:  Oasis
+89,365:  Giantkillers
+91,153:  Ancient shrine
+95,461:  Snootling Farm?
+99,440:  Drug store shack?
+99,70:   Newbie mountain
+99,168:  Catfolk Tree
+98,68:   Woodhelvin
+98,459:  Jurkajeff's Tower?
+100,107: Snowy
+98,207:  Seabird Inn
+99,47:   Revelstone
+101,64:  Info
+100,79:  Tiburcio's Tower
+100,469: Donaru
+102,322: Apollo
+103,43:  Guard's gap
+104,56:  Mithil
+103,71:  Foul's creche
+106,79:  Glade
+110,129: Old forest
+110,170: Abandoned valley
+113,460: Kintril Church?
+114,458: ?Ruins of Unta'r Trinit
+119,87:  Ranger quest area
+121,229: Mirkhold
+122,270: ?Horsehead mountain
+123,100: Amphitheatre
+125,62:  D'hregal
+125,146: Rainbow cloak
+125,445: Troglodyte village?
+126,453: ?Undead forest
+127,370: Celestial caverns
+128,73:  Castle Brantis
+128,144: Duzelton
+129,273: Castle Bigeaul
+130,207: King Eowyn's land
+130,460: ?Troglodyte Hut
+131,441: Corabandor
+133,455: ?Spider cave
+136,44:  Elven outpost
+136,145: Nishapur
+136,241: Arthur
+136,437: Unknown
+137,104: Valley of Silence
+137,307: Teywaer tunnel
+139,346: Enchanted forest
+140,13:  Unholy cathedral
+140,62:  Burning village
+141,261: Kutanakor west
+144,144: ?Psi quest area
+144,451: ?Empty tunnel
+146,27:  Akira
+146,122: Newbie forest
+147,297: Kutanakor east
+152,254: Chessboard
+152,78:  ?MDwarf
+154,142: Jungle cave
+157,169: Land of Anarchy
+163,314: ?Nanagich graveyard
+168,152: Darkwood
+168,329: ?Teywaer village
+170,120: Ruins
+170,194: Perin's
+177,259: Dalesmen
+177,321: ?Small well
+178,30:  Fraggle
+180,291: Conclave
+182,282: Caves of Orac
+184,252: ?Castle of Lord Drauron
+185,32:  Pier
+186,134: Foxhunt master
+187,252: ?Army encampment
+189,253: ?BATTLEFIELDS
+191,254: ?Army encampment
+192,406: Pyramid
+194,253: ?Cavern
+202,139: Simon's hut
+203,165: ?Haunted mansion
+202,347: Snow mountain
+208,291: Caverns of Chaos
+210,193: Wrebie
+214,262: CLOSED Dark tunnel
+215,459: ?Valley of Kings
+217,162: Well
+221,83:  Plura's Castle
+221,237: ?Tunnel
+226,326: Crescent tower
+226,374: Wainamoinen
+233,240: Fourwinds Inn
+240,60:  Mud tower
+242,268: Rillion
+242,406: ?CLOSED Morstor's
+243,33:  ?Magerathia
+245,44:  Quartz tower
+245,63:  Meteor tower
+245,78:  Halls of the Dead
+245,194: Gnome crashsite
+248,60:  Cloud tower
+249,345: 9'th Plane of Hell
+252,128: Blackteeth mountains
+252,270: Toxic
+253,303: Dark forest
+255,223: ?Kender mansion
+261,155: Elf village
+262,265: Volcano
+260,396: Mythical valley
+261,196: ?Abandoned study
+264,113: Rudraprayag
+267,275: Stonehenge
+268,114: Dark castle
+269,232: ?Oakvale
+276,20:  ?CLOSED Vortex
+282,205: Dunedain Mansion
+282,303: Temple of Sarku
+289,315: Jondalar
+295,155: ?N'doki
+295,263: Pyran
+304,68:  Cornfields
+307,101: ?CLOSED Temple of Ngughysh
+309,236: Camp site
+314,95:  Hobbit Farmhouse
+314,395: Temple of the Winds
+323,449: CLOSED Fissure?
+324,431: CLOSED Innsmouth?
+326,152: Ant hill
+335,442: Marble sanded Beach
+337,123: Dah'bec
+342,52:  Old fort
+342,205: Pauper
+345,403: Ackbar's warrior quest area
+347,76:  Zebell's
+360,163: Stagira
+362,333: Unknown
+363,305: Legolas
+365,234: Ship Navigators
+367,283: Las
+371,294: Noran/Attic
+357,205: ?CLOSED Ninja Ryu
+391,458: ?Domgroth's mansion
+393,341: Temple of Twisted Prophesies
+394,388: Brotherhood of Sorcery
+396,31:  Clouds above Lor
+397,86:  Tarackia
+397,232: Silver Lake City
+398,418: ?Trilloch Zoo
+406,53:  Lor
+410,10:  Ancient tower
+412,148: ?Mirror mines
+413,78:  Great central desert/Niftys
+415,449: CLOSED Firefox Castle
+418,164: ?Nocilis valley
+418,405: ?Drow tower
+419,356: Amberley Mansion
+420,199: Hill giant area
+420,294: ?Ancona Manor
+423,254: Brimshire
+424,393: Rilynttar docks
+426,141: ?Public garden
+427,166: ?Savage landia
+430,105: ?Forest of the Moon
+432,368: Orc samurai
+436,158: Zoy's inn
+440,254: Perilous forest
+443,212: Whirlpool
+448,40:  Trilloch's tower
+450,143: ?City of Astacia
+450,344: ?Anaconda's ruins
+453,184: Midnight carneval
+457,32:  The door to Past
+464,375: ?Vendar's island
+470,316: ?Shipwreck
+471,29:  Atlantis
+473,340: Stonegarden
+474,450: Steaming caverns
+

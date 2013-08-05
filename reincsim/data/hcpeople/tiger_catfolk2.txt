@@ -1,0 +1,65 @@
+Catfolk
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  75 |  92 |     2595 |
+| Alertness                     |  42 |  70 |      504 |
+| Swim                          |  75 |  92 |     8682 |
+| Pick locks                    |  65 |  70 |     4719 |
+| Hiking                        |  41 |  80 |      720 |
+| Track                         |  57 |  60 |     2859 |
+| Kick                          |  69 |  92 |     8706 |
+| Sneak                         |  54 |  80 |     2389 |
+| Throw weight                  |  80 |  80 |    (n/a) |
+| Cast control                  |  60 |  88 |     5433 |
+| Cast fire                     |  42 |  66 |     1151 |
+| Cast generic                  |  90 | 100 |    72094 |
+| Cast harm                     |  75 |  66 |    (n/a) |
+| Cast heal                     |  47 |  50 |     1772 |
+| Cast information              |  60 |  88 |     5433 |
+| Cast protection               |  55 |  88 |     3531 |
+| Cast special                  |  65 |  70 |     8359 |
+| Cast teleportation            |  45 |  66 |     1490 |
+| Cast transformation           |  45 |  66 |     1490 |
+| Attack                        |  92 |  92 |    (n/a) |
+| Tiger spirit                  |  85 |  92 |    58140 |
+| Meditation                    |  81 |  92 |    44239 |
+| Detect trap                   |   0 |  70 |       52 |
+| Iron palm                     |  65 |  92 |    25110 |
+| Mastery of pain               |  43 |  55 |     4406 |
+| Find weakness                 |  76 |  80 |    89508 |
+| Stun                          |  68 |  92 |    51503 |
+| Defence sense                 |  60 |  80 |    42104 |
+| Discipline                    |  56 |  80 |    45172 |
+| Enhance criticals             |  46 |  50 |    24228 |
+| Dim mak                       |  67 |  92 |   229999 |
+| Tumbling attack               |  38 |  80 |    19038 |
+| Stunned maneuvers             |  60 |  80 |   171834 |
+| Combat sense                  |  35 |  55 |    22846 |
+| Martial arts                  |  69 |  92 |   229999 |
+| Dodge                         |  76 |  90 |   229999 |
+| Unarmed parry                 |  53 |  65 |   139946 |
+| Dark nerves                   |   0 |  92 |     6810 |
+| Vital points                  |   1 |  92 |     7423 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Cure light wounds             |  61 |  50 |    (n/a) |
+| Infravision                   |   0 |  86 |        8 |
+| Water walking                 |  68 |  86 |     4017 |
+| Darkness                      |  68 |  86 |     4749 |
+| Shadow leap                   |  68 |  86 |     9158 |
+| Tiger claw                    |  73 |  86 |    14091 |
+| All-seeing eye                |  60 |  86 |     9815 |
+| Flame fists                   |  61 |  86 |    11181 |
+| Invisibility                  |  32 |  45 |     1409 |
+| Shadow trick                  |   0 |  86 |       92 |
+| Quicksilver                   |  61 |  86 |    24572 |
+| Haste                         |  61 |  86 |    37388 |
+| Tiger mask                    |  41 |  86 |     8294 |
+`------------------------------------------------------'

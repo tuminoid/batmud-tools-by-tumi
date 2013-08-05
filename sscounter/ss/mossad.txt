@@ -1,0 +1,13 @@
+name: Mossad Alija Bet
+gms: Farliss and Fikrik
+maxlvl: 10
+1: skillmax,str,spellmax,dodge 
+2: skillmax,str,dex,con
+3: skillmax,str,wis,dex
+4: str,skillmax,wis,con
+5: dex,con,wis
+6: str,skillmax
+7: str,skillmax,wis
+8: str,dex,skillmax,wis
+9: dex,wis,con
+10: dex,skillmax,str,con

@@ -1,0 +1,9 @@
+name: Eroottiset elaimet
+gms: Turmio, Grizzt, Icebear and Rankku
+maxlvl: 6
+1: dex,con,wis,skillmax
+2: con,dex,str,skillmax
+3: con,dex,wis,skillmax
+4: con,dex,wis,skillmax
+5: con,dex,skillmax,wis
+6: con,skillmax,dex

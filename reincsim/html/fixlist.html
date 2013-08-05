@@ -1,0 +1,511 @@
+<div class="progress-fixed">
+<h3><a href="content/show.pl?item=reincsim-changes">Changes</a></h3>
+
+<h4>13th Sep 2006</h4>
+<ul>
+<li>Tweaked the login system for reincsim a bit, should work better now.</li>
+<li>Stattraining base was lowered some, so you need to train more stuff to get the same stats.</li>
+</ul>
+
+<h4>4th Sep 2006</h4>
+<ul>
+<li>If you have registered and are logged on, your saved reincs will save along with the username, so you can easily load them without having bookmarks or from different machines etc.</li>
+<li>You can delete the saved reincs too.</li>
+</ul>
+
+<h4>31st Aug 2006</h4>
+<ul>
+<li>The saved reincs won't ever expire anymore as I have unlimited quota now.</li>
+</ul>
+
+<h4>30th Aug 2006</h4>
+<ul>
+<li>Fixed the font size issues after changing layouts.</li>
+<li>Made couple links as buttons, so the search engine bots won't go clicking them.</li>
+</ul>
+
+<h4>2nd Jun 2006</h4>
+<ul>
+<li>Couple quests were missing due invalid regex, now showing them too.</li>
+<li>Find frex frox aq added. Keep telling me if I miss something.</li>
+</ul>
+
+<h4>29th May 2006</h4>
+<ul>
+<li>The training point per level -tune is applied, levels 31-90 give only 20 points/level.</li>
+<li>Area quests have been added.</li>
+<li>Completed quests give 2/4/6/8/10 training points (easy/not very hard/challenging/very hard/IMPOSSIBLE).</li>
+<li>I hope all the quests are still included as I rewrote the whole list thingie, and bat.org list of quests has been broken for a while.</li>
+<li>The "new player bonus" mentioned in changelog of May 7th was a bug that caused players over 30 get it as well, and has now been fixed and sim is back to accuracy mode as well.</li>
+<li>Levels with two LQs didn't give proper points, fixed.</li>
+</ul>
+
+<h4>7th May 2006</h4>
+<ul>
+<li>Centaur stats were fixed, str was off.</li>
+<li>There is something called "new player bonus", which gives you 100 cha and some stats "trained" already, so you "save" like 200 points. This isn't included in sim, since its a (possibly temporary) bonus and doesn't fuck you up.</li>
+</ul>
+
+<h4>15th Mar 2006</h4>
+<ul>
+<li>Quests are inside labels now, so clicking on the quest name toggles the status. Thanks Juo.</li>
+<li>Quests are linked to bat.org if not hidden by your choises.</li>
+<li>New LQ at level 48, Successor of Provice, was added.</li>
+</ul>
+
+<h4>13th Mar 2006</h4>
+<ul>
+<li>Templars righteousness was typoed in arcane skills file, thus showed bad costs over skillmax, now fixed.</li>
+<li>Nun tasks can be cleared by choosing Clear in 'Select all tasks' drop-down menu.</li>
+</ul>
+
+<h4>6th Mar 2006</h4>
+<ul>
+<li>Backed up from expformula, it didn't work too well on all combos. Its now in beta, if you wanna check it out, where it will be tuned more.</li>
+</ul>
+
+<h4>3rd Mar 2006</h4>
+<ul>
+<li>Completely re-wrote the expformula, and it should be much better. Report big errors.</li>
+<li>Re-fixed the expformula some as the in-game formulas are FUCKING NON-DETERMINICSTIC! The costs are like next to random between spells and basecosts, so fucking annoying GNNNNNN.</li>
+<li>Fixed the nuntasks again, this time the full nun bugged.</li>
+</ul>
+
+<h4>2nd Mar 2006</h4>
+<ul>
+<li>Nun tasks with partial nuns were bugging, now fixed.</li>
+<li>Option to check all the nun guilds as completed.</li>
+<li>Old reincs are deleted after one year if not modified again.</li>
+</ul>
+
+<h4>28th Feb 2006</h4>
+<ul>
+<li>Fixed percents sticking to old selected values instead of level requirements, when moved to more guild levels after having some previously.</li>
+<li>Implemented nun tasks.</li>
+</ul>
+
+<h4>27th Feb 2006</h4>
+<ul>
+<li>Fixed and tweaked the xp cost formula. It fixes at least the issue of low spellmax races having multiple gigs cost for spells. Dunno if the accuracy went for good or bad, even my own reinc shows signs to both directions, depending on skill =)</li>
+<li>Fixed hpmax formula to use proper diminishing returns instead of hardcoded limits.</li>
+<li>Fixed the train boxes showing illegal values for training sometimes, ie. below guild requirement etc.</li>
+<li>Mastery of Destruction had too large basecost, making it 2x too expensive to max out as it really was. Thanks go to Isundil for pointing it out.</li>
+<li>Reincsim shows a proper title to help bookmarking the reincs.</li>
+</ul>
+
+<h4>16th Feb 2006</h4>
+<ul>
+<li>Major update how the spmax is calculated. It now yields a lot more accurate numbers for any stats. Also counts the 300, 350, 400 bonuses right.</li>
+</ul>
+
+<h4>9th Feb 2006</h4>
+<ul>
+<li>Merged all current updates from Beta (scroll this down for them, they're Sep13 => this), so I can test some newer stuff on beta (which remains closed). Enjoy.</li>
+<li>Fixed some miscellaneous minor bugs.</li>
+<li>Fixed some CSS "errors".</li>
+</ul>
+
+<h4>4th Feb 2006</h4>
+<ul>
+<li>Updated Quests list, as there is new LQ47.</li>
+<li>Imported couple of annoyance fixes from Beta, like not being able to de-select quests and some guild specials persisting even the guild was dropped.</li>
+<li>Tweak sp formula too, should give a tad better results for duck/thrik at least.</li>
+</ul>
+
+<h4>27th Jan 2006</h4>
+<ul>
+<li>Viewing the reinc now also prints appropriate train/study commands to train to the planned skills/spells.</li>
+</ul>
+
+<h4>26th Jan 2006</h4>
+<ul>
+<li>BETA is under huge recoding and might be offline for long periods of time, don't panic :)</li>
+</ul>
+
+<h4>5th Nov 2005</h4>
+<ul>
+<li>Moved update routines off the main scripts, gives a little speed-up.</li>
+<li>Major reorganization of functions etc into libraries (touches all of the site), greatly improving code reusabalibity and probably improves speed and fixes some bugs (after I get rid of conversion created bugs).</li>
+</ul>
+
+<h4>2nd Nov 2005</h4>
+<ul>
+<li>Fixed arcane skill detection.</li>
+<li>Fixed the slowness of drop-down train costs (ie. slowness of sim in general).</li>
+<li>Society stat train drop-down show costs (hide option applies).</li>
+<li>Shows skill total cost as it used to when hide costs in drop-boxes is on.</li>
+</ul>
+
+<h4>30th Oct 2005</h4>
+<ul>
+<li>Stattrain is limited to points available, instead of constant max.</li>
+<li>Expcosts are seen in every select box, unless hide is turned on.</li>
+<li>Total exp spent shown after each guild are now padded with spaces, "verbosed".</li>
+<li>Sixth guild had wrong costs shown in skills.</li>
+<li>You can now make a copy of a reinc to another id.</li>
+<li>Nomad masteries are no longer arcane, includes masteries of bladed fury, camping, fire building and weapon handling. Costs for overtraining these are now as normal skills, not as arcane masteries.</li>
+<li>Exprate is visible as 'stat'.</li>
+</ul>
+
+<h4>29th Oct 2005</h4>
+<ul>
+<li>You can now unselect quests too.</li>
+<li>Hp and sp formulaes were slightly tuned.</li>
+<li>Hp, sp and ep-specials from other guilds are no longer "carried over" if you choose some other guild. These included spider demon bonuses, bard instruments and channeller auras.</li>
+<li>Default skill/spell sort now happens based on cost instead of alpha.</li>
+<li>Reincs are cleaned up after 180 days instead of 90 days, previous cleanup tune has worked (too) well, I can spare some more space for this.</li>
+</ul>
+
+<h4>13th Sep 2005</h4>
+<ul>
+<li>Mastery of electrical engineering had max of 60% due the updates. Thanks everyone.</li>
+</ul>
+
+<h4>10th Sep 2005</h4>
+<ul>
+<li>Mastery of weapon handling had no cost, now it has. Thanks Air.</li>
+</ul>
+
+<h4>9th Sep 2005</h4>
+<ul>
+<li>Mages create staff didn't have cost, now it does. Thanks Valkrist.</li>
+</ul>
+
+<h4>8th Sep 2005</h4>
+<ul>
+<li>Spiders and tigers were missing after update, now they're back. Thanks Nuane.</li>
+</ul>
+
+<h4>7th Sep 2005</h4>
+<ul>
+<li>As racial skills and spells were moved into racial guilds instead of automagically known skills and spells, a full guild update was run. Report any bugs to me.</li>
+</ul>
+
+<h4>21st Jun 2005</h4>
+<ul>
+<li>Last 10 levels cost about double what they used to.</li>
+</ul>
+
+<h4>19th Jun 2005</h4>
+<ul>
+<li>Some nun spells got costs.</li>
+</ul>
+
+<h4>25th May 2005</h4>
+<ul>
+<li>Tiger claw's ingame cost has been tuned down in some point, fixed it now.</li>
+</ul>
+
+<h4>22nd Apr 2005</h4>
+<ul>
+<li>Civmage updated, they got 95% masteries etc.</li>
+<li>Updated reaver info some, some skills/spells missing cost previously now have costs.</li>
+</ul>
+
+<h4>20th Dec 2004</h4>
+<ul>
+<li>Asphyx mastery had a typo in its data, and it was always calculated with first type expcost. Kudos to Era for report.</li>
+</ul>
+
+<h4>9th Dec 2004</h4>
+<ul>
+<li>Skill&amp;spell help file links open in new window, so accidental clicks won't ruin your spec.</li>
+</ul>
+
+<h4>24th Nov 2004</h4>
+<ul>
+<li>Added old reinc cleanup code. More than 90 days old reincs will be deleted eventually. Loading reinc up and re-saving it resets timer. All the 12k reincs take up nice space that I cannot afford, so old ones must go (their ID is forgotten most likely anyways).</li>
+</ul>
+
+<h4>22nd Nov 2004</h4>
+<ul>
+<li>Throw weight cost was corrupted on last update, fixed now.</li>
+<li>Fixed two arcane skills to be arcane.</li>
+</ul>
+
+<h4>16th Nov 2004</h4>
+<ul>
+<li>Mage type costs were applied to other guild costs as well, fixed.</li>
+</ul>
+
+<h4>13th Nov 2004</h4>
+<ul>
+<li>Spider costs were somewhat too high due bad info (ent fucked up costs). Now correct.</li>
+</ul>
+
+<h4>11th Nov 2004</h4>
+<ul>
+<li>Train/study to guildmax/racialax/xx% was fixed to show the corrent % instead of the maxall choise all times (previously it was "overwritten" until next calculation, then it showed the combination of maxall and previous correctly).</li>
+</ul>
+
+<h4>10th Nov 2004</h4>
+<ul>
+<li>Skills/spells can be sorted either alphabetically (the traditional reincsim style) or by base cost (in-game style). Default is traditional by alpha.</li>
+<li>Spider demon SP- and EP-bonuses were mixed, now they're correct.</li>
+<li>Setting more levels than guild really has now correctly counts the gold costs.</li>
+<li>Only five first guilds were calculated to gold costs, fixed.</li>
+<li>Improved performance some.</li>
+<li>Added ability to disable links to bat.org skill/spell helps.</li>
+<li>First time loading "old" -saved reinc with new system didn't show the guilds until first Calculate, fixed.</li>
+</ul>
+
+<h4>8th Nov 2004</h4>
+<ul>
+<li>Added Mage guildspecial, meaning types. A tad off, but close. Normal bugs effect these too, like a-tad-off-basecosts etc.</li>
+<li>Added 'Train/study all to... xx%' feature.</li>
+<li>Added abilities.</li>
+<li>Added textfield for storing other than stat boons (not calculated anywhere, just storage).</li>
+<li>Stat training got a tad more expensive, was still a bit too cheap.</li>
+<li>Made all skills and spells link back to bat.org for helps.</li>
+<li>Added Bards Instrument guildspecial.</li>
+<li>Added Channellers Aura guildspecial.</li>
+<li>Added Runemages Shelf guildspecial.</li>
+<li>Added Spiders Demon guildspecial.</li>
+<li>Added alignment selection (doesn't count for anything yet).</li>
+<li>Tweaked dimishing hp/con returns little, barely mentionable.</li>
+</ul>
+
+<h4>2nd Nov 2004</h4>
+<ul>
+<li>Fixed ep formulae over 400ep... again.</li>
+<li>Fixed society costs, they're now 100% precise (thanks to Favorit who fixed the society 'cost' command).</li>
+<li>Tuned some combos how they gain hp/sp max.</li>
+<li>Many race got raceguild bonuses installed.</li>
+<li>Two guilds got their guild bonuses revised.</li>
+<li>Tuned spmax some.</li>
+<li>Tool description, fixlist and buglist are hideable.</li>
+</ul>
+
+<h4>13th Aug 2004</h4>
+<ul>
+<li>Fixed ep formulae over 400ep.</li>
+<li>Tuned sp down a tad.</li>
+<li>Training points got fixed to reality. They went up some 5%.</li>
+</ul>
+
+<h4>12th Aug 2004</h4>
+<ul>
+<li>Fixed catfolk racial guild bonuses.</li>
+</ul>
+
+<h4>8th Aug 2004</h4>
+<ul>
+<li>Some reaver stuff didn't have cost, fixed.</li>
+</ul>
+
+<h4>5th Aug 2004</h4>
+<ul>
+<li>Templars got 7con too little, fixed. Thanks Yehat.</li>
+<li>Righterousness and holy warface made arcane.</li>
+<li>Fixed Reaver guild bonuses. Less con, more str.</li>
+</ul>
+
+<h4>4th Aug 2004</h4>
+<ul>
+<li>Training points formulae was tuned a tad.</li>
+<li>Melody of the misadventurer got cost.</li>
+</ul>
+
+<h4>30th Jul 2004</h4>
+<ul>
+<li>Bloodbath isn't a quest anymore.</li>
+<li>Fixed tigers getting 100% clw at first level, correct is 1%.</li>
+<li>Fixed throw weight cost, as it was modified.</li>
+<li>Spiritual conduct made arcane.</li>
+<li>Spmaxes for certain races having low sp/stat were tuned closer (drow, elf, thrik, duck, vampire, kobold, sprite), for now.</li>
+</ul>
+
+<h4>26th Jul 2004</h4>
+<ul>
+<li>Fixed spmax again, tune was overshot at first try. Decimals, pfft.</li>
+</ul>
+
+<h4>15th Jul 2004</h4>
+<ul>
+<li>Spmax formula was tweaked a tad to make it more precise. Since gathering every races sp/int and sp/wis would be extremely hard, I put in a generic suggestion. Usually races with high (base) int/wis tend to get more sp from their int/wis than races with low. There is exceptions too, like elves, who tend to get bad rate anyways. Report if this drifts numbers away from the real ones even more than pretune.</li>
+<li>All guilds (except tiger/spider) were revised from bat-site info. Many, many guilds have got some new skill/spell or requirements or tunes since the last upgrade.</li>
+<li>Knights were added. They might be a tad buggy tho. Report me 0 cost skills.</li>
+<li>ReincSim is now using more data straightly from the Raceinfo, instead of duplicate entries.</li>
+</ul>
+
+<h4>15th Jun 2004</h4>
+<ul>
+<li>Added discussion board to my site, go register! (Sorry, I won't allow guests to post, that has always sucked!)</li>
+<li>Added sixth possible guild, civilized bg combos easily have 6 different guilds in single reinc.</li>
+<li>Modified the way changelogs are displayed, hopefully this one works better for everyone.</li>
+<li>Fixed diminishing spmax, it was coded poorly.</li>
+</ul>
+
+<h4>12th Jun 2004</h4>
+<ul>
+<li>Fixed hp-formula from con-based to hp-based (see last tune note).</li>
+<li>Mountaineering had no cost, added.</li>
+</ul>
+
+<h4>17th May 2004</h4>
+<ul>
+<li>Hybrids got tunepoled and con was made same as int/wis, diminishing that is. Its closer, but didn't spent too much time on it, since Gore promised more tunes.</li>
+<li>Added spmax bonuses on 300 and 350 int/wis.</li>
+</ul>
+
+<h4>20th April 2004</h4>
+<ul>
+<li>Some conjurer and channellers spells were broken for unknown reason, fixed.</li>
+<li>Pick locks didn't have a expcost, fixed.</li>
+</ul>
+
+<h4>12th April 2004</h4>
+<ul>
+<li>Hp-calculator added, SP/EP coming later when I got time.</li>
+<li>Fixed couple skills and spells having 0 cost.</li>
+<li>Added Sp/Ep-calculators, Sps might be off if booned / hybrid reinc.</li>
+</ul>
+
+<h4>10th April 2004</h4>
+<ul>
+<li>Fixed stattraining saving at racemax.</li>
+</ul>
+
+<h4>8th April 2004</h4>
+<ul>
+<li>Fixed stattraining saving, they should now save properly.</li>
+<li>Added Gold cost calculator as well. It should handle free joining levels, and single level cap.</li>
+<li>Completely recoded the way expcosts are calculated, so they might be wrong, report bigger mistakes (more than 15% off).</li>
+<li>All races now have CORRECT stattraining racemaxes.</li>
+<li>Stattraining is now less than 2% off with your main stats (ie int for thrikhren), but too cheap on minor stats (ie con for thrikhren).</li>
+</ul>
+
+<h4>5th April 2004</h4>
+<ul>
+<li>All races now have stattraining racemaxes.</li>
+<li>Added the new priest skill (Spiritual conduct) and the new navigator spells (Rune of warding, goto ship).</li>
+<!--
+<li>Added magetype costs and runemage shelf specials. Magetypes might need tuning.</li>
+-->
+</ul>
+
+
+<h4>3rd April 2004</h4>
+<ul>
+<li style="font-weight: bold;">In two months, 100k pageloads and 1947 saved reincs. Guess you people like this toy? :D</li>
+<li>Sabres didn't have guild bonuses at all, added them.</li>
+<li>Added Beta-quality training points calculator now, it should give better accurary than old 'formulae'. Bitchy thing to code :( You need to re-calculate your stats now, they're fucked the old way.</li>
+<li>Burrowing and tinkering now cost something, they were missing basecosts.</li>
+<li>Tweaked expcosts a tad, they should be a closer now, even they weren't too bad originally.</li>
+<li>Removed 'Generic'-bg option, which should't have shown in first place.</li>
+<li>Train-all is now possible to racialmax, or 100. Maybe sometime I'll make training all to any% possible.</li>
+<li>Finally managed to fix double values on lists?</li>
+</ul>
+
+
+<h4>13th March 2004</h4>
+<ul>
+<li>Fixed missing wolfman racial guild skills.</li>
+<li>Expcosts were tweaked upwards a tad. Previously costs had been like 5% down, now they should be closer.</li>
+<li>Some more tweaks for percent lists, which previously might've shown double values etc.</li>
+</ul>
+
+
+<h4>4th March 2004</h4>
+<ul>
+<li>Fixed missing squire skills.</li>
+<li>Fixed broken links to changelogs.</li>
+</ul>
+
+
+<h4>3rd March 2004</h4>
+<ul>
+<li>Fixed missing merchant skills.</li>
+<li>Fixed tigers / spiders requirements, they were a tad too high.</li>
+<li>Expcost should be real close now.</li>
+<li>Fixed skillmax showing on all times at train value list.</li>
+<li>Fixed SS max, its 40 now as it should be.</li>
+<li>Fixed 50%+bane boon on Improved skills to be 10 instead of 9.</li>
+<li>Tweaked stat calculations, dunno if they're any closer.</li>
+<li>Fixed 'Stats only' button, which weren't working.</li>
+<li>Added Flow of magic to arcane skills, making it a lot cheaper upper end.</li>
+</ul>
+
+
+<h4>20th Feb 2004</h4>
+<ul>
+<li>Tweaked exp calculations a lot. Theyre closer now, but still off some.</li>
+</ul>
+
+
+<h4>19th Feb 2004</h4>
+<ul>
+<li>Training to 100 is enabled, and penalties are fixed now.</li>
+<li>Training point formula is fixed (still its shitty and incorrect as whole.)</li>
+<li>Guilds are updated to reflect the new skill/spell basecosts. If some skill/spell shows as 0 cost and you've taken some (and its not taken in earlier guild), report it, its missing info.</li>
+</ul>
+
+
+<h4>9th Feb 2004</h4>
+<ul>
+<li>More drastic changes, now new training point system was introduced. This causes stat calculator being rather out-of-date. This will get fixed when tune is closer to being final.</li>
+<li>Boons were also tuned, now all stat boons are worth 40. Dunno if Super Char. is down to 8 or still at 12/stat. Eight new boons were introduced, along with spr, epr, hpr, dam, avoid boons. Dunno how effective they are, but they're not really needed in ReincSim.</li>
+</ul>
+
+
+<h4>6th Feb 2004</h4>
+<ul>
+<li>Moved quests lower to show stats upper and close to summary screen.</li>
+<li>Modified the printable CSS to hide non-informative things and show everything with little smaller font.</li>
+<li>Really fixed the None-guilds showing up problem. Persistent :(</li>
+</ul>
+
+
+<h4>2nd Feb 2004</h4>
+<ul>
+<li>Added alpha quality 'View reinc' ability. It is still incomplete.</li>
+</ul>
+
+
+<h4>1st Feb 2004</h4>
+<ul>
+<li>Level quests can now be deselected.</li>
+<li>None guilds do not appear anymore.</li>
+</ul>
+
+
+<h4>30th Jan 2004</h4>
+<ul>
+<li>Due Zithromax's help, rebirth races now have skill/spellmaxes and -costs. A HUGE thank you to Zithromax.</li>
+</ul>
+
+
+<h4>28th Jan 2004</h4>
+<ul>
+<li>Two levels quests at same level now cut off expcost correctly.</li>
+<li>Added 'Select all quests' -button.</li>
+<li>Re-arranged the guild list, now its alphabetical instead of by background.</li>
+<li>Some of the races now have racial guild bonuses added, most of them don't. This causes slight issues. Removed also a stat scaler, since it was wrong, now stats will be lower than they are. Figuring out the right way.</li>
+</ul>
+
+
+<h4>27th Jan 2004</h4>
+<ul>
+<li>Level quests added.</li>
+<li>Skill/spellmax limits added, therefore also skill/spellmax boons added.</li>
+<li>Added checkbox to disable guilds, if you only wanna do stat calculations.</li>
+</ul>
+
+<h4>26th Jan 2004</h4>
+<ul>
+<li>'Train/study everything to max' -buttons work now.</li>
+<li>Skill/spell maxcosts now fixed, they were broken due previous SS fix.</li>
+<li>Added possibility to take Banes too.</li>
+<li>Re-coded the saving of reinc. Instead of autosaving you now need to click the <i>Save</i> button to save it.</li>
+<li>...and MUCH more little details fixed!</li>
+</ul>
+
+
+<h4>25th Jan 2004</h4>
+<ul>
+<li>Added lots of guild informations, so now nuns, merchants, reavers, squires, beastmasters, cavaliers should work at least adequately.</li>
+<li>Societys costs are now 98% accurate, and max cost is fixed.</li>
+<li>Reinc Simulator is now open for public!</li>
+</ul>
+
+</div>

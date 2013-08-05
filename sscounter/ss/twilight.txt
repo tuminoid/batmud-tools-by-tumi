@@ -1,0 +1,15 @@
+name: Twilight Inner Circle
+gms: Jellybelly, Bela, Mardus, Nuane, Mardraum, Dragonfyre, Anavrin, Shadizar, Kaarmetuli and Enochian
+maxlvl: 12
+1: con,skillmax,dex
+2: skillmax,con,dex
+3: skillmax,con,dex
+4: skillmax,con,dex
+5: con,dex,skillmax
+6: skillmax,con,dex
+7: skillmax,dex,con
+8: dex,con,skillmax
+9: con,dex,skillmax
+10: con,dex,skillmax
+11: con,skillmax,dex
+12: skillmax,con,dex

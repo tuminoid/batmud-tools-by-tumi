@@ -1,0 +1,58 @@
+Cromagnon
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  94 | 100 |    17801 |
+| Push                          |  54 | 100 |      565 |
+| Tinning                       |   0 | 100 |        5 |
+| Compare                       |  67 | 100 |     2921 |
+| Controlled panic              |   0 |  70 |        8 |
+| First aid                     |  80 |  50 |    (n/a) |
+| Alertness                     |  99 |  70 |    (n/a) |
+| Bash                          |  78 | 100 |    14992 |
+| Battlecry                     |  91 | 100 |    45964 |
+| Swim                          |  73 | 100 |     9743 |
+| Torch creation                |  44 |  25 |    (n/a) |
+| Fresh pants                   |   0 | 100 |       27 |
+| Hiking                        |  65 |  25 |    (n/a) |
+| Kick                          |  61 | 100 |     5824 |
+| Throw weight                  |  99 |  80 |    (n/a) |
+| Switch weapon                 |  40 |  70 |     1092 |
+| Attack                        |  91 | 100 |   130008 |
+| Lesser taunt                  |   0 | 100 |       50 |
+| Short blades                  |  33 | 100 |     1188 |
+| Brawling                      |  31 |  75 |     1242 |
+| Polearms                      |  34 | 100 |     1900 |
+| Negate offhand penalty        |  90 |  70 |    (n/a) |
+| Shield bash                   |  73 | 100 |    58856 |
+| Stab                          |   0 | 100 |      115 |
+| Axes                          |  85 |  70 |    (n/a) |
+| Impale                        |   0 | 100 |      143 |
+| Bludgeons                     |  88 |  70 |    (n/a) |
+| Rescue                        |  48 | 100 |     9873 |
+| Grapple                       |  39 |  20 |    (n/a) |
+| Cleave                        | 100 |  65 |    (n/a) |
+| Long blades                   |  37 | 100 |     4447 |
+| Pound                         |  26 |  65 |     1838 |
+| Stun                          |  69 | 100 |    74852 |
+| Riposte                       |  76 | 100 |   153603 |
+| Slash                         |   0 | 100 |      218 |
+| Combat damage analysis        |  52 | 100 |    27250 |
+| Leadership                    |   0 | 100 |      388 |
+| Discipline                    |  63 |  50 |    (n/a) |
+| Pierce                        |   0 | 100 |      482 |
+| Mangle                        |   0 | 100 |      526 |
+| Reaving                       | 100 |  70 |    (n/a) |
+| Enhance criticals             |  56 |  65 |    76480 |
+| Pulverize                     |   4 |  70 |      864 |
+| Decapitate                    |   0 | 100 |      654 |
+| Parry                         | 100 | 100 |    (n/a) |
+| Tumbling attack               |  59 |  60 |   155079 |
+| Stunned maneuvers             |  64 | 100 |   229999 |
+| Combat sense                  | 100 | 100 |    (n/a) |
+| Dodge                         | 100 | 100 |    (n/a) |
+| Protection by sacrifice       |   0 | 100 |     1614 |
+| Ventriloquism                 |   0 | 100 |     2187 |
+`------------------------------------------------------'

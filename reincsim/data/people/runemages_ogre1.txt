@@ -1,0 +1,50 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  70 |  96 |  50 |    (n/a) |
+| Essence eye                   |   0 |  96 | 100 |       13 |
+| Zapping                       |   0 |  96 |  70 |       17 |
+| Mining                        |   0 |  96 |  75 |       25 |
+| Plant lore                    |   0 |  96 | 100 |       29 |
+| Mana control                  |   0 |  96 | 100 |       39 |
+| Cast acid                     |   0 |  96 |  85 |       49 |
+| Cast asphyxiation             |   0 |  96 |  85 |       49 |
+| Cast cold                     |   0 |  96 |  85 |       49 |
+| Cast control                  |   0 |  96 |  85 |       49 |
+| Cast electricity              |   0 |  96 |  85 |       49 |
+| Cast fire                     |   0 |  96 |  85 |       49 |
+| Cast generic                  |   0 |  96 | 100 |       49 |
+| Cast heal                     |   0 |  96 |  60 |       49 |
+| Cast information              |   0 |  96 |  85 |       49 |
+| Cast magical                  |   0 |  96 |  85 |       49 |
+| Cast poison                   |   0 |  96 |  85 |       49 |
+| Cast protection               |   0 |  96 |  85 |       49 |
+| Cast special                  |   0 |  96 | 100 |       49 |
+| Cast teleportation            |   0 |  96 |  85 |       49 |
+| Cast transformation           |   0 |  96 |  85 |       49 |
+| Amalgamate                    |   0 |  96 |  50 |       58 |
+| Attack                        |  56 |  96 |  50 |    (n/a) |
+| Masonry                       |   0 |  96 |  25 |       61 |
+| Refining                      |   0 |  96 |  50 |       70 |
+| Gem cutting                   |   0 |  96 |  20 |       86 |
+| Knowledge of asphyxiation     |   0 |  96 |  50 |      105 |
+| Knowledge of magic lore       |   0 |  96 |  50 |      105 |
+| Knowledge of toxicology       |   0 |  96 |  50 |      105 |
+| Mastery of arctic powers      |   0 |  96 |  50 |      105 |
+| Mastery of control            |   0 |  96 |  50 |      105 |
+| Theory of corrosion           |   0 |  96 |  50 |      105 |
+| Theory of electrical engineering|   0 |  96 |  50 |      105 |
+| Theory of pyromania           |   0 |  96 |  50 |      105 |
+| Runescribing                  |   0 |  96 | 100 |      108 |
+| Runic research                |   0 |  96 | 100 |      108 |
+| Craft runestone               |   0 |  96 | 100 |      113 |
+| Quick chant                   |   0 |  96 |  90 |      113 |
+| Analysis of magic lore        |   0 |  96 |  90 |      138 |
+| Aether flow                   |   0 |  96 | 100 |      155 |
+| Method of runemagery          |   0 |  96 | 100 |      155 |
+| Conceal spellcasting          |   0 |  96 |  70 |      176 |
+| Damage criticality            |   0 |  96 |  65 |      190 |
+`-----------------------------------------------------------'

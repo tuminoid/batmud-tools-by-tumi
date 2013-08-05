@@ -1,0 +1,72 @@
+Vampire
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  82 |  82 |    (n/a) |
+| Essence eye                   |  82 |  82 |    (n/a) |
+| First aid                     |  65 |  82 |     2499 |
+| Burial ceremony               |   0 |  82 |       10 |
+| Tempt                         |  50 |  82 |     1563 |
+| Baptize                       |  50 |  82 |     1692 |
+| Bless                         |  82 |  82 |    (n/a) |
+| Mana control                  |  75 |  82 |    14602 |
+| Cast generic                  |  85 | 100 |    46856 |
+| Cast heal                     | 100 | 100 |    (n/a) |
+| Cast help                     | 100 | 100 |    (n/a) |
+| Cast special                  |  80 | 100 |    30453 |
+| Cast teleportation            |  57 | 100 |     4195 |
+| Attack                        |  50 |  30 |    (n/a) |
+| Ceremony                      |  70 |  82 |    21634 |
+| Mastery of assistance         |  65 | 100 |    29341 |
+| Mastery of medicine           |  70 | 100 |    45145 |
+| Bludgeons                     |  50 |  30 |    (n/a) |
+| Quick chant                   |  80 | 100 |   125400 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Sex change                    |  60 |  98 |      633 |
+| Word of recall                |  80 |  98 |     5972 |
+| Blessing of tarmalen          |  70 |  98 |     3419 |
+| Cure light wounds             |  80 |  98 |     8095 |
+| Curse of tarmalen             |   0 |  98 |        7 |
+| Detect alignment              |  50 |  98 |      756 |
+| Life link                     |   0 |  98 |        9 |
+| Satiate person                |  55 |  98 |     1163 |
+| Water walking                 |  90 |  98 |    23780 |
+| Light                         |   0 |  98 |       10 |
+| Minor party heal              |  80 |  98 |    13615 |
+| Create food                   |  50 |  98 |     1504 |
+| Remove scar                   |  60 |  98 |     3563 |
+| Restore                       |  60 |  98 |     3563 |
+| Major party heal              |  85 |  98 |    35231 |
+| Natural renewal               |   0 |  98 |       22 |
+| See the light                 |  50 |  98 |     1725 |
+| Moon sense                    |   0 |  98 |       24 |
+| Deaths door                   |  84 |  98 |    38210 |
+| Summon                        |  60 |  98 |     4829 |
+| Detect misery                 |   0 |  98 |       27 |
+| True party heal               |   0 |  98 |       30 |
+| Cure player                   |  50 |  98 |     2530 |
+| Cure serious wounds           |  80 |  98 |    33588 |
+| Guardian angel                |  44 |  98 |     1508 |
+| Remove poison                 |  60 |  98 |     5993 |
+| Soul hold                     |  44 |  98 |     1508 |
+| Raise dead                    |  60 |  98 |     6870 |
+| Unpain                        |  62 |  98 |     9408 |
+| Heal all                      |  50 |  98 |     3684 |
+| Unstun                        |  75 |  98 |    31780 |
+| Resurrect                     |  70 |  98 |    21123 |
+| Cure critical wounds          |  83 |  98 |    73154 |
+| Minor heal                    |  80 |  98 |    56488 |
+| Major heal                    |  80 |  98 |    66780 |
+| Holy way                      |  44 |  98 |     3222 |
+| Lessen poison                 |  50 |  98 |     5770 |
+| True heal                     |  65 |  98 |    21019 |
+| Enhanced vitality             |   0 |  98 |      102 |
+| New body                      |  50 |  98 |     8272 |
+`------------------------------------------------------'

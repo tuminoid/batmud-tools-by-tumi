@@ -1,0 +1,72 @@
+                                ,--------------------------
+                                |Percentiles      | Adv.
+,-------------------------------+-----------------+--------
+| Skills available at level 30  | Cur | Rac | Max | Exp
+|===============================|=====|=====|=====|========
+| Consider                      |  48 |  92 | 100 |     1214
+| Essence eye                   |   0 |  92 | 100 |       14
+| Burial ceremony               |   0 |  92 | 100 |       24
+| First aid                     |   0 |  92 | 100 |       24
+| Tempt                         |   0 |  92 | 100 |       41
+| Baptize                       |  50 |  92 | 100 |     4830
+| Bless                         |  30 |  92 | 100 |     1084
+| Mana control                  |  45 |  92 | 100 |     3432
+| Cast generic                  |  85 |  92 | 100 |    53366
+| Cast heal                     | 100 |  92 | 100 |    (n/a)
+| Cast help                     |  80 |  92 | 100 |    40021
+| Cast special                  |  80 |  92 | 100 |    40021
+| Cast teleportation            |  80 |  92 | 100 |    40021
+| Attack                        |  75 |  92 |  30 |    (n/a)
+| Ceremony                      |  40 |  92 | 100 |     4422
+| Mastery of assistance         |  62 |  92 | 100 |    33874
+| Mastery of medicine           |  62 |  92 | 100 |    33874
+| Bludgeons                     |   0 |  92 |  30 |      124
+| Quick chant                   |  39 |  92 | 100 |     6377
+`----------------------------------------------------------
+                                ,--------------------------
+                                |Percentiles      | Adv.
+,-------------------------------+-----------------+--------
+| Spells available at level 30  | Cur | Rac | Max | Exp
+|===============================|=====|=====|=====|========
+| Sex change                    |   0 |  86 | 100 |       14
+| Word of recall                |   0 |  86 | 100 |       19
+| Blessing of tarmalen          |  70 |  86 | 100 |     7704
+| Cure light wounds             |  65 |  86 | 100 |     5856
+| Curse of tarmalen             |   0 |  86 | 100 |       24
+| Detect alignment              |   0 |  86 | 100 |       24
+| Life link                     |   0 |  86 | 100 |       24
+| Satiate person                |  70 |  86 | 100 |     7704
+| Water walking                 |  60 |  86 | 100 |     4418
+| Light                         |   0 |  86 | 100 |       29
+| Minor party heal              |  86 |  86 | 100 |    60075
+| Create food                   |   0 |  86 | 100 |       44
+| Remove scar                   |  70 |  86 | 100 |    16812
+| Restore                       |  70 |  86 | 100 |    16812
+| Major party heal              |   0 |  86 | 100 |       48
+| Natural renewal               |   0 |  86 | 100 |       48
+| See the light                 |   0 |  86 | 100 |       48
+| Moon sense                    |   0 |  86 | 100 |       52
+| Deaths door                   |  70 |  86 | 100 |    22137
+| Summon                        |  70 |  86 | 100 |    22137
+| Detect misery                 |   0 |  86 | 100 |       59
+| True party heal               |   0 |  86 |  -  |    (n/a)
+| Cure player                   |  50 |  86 | 100 |     7401
+| Cure serious wounds           |  80 |  86 | 100 |    50169
+| Guardian angel                |  26 |  86 | 100 |     1065
+| Remove poison                 |  70 |  86 | 100 |    27405
+| Soul hold                     |   0 |  86 | 100 |       65
+| Raise dead                    |  70 |  86 | 100 |    30892
+| Heal all                      |   0 |  86 | 100 |       84
+| Unstun                        |  80 |  86 | 100 |    70501
+| Resurrect                     |  70 |  86 | 100 |    39535
+| Cure critical wounds          |  85 |  86 | 100 |   109716
+| Minor heal                    |  80 |  86 | 100 |    80739
+| Major heal                    |  50 |  86 | 100 |    12079
+| Holy way                      |  52 |  86 | 100 |    14435
+| Lessen poison                 |  50 |  86 | 100 |    12827
+| True heal                     |   0 |  86 |  55 |      108
+| Unpain                        |  70 |  86 | 100 |    51443
+| Enhanced vitality             |   0 |  86 | 100 |      121
+| New body                      |   0 |  86 | 100 |      127
+`----------------------------------------------------------
+ -''

@@ -1,0 +1,1506 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                     [fonter.php?str=The+Humble+Druids]
+
+                             The Humble Druids
+
+   Command: druids
+   Creator: [22]Lanfear
+   Maximum level: 30
+   Description:
+   Druids are seekers of justice, and nature's defenders. They protect
+   the
+   environment with a fierce passion. Their ability to use natures given
+   components to fight injustices make them formidable opponents in both
+   physical and mental disciplines.
+
+                                New Member
+     Must pass 1 out of the following:
+       * Alignment must be neutral
+       * Alignment must be good
+                 Background must be good_religious
+                 May train skill [23]Attack to 20%
+                 May train skill [24]Bludgeons to 20%
+                 May train skill [25]Cast control to 10%
+                 May train skill [26]Cast help to 5%
+                 May train skill [27]Cast information to 5%
+                 May train skill [28]Cast generic to 30%
+                 May train skill [29]Cast runes to 20%
+                 May train skill [30]Cast special to 10%
+                 May train skill [31]Consider to 20%
+                 May train skill [32]Fire building to 20%
+                 May train skill [33]Plant lore to 20%
+                 May train skill [34]Torch creation to 20%
+                 May study spell [35]Detect alignment to 10%
+                 You receive the benefits of the Druids.
+
+                                 Level 2
+                 May train skill [36]Attack to 25%
+                 May train skill [37]Bludgeons to 25%
+                 May train skill [38]Cast control to 20%
+                 May train skill [39]Cast help to 10%
+                 May train skill [40]Cast information to 10%
+                 May train skill [41]Cast generic to 60%
+                 May train skill [42]Cast runes to 40%
+                 May train skill [43]Cast special to 20%
+                 May train skill [44]Ceremony to 20%
+                 May train skill [45]Consider to 30%
+                 May train skill [46]Essence eye to 20%
+                 May train skill [47]Fire building to 30%
+                 May train skill [48]Plant lore to 40%
+                 May train skill [49]Mana control to 10%
+                 May train skill [50]Torch creation to 40%
+                 May study spell [51]Charge staff to 10%
+                 May study spell [52]Detect alignment to 20%
+
+                                  Level 3
+              Has trained skill [53]Cast generic to at least 50%
+              May train skill [54]Attack to 30%
+              May train skill [55]Bludgeons to 30%
+              May train skill [56]Cast control to 30%
+              May train skill [57]Cast help to 15%
+              May train skill [58]Cast information to 15%
+              May train skill [59]Cast generic to racial maximum
+              May train skill [60]Cast runes to 60%
+              May train skill [61]Cast special to 30%
+              May train skill [62]Ceremony to 40%
+              May train skill [63]Consider to 40%
+              May train skill [64]Essence eye to 40%
+              May train skill [65]Fire building to 40%
+              May train skill [66]First aid to 20%
+              May train skill [67]Plant lore to 60%
+              May train skill [68]Mana control to 20%
+              May train skill [69]Stargazing to 10%
+              May train skill [70]Torch creation to 60%
+              May study spell [71]Charge staff to 20%
+              May study spell [72]Detect alignment to 30%
+              May study spell [73]Detect poison to 10%
+
+                                  Level 4
+             Has trained skill [74]Cast runes to at least 50%
+             Has trained skill [75]Plant lore to at least 50%
+             May train skill [76]Attack to 35%
+             May train skill [77]Bludgeons to 35%
+             May train skill [78]Cast control to 40%
+             May train skill [79]Cast help to 20%
+             May train skill [80]Cast information to 20%
+             May train skill [81]Cast runes to racial maximum
+             May train skill [82]Cast special to 40%
+             May train skill [83]Cast transformation to 10%
+             May train skill [84]Ceremony to 60%
+             May train skill [85]Consider to 50%
+             May train skill [86]Essence eye to 60%
+             May train skill [87]Fire building to 50%
+             May train skill [88]First aid to 40%
+             May train skill [89]Make bandage to 30%
+             May train skill [90]Plant lore to racial maximum
+             May train skill [91]Mana control to 30%
+             May train skill [92]Stargazing to 20%
+             May train skill [93]Torch creation to racial maximum
+             May study spell [94]Charge staff to 30%
+             May study spell [95]Detect alignment to 40%
+             May study spell [96]Detect poison to 20%
+             May study spell [97]Drying wind to 5%
+             May study spell [98]Gem fire to 10%
+             May study spell [99]Rain to 5%
+             May study spell [100]Shapechange to 10%
+
+                                  Level 5
+              May train skill [101]Attack to 40%
+              May train skill [102]Bless to 10%
+              May train skill [103]Bludgeons to 40%
+              May train skill [104]Cast control to 50%
+              May train skill [105]Cast help to 25%
+              May train skill [106]Cast information to 25%
+              May train skill [107]Cast special to 50%
+              May train skill [108]Cast transformation to 20%
+              May train skill [109]Ceremony to racial maximum
+              May train skill [110]Consider to 60%
+              May train skill [111]Essence eye to racial maximum
+              May train skill [112]Fire building to 55%
+              May train skill [113]First aid to 60%
+              May train skill [114]Fresh pants to 20%
+              May train skill [115]Make bandage to 60%
+              May train skill [116]Mana control to 40%
+              May train skill [117]Stargazing to 30%
+              May study spell [118]Charge staff to 40%
+              May study spell [119]Detect alignment to 50%
+              May study spell [120]Detect poison to 30%
+              May study spell [121]Drying wind to 10%
+              May study spell [122]Gem fire to 20%
+              May study spell [123]Rain to 10%
+              May study spell [124]Shapechange to 20%
+
+                                  Level 6
+               May train skill [125]Attack to 45%
+               May train skill [126]Bless to 20%
+               May train skill [127]Bludgeons to 45%
+               May train skill [128]Cast control to 60%
+               May train skill [129]Cast help to 30%
+               May train skill [130]Cast information to 30%
+               May train skill [131]Cast special to 60%
+               May train skill [132]Cast transformation to 30%
+               May train skill [133]Consider to 70%
+               May train skill [134]First aid to racial maximum
+               May train skill [135]Fresh pants to 40%
+               May train skill [136]Mana control to 50%
+               May train skill [137]Make bandage to 100%
+               May train skill [138]Stargazing to 40%
+               May train skill [139]Baptize to 10%
+               May study spell [140]Charge staff to 50%
+               May study spell [141]Detect alignment to 60%
+               May study spell [142]Detect poison to 40%
+               May study spell [143]Drying wind to 15%
+               May study spell [144]Gem fire to 30%
+               May study spell [145]Rain to 15%
+               May study spell [146]Shapechange to 30%
+
+                                 Level 7
+               May train skill [147]Attack to 50%
+               May train skill [148]Bless to 30%
+               May train skill [149]Bludgeons to 50%
+               May train skill [150]Cast control to 70%
+               May train skill [151]Cast help to 35%
+               May train skill [152]Cast information to 35%
+               May train skill [153]Cast special to 70%
+               May train skill [154]Cast transformation to 40%
+               May train skill [155]Consider to racial maximum
+               May train skill [156]Fresh pants to 60%
+               May train skill [157]Hiking to 10%
+               May train skill [158]Mana control to 60%
+               May train skill [159]Stargazing to 50%
+               May train skill [160]Baptize to 20%
+               May study spell [161]Charge staff to 60%
+               May study spell [162]Detect alignment to 70%
+               May study spell [163]Detect poison to 50%
+               May study spell [164]Drying wind to 20%
+               May study spell [165]Earth skin to 10%
+               May study spell [166]Gem fire to 40%
+               May study spell [167]Moon sense to 10%
+               May study spell [168]Rain to 20%
+               May study spell [169]Runic heal to 5%
+               May study spell [170]Shapechange to 40%
+
+                                 Level 8
+           May train skill [171]Attack to 55%
+           May train skill [172]Bless to 40%
+           May train skill [173]Bludgeons to 55%
+           May train skill [174]Camping to 5%
+           May train skill [175]Cast control to racial maximum
+           May train skill [176]Cast help to 40%
+           May train skill [177]Cast information to 40%
+           May train skill [178]Cast special to racial maximum
+           May train skill [179]Cast teleportation to 5%
+           May train skill [180]Cast transformation to 50%
+           May train skill [181]Fresh pants to racial maximum
+           May train skill [182]Hiking to 20%
+           May train skill [183]Mana control to 70%
+           May train skill [184]Stargazing to 60%
+           May train skill [185]Swim to 10%
+           May train skill [186]Baptize to 40%
+           May study spell [187]Charge staff to 70%
+           May study spell [188]Detect alignment to racial maximum
+           May study spell [189]Detect poison to 60%
+           May study spell [190]Drying wind to 25%
+           May study spell [191]Earth skin to 20%
+           May study spell [192]Gem fire to 50%
+           May study spell [193]Moon sense to 20%
+           May study spell [194]Rain to 25%
+           May study spell [195]Restore to 10%
+           May study spell [196]Runic heal to 10%
+           May study spell [197]Shapechange to 50%
+
+                                 Level 9
+             Has studied spell [198]Charge staff to at least 50%
+             May train skill [199]Attack to 60%
+             May train skill [200]Bless to 50%
+             May train skill [201]Bludgeons to 60%
+             May train skill [202]Camping to 10%
+             May train skill [203]Cast help to 45%
+             May train skill [204]Cast information to 45%
+             May train skill [205]Cast teleportation to 10%
+             May train skill [206]Cast transformation to 60%
+             May train skill [207]Hear noises to 5%
+             May train skill [208]Hiking to 30%
+             May train skill [209]Location memory to 5%
+             May train skill [210]Stargazing to 70%
+             May train skill [211]Swim to 20%
+             May train skill [212]Baptize to racial maximum
+             May study spell [213]Aura detection to 10%
+             May study spell [214]Call pigeon to 10%
+             May study spell [215]Charge staff to racial maximum
+             May study spell [216]Detect poison to 70%
+             May study spell [217]Drying wind to 30%
+             May study spell [218]Earth skin to 30%
+             May study spell [219]Gem fire to 60%
+             May study spell [220]Moon sense to 30%
+             May study spell [221]Rain to 30%
+             May study spell [222]Restore to 20%
+             May study spell [223]Runic heal to 15%
+             May study spell [224]Shapechange to 60%
+             May study spell [225]Word of recall to 10%
+
+                                 Level 10
+             Has studied spell [226]Detect poison to at least 50%
+             May train skill [227]Attack to 65%
+             May train skill [228]Bless to 60%
+             May train skill [229]Bludgeons to 65%
+             May train skill [230]Camping to 15%
+             May train skill [231]Cast help to 50%
+             May train skill [232]Cast information to 50%
+             May train skill [233]Cast teleportation to 15%
+             May train skill [234]Cast transformation to 70%
+             May train skill [235]Hear noises to 10%
+             May train skill [236]Hiking to 40%
+             May train skill [237]Location memory to 10%
+             May train skill [238]Stargazing to racial maximum
+             May train skill [239]Swim to 30%
+             May train skill [240]Tinning to 10%
+             May study spell [241]Aura detection to 20%
+             May study spell [242]Call pigeon to 20%
+             May study spell [243]Create mud to 10%
+             May study spell [244]Detect poison to racial maximum
+             May study spell [245]Drain pool to 5%
+             May study spell [246]Drying wind to 35%
+             May study spell [247]Earth skin to 40%
+             May study spell [248]Gem fire to 70%
+             May study spell [249]Moon sense to 40%
+             May study spell [250]Rain to 35%
+             May study spell [251]Restore to 30%
+             May study spell [252]Wilderness location to 5%
+             May study spell [253]Runic heal to 20%
+             May study spell [254]Shapechange to 70%
+             May study spell [255]Word of recall to 20%
+
+                                 Level 11
+          Has trained skill [256]Cast transformation to at least 50%
+          Has studied spell [257]Gem fire to at least 50%
+          Has studied spell [258]Shapechange to at least 50%
+          May train skill [259]Attack to 70%
+          May train skill [260]Bless to 70%
+          May train skill [261]Bludgeons to 70%
+          May train skill [262]Camping to 20%
+          May train skill [263]Cast help to 55%
+          May train skill [264]Cast information to 55%
+          May train skill [265]Cast teleportation to 20%
+          May train skill [266]Cast transformation to racial maximum
+          May train skill [267]Hear noises to 15%
+          May train skill [268]Hiking to 50%
+          May train skill [269]Location memory to 15%
+          May train skill [270]Swim to 40%
+          May train skill [271]Tinning to 20%
+          May train skill [272]Track to 5%
+          May study spell [273]Aura detection to 30%
+          May study spell [274]Call pigeon to 30%
+          May study spell [275]Create mud to 20%
+          May study spell [276]Drain pool to 10%
+          May study spell [277]Drying wind to 40%
+          May study spell [278]Earth skin to 50%
+          May study spell [279]Earth power to 5%
+          May study spell [280]Gem fire to racial maximum
+          May study spell [281]Moon sense to 50%
+          May study spell [282]Rain to 40%
+          May study spell [283]Restore to 40%
+          May study spell [284]Runic heal to 25%
+          May study spell [285]Shapechange to racial maximum
+          May study spell [286]Wilderness location to 10%
+          May study spell [287]Word of recall to 30%
+
+                                 Level 12
+               Has trained skill [288]Attack to at least 50%
+               Has trained skill [289]Bludgeons to at least 50%
+               May train skill [290]Bless to racial maximum
+               May train skill [291]Camping to 25%
+               May train skill [292]Cast help to 60%
+               May train skill [293]Cast information to 60%
+               May train skill [294]Cast teleportation to 25%
+               May train skill [295]Hear noises to 20%
+               May train skill [296]Hiking to 60%
+               May train skill [297]Location memory to 20%
+               May train skill [298]Swim to 50%
+               May train skill [299]Tinning to 30%
+               May train skill [300]Track to 10%
+               May study spell [301]Aura detection to 40%
+               May study spell [302]Call pigeon to 40%
+               May study spell [303]Create mud to 30%
+               May study spell [304]Drain pool to 15%
+               May study spell [305]Drying wind to 45%
+               May study spell [306]Earth power to 10%
+               May study spell [307]Earth skin to 60%
+               May study spell [308]Moon sense to 60%
+               May study spell [309]Rain to 45%
+               May study spell [310]Restore to 50%
+               May study spell [311]Runic heal to 30%
+               May study spell [312]Star light to 10%
+               May study spell [313]Wilderness location to 15%
+               May study spell [314]Word of recall to 40%
+
+                                 Level 13
+               May train skill [315]Camping to 30%
+               May train skill [316]Cast help to 65%
+               May train skill [317]Cast information to 65%
+               May train skill [318]Cast teleportation to 30%
+               May train skill [319]Hear noises to 25%
+               May train skill [320]Hiking to 70%
+               May train skill [321]Location memory to 25%
+               May train skill [322]Swim to 60%
+               May train skill [323]Tinning to 40%
+               May train skill [324]Track to 15%
+               May study spell [325]Aura detection to 50%
+               May study spell [326]Call pigeon to 50%
+               May study spell [327]Create food to 10%
+               May study spell [328]Create mud to 40%
+               May study spell [329]Drain pool to 20%
+               May study spell [330]Drying wind to 50%
+               May study spell [331]Earth power to 15%
+               May study spell [332]Earth skin to 70%
+               May study spell [333]Good berry to 5%
+               May study spell [334]Moon sense to 70%
+               May study spell [335]Rain to 50%
+               May study spell [336]Restore to 60%
+               May study spell [337]Runic heal to 35%
+               May study spell [338]Star light to 20%
+               May study spell [339]Wilderness location to 20%
+               May study spell [340]Word of recall to 50%
+
+                                 Level 14
+              Has studied spell [341]Earth skin to at least 50%
+              May train skill [342]Camping to 35%
+              May train skill [343]Cast help to 70%
+              May train skill [344]Cast information to 70%
+              May train skill [345]Cast teleportation to 35%
+              May train skill [346]Hear noises to 30%
+              May train skill [347]Hiking to racial maximum
+              May train skill [348]Location memory to 30%
+              May train skill [349]Swim to 70%
+              May train skill [350]Tinning to 50%
+              May train skill [351]Track to 20%
+              May study spell [352]Aura detection to 60%
+              May study spell [353]Call pigeon to 60%
+              May study spell [354]Create food to 20%
+              May study spell [355]Create mud to 50%
+              May study spell [356]Drain pool to 25%
+              May study spell [357]Drying wind to 55%
+              May study spell [358]Earth power to 20%
+              May study spell [359]Earth skin to racial maximum
+              May study spell [360]Good berry to 10%
+              May study spell [361]Infravision to 10%
+              May study spell [362]Moon sense to racial maximum
+              May study spell [363]Rain to 55%
+              May study spell [364]Restore to 70%
+              May study spell [365]Runic heal to 40%
+              May study spell [366]Star light to 30%
+              May study spell [367]Water walking to 5%
+              May study spell [368]Wilderness location to 25%
+              May study spell [369]Word of recall to 60%
+
+                                 Level 15
+           Has studied spell [370]Restore to at least 50%
+           May train skill [371]Camping to 40%
+           May train skill [372]Cast help to racial maximum
+           May train skill [373]Cast information to racial maximum
+           May train skill [374]Cast teleportation to 40%
+           May train skill [375]Hear noises to 35%
+           May train skill [376]Location memory to 35%
+           May train skill [377]Quick chant to 5%
+           May train skill [378]Swim to racial maximum
+           May train skill [379]Tinning to 60%
+           May train skill [380]Track to 25%
+           May study spell [381]Aura detection to 70%
+           May study spell [382]Call pigeon to 70%
+           May study spell [383]Create food to 30%
+           May study spell [384]Create mud to 60%
+           May study spell [385]Drain pool to 30%
+           May study spell [386]Drying wind to 60%
+           May study spell [387]Earth power to 25%
+           May study spell [388]Flex shield to 5%
+           May study spell [389]Good berry to 15%
+           May study spell [390]Infravision to 20%
+           May study spell [391]Rain to 60%
+           May study spell [392]Regeneration to 5%
+           May study spell [393]Restore to racial maximum
+           May study spell [394]Runic heal to 45%
+           May study spell [395]Satiate person to 10%
+           May study spell [396]See invisible to 5%
+           May study spell [397]Star light to 40%
+           May study spell [398]Water walking to 10%
+           May study spell [399]Wilderness location to 30%
+           May study spell [400]Word of recall to 70%
+           May study spell [401]Gust of wind to 25%
+
+                                 Level 16
+            May train skill [402]Camping to 45%
+            May train skill [403]Cast teleportation to 45%
+            May train skill [404]Hear noises to 40%
+            May train skill [405]Location memory to 40%
+            May train skill [406]Mastery of runic sigla to 5%
+            May train skill [407]Quick chant to 10%
+            May train skill [408]Tinning to 70%
+            May train skill [409]Track to 30%
+            May study spell [410]Aura detection to racial maximum
+            May study spell [411]Call pigeon to racial maximum
+            May study spell [412]Create food to 40%
+            May study spell [413]Create mud to 70%
+            May study spell [414]Drain pool to 35%
+            May study spell [415]Drying wind to 65%
+            May study spell [416]Earth power to 30%
+            May study spell [417]Flex shield to 10%
+            May study spell [418]Good berry to 20%
+            May study spell [419]Infravision to 30%
+            May study spell [420]Rain to 65%
+            May study spell [421]Satiate person to 20%
+            May study spell [422]Regeneration to 10%
+            May study spell [423]Runic heal to 50%
+            May study spell [424]See invisible to 10%
+            May study spell [425]Star light to 50%
+            May study spell [426]Water walking to 15%
+            May study spell [427]Wilderness location to 35%
+            May study spell [428]Word of recall to racial maximum
+            May study spell [429]Gust of wind to 30%
+
+                                 Level 17
+              Has studied spell [430]Create mud to at least 50%
+              May train skill [431]Camping to 50%
+              May train skill [432]Cast teleportation to 50%
+              May train skill [433]Hear noises to 45%
+              May train skill [434]Location memory to 45%
+              May train skill [435]Mastery of runic sigla to 10%
+              May train skill [436]Quick chant to 15%
+              May train skill [437]Tinning to racial maximum
+              May train skill [438]Track to 35%
+              May study spell [439]Create food to 50%
+              May study spell [440]Create mud to racial maximum
+              May study spell [441]Drain pool to 40%
+              May study spell [442]Drying wind to 70%
+              May study spell [443]Earth power to 35%
+              May study spell [444]Flex shield to 15%
+              May study spell [445]Good berry to 25%
+              May study spell [446]Infravision to 40%
+              May study spell [447]Rain to 70%
+              May study spell [448]Regeneration to 15%
+              May study spell [449]Runic heal to 55%
+              May study spell [450]Satiate person to 30%
+              May study spell [451]See invisible to 15%
+              May study spell [452]Star light to 60%
+              May study spell [453]Water walking to 20%
+              May study spell [454]Wilderness location to 40%
+              May study spell [455]Gust of wind to 35%
+
+                                 Level 18
+              May train skill [456]Camping to 55%
+              May train skill [457]Cast teleportation to 55%
+              May train skill [458]Hear noises to 50%
+              May train skill [459]Location memory to 50%
+              May train skill [460]Mastery of runic sigla to 15%
+              May train skill [461]Quick chant to 20%
+              May train skill [462]Track to 40%
+              May study spell [463]Create food to 60%
+              May study spell [464]Drain pool to 45%
+              May study spell [465]Drying wind to racial maximum
+              May study spell [466]Earth power to 40%
+              May study spell [467]Flex shield to 20%
+              May study spell [468]Good berry to 30%
+              May study spell [469]Infravision to 50%
+              May study spell [470]Rain to racial maximum
+              May study spell [471]Regeneration to 20%
+              May study spell [472]Replenish energy to 10%
+              May study spell [473]Runic heal to 60%
+              May study spell [474]Satiate person to 40%
+              May study spell [475]See invisible to 20%
+              May study spell [476]Star light to 70%
+              May study spell [477]Water walking to 25%
+              May study spell [478]Wilderness location to 45%
+              May study spell [479]Gust of wind to 40%
+
+                                 Level 19
+              Has studied spell [480]Star light to at least 50%
+              May train skill [481]Cast teleportation to 60%
+              May train skill [482]Hear noises to 55%
+              May train skill [483]Location memory to 55%
+              May train skill [484]Mastery of runic sigla to 20%
+              May train skill [485]Quick chant to 25%
+              May train skill [486]Track to 45%
+              May study spell [487]Create food to 70%
+              May study spell [488]Drain pool to 50%
+              May study spell [489]Earth power to 45%
+              May study spell [490]Flex shield to 25%
+              May study spell [491]Good berry to 35%
+              May study spell [492]Infravision to 60%
+              May study spell [493]Regeneration to 25%
+              May study spell [494]Replenish energy to 20%
+              May study spell [495]Runic heal to 65%
+              May study spell [496]Satiate person to 50%
+              May study spell [497]See invisible to 25%
+              May study spell [498]Star light to racial maximum
+              May study spell [499]Vine mantle to 10%
+              May study spell [500]Water walking to 30%
+              May study spell [501]Wilderness location to 50%
+              May study spell [502]Gust of wind to 45%
+
+                                 Level 20
+              May train skill [503]Cast teleportation to 65%
+              May train skill [504]Hear noises to 60%
+              May train skill [505]Location memory to 60%
+              May train skill [506]Mastery of runic sigla to 25%
+              May train skill [507]Quick chant to 30%
+              May train skill [508]Track to 50%
+              May study spell [509]Create food to racial maximum
+              May study spell [510]Drain pool to 55%
+              May study spell [511]Earth power to 50%
+              May study spell [512]Flex shield to 30%
+              May study spell [513]Good berry to 40%
+              May study spell [514]Hoar frost to 10%
+              May study spell [515]Infravision to 70%
+              May study spell [516]Regeneration to 30%
+              May study spell [517]Replenish energy to 30%
+              May study spell [518]Runic heal to 70%
+              May study spell [519]Inquiry to ahm to 30%
+              May study spell [520]Satiate person to 60%
+              May study spell [521]See invisible to 30%
+              May study spell [522]Vine mantle to 20%
+              May study spell [523]Water walking to 35%
+              May study spell [524]Wilderness location to 55%
+              May study spell [525]Gust of wind to 50%
+
+                                 Level 21
+              Has studied spell [526]Runic heal to at least 50%
+              May train skill [527]Cast teleportation to 70%
+              May train skill [528]Hear noises to 65%
+              May train skill [529]Location memory to 65%
+              May train skill [530]Mastery of runic sigla to 30%
+              May train skill [531]Quick chant to 35%
+              May train skill [532]Track to 55%
+              May study spell [533]Drain pool to 60%
+              May study spell [534]Earth power to 55%
+              May study spell [535]Flex shield to 35%
+              May study spell [536]Good berry to 45%
+              May study spell [537]Hoar frost to 20%
+              May study spell [538]Infravision to racial maximum
+              May study spell [539]Regeneration to 35%
+              May study spell [540]Replenish energy to 40%
+              May study spell [541]Runic heal to racial maximum
+              May study spell [542]Inquiry to ahm to 50%
+              May study spell [543]Satiate person to 70%
+              May study spell [544]See invisible to 35%
+              May study spell [545]Transfer mana to 10%
+              May study spell [546]Vine mantle to 30%
+              May study spell [547]Water walking to 40%
+              May study spell [548]Wilderness location to 60%
+              May study spell [549]Gust of wind to 55%
+
+                                 Level 22
+          May train skill [550]Cast teleportation to racial maximum
+          May train skill [551]Hear noises to 70%
+          May train skill [552]Location memory to 70%
+          May train skill [553]Mastery of runic sigla to 35%
+          May train skill [554]Quick chant to 40%
+          May train skill [555]Track to 60%
+          May study spell [556]Drain pool to 65%
+          May study spell [557]Earth power to 60%
+          May study spell [558]Flex shield to 40%
+          May study spell [559]Good berry to 50%
+          May study spell [560]Hoar frost to 30%
+          May study spell [561]Regeneration to 40%
+          May study spell [562]Replenish energy to 50%
+          May study spell [563]Inquiry to ahm to 70%
+          May study spell [564]Satiate person to racial maximum
+          May study spell [565]See invisible to 40%
+          May study spell [566]Transfer mana to 20%
+          May study spell [567]Vine mantle to 40%
+          May study spell [568]Water walking to 45%
+          May study spell [569]Wilderness location to 65%
+          May study spell [570]Gust of wind to 60%
+
+                                 Level 23
+            May train skill [571]Hear noises to racial maximum
+            May train skill [572]Location memory to racial maximum
+            May train skill [573]Mastery of runic sigla to 40%
+            May train skill [574]Quick chant to 45%
+            May train skill [575]Track to 65%
+            May study spell [576]Drain pool to 70%
+            May study spell [577]Earth power to 65%
+            May study spell [578]Earthquake to 10%
+            May study spell [579]Flex shield to 45%
+            May study spell [580]Good berry to 55%
+            May study spell [581]Hoar frost to 40%
+            May study spell [582]Regeneration to 45%
+            May study spell [583]Reincarnation to 10%
+            May study spell [584]Inquiry to ahm to racial maximum
+            May study spell [585]Replenish energy to 60%
+            May study spell [586]See invisible to 45%
+            May study spell [587]Transfer mana to 30%
+            May study spell [588]Vine mantle to 50%
+            May study spell [589]Water walking to 50%
+            May study spell [590]Wilderness location to 70%
+            May study spell [591]Wither flesh to 10%
+            May study spell [592]Gust of wind to 65%
+
+                                 Level 24
+          Has studied spell [593]Drain pool to at least 50%
+          May train skill [594]Mastery of runic sigla to 45%
+          May train skill [595]Quick chant to 50%
+          May train skill [596]Track to 70%
+          May study spell [597]Drain pool to racial maximum
+          May study spell [598]Earth power to 70%
+          May study spell [599]Earthquake to 20%
+          May study spell [600]Flex shield to 50%
+          May study spell [601]Good berry to 60%
+          May study spell [602]Hoar frost to 50%
+          May study spell [603]Regeneration to 50%
+          May study spell [604]Reincarnation to 20%
+          May study spell [605]Replenish energy to 70%
+          May study spell [606]See invisible to 50%
+          May study spell [607]Transfer mana to 40%
+          May study spell [608]Vine mantle to 60%
+          May study spell [609]Water walking to 55%
+          May study spell [610]Wilderness location to racial maximum
+          May study spell [611]Wither flesh to 20%
+          May study spell [612]Gust of wind to 70%
+
+                                 Level 25
+           Has studied spell [613]Earth power to at least 50%
+           Has studied spell [614]Replenish energy to at least 50%
+           May train skill [615]Mastery of runic sigla to 50%
+           May train skill [616]Quick chant to 55%
+           May train skill [617]Track to racial maximum
+           May study spell [618]Earth power to racial maximum
+           May study spell [619]Earthquake to 30%
+           May study spell [620]Flex shield to 55%
+           May study spell [621]Good berry to 65%
+           May study spell [622]Hoar frost to 60%
+           May study spell [623]Regeneration to 55%
+           May study spell [624]Reincarnation to 30%
+           May study spell [625]Replenish energy to racial maximum
+           May study spell [626]See invisible to 55%
+           May study spell [627]Transfer mana to 50%
+           May study spell [628]Vine mantle to 70%
+           May study spell [629]Water walking to 60%
+           May study spell [630]Wither flesh to 30%
+           May study spell [631]Gust of wind to 75%
+
+                                 Level 26
+              Has studied spell [632]Vine mantle to at least 50%
+              May train skill [633]Mastery of runic sigla to 55%
+              May train skill [634]Quick chant to 60%
+              May study spell [635]Earthquake to 40%
+              May study spell [636]Flex shield to 60%
+              May study spell [637]Good berry to 70%
+              May study spell [638]Hoar frost to 70%
+              May study spell [639]Regeneration to 60%
+              May study spell [640]Reincarnation to 40%
+              May study spell [641]See invisible to 60%
+              May study spell [642]Transfer mana to 60%
+              May study spell [643]Vine mantle to racial maximum
+              May study spell [644]Water walking to 65%
+              May study spell [645]Wither flesh to 40%
+              May study spell [646]Gust of wind to 80%
+
+                                 Level 27
+              Has studied spell [647]Hoar frost to at least 50%
+              May train skill [648]Mastery of runic sigla to 60%
+              May train skill [649]Quick chant to 65%
+              May study spell [650]Earthquake to 50%
+              May study spell [651]Flex shield to 65%
+              May study spell [652]Good berry to racial maximum
+              May study spell [653]Hoar frost to racial maximum
+              May study spell [654]Regeneration to 65%
+              May study spell [655]Reincarnation to 50%
+              May study spell [656]See invisible to 65%
+              May study spell [657]Transfer mana to 70%
+              May study spell [658]Water walking to 70%
+              May study spell [659]Wither flesh to 50%
+              May study spell [660]Gust of wind to 85%
+
+                                 Level 28
+             Has studied spell [661]Transfer mana to at least 50%
+             May train skill [662]Mastery of runic sigla to 65%
+             May train skill [663]Quick chant to 70%
+             May study spell [664]Earthquake to 60%
+             May study spell [665]Flex shield to 70%
+             May study spell [666]Regeneration to 70%
+             May study spell [667]Reincarnation to 60%
+             May study spell [668]See invisible to 70%
+             May study spell [669]Transfer mana to racial maximum
+             May study spell [670]Water walking to racial maximum
+             May study spell [671]Wither flesh to 60%
+             May study spell [672]Gust of wind to 90%
+
+                                 Level 29
+             Has studied spell [673]Flex shield to at least 50%
+             May train skill [674]Mastery of runic sigla to 70%
+             May train skill [675]Quick chant to racial maximum
+             May study spell [676]Earthquake to 70%
+             May study spell [677]Flex shield to racial maximum
+             May study spell [678]Regeneration to racial maximum
+             May study spell [679]Reincarnation to 70%
+             May study spell [680]See invisible to racial maximum
+             May study spell [681]Wither flesh to 70%
+             May study spell [682]Gust of wind to 95%
+
+                                 Level 30
+        Has trained skill [683]Mastery of runic sigla to at least 50%
+        Has studied spell [684]Earthquake to at least 50%
+        Has studied spell [685]Wither flesh to at least 50%
+        May train skill [686]Mastery of runic sigla to racial maximum
+        May study spell [687]Earthquake to racial maximum
+        May study spell [688]Reincarnation to racial maximum
+        May study spell [689]Wither flesh to racial maximum
+        May study spell [690]Natural transformation to racial maximum
+        May study spell [691]Blessed warmth to racial maximum
+        May study spell [692]Summon storm to racial maximum
+        May study spell [693]Earth blood to racial maximum
+        May study spell [694]Gust of wind to racial maximum
+
+                   Allows joining to the following guild:
+                     The Humble Druids
+
+   [695]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [696]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Humble%20Druids&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Humble%20Druids&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Humble%20Druids&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=lanfear
+  23. http://www.bat.org/help/skills.php?str=attack
+  24. http://www.bat.org/help/skills.php?str=bludgeons
+  25. http://www.bat.org/help/skills.php?str=cast_control
+  26. http://www.bat.org/help/skills.php?str=cast_help
+  27. http://www.bat.org/help/skills.php?str=cast_information
+  28. http://www.bat.org/help/skills.php?str=cast_generic
+  29. http://www.bat.org/help/skills.php?str=cast_runes
+  30. http://www.bat.org/help/skills.php?str=cast_special
+  31. http://www.bat.org/help/skills.php?str=consider
+  32. http://www.bat.org/help/skills.php?str=fire_building
+  33. http://www.bat.org/help/skills.php?str=plant_lore
+  34. http://www.bat.org/help/skills.php?str=torch_creation
+  35. http://www.bat.org/help/spells.php?str=detect_alignment
+  36. http://www.bat.org/help/skills.php?str=attack
+  37. http://www.bat.org/help/skills.php?str=bludgeons
+  38. http://www.bat.org/help/skills.php?str=cast_control
+  39. http://www.bat.org/help/skills.php?str=cast_help
+  40. http://www.bat.org/help/skills.php?str=cast_information
+  41. http://www.bat.org/help/skills.php?str=cast_generic
+  42. http://www.bat.org/help/skills.php?str=cast_runes
+  43. http://www.bat.org/help/skills.php?str=cast_special
+  44. http://www.bat.org/help/skills.php?str=ceremony
+  45. http://www.bat.org/help/skills.php?str=consider
+  46. http://www.bat.org/help/skills.php?str=essence_eye
+  47. http://www.bat.org/help/skills.php?str=fire_building
+  48. http://www.bat.org/help/skills.php?str=plant_lore
+  49. http://www.bat.org/help/skills.php?str=mana_control
+  50. http://www.bat.org/help/skills.php?str=torch_creation
+  51. http://www.bat.org/help/spells.php?str=charge_staff
+  52. http://www.bat.org/help/spells.php?str=detect_alignment
+  53. http://www.bat.org/help/skills.php?str=cast_generic
+  54. http://www.bat.org/help/skills.php?str=attack
+  55. http://www.bat.org/help/skills.php?str=bludgeons
+  56. http://www.bat.org/help/skills.php?str=cast_control
+  57. http://www.bat.org/help/skills.php?str=cast_help
+  58. http://www.bat.org/help/skills.php?str=cast_information
+  59. http://www.bat.org/help/skills.php?str=cast_generic
+  60. http://www.bat.org/help/skills.php?str=cast_runes
+  61. http://www.bat.org/help/skills.php?str=cast_special
+  62. http://www.bat.org/help/skills.php?str=ceremony
+  63. http://www.bat.org/help/skills.php?str=consider
+  64. http://www.bat.org/help/skills.php?str=essence_eye
+  65. http://www.bat.org/help/skills.php?str=fire_building
+  66. http://www.bat.org/help/skills.php?str=first_aid
+  67. http://www.bat.org/help/skills.php?str=plant_lore
+  68. http://www.bat.org/help/skills.php?str=mana_control
+  69. http://www.bat.org/help/skills.php?str=stargazing
+  70. http://www.bat.org/help/skills.php?str=torch_creation
+  71. http://www.bat.org/help/spells.php?str=charge_staff
+  72. http://www.bat.org/help/spells.php?str=detect_alignment
+  73. http://www.bat.org/help/spells.php?str=detect_poison
+  74. http://www.bat.org/help/skills.php?str=cast_runes
+  75. http://www.bat.org/help/skills.php?str=plant_lore
+  76. http://www.bat.org/help/skills.php?str=attack
+  77. http://www.bat.org/help/skills.php?str=bludgeons
+  78. http://www.bat.org/help/skills.php?str=cast_control
+  79. http://www.bat.org/help/skills.php?str=cast_help
+  80. http://www.bat.org/help/skills.php?str=cast_information
+  81. http://www.bat.org/help/skills.php?str=cast_runes
+  82. http://www.bat.org/help/skills.php?str=cast_special
+  83. http://www.bat.org/help/skills.php?str=cast_transformation
+  84. http://www.bat.org/help/skills.php?str=ceremony
+  85. http://www.bat.org/help/skills.php?str=consider
+  86. http://www.bat.org/help/skills.php?str=essence_eye
+  87. http://www.bat.org/help/skills.php?str=fire_building
+  88. http://www.bat.org/help/skills.php?str=first_aid
+  89. http://www.bat.org/help/skills.php?str=make_bandage
+  90. http://www.bat.org/help/skills.php?str=plant_lore
+  91. http://www.bat.org/help/skills.php?str=mana_control
+  92. http://www.bat.org/help/skills.php?str=stargazing
+  93. http://www.bat.org/help/skills.php?str=torch_creation
+  94. http://www.bat.org/help/spells.php?str=charge_staff
+  95. http://www.bat.org/help/spells.php?str=detect_alignment
+  96. http://www.bat.org/help/spells.php?str=detect_poison
+  97. http://www.bat.org/help/spells.php?str=drying_wind
+  98. http://www.bat.org/help/spells.php?str=gem_fire
+  99. http://www.bat.org/help/spells.php?str=rain
+ 100. http://www.bat.org/help/spells.php?str=shapechange
+ 101. http://www.bat.org/help/skills.php?str=attack
+ 102. http://www.bat.org/help/skills.php?str=bless
+ 103. http://www.bat.org/help/skills.php?str=bludgeons
+ 104. http://www.bat.org/help/skills.php?str=cast_control
+ 105. http://www.bat.org/help/skills.php?str=cast_help
+ 106. http://www.bat.org/help/skills.php?str=cast_information
+ 107. http://www.bat.org/help/skills.php?str=cast_special
+ 108. http://www.bat.org/help/skills.php?str=cast_transformation
+ 109. http://www.bat.org/help/skills.php?str=ceremony
+ 110. http://www.bat.org/help/skills.php?str=consider
+ 111. http://www.bat.org/help/skills.php?str=essence_eye
+ 112. http://www.bat.org/help/skills.php?str=fire_building
+ 113. http://www.bat.org/help/skills.php?str=first_aid
+ 114. http://www.bat.org/help/skills.php?str=fresh_pants
+ 115. http://www.bat.org/help/skills.php?str=make_bandage
+ 116. http://www.bat.org/help/skills.php?str=mana_control
+ 117. http://www.bat.org/help/skills.php?str=stargazing
+ 118. http://www.bat.org/help/spells.php?str=charge_staff
+ 119. http://www.bat.org/help/spells.php?str=detect_alignment
+ 120. http://www.bat.org/help/spells.php?str=detect_poison
+ 121. http://www.bat.org/help/spells.php?str=drying_wind
+ 122. http://www.bat.org/help/spells.php?str=gem_fire
+ 123. http://www.bat.org/help/spells.php?str=rain
+ 124. http://www.bat.org/help/spells.php?str=shapechange
+ 125. http://www.bat.org/help/skills.php?str=attack
+ 126. http://www.bat.org/help/skills.php?str=bless
+ 127. http://www.bat.org/help/skills.php?str=bludgeons
+ 128. http://www.bat.org/help/skills.php?str=cast_control
+ 129. http://www.bat.org/help/skills.php?str=cast_help
+ 130. http://www.bat.org/help/skills.php?str=cast_information
+ 131. http://www.bat.org/help/skills.php?str=cast_special
+ 132. http://www.bat.org/help/skills.php?str=cast_transformation
+ 133. http://www.bat.org/help/skills.php?str=consider
+ 134. http://www.bat.org/help/skills.php?str=first_aid
+ 135. http://www.bat.org/help/skills.php?str=fresh_pants
+ 136. http://www.bat.org/help/skills.php?str=mana_control
+ 137. http://www.bat.org/help/skills.php?str=make_bandage
+ 138. http://www.bat.org/help/skills.php?str=stargazing
+ 139. http://www.bat.org/help/skills.php?str=baptize
+ 140. http://www.bat.org/help/spells.php?str=charge_staff
+ 141. http://www.bat.org/help/spells.php?str=detect_alignment
+ 142. http://www.bat.org/help/spells.php?str=detect_poison
+ 143. http://www.bat.org/help/spells.php?str=drying_wind
+ 144. http://www.bat.org/help/spells.php?str=gem_fire
+ 145. http://www.bat.org/help/spells.php?str=rain
+ 146. http://www.bat.org/help/spells.php?str=shapechange
+ 147. http://www.bat.org/help/skills.php?str=attack
+ 148. http://www.bat.org/help/skills.php?str=bless
+ 149. http://www.bat.org/help/skills.php?str=bludgeons
+ 150. http://www.bat.org/help/skills.php?str=cast_control
+ 151. http://www.bat.org/help/skills.php?str=cast_help
+ 152. http://www.bat.org/help/skills.php?str=cast_information
+ 153. http://www.bat.org/help/skills.php?str=cast_special
+ 154. http://www.bat.org/help/skills.php?str=cast_transformation
+ 155. http://www.bat.org/help/skills.php?str=consider
+ 156. http://www.bat.org/help/skills.php?str=fresh_pants
+ 157. http://www.bat.org/help/skills.php?str=hiking
+ 158. http://www.bat.org/help/skills.php?str=mana_control
+ 159. http://www.bat.org/help/skills.php?str=stargazing
+ 160. http://www.bat.org/help/skills.php?str=baptize
+ 161. http://www.bat.org/help/spells.php?str=charge_staff
+ 162. http://www.bat.org/help/spells.php?str=detect_alignment
+ 163. http://www.bat.org/help/spells.php?str=detect_poison
+ 164. http://www.bat.org/help/spells.php?str=drying_wind
+ 165. http://www.bat.org/help/spells.php?str=earth_skin
+ 166. http://www.bat.org/help/spells.php?str=gem_fire
+ 167. http://www.bat.org/help/spells.php?str=moon_sense
+ 168. http://www.bat.org/help/spells.php?str=rain
+ 169. http://www.bat.org/help/spells.php?str=runic_heal
+ 170. http://www.bat.org/help/spells.php?str=shapechange
+ 171. http://www.bat.org/help/skills.php?str=attack
+ 172. http://www.bat.org/help/skills.php?str=bless
+ 173. http://www.bat.org/help/skills.php?str=bludgeons
+ 174. http://www.bat.org/help/skills.php?str=camping
+ 175. http://www.bat.org/help/skills.php?str=cast_control
+ 176. http://www.bat.org/help/skills.php?str=cast_help
+ 177. http://www.bat.org/help/skills.php?str=cast_information
+ 178. http://www.bat.org/help/skills.php?str=cast_special
+ 179. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 180. http://www.bat.org/help/skills.php?str=cast_transformation
+ 181. http://www.bat.org/help/skills.php?str=fresh_pants
+ 182. http://www.bat.org/help/skills.php?str=hiking
+ 183. http://www.bat.org/help/skills.php?str=mana_control
+ 184. http://www.bat.org/help/skills.php?str=stargazing
+ 185. http://www.bat.org/help/skills.php?str=swim
+ 186. http://www.bat.org/help/skills.php?str=baptize
+ 187. http://www.bat.org/help/spells.php?str=charge_staff
+ 188. http://www.bat.org/help/spells.php?str=detect_alignment
+ 189. http://www.bat.org/help/spells.php?str=detect_poison
+ 190. http://www.bat.org/help/spells.php?str=drying_wind
+ 191. http://www.bat.org/help/spells.php?str=earth_skin
+ 192. http://www.bat.org/help/spells.php?str=gem_fire
+ 193. http://www.bat.org/help/spells.php?str=moon_sense
+ 194. http://www.bat.org/help/spells.php?str=rain
+ 195. http://www.bat.org/help/spells.php?str=restore
+ 196. http://www.bat.org/help/spells.php?str=runic_heal
+ 197. http://www.bat.org/help/spells.php?str=shapechange
+ 198. http://www.bat.org/help/spells.php?str=charge_staff
+ 199. http://www.bat.org/help/skills.php?str=attack
+ 200. http://www.bat.org/help/skills.php?str=bless
+ 201. http://www.bat.org/help/skills.php?str=bludgeons
+ 202. http://www.bat.org/help/skills.php?str=camping
+ 203. http://www.bat.org/help/skills.php?str=cast_help
+ 204. http://www.bat.org/help/skills.php?str=cast_information
+ 205. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 206. http://www.bat.org/help/skills.php?str=cast_transformation
+ 207. http://www.bat.org/help/skills.php?str=hear_noises
+ 208. http://www.bat.org/help/skills.php?str=hiking
+ 209. http://www.bat.org/help/skills.php?str=location_memory
+ 210. http://www.bat.org/help/skills.php?str=stargazing
+ 211. http://www.bat.org/help/skills.php?str=swim
+ 212. http://www.bat.org/help/skills.php?str=baptize
+ 213. http://www.bat.org/help/spells.php?str=aura_detection
+ 214. http://www.bat.org/help/spells.php?str=call_pigeon
+ 215. http://www.bat.org/help/spells.php?str=charge_staff
+ 216. http://www.bat.org/help/spells.php?str=detect_poison
+ 217. http://www.bat.org/help/spells.php?str=drying_wind
+ 218. http://www.bat.org/help/spells.php?str=earth_skin
+ 219. http://www.bat.org/help/spells.php?str=gem_fire
+ 220. http://www.bat.org/help/spells.php?str=moon_sense
+ 221. http://www.bat.org/help/spells.php?str=rain
+ 222. http://www.bat.org/help/spells.php?str=restore
+ 223. http://www.bat.org/help/spells.php?str=runic_heal
+ 224. http://www.bat.org/help/spells.php?str=shapechange
+ 225. http://www.bat.org/help/spells.php?str=word_of_recall
+ 226. http://www.bat.org/help/spells.php?str=detect_poison
+ 227. http://www.bat.org/help/skills.php?str=attack
+ 228. http://www.bat.org/help/skills.php?str=bless
+ 229. http://www.bat.org/help/skills.php?str=bludgeons
+ 230. http://www.bat.org/help/skills.php?str=camping
+ 231. http://www.bat.org/help/skills.php?str=cast_help
+ 232. http://www.bat.org/help/skills.php?str=cast_information
+ 233. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 234. http://www.bat.org/help/skills.php?str=cast_transformation
+ 235. http://www.bat.org/help/skills.php?str=hear_noises
+ 236. http://www.bat.org/help/skills.php?str=hiking
+ 237. http://www.bat.org/help/skills.php?str=location_memory
+ 238. http://www.bat.org/help/skills.php?str=stargazing
+ 239. http://www.bat.org/help/skills.php?str=swim
+ 240. http://www.bat.org/help/skills.php?str=tinning
+ 241. http://www.bat.org/help/spells.php?str=aura_detection
+ 242. http://www.bat.org/help/spells.php?str=call_pigeon
+ 243. http://www.bat.org/help/spells.php?str=create_mud
+ 244. http://www.bat.org/help/spells.php?str=detect_poison
+ 245. http://www.bat.org/help/spells.php?str=drain_pool
+ 246. http://www.bat.org/help/spells.php?str=drying_wind
+ 247. http://www.bat.org/help/spells.php?str=earth_skin
+ 248. http://www.bat.org/help/spells.php?str=gem_fire
+ 249. http://www.bat.org/help/spells.php?str=moon_sense
+ 250. http://www.bat.org/help/spells.php?str=rain
+ 251. http://www.bat.org/help/spells.php?str=restore
+ 252. http://www.bat.org/help/spells.php?str=wilderness_location
+ 253. http://www.bat.org/help/spells.php?str=runic_heal
+ 254. http://www.bat.org/help/spells.php?str=shapechange
+ 255. http://www.bat.org/help/spells.php?str=word_of_recall
+ 256. http://www.bat.org/help/skills.php?str=cast_transformation
+ 257. http://www.bat.org/help/spells.php?str=gem_fire
+ 258. http://www.bat.org/help/spells.php?str=shapechange
+ 259. http://www.bat.org/help/skills.php?str=attack
+ 260. http://www.bat.org/help/skills.php?str=bless
+ 261. http://www.bat.org/help/skills.php?str=bludgeons
+ 262. http://www.bat.org/help/skills.php?str=camping
+ 263. http://www.bat.org/help/skills.php?str=cast_help
+ 264. http://www.bat.org/help/skills.php?str=cast_information
+ 265. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 266. http://www.bat.org/help/skills.php?str=cast_transformation
+ 267. http://www.bat.org/help/skills.php?str=hear_noises
+ 268. http://www.bat.org/help/skills.php?str=hiking
+ 269. http://www.bat.org/help/skills.php?str=location_memory
+ 270. http://www.bat.org/help/skills.php?str=swim
+ 271. http://www.bat.org/help/skills.php?str=tinning
+ 272. http://www.bat.org/help/skills.php?str=track
+ 273. http://www.bat.org/help/spells.php?str=aura_detection
+ 274. http://www.bat.org/help/spells.php?str=call_pigeon
+ 275. http://www.bat.org/help/spells.php?str=create_mud
+ 276. http://www.bat.org/help/spells.php?str=drain_pool
+ 277. http://www.bat.org/help/spells.php?str=drying_wind
+ 278. http://www.bat.org/help/spells.php?str=earth_skin
+ 279. http://www.bat.org/help/spells.php?str=earth_power
+ 280. http://www.bat.org/help/spells.php?str=gem_fire
+ 281. http://www.bat.org/help/spells.php?str=moon_sense
+ 282. http://www.bat.org/help/spells.php?str=rain
+ 283. http://www.bat.org/help/spells.php?str=restore
+ 284. http://www.bat.org/help/spells.php?str=runic_heal
+ 285. http://www.bat.org/help/spells.php?str=shapechange
+ 286. http://www.bat.org/help/spells.php?str=wilderness_location
+ 287. http://www.bat.org/help/spells.php?str=word_of_recall
+ 288. http://www.bat.org/help/skills.php?str=attack
+ 289. http://www.bat.org/help/skills.php?str=bludgeons
+ 290. http://www.bat.org/help/skills.php?str=bless
+ 291. http://www.bat.org/help/skills.php?str=camping
+ 292. http://www.bat.org/help/skills.php?str=cast_help
+ 293. http://www.bat.org/help/skills.php?str=cast_information
+ 294. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 295. http://www.bat.org/help/skills.php?str=hear_noises
+ 296. http://www.bat.org/help/skills.php?str=hiking
+ 297. http://www.bat.org/help/skills.php?str=location_memory
+ 298. http://www.bat.org/help/skills.php?str=swim
+ 299. http://www.bat.org/help/skills.php?str=tinning
+ 300. http://www.bat.org/help/skills.php?str=track
+ 301. http://www.bat.org/help/spells.php?str=aura_detection
+ 302. http://www.bat.org/help/spells.php?str=call_pigeon
+ 303. http://www.bat.org/help/spells.php?str=create_mud
+ 304. http://www.bat.org/help/spells.php?str=drain_pool
+ 305. http://www.bat.org/help/spells.php?str=drying_wind
+ 306. http://www.bat.org/help/spells.php?str=earth_power
+ 307. http://www.bat.org/help/spells.php?str=earth_skin
+ 308. http://www.bat.org/help/spells.php?str=moon_sense
+ 309. http://www.bat.org/help/spells.php?str=rain
+ 310. http://www.bat.org/help/spells.php?str=restore
+ 311. http://www.bat.org/help/spells.php?str=runic_heal
+ 312. http://www.bat.org/help/spells.php?str=star_light
+ 313. http://www.bat.org/help/spells.php?str=wilderness_location
+ 314. http://www.bat.org/help/spells.php?str=word_of_recall
+ 315. http://www.bat.org/help/skills.php?str=camping
+ 316. http://www.bat.org/help/skills.php?str=cast_help
+ 317. http://www.bat.org/help/skills.php?str=cast_information
+ 318. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 319. http://www.bat.org/help/skills.php?str=hear_noises
+ 320. http://www.bat.org/help/skills.php?str=hiking
+ 321. http://www.bat.org/help/skills.php?str=location_memory
+ 322. http://www.bat.org/help/skills.php?str=swim
+ 323. http://www.bat.org/help/skills.php?str=tinning
+ 324. http://www.bat.org/help/skills.php?str=track
+ 325. http://www.bat.org/help/spells.php?str=aura_detection
+ 326. http://www.bat.org/help/spells.php?str=call_pigeon
+ 327. http://www.bat.org/help/spells.php?str=create_food
+ 328. http://www.bat.org/help/spells.php?str=create_mud
+ 329. http://www.bat.org/help/spells.php?str=drain_pool
+ 330. http://www.bat.org/help/spells.php?str=drying_wind
+ 331. http://www.bat.org/help/spells.php?str=earth_power
+ 332. http://www.bat.org/help/spells.php?str=earth_skin
+ 333. http://www.bat.org/help/spells.php?str=good_berry
+ 334. http://www.bat.org/help/spells.php?str=moon_sense
+ 335. http://www.bat.org/help/spells.php?str=rain
+ 336. http://www.bat.org/help/spells.php?str=restore
+ 337. http://www.bat.org/help/spells.php?str=runic_heal
+ 338. http://www.bat.org/help/spells.php?str=star_light
+ 339. http://www.bat.org/help/spells.php?str=wilderness_location
+ 340. http://www.bat.org/help/spells.php?str=word_of_recall
+ 341. http://www.bat.org/help/spells.php?str=earth_skin
+ 342. http://www.bat.org/help/skills.php?str=camping
+ 343. http://www.bat.org/help/skills.php?str=cast_help
+ 344. http://www.bat.org/help/skills.php?str=cast_information
+ 345. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 346. http://www.bat.org/help/skills.php?str=hear_noises
+ 347. http://www.bat.org/help/skills.php?str=hiking
+ 348. http://www.bat.org/help/skills.php?str=location_memory
+ 349. http://www.bat.org/help/skills.php?str=swim
+ 350. http://www.bat.org/help/skills.php?str=tinning
+ 351. http://www.bat.org/help/skills.php?str=track
+ 352. http://www.bat.org/help/spells.php?str=aura_detection
+ 353. http://www.bat.org/help/spells.php?str=call_pigeon
+ 354. http://www.bat.org/help/spells.php?str=create_food
+ 355. http://www.bat.org/help/spells.php?str=create_mud
+ 356. http://www.bat.org/help/spells.php?str=drain_pool
+ 357. http://www.bat.org/help/spells.php?str=drying_wind
+ 358. http://www.bat.org/help/spells.php?str=earth_power
+ 359. http://www.bat.org/help/spells.php?str=earth_skin
+ 360. http://www.bat.org/help/spells.php?str=good_berry
+ 361. http://www.bat.org/help/spells.php?str=infravision
+ 362. http://www.bat.org/help/spells.php?str=moon_sense
+ 363. http://www.bat.org/help/spells.php?str=rain
+ 364. http://www.bat.org/help/spells.php?str=restore
+ 365. http://www.bat.org/help/spells.php?str=runic_heal
+ 366. http://www.bat.org/help/spells.php?str=star_light
+ 367. http://www.bat.org/help/spells.php?str=water_walking
+ 368. http://www.bat.org/help/spells.php?str=wilderness_location
+ 369. http://www.bat.org/help/spells.php?str=word_of_recall
+ 370. http://www.bat.org/help/spells.php?str=restore
+ 371. http://www.bat.org/help/skills.php?str=camping
+ 372. http://www.bat.org/help/skills.php?str=cast_help
+ 373. http://www.bat.org/help/skills.php?str=cast_information
+ 374. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 375. http://www.bat.org/help/skills.php?str=hear_noises
+ 376. http://www.bat.org/help/skills.php?str=location_memory
+ 377. http://www.bat.org/help/skills.php?str=quick_chant
+ 378. http://www.bat.org/help/skills.php?str=swim
+ 379. http://www.bat.org/help/skills.php?str=tinning
+ 380. http://www.bat.org/help/skills.php?str=track
+ 381. http://www.bat.org/help/spells.php?str=aura_detection
+ 382. http://www.bat.org/help/spells.php?str=call_pigeon
+ 383. http://www.bat.org/help/spells.php?str=create_food
+ 384. http://www.bat.org/help/spells.php?str=create_mud
+ 385. http://www.bat.org/help/spells.php?str=drain_pool
+ 386. http://www.bat.org/help/spells.php?str=drying_wind
+ 387. http://www.bat.org/help/spells.php?str=earth_power
+ 388. http://www.bat.org/help/spells.php?str=flex_shield
+ 389. http://www.bat.org/help/spells.php?str=good_berry
+ 390. http://www.bat.org/help/spells.php?str=infravision
+ 391. http://www.bat.org/help/spells.php?str=rain
+ 392. http://www.bat.org/help/spells.php?str=regeneration
+ 393. http://www.bat.org/help/spells.php?str=restore
+ 394. http://www.bat.org/help/spells.php?str=runic_heal
+ 395. http://www.bat.org/help/spells.php?str=satiate_person
+ 396. http://www.bat.org/help/spells.php?str=see_invisible
+ 397. http://www.bat.org/help/spells.php?str=star_light
+ 398. http://www.bat.org/help/spells.php?str=water_walking
+ 399. http://www.bat.org/help/spells.php?str=wilderness_location
+ 400. http://www.bat.org/help/spells.php?str=word_of_recall
+ 401. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 402. http://www.bat.org/help/skills.php?str=camping
+ 403. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 404. http://www.bat.org/help/skills.php?str=hear_noises
+ 405. http://www.bat.org/help/skills.php?str=location_memory
+ 406. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 407. http://www.bat.org/help/skills.php?str=quick_chant
+ 408. http://www.bat.org/help/skills.php?str=tinning
+ 409. http://www.bat.org/help/skills.php?str=track
+ 410. http://www.bat.org/help/spells.php?str=aura_detection
+ 411. http://www.bat.org/help/spells.php?str=call_pigeon
+ 412. http://www.bat.org/help/spells.php?str=create_food
+ 413. http://www.bat.org/help/spells.php?str=create_mud
+ 414. http://www.bat.org/help/spells.php?str=drain_pool
+ 415. http://www.bat.org/help/spells.php?str=drying_wind
+ 416. http://www.bat.org/help/spells.php?str=earth_power
+ 417. http://www.bat.org/help/spells.php?str=flex_shield
+ 418. http://www.bat.org/help/spells.php?str=good_berry
+ 419. http://www.bat.org/help/spells.php?str=infravision
+ 420. http://www.bat.org/help/spells.php?str=rain
+ 421. http://www.bat.org/help/spells.php?str=satiate_person
+ 422. http://www.bat.org/help/spells.php?str=regeneration
+ 423. http://www.bat.org/help/spells.php?str=runic_heal
+ 424. http://www.bat.org/help/spells.php?str=see_invisible
+ 425. http://www.bat.org/help/spells.php?str=star_light
+ 426. http://www.bat.org/help/spells.php?str=water_walking
+ 427. http://www.bat.org/help/spells.php?str=wilderness_location
+ 428. http://www.bat.org/help/spells.php?str=word_of_recall
+ 429. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 430. http://www.bat.org/help/spells.php?str=create_mud
+ 431. http://www.bat.org/help/skills.php?str=camping
+ 432. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 433. http://www.bat.org/help/skills.php?str=hear_noises
+ 434. http://www.bat.org/help/skills.php?str=location_memory
+ 435. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 436. http://www.bat.org/help/skills.php?str=quick_chant
+ 437. http://www.bat.org/help/skills.php?str=tinning
+ 438. http://www.bat.org/help/skills.php?str=track
+ 439. http://www.bat.org/help/spells.php?str=create_food
+ 440. http://www.bat.org/help/spells.php?str=create_mud
+ 441. http://www.bat.org/help/spells.php?str=drain_pool
+ 442. http://www.bat.org/help/spells.php?str=drying_wind
+ 443. http://www.bat.org/help/spells.php?str=earth_power
+ 444. http://www.bat.org/help/spells.php?str=flex_shield
+ 445. http://www.bat.org/help/spells.php?str=good_berry
+ 446. http://www.bat.org/help/spells.php?str=infravision
+ 447. http://www.bat.org/help/spells.php?str=rain
+ 448. http://www.bat.org/help/spells.php?str=regeneration
+ 449. http://www.bat.org/help/spells.php?str=runic_heal
+ 450. http://www.bat.org/help/spells.php?str=satiate_person
+ 451. http://www.bat.org/help/spells.php?str=see_invisible
+ 452. http://www.bat.org/help/spells.php?str=star_light
+ 453. http://www.bat.org/help/spells.php?str=water_walking
+ 454. http://www.bat.org/help/spells.php?str=wilderness_location
+ 455. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 456. http://www.bat.org/help/skills.php?str=camping
+ 457. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 458. http://www.bat.org/help/skills.php?str=hear_noises
+ 459. http://www.bat.org/help/skills.php?str=location_memory
+ 460. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 461. http://www.bat.org/help/skills.php?str=quick_chant
+ 462. http://www.bat.org/help/skills.php?str=track
+ 463. http://www.bat.org/help/spells.php?str=create_food
+ 464. http://www.bat.org/help/spells.php?str=drain_pool
+ 465. http://www.bat.org/help/spells.php?str=drying_wind
+ 466. http://www.bat.org/help/spells.php?str=earth_power
+ 467. http://www.bat.org/help/spells.php?str=flex_shield
+ 468. http://www.bat.org/help/spells.php?str=good_berry
+ 469. http://www.bat.org/help/spells.php?str=infravision
+ 470. http://www.bat.org/help/spells.php?str=rain
+ 471. http://www.bat.org/help/spells.php?str=regeneration
+ 472. http://www.bat.org/help/spells.php?str=replenish_energy
+ 473. http://www.bat.org/help/spells.php?str=runic_heal
+ 474. http://www.bat.org/help/spells.php?str=satiate_person
+ 475. http://www.bat.org/help/spells.php?str=see_invisible
+ 476. http://www.bat.org/help/spells.php?str=star_light
+ 477. http://www.bat.org/help/spells.php?str=water_walking
+ 478. http://www.bat.org/help/spells.php?str=wilderness_location
+ 479. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 480. http://www.bat.org/help/spells.php?str=star_light
+ 481. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 482. http://www.bat.org/help/skills.php?str=hear_noises
+ 483. http://www.bat.org/help/skills.php?str=location_memory
+ 484. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 485. http://www.bat.org/help/skills.php?str=quick_chant
+ 486. http://www.bat.org/help/skills.php?str=track
+ 487. http://www.bat.org/help/spells.php?str=create_food
+ 488. http://www.bat.org/help/spells.php?str=drain_pool
+ 489. http://www.bat.org/help/spells.php?str=earth_power
+ 490. http://www.bat.org/help/spells.php?str=flex_shield
+ 491. http://www.bat.org/help/spells.php?str=good_berry
+ 492. http://www.bat.org/help/spells.php?str=infravision
+ 493. http://www.bat.org/help/spells.php?str=regeneration
+ 494. http://www.bat.org/help/spells.php?str=replenish_energy
+ 495. http://www.bat.org/help/spells.php?str=runic_heal
+ 496. http://www.bat.org/help/spells.php?str=satiate_person
+ 497. http://www.bat.org/help/spells.php?str=see_invisible
+ 498. http://www.bat.org/help/spells.php?str=star_light
+ 499. http://www.bat.org/help/spells.php?str=vine_mantle
+ 500. http://www.bat.org/help/spells.php?str=water_walking
+ 501. http://www.bat.org/help/spells.php?str=wilderness_location
+ 502. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 503. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 504. http://www.bat.org/help/skills.php?str=hear_noises
+ 505. http://www.bat.org/help/skills.php?str=location_memory
+ 506. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 507. http://www.bat.org/help/skills.php?str=quick_chant
+ 508. http://www.bat.org/help/skills.php?str=track
+ 509. http://www.bat.org/help/spells.php?str=create_food
+ 510. http://www.bat.org/help/spells.php?str=drain_pool
+ 511. http://www.bat.org/help/spells.php?str=earth_power
+ 512. http://www.bat.org/help/spells.php?str=flex_shield
+ 513. http://www.bat.org/help/spells.php?str=good_berry
+ 514. http://www.bat.org/help/spells.php?str=hoar_frost
+ 515. http://www.bat.org/help/spells.php?str=infravision
+ 516. http://www.bat.org/help/spells.php?str=regeneration
+ 517. http://www.bat.org/help/spells.php?str=replenish_energy
+ 518. http://www.bat.org/help/spells.php?str=runic_heal
+ 519. http://www.bat.org/help/spells.php?str=inquiry
+ 520. http://www.bat.org/help/spells.php?str=satiate_person
+ 521. http://www.bat.org/help/spells.php?str=see_invisible
+ 522. http://www.bat.org/help/spells.php?str=vine_mantle
+ 523. http://www.bat.org/help/spells.php?str=water_walking
+ 524. http://www.bat.org/help/spells.php?str=wilderness_location
+ 525. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 526. http://www.bat.org/help/spells.php?str=runic_heal
+ 527. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 528. http://www.bat.org/help/skills.php?str=hear_noises
+ 529. http://www.bat.org/help/skills.php?str=location_memory
+ 530. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 531. http://www.bat.org/help/skills.php?str=quick_chant
+ 532. http://www.bat.org/help/skills.php?str=track
+ 533. http://www.bat.org/help/spells.php?str=drain_pool
+ 534. http://www.bat.org/help/spells.php?str=earth_power
+ 535. http://www.bat.org/help/spells.php?str=flex_shield
+ 536. http://www.bat.org/help/spells.php?str=good_berry
+ 537. http://www.bat.org/help/spells.php?str=hoar_frost
+ 538. http://www.bat.org/help/spells.php?str=infravision
+ 539. http://www.bat.org/help/spells.php?str=regeneration
+ 540. http://www.bat.org/help/spells.php?str=replenish_energy
+ 541. http://www.bat.org/help/spells.php?str=runic_heal
+ 542. http://www.bat.org/help/spells.php?str=inquiry
+ 543. http://www.bat.org/help/spells.php?str=satiate_person
+ 544. http://www.bat.org/help/spells.php?str=see_invisible
+ 545. http://www.bat.org/help/spells.php?str=transfer_mana
+ 546. http://www.bat.org/help/spells.php?str=vine_mantle
+ 547. http://www.bat.org/help/spells.php?str=water_walking
+ 548. http://www.bat.org/help/spells.php?str=wilderness_location
+ 549. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 550. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 551. http://www.bat.org/help/skills.php?str=hear_noises
+ 552. http://www.bat.org/help/skills.php?str=location_memory
+ 553. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 554. http://www.bat.org/help/skills.php?str=quick_chant
+ 555. http://www.bat.org/help/skills.php?str=track
+ 556. http://www.bat.org/help/spells.php?str=drain_pool
+ 557. http://www.bat.org/help/spells.php?str=earth_power
+ 558. http://www.bat.org/help/spells.php?str=flex_shield
+ 559. http://www.bat.org/help/spells.php?str=good_berry
+ 560. http://www.bat.org/help/spells.php?str=hoar_frost
+ 561. http://www.bat.org/help/spells.php?str=regeneration
+ 562. http://www.bat.org/help/spells.php?str=replenish_energy
+ 563. http://www.bat.org/help/spells.php?str=inquiry
+ 564. http://www.bat.org/help/spells.php?str=satiate_person
+ 565. http://www.bat.org/help/spells.php?str=see_invisible
+ 566. http://www.bat.org/help/spells.php?str=transfer_mana
+ 567. http://www.bat.org/help/spells.php?str=vine_mantle
+ 568. http://www.bat.org/help/spells.php?str=water_walking
+ 569. http://www.bat.org/help/spells.php?str=wilderness_location
+ 570. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 571. http://www.bat.org/help/skills.php?str=hear_noises
+ 572. http://www.bat.org/help/skills.php?str=location_memory
+ 573. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 574. http://www.bat.org/help/skills.php?str=quick_chant
+ 575. http://www.bat.org/help/skills.php?str=track
+ 576. http://www.bat.org/help/spells.php?str=drain_pool
+ 577. http://www.bat.org/help/spells.php?str=earth_power
+ 578. http://www.bat.org/help/spells.php?str=earthquake
+ 579. http://www.bat.org/help/spells.php?str=flex_shield
+ 580. http://www.bat.org/help/spells.php?str=good_berry
+ 581. http://www.bat.org/help/spells.php?str=hoar_frost
+ 582. http://www.bat.org/help/spells.php?str=regeneration
+ 583. http://www.bat.org/help/spells.php?str=reincarnation
+ 584. http://www.bat.org/help/spells.php?str=inquiry
+ 585. http://www.bat.org/help/spells.php?str=replenish_energy
+ 586. http://www.bat.org/help/spells.php?str=see_invisible
+ 587. http://www.bat.org/help/spells.php?str=transfer_mana
+ 588. http://www.bat.org/help/spells.php?str=vine_mantle
+ 589. http://www.bat.org/help/spells.php?str=water_walking
+ 590. http://www.bat.org/help/spells.php?str=wilderness_location
+ 591. http://www.bat.org/help/spells.php?str=wither_flesh
+ 592. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 593. http://www.bat.org/help/spells.php?str=drain_pool
+ 594. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 595. http://www.bat.org/help/skills.php?str=quick_chant
+ 596. http://www.bat.org/help/skills.php?str=track
+ 597. http://www.bat.org/help/spells.php?str=drain_pool
+ 598. http://www.bat.org/help/spells.php?str=earth_power
+ 599. http://www.bat.org/help/spells.php?str=earthquake
+ 600. http://www.bat.org/help/spells.php?str=flex_shield
+ 601. http://www.bat.org/help/spells.php?str=good_berry
+ 602. http://www.bat.org/help/spells.php?str=hoar_frost
+ 603. http://www.bat.org/help/spells.php?str=regeneration
+ 604. http://www.bat.org/help/spells.php?str=reincarnation
+ 605. http://www.bat.org/help/spells.php?str=replenish_energy
+ 606. http://www.bat.org/help/spells.php?str=see_invisible
+ 607. http://www.bat.org/help/spells.php?str=transfer_mana
+ 608. http://www.bat.org/help/spells.php?str=vine_mantle
+ 609. http://www.bat.org/help/spells.php?str=water_walking
+ 610. http://www.bat.org/help/spells.php?str=wilderness_location
+ 611. http://www.bat.org/help/spells.php?str=wither_flesh
+ 612. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 613. http://www.bat.org/help/spells.php?str=earth_power
+ 614. http://www.bat.org/help/spells.php?str=replenish_energy
+ 615. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 616. http://www.bat.org/help/skills.php?str=quick_chant
+ 617. http://www.bat.org/help/skills.php?str=track
+ 618. http://www.bat.org/help/spells.php?str=earth_power
+ 619. http://www.bat.org/help/spells.php?str=earthquake
+ 620. http://www.bat.org/help/spells.php?str=flex_shield
+ 621. http://www.bat.org/help/spells.php?str=good_berry
+ 622. http://www.bat.org/help/spells.php?str=hoar_frost
+ 623. http://www.bat.org/help/spells.php?str=regeneration
+ 624. http://www.bat.org/help/spells.php?str=reincarnation
+ 625. http://www.bat.org/help/spells.php?str=replenish_energy
+ 626. http://www.bat.org/help/spells.php?str=see_invisible
+ 627. http://www.bat.org/help/spells.php?str=transfer_mana
+ 628. http://www.bat.org/help/spells.php?str=vine_mantle
+ 629. http://www.bat.org/help/spells.php?str=water_walking
+ 630. http://www.bat.org/help/spells.php?str=wither_flesh
+ 631. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 632. http://www.bat.org/help/spells.php?str=vine_mantle
+ 633. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 634. http://www.bat.org/help/skills.php?str=quick_chant
+ 635. http://www.bat.org/help/spells.php?str=earthquake
+ 636. http://www.bat.org/help/spells.php?str=flex_shield
+ 637. http://www.bat.org/help/spells.php?str=good_berry
+ 638. http://www.bat.org/help/spells.php?str=hoar_frost
+ 639. http://www.bat.org/help/spells.php?str=regeneration
+ 640. http://www.bat.org/help/spells.php?str=reincarnation
+ 641. http://www.bat.org/help/spells.php?str=see_invisible
+ 642. http://www.bat.org/help/spells.php?str=transfer_mana
+ 643. http://www.bat.org/help/spells.php?str=vine_mantle
+ 644. http://www.bat.org/help/spells.php?str=water_walking
+ 645. http://www.bat.org/help/spells.php?str=wither_flesh
+ 646. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 647. http://www.bat.org/help/spells.php?str=hoar_frost
+ 648. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 649. http://www.bat.org/help/skills.php?str=quick_chant
+ 650. http://www.bat.org/help/spells.php?str=earthquake
+ 651. http://www.bat.org/help/spells.php?str=flex_shield
+ 652. http://www.bat.org/help/spells.php?str=good_berry
+ 653. http://www.bat.org/help/spells.php?str=hoar_frost
+ 654. http://www.bat.org/help/spells.php?str=regeneration
+ 655. http://www.bat.org/help/spells.php?str=reincarnation
+ 656. http://www.bat.org/help/spells.php?str=see_invisible
+ 657. http://www.bat.org/help/spells.php?str=transfer_mana
+ 658. http://www.bat.org/help/spells.php?str=water_walking
+ 659. http://www.bat.org/help/spells.php?str=wither_flesh
+ 660. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 661. http://www.bat.org/help/spells.php?str=transfer_mana
+ 662. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 663. http://www.bat.org/help/skills.php?str=quick_chant
+ 664. http://www.bat.org/help/spells.php?str=earthquake
+ 665. http://www.bat.org/help/spells.php?str=flex_shield
+ 666. http://www.bat.org/help/spells.php?str=regeneration
+ 667. http://www.bat.org/help/spells.php?str=reincarnation
+ 668. http://www.bat.org/help/spells.php?str=see_invisible
+ 669. http://www.bat.org/help/spells.php?str=transfer_mana
+ 670. http://www.bat.org/help/spells.php?str=water_walking
+ 671. http://www.bat.org/help/spells.php?str=wither_flesh
+ 672. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 673. http://www.bat.org/help/spells.php?str=flex_shield
+ 674. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 675. http://www.bat.org/help/skills.php?str=quick_chant
+ 676. http://www.bat.org/help/spells.php?str=earthquake
+ 677. http://www.bat.org/help/spells.php?str=flex_shield
+ 678. http://www.bat.org/help/spells.php?str=regeneration
+ 679. http://www.bat.org/help/spells.php?str=reincarnation
+ 680. http://www.bat.org/help/spells.php?str=see_invisible
+ 681. http://www.bat.org/help/spells.php?str=wither_flesh
+ 682. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 683. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 684. http://www.bat.org/help/spells.php?str=earthquake
+ 685. http://www.bat.org/help/spells.php?str=wither_flesh
+ 686. http://www.bat.org/help/skills.php?str=mastery_of_runic_sigla
+ 687. http://www.bat.org/help/spells.php?str=earthquake
+ 688. http://www.bat.org/help/spells.php?str=reincarnation
+ 689. http://www.bat.org/help/spells.php?str=wither_flesh
+ 690. http://www.bat.org/help/spells.php?str=natural_transformation
+ 691. http://www.bat.org/help/spells.php?str=blessed_warmth
+ 692. http://www.bat.org/help/spells.php?str=summon_storm
+ 693. http://www.bat.org/help/spells.php?str=earth_blood
+ 694. http://www.bat.org/help/spells.php?str=gust_of_wind
+ 695. http://www.bat.org/help/guilds.php
+ 696. mailto:webmaster@bat.org
+
+   Hidden links:
+ 697. http://www.bat.org/bat.php

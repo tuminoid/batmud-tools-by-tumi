@@ -1,0 +1,57 @@
+Wolfmen
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 15  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Compare                       |  50 |  85 | 100 |     2344 |
+| Controlled panic              |   0 |  85 |  50 |       24 |
+| Riding                        |  30 |  85 |  50 |     1221 |
+| Cast generic                  |  75 |  85 | 100 |    36490 |
+| Cast help                     |  15 |  85 | 100 |      343 |
+| Cast information              |   5 |  85 | 100 |       94 |
+| Attack                        |  80 |  85 |  90 |    61317 |
+| Shield bash                   |   0 |  85 |  80 |      128 |
+| Axes                          |   0 |  85 |  80 |      139 |
+| Knowledge of identification   |  10 |  85 | 100 |      321 |
+| Bludgeons                     |  75 |  85 |  80 |   104545 |
+| Combat riding                 |  35 |  85 |  75 |     5390 |
+| Mighty charge                 |  50 |  85 | 100 |    18331 |
+| Rescue                        |   0 |  85 |  75 |      152 |
+| Find weakness                 |   0 |  85 |  50 |      155 |
+| Long blades                   |   0 |  85 |  80 |      158 |
+| Riposte                       |  40 |  85 | 100 |     9361 |
+| Combat damage analysis        |   0 |  85 | 100 |      190 |
+| Elite guard                   |   0 |  85 | 100 |      199 |
+| Take prisoner                 |  55 |  85 | 100 |    36113 |
+| Leadership                    |   0 |  85 |  50 |      202 |
+| Defiance                      |  40 |  85 | 100 |    11720 |
+| Discipline                    |   0 |  85 | 100 |      213 |
+| Enhance criticals             |   0 |  85 |  60 |      225 |
+| Crushing blow                 |  50 |  85 | 100 |    28705 |
+| Power slash                   |   0 |  85 | 100 |      228 |
+| Parry                         |  50 |  85 |  55 |    29489 |
+| Mastery of mounted combat     |   5 |  85 |  75 |      308 |
+| Stunned maneuvers             |   0 |  85 | 100 |      261 |
+| Combat sense                  |  50 |  85 |  80 |    34517 |
+| Forceful blow                 |  50 |  85 |  50 |    (n/a) |
+| Precise slash                 |   0 |  85 |  -  |    (n/a) |
+| Relentless                    |   0 |  85 |  -  |    (n/a) |
+| Dodge                         |  40 |  85 |  40 |    (n/a) |
+| Skullsplitter                 |  50 |  85 |  50 |    (n/a) |
+| Turnblade                     |   0 |  85 |  40 |      309 |
+| Spell parry                   |   0 |  85 |  50 |      335 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 15  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Arms lore                     |  25 |  78 |  50 |     1648 |
+| Summon mount                  |   0 |  78 | 100 |      118 |
+| Heal mount                    |  35 |  78 | 100 |     4817 |
+| Noble mount                   |   0 |  78 | 100 |      199 |
+| Protect mount                 |   0 |  78 | 100 |      199 |
+| Summon squire                 |   0 |  78 | 100 |      199 |
+| Monster lore                  |   0 |  78 | 100 |      335 |
+`-----------------------------------------------------------'

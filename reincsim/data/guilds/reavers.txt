@@ -1,0 +1,2023 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                    [fonter.php?str=The+Cult+of+Reavers]
+
+                            The Cult of Reavers
+
+   Command: reaver
+   Creators: [22]Shinarae, [23]Firefox
+   Maximum level: 30
+   Description:
+   The reavers are a dangerous, possibly insane religion that thrives on
+   the
+   death, destruction, pain, and suffering of others weaker than
+   themselves,
+   while at the same time insuring their own survival. They roam the
+   land,
+   smashing art, murdering families, and burning down villages. Nothing
+   is sacred
+   to a reaver except himself and his sacrifices to his dark lord.
+
+                                New Member
+            Alignment must be evil
+            Background must be evil_religious
+            May train skill [24]Attack to 20%
+            May train skill [25]Axes to 10%
+            May train skill [26]Polearms to 10%
+            May train skill [27]Consider to 5%
+            May train skill [28]Appraise to 5%
+            May train skill [29]Cast generic to 10%
+            May train skill [30]Cast destruction to 30%
+            May train skill [31]Reave shield to 10%
+            May train skill [32]Mana control to 5%
+            May train skill [33]Scythe swipe to 20%
+            May train skill [34]Prayer to destruction to 20%
+            May study spell [35]Word of attrition to 30%
+            May study spell [36]Darkness to 10%
+            Receive the symbol of the reavers
+            Receive the Touch of Azzarakk for ongoing destruction
+
+                                  Level 2
+               May train skill [37]Attack to 25%
+               May train skill [38]Axes to 20%
+               May train skill [39]Polearms to 20%
+               May train skill [40]Consider to 10%
+               May train skill [41]Appraise to 10%
+               May train skill [42]Cast generic to 20%
+               May train skill [43]Cast destruction to 40%
+               May train skill [44]Reave shield to 20%
+               May train skill [45]Mana control to 10%
+               May train skill [46]Scythe swipe to 30%
+               May train skill [47]Prayer to destruction to 30%
+               May study spell [48]Word of attrition to 40%
+               May study spell [49]Darkness to 20%
+               May study spell [50]Call scythe to 10%
+               May study spell [51]Destroy water to 10%
+
+                                  Level 3
+               May train skill [52]Attack to 30%
+               May train skill [53]Axes to 30%
+               May train skill [54]Polearms to 30%
+               May train skill [55]Consider to 15%
+               May train skill [56]Appraise to 15%
+               May train skill [57]Cast generic to 30%
+               May train skill [58]Cast destruction to 50%
+               May train skill [59]Reave shield to 30%
+               May train skill [60]Mana control to 15%
+               May train skill [61]Scythe swipe to 40%
+               May train skill [62]Prayer to destruction to 40%
+               May train skill [63]Discipline to 5%
+               May study spell [64]Word of attrition to 50%
+               May study spell [65]Darkness to 30%
+               May study spell [66]Call scythe to 20%
+               May study spell [67]Word of spite to 10%
+               May study spell [68]Detect race to 20%
+               May study spell [69]Destroy water to 20%
+
+                                         Level 4
+               May train skill [70]Attack to 35%
+               May train skill [71]Axes to 40%
+               May train skill [72]Polearms to 40%
+               May train skill [73]Consider to 20%
+               May train skill [74]Appraise to 20%
+               May train skill [75]Cast generic to 40%
+               May train skill [76]Cast destruction to 60%
+               May train skill [77]Reave shield to 40%
+               May train skill [78]Mana control to 20%
+               May train skill [79]Scythe swipe to 50%
+               May train skill [80]Prayer to destruction to 50%
+     May train skill [81]Reave weapon to 10%, special requirements:
+       * Has trained skill [82]Reave shield to at least 10%
+               May study spell [83]Word of attrition to 60%
+               May study spell [84]Darkness to 40%
+               May study spell [85]Call scythe to 30%
+               May study spell [86]Word of spite to 20%
+               May study spell [87]Detect race to 40%
+               May study spell [88]Destroy water to 30%
+
+                                         Level 5
+               May train skill [89]Attack to 40%
+               May train skill [90]Axes to 50%
+               May train skill [91]Polearms to 50%
+               May train skill [92]Consider to 25%
+               May train skill [93]Appraise to 25%
+               May train skill [94]Cast generic to 50%
+               May train skill [95]Cast destruction to 70%
+               May train skill [96]Reave shield to 50%
+               May train skill [97]Mana control to 25%
+               May train skill [98]Scythe swipe to 60%
+               May train skill [99]Prayer to destruction to 60%
+               May train skill [100]Discipline to 10%
+     May train skill [101]Reave weapon to 20%, special requirements:
+       * Has trained skill [102]Reave shield to at least 20%
+               May train skill [103]Bash to 10%
+               May study spell [104]Word of attrition to 70%
+               May study spell [105]Darkness to 50%
+               May study spell [106]Call scythe to 40%
+               May study spell [107]Call armour to 10%
+               May study spell [108]Word of spite to 30%
+               May study spell [109]Detect race to 60%
+               May study spell [110]Destroy water to 40%
+               May study spell [111]Infravision to 20%
+
+                                        Level 6
+              May train skill [112]Attack to 45%
+              May train skill [113]Axes to 60%
+              May train skill [114]Polearms to 60%
+              May train skill [115]Consider to 30%
+              May train skill [116]Appraise to 30%
+              May train skill [117]Cast generic to 60%
+              May train skill [118]Cast destruction to 80%
+              May train skill [119]Reave shield to 60%
+              May train skill [120]Mana control to 30%
+              May train skill [121]Scythe swipe to 70%
+              May train skill [122]Prayer to destruction to 70%
+     May train skill [123]Reave weapon to 30%, special requirements:
+       * Has trained skill [124]Reave shield to at least 30%
+              May train skill [125]Bash to 20%
+              May train skill [126]Parry to 3%
+              May train skill [127]Dodge to 5%
+              May train skill [128]Throw weight to 5%
+              May study spell [129]Word of attrition to 80%
+              May study spell [130]Darkness to 60%
+              May study spell [131]Call scythe to 50%
+              May study spell [132]Call armour to 20%
+              May study spell [133]Word of spite to 40%
+              May study spell [134]Detect race to 80%
+              May study spell [135]Destroy water to 50%
+              May study spell [136]Infravision to 30%
+              May study spell [137]Immolate scythe to 10%
+              May study spell [138]Reaping of bile to 10%
+
+                                        Level 7
+              May train skill [139]Attack to 50%
+              May train skill [140]Axes to 70%
+              May train skill [141]Polearms to 70%
+              May train skill [142]Consider to 35%
+              May train skill [143]Appraise to 35%
+              May train skill [144]Cast generic to 70%
+              May train skill [145]Cast destruction to 90%
+              May train skill [146]Reave shield to 70%
+              May train skill [147]Mana control to 35%
+              May train skill [148]Scythe swipe to 80%
+              May train skill [149]Prayer to destruction to 80%
+              May train skill [150]Discipline to 15%
+     May train skill [151]Reave weapon to 40%, special requirements:
+       * Has trained skill [152]Reave shield to at least 40%
+              May train skill [153]Bash to 30%
+              May train skill [154]Parry to 6%
+              May train skill [155]Throw weight to 10%
+     May train skill [156]Reave armour to 10%, special requirements:
+       * Has trained skill [157]Reave weapon to at least 10%
+              May study spell [158]Word of attrition to 90%
+              May study spell [159]Darkness to 70%
+              May study spell [160]Call scythe to 60%
+              May study spell [161]Call armour to 30%
+              May study spell [162]Word of spite to 50%
+              May study spell [163]Detect race to racial maximum
+              May study spell [164]Destroy water to 60%
+              May study spell [165]Infravision to 40%
+              May study spell [166]Immolate scythe to 20%
+              May study spell [167]Reaping of bile to 20%
+
+                                       Level 8
+           May train skill [168]Attack to 55%
+           May train skill [169]Axes to 80%
+           May train skill [170]Polearms to 80%
+           May train skill [171]Consider to 40%
+           May train skill [172]Appraise to 40%
+           May train skill [173]Cast generic to 80%
+           May train skill [174]Cast destruction to racial maximum
+           May train skill [175]Reave shield to 80%
+           May train skill [176]Mana control to 40%
+           May train skill [177]Scythe swipe to 90%
+           May train skill [178]Prayer to destruction to 90%
+     May train skill [179]Reave weapon to 50%, special requirements:
+       * Has trained skill [180]Reave shield to at least 50%
+           May train skill [181]Bash to 40%
+           May train skill [182]Parry to 9%
+           May train skill [183]Throw weight to 15%
+     May train skill [184]Reave armour to 20%, special requirements:
+       * Has trained skill [185]Reave weapon to at least 20%
+           May train skill [186]Dodge to 10%
+     May train skill [187]Rampant cutting to 20%, special requirements:
+       * Has trained skill [188]Scythe swipe to at least 20%
+           May study spell [189]Word of attrition to racial maximum
+           May study spell [190]Call scythe to 70%
+           May study spell [191]Call armour to 40%
+           May study spell [192]Word of spite to 60%
+           May study spell [193]Destroy water to 70%
+           May study spell [194]Infravision to 50%
+           May study spell [195]Immolate scythe to 30%
+           May study spell [196]Reaping of bile to 30%
+
+                                     Level 9
+         May train skill [197]Attack to 60%
+         May train skill [198]Axes to 90%
+         May train skill [199]Polearms to 90%
+         May train skill [200]Consider to 45%
+         May train skill [201]Appraise to 45%
+         May train skill [202]Cast generic to 90%
+         May train skill [203]Reave shield to 90%
+         May train skill [204]Mana control to 45%
+         May train skill [205]Scythe swipe to racial maximum
+         May train skill [206]Prayer to destruction to racial maximum
+         May train skill [207]Discipline to 20%
+     May train skill [208]Reave weapon to 60%, special requirements:
+       * Has trained skill [209]Reave shield to at least 50%
+         May train skill [210]Bash to 50%
+         May train skill [211]Parry to 12%
+         May train skill [212]Throw weight to 20%
+     May train skill [213]Reave armour to 30%, special requirements:
+       * Has trained skill [214]Reave weapon to at least 30%
+     May train skill [215]Rampant cutting to 30%, special requirements:
+       * Has trained skill [216]Scythe swipe to at least 30%
+         May study spell [217]Call scythe to 80%
+         May study spell [218]Call armour to 50%
+         May study spell [219]Word of spite to 70%
+         May study spell [220]Destroy water to 80%
+         May study spell [221]Infravision to 60%
+         May study spell [222]Immolate scythe to 40%
+         May study spell [223]Reaping of bile to 40%
+
+                                      Level 10
+           Has trained skill [224]Attack to at least 45%
+           Has trained skill [225]Cast destruction to at least 50%
+           May train skill [226]Attack to 65%
+           May train skill [227]Consider to 50%
+           May train skill [228]Appraise to 50%
+           May train skill [229]Cast generic to racial maximum
+           May train skill [230]Reave shield to racial maximum
+           May train skill [231]Mana control to 50%
+     May train skill [232]Reave weapon to 70%, special requirements:
+       * Has trained skill [233]Reave shield to at least 50%
+           May train skill [234]Bash to 60%
+           May train skill [235]Parry to 15%
+           May train skill [236]Throw weight to 25%
+     May train skill [237]Reave armour to 40%, special requirements:
+       * Has trained skill [238]Reave weapon to at least 40%
+           May train skill [239]Dodge to 15%
+     May train skill [240]Rampant cutting to 40%, special requirements:
+       * Has trained skill [241]Scythe swipe to at least 40%
+           May train skill [242]Riot to 10%
+           May train skill [243]Combat sense to 5%
+           May train skill [244]Endurance to 10%
+           May study spell [245]Call scythe to 90%
+           May study spell [246]Call armour to 60%
+           May study spell [247]Word of spite to 80%
+           May study spell [248]Destroy water to racial maximum
+           May study spell [249]Infravision to 70%
+           May study spell [250]Immolate scythe to 50%
+           May study spell [251]Reaping of bile to 50%
+
+                                         Level 11
+              May train skill [252]Attack to 70%
+              May train skill [253]Appraise to 55%
+              May train skill [254]Discipline to 25%
+     May train skill [255]Reave weapon to 80%, special requirements:
+       * Has trained skill [256]Reave shield to at least 50%
+              May train skill [257]Bash to 70%
+              May train skill [258]Parry to 18%
+              May train skill [259]Throw weight to 30%
+     May train skill [260]Reave armour to 50%, special requirements:
+       * Has trained skill [261]Reave weapon to at least 50%
+     May train skill [262]Rampant cutting to 50%, special requirements:
+       * Has trained skill [263]Scythe swipe to at least 50%
+              May train skill [264]Riot to 20%
+              May train skill [265]Combat sense to 10%
+     May train skill [266]True reaving to 5%, special requirements:
+       * Has trained skill [267]Reave armour to at least 5%
+              May train skill [268]Way of the scythe to 5%
+              May study spell [269]Call scythe to racial maximum
+              May study spell [270]Call armour to 70%
+              May study spell [271]Word of spite to 90%
+              May study spell [272]Immolate scythe to 60%
+              May study spell [273]Reaping of bile to 60%
+              May study spell [274]Shattered feast to 10%
+
+                                        Level 12
+             May train skill [275]Attack to 85%
+             May train skill [276]Appraise to 60%
+     May train skill [277]Reave weapon to 90%, special requirements:
+       * Has trained skill [278]Reave shield to at least 50%
+             May train skill [279]Bash to 80%
+             May train skill [280]Parry to 21%
+             May train skill [281]Throw weight to 35%
+     May train skill [282]Reave armour to 60%, special requirements:
+       * Has trained skill [283]Reave weapon to at least 50%
+             May train skill [284]Dodge to 20%
+     May train skill [285]Rampant cutting to 60%, special requirements:
+       * Has trained skill [286]Scythe swipe to at least 50%
+             May train skill [287]Riot to 30%
+             May train skill [288]Combat sense to 15%
+     May train skill [289]True reaving to 10%, special requirements:
+       * Has trained skill [290]Reave armour to at least 10%
+             May train skill [291]Way of the scythe to 10%
+             May study spell [292]Call armour to 80%
+             May train skill [293]Infernal arc to 10%
+             May train skill [294]Corrosive cut to 10%
+             May train skill [295]Cleave to 5%
+             May train skill [296]Impale to 5%
+             May study spell [297]Word of spite to racial maximum
+             May study spell [298]Immolate scythe to 70%
+             May study spell [299]Reaping of bile to 70%
+             May study spell [300]Shattered feast to 20%
+
+                                            Level 13
+                May train skill [301]Attack to racial maximum
+                May train skill [302]Appraise to 65%
+                May train skill [303]Discipline to 30%
+     May train skill [304]Reave weapon to racial maximum, special
+   requirements:
+       * Has trained skill [305]Reave shield to at least 50%
+                May train skill [306]Bash to 90%
+                May train skill [307]Parry to 24%
+                May train skill [308]Throw weight to 40%
+     May train skill [309]Reave armour to 70%, special requirements:
+       * Has trained skill [310]Reave weapon to at least 50%
+     May train skill [311]Rampant cutting to 70%, special requirements:
+       * Has trained skill [312]Scythe swipe to at least 50%
+                May train skill [313]Riot to 40%
+                May train skill [314]Combat sense to 20%
+     May train skill [315]True reaving to 15%, special requirements:
+       * Has trained skill [316]Reave armour to at least 15%
+     May train skill [317]Way of the scythe to 15%, special requirements:
+       * Has trained skill [318]True reaving to at least 15%
+                May study spell [319]Call armour to 90%
+                May train skill [320]Infernal arc to 20%
+                May train skill [321]Corrosive cut to 20%
+                May train skill [322]Cleave to 10%
+                May train skill [323]Impale to 10%
+     May train skill [324]Combat damage analysis to 20%, special
+   requirements:
+       * Has trained skill [325]Consider to at least 40%
+                May study spell [326]Immolate scythe to 80%
+                May study spell [327]Reaping of bile to 80%
+                May study spell [328]Shattered feast to 30%
+     May study spell [329]Word of blasting to 30%, special requirements:
+       * Has studied spell [330]Word of attrition to at least 30%
+     May study spell [331]Word of slaughter to 30%, special requirements:
+       * Has studied spell [332]Word of spite to at least 30%
+
+                                          Level 14
+              May train skill [333]Bash to racial maximum
+              May train skill [334]Parry to 27%
+              May train skill [335]Throw weight to 45%
+     May train skill [336]Reave armour to 80%, special requirements:
+       * Has trained skill [337]Reave weapon to at least 50%
+              May train skill [338]Dodge to 25%
+     May train skill [339]Rampant cutting to 80%, special requirements:
+       * Has trained skill [340]Scythe swipe to at least 50%
+              May train skill [341]Riot to 50%
+              May train skill [342]Combat sense to 25%
+     May train skill [343]True reaving to 20%, special requirements:
+       * Has trained skill [344]Reave armour to at least 20%
+     May train skill [345]Way of the scythe to 20%, special requirements:
+       * Has trained skill [346]True reaving to at least 20%
+              May study spell [347]Call armour to racial maximum
+              May train skill [348]Corrosive cut to 30%
+              May train skill [349]Cleave to 15%
+              May train skill [350]Impale to 15%
+     May train skill [351]Combat damage analysis to 25%, special
+   requirements:
+       * Has trained skill [352]Consider to at least 40%
+              May train skill [353]Stun to 10%
+              May study spell [354]Immolate scythe to 90%
+              May study spell [355]Reaping of bile to 90%
+              May study spell [356]Shattered feast to 40%
+     May study spell [357]Word of blasting to 40%, special requirements:
+       * Has studied spell [358]Word of attrition to at least 40%
+     May study spell [359]Word of slaughter to 40%, special requirements:
+       * Has studied spell [360]Word of spite to at least 40%
+
+                                        Level 15
+            May train skill [361]Discipline to 35%
+            May train skill [362]Parry to 30%
+            May train skill [363]Throw weight to 50%
+     May train skill [364]Reave armour to 90%, special requirements:
+       * Has trained skill [365]Reave weapon to at least 50%
+     May train skill [366]Rampant cutting to 90%, special requirements:
+       * Has trained skill [367]Scythe swipe to at least 50%
+            May train skill [368]Riot to 60%
+            May train skill [369]Combat sense to 30%
+     May train skill [370]True reaving to 25%, special requirements:
+       * Has trained skill [371]Reave armour to at least 25%
+     May train skill [372]Way of the scythe to 25%, special requirements:
+       * Has trained skill [373]True reaving to at least 25%
+            May train skill [374]Infernal arc to 40%
+            May train skill [375]Corrosive cut to 40%
+            May train skill [376]Cleave to 20%
+            May train skill [377]Impale to 20%
+     May train skill [378]Combat damage analysis to 30%, special
+   requirements:
+       * Has trained skill [379]Consider to at least 40%
+            May train skill [380]Stun to 15%
+     May train skill [381]Reaver strike to 20%, special requirements:
+       * Has trained skill [382]Rampant cutting to at least 20%
+            May train skill [383]Enhance criticals to 5%
+            May study spell [384]Immolate scythe to racial maximum
+            May study spell [385]Reaping of bile to racial maximum
+            May study spell [386]Shattered feast to 50%
+     May study spell [387]Word of blasting to 50%, special requirements:
+       * Has studied spell [388]Word of attrition to at least 50%
+     May study spell [389]Word of slaughter to 50%, special requirements:
+       * Has studied spell [390]Word of spite to at least 50%
+            May study spell [391]Glory of destruction to 10%
+
+                                          Level 16
+              May train skill [392]Parry to 33%
+              May train skill [393]Throw weight to 55%
+     May train skill [394]Reave armour to racial maximum, special
+   requirements:
+       * Has trained skill [395]Reave weapon to at least 50%
+     May train skill [396]Dodge to 30%, special requirements:
+       * Has trained skill [397]True reaving to at least 50%
+     May train skill [398]Rampant cutting to racial maximum, special
+   requirements:
+       * Has trained skill [399]Scythe swipe to at least 50%
+              May train skill [400]Riot to 70%
+              May train skill [401]Combat sense to 35%
+     May train skill [402]True reaving to 30%, special requirements:
+       * Has trained skill [403]Reave armour to at least 30%
+     May train skill [404]Way of the scythe to 30%, special requirements:
+       * Has trained skill [405]True reaving to at least 30%
+              May train skill [406]Infernal arc to 50%
+              May train skill [407]Corrosive cut to 50%
+              May train skill [408]Cleave to 25%
+              May train skill [409]Impale to 25%
+     May train skill [410]Combat damage analysis to 35%, special
+   requirements:
+       * Has trained skill [411]Consider to at least 40%
+              May train skill [412]Stun to 20%
+     May train skill [413]Reaver strike to 30%, special requirements:
+       * Has trained skill [414]Rampant cutting to at least 30%
+              May train skill [415]Enhance criticals to 10%
+              May train skill [416]Mastery of destruction to 5%
+              May study spell [417]Shattered feast to 60%
+     May study spell [418]Word of blasting to 60%, special requirements:
+       * Has studied spell [419]Word of attrition to at least 50%
+     May study spell [420]Word of slaughter to 60%, special requirements:
+       * Has studied spell [421]Word of spite to at least 50%
+              May study spell [422]Glory of destruction to 20%
+
+                                          Level 17
+              May train skill [423]Discipline to 40%
+              May train skill [424]Parry to 36%
+              May train skill [425]Throw weight to 60%
+              May train skill [426]Riot to 80%
+              May train skill [427]Combat sense to 40%
+     May train skill [428]True reaving to 35%, special requirements:
+       * Has trained skill [429]Reave armour to at least 35%
+     May train skill [430]Way of the scythe to 35%, special requirements:
+       * Has trained skill [431]True reaving to at least 35%
+       * Has studied spell [432]Blood seeker to at least 35%
+              May train skill [433]Infernal arc to 60%
+              May train skill [434]Corrosive cut to 60%
+              May train skill [435]Cleave to 30%
+              May train skill [436]Impale to 30%
+     May train skill [437]Combat damage analysis to 40%, special
+   requirements:
+       * Has trained skill [438]Consider to at least 40%
+              May train skill [439]Stun to 25%
+     May train skill [440]Reaver strike to 40%, special requirements:
+       * Has trained skill [441]Rampant cutting to at least 40%
+              May train skill [442]Enhance criticals to 15%
+              May train skill [443]Mastery of destruction to 10%
+              May train skill [444]Stunned maneuvers to 5%
+              May train skill [445]Tumbling attack to 5%
+              May study spell [446]Shattered feast to 70%
+     May study spell [447]Word of blasting to 70%, special requirements:
+       * Has studied spell [448]Word of attrition to at least 50%
+     May study spell [449]Word of slaughter to 70%, special requirements:
+       * Has studied spell [450]Word of spite to at least 50%
+              May study spell [451]Glory of destruction to 30%
+
+                                          Level 18
+              May train skill [452]Parry to 39%
+              May train skill [453]Throw weight to 65%
+     May train skill [454]Dodge to 35%, special requirements:
+       * Has trained skill [455]True reaving to at least 50%
+              May train skill [456]Riot to 90%
+              May train skill [457]Combat sense to 45%
+     May train skill [458]True reaving to 40%, special requirements:
+       * Has trained skill [459]Reave armour to at least 40%
+     May train skill [460]Way of the scythe to 40%, special requirements:
+       * Has trained skill [461]True reaving to at least 40%
+       * Has studied spell [462]Blood seeker to at least 40%
+              May train skill [463]Infernal arc to 70%
+              May train skill [464]Corrosive cut to 70%
+              May train skill [465]Cleave to 35%
+              May train skill [466]Impale to 35%
+     May train skill [467]Combat damage analysis to 45%, special
+   requirements:
+       * Has trained skill [468]Consider to at least 40%
+              May train skill [469]Stun to 30%
+     May train skill [470]Reaver strike to 50%, special requirements:
+       * Has trained skill [471]Rampant cutting to at least 50%
+              May train skill [472]Enhance criticals to 20%
+              May train skill [473]Mastery of destruction to 15%
+              May train skill [474]Stunned maneuvers to 10%
+              May train skill [475]Tumbling attack to 10%
+     May train skill [476]Wrath of hells wind to 10%, special
+   requirements:
+       * Has trained skill [477]Infernal arc to at least 10%
+     May train skill [478]Breath of doom to 10%, special requirements:
+       * Has trained skill [479]Corrosive cut to at least 10%
+              May study spell [480]Shattered feast to 80%
+     May study spell [481]Word of blasting to 80%, special requirements:
+       * Has studied spell [482]Word of attrition to at least 50%
+     May study spell [483]Word of slaughter to 80%, special requirements:
+       * Has studied spell [484]Word of spite to at least 50%
+              May study spell [485]Glory of destruction to 40%
+     May study spell [486]Word of destruction to 30%, special
+   requirements:
+       * Has studied spell [487]Word of blasting to at least 30%
+     May study spell [488]Word of genocide to 30%, special requirements:
+       * Has studied spell [489]Word of slaughter to at least 30%
+              May study spell [490]Blood seeker to 10%
+
+                                          Level 19
+              May train skill [491]Discipline to 45%
+              May train skill [492]Parry to 42%
+              May train skill [493]Throw weight to 70%
+              May train skill [494]Riot to racial maximum
+              May train skill [495]Combat sense to 50%
+     May train skill [496]True reaving to 45%, special requirements:
+       * Has trained skill [497]Reave armour to at least 45%
+     May train skill [498]Way of the scythe to 45%, special requirements:
+       * Has trained skill [499]True reaving to at least 45%
+       * Has studied spell [500]Blood seeker to at least 45%
+              May train skill [501]Infernal arc to 80%
+              May train skill [502]Corrosive cut to 80%
+              May train skill [503]Cleave to 40%
+              May train skill [504]Impale to 40%
+     May train skill [505]Combat damage analysis to 50%, special
+   requirements:
+       * Has trained skill [506]Consider to at least 40%
+              May train skill [507]Stun to 35%
+     May train skill [508]Reaver strike to 60%, special requirements:
+       * Has trained skill [509]Rampant cutting to at least 50%
+              May train skill [510]Enhance criticals to 25%
+              May train skill [511]Mastery of destruction to 20%
+              May train skill [512]Stunned maneuvers to 15%
+              May train skill [513]Tumbling attack to 15%
+     May train skill [514]Wrath of hells wind to 20%, special
+   requirements:
+       * Has trained skill [515]Infernal arc to at least 20%
+     May train skill [516]Breath of doom to 20%, special requirements:
+       * Has trained skill [517]Corrosive cut to at least 20%
+              May study spell [518]Shattered feast to 90%
+     May study spell [519]Word of blasting to 90%, special requirements:
+       * Has studied spell [520]Word of attrition to at least 50%
+     May study spell [521]Word of slaughter to 90%, special requirements:
+       * Has studied spell [522]Word of spite to at least 50%
+              May study spell [523]Glory of destruction to 50%
+     May study spell [524]Word of destruction to 40%, special
+   requirements:
+       * Has studied spell [525]Word of blasting to at least 40%
+     May study spell [526]Word of genocide to 40%, special requirements:
+       * Has studied spell [527]Word of slaughter to at least 40%
+              May study spell [528]Blood seeker to 20%
+
+                                        Level 20
+            Has trained skill [529]Bash to at least 50%
+            Has studied spell [530]Shattered feast to at least 50%
+            May train skill [531]Parry to 45%
+            May train skill [532]Throw weight to 75%
+     May train skill [533]Dodge to 40%, special requirements:
+       * Has trained skill [534]True reaving to at least 50%
+            May train skill [535]Combat sense to 55%
+     May train skill [536]True reaving to 50%, special requirements:
+       * Has trained skill [537]Reave armour to at least 50%
+     May train skill [538]Way of the scythe to 50%, special requirements:
+       * Has trained skill [539]True reaving to at least 50%
+       * Has studied spell [540]Blood seeker to at least 50%
+            May train skill [541]Infernal arc to 90%
+            May train skill [542]Corrosive cut to 90%
+            May train skill [543]Cleave to 45%
+            May train skill [544]Impale to 45%
+     May train skill [545]Combat damage analysis to 55%, special
+   requirements:
+       * Has trained skill [546]Consider to at least 40%
+            May train skill [547]Stun to 40%
+     May train skill [548]Reaver strike to 70%, special requirements:
+       * Has trained skill [549]Rampant cutting to at least 50%
+            May train skill [550]Enhance criticals to 30%
+            May train skill [551]Mastery of destruction to 25%
+            May train skill [552]Stunned maneuvers to 20%
+            May train skill [553]Tumbling attack to 20%
+     May train skill [554]Wrath of hells wind to 30%, special
+   requirements:
+       * Has trained skill [555]Infernal arc to at least 30%
+     May train skill [556]Breath of doom to 30%, special requirements:
+       * Has trained skill [557]Corrosive cut to at least 30%
+     May train skill [558]Rebellion to 10%, special requirements:
+       * Has trained skill [559]Riot to at least 10%
+            May train skill [560]Riposte to 5%
+            May train skill [561]Find weakness to 5%
+            May train skill [562]Endurance to 20%
+            May study spell [563]Shattered feast to racial maximum
+     May study spell [564]Word of blasting to racial maximum, special
+   requirements:
+       * Has studied spell [565]Word of attrition to at least 50%
+     May study spell [566]Word of slaughter to racial maximum, special
+   requirements:
+       * Has studied spell [567]Word of spite to at least 50%
+            May study spell [568]Glory of destruction to 60%
+     May study spell [569]Word of destruction to 50%, special
+   requirements:
+       * Has studied spell [570]Word of blasting to at least 50%
+     May study spell [571]Word of genocide to 50%, special requirements:
+       * Has studied spell [572]Word of slaughter to at least 50%
+            May study spell [573]Blood seeker to 30%
+            May study spell [574]Spirit drain to 10%
+
+                                         Level 21
+             May train skill [575]Discipline to 50%
+             May train skill [576]Parry to 48%
+             May train skill [577]Throw weight to 80%
+             May train skill [578]Combat sense to 60%
+     May train skill [579]True reaving to 55%, special requirements:
+       * Has trained skill [580]Reave armour to at least 50%
+     May train skill [581]Way of the scythe to 55%, special requirements:
+       * Has trained skill [582]True reaving to at least 55%
+       * Has studied spell [583]Blood seeker to at least 55%
+       * Has trained skill [584]Rebellion to at least 55%
+             May train skill [585]Infernal arc to racial maximum
+             May train skill [586]Corrosive cut to racial maximum
+             May train skill [587]Cleave to 50%
+             May train skill [588]Impale to 50%
+     May train skill [589]Combat damage analysis to 60%, special
+   requirements:
+       * Has trained skill [590]Consider to at least 40%
+             May train skill [591]Stun to 45%
+     May train skill [592]Reaver strike to 80%, special requirements:
+       * Has trained skill [593]Rampant cutting to at least 50%
+             May train skill [594]Enhance criticals to 35%
+             May train skill [595]Mastery of destruction to 30%
+             May train skill [596]Stunned maneuvers to 25%
+             May train skill [597]Tumbling attack to 25%
+     May train skill [598]Wrath of hells wind to 40%, special
+   requirements:
+       * Has trained skill [599]Infernal arc to at least 40%
+     May train skill [600]Breath of doom to 40%, special requirements:
+       * Has trained skill [601]Corrosive cut to at least 40%
+     May train skill [602]Rebellion to 20%, special requirements:
+       * Has trained skill [603]Riot to at least 20%
+             May train skill [604]Riposte to 10%
+             May train skill [605]Reaving to 20%
+             May train skill [606]Mangle to 20%
+             May train skill [607]Find weakness to 10%
+             May study spell [608]Glory of destruction to 70%
+     May study spell [609]Word of destruction to 60%, special
+   requirements:
+       * Has studied spell [610]Word of blasting to at least 50%
+     May study spell [611]Word of genocide to 60%, special requirements:
+       * Has studied spell [612]Word of slaughter to at least 50%
+             May study spell [613]Blood seeker to 40%
+             May study spell [614]Spirit drain to 20%
+
+                                          Level 22
+              May train skill [615]Parry to 51%
+              May train skill [616]Throw weight to 85%
+     May train skill [617]Dodge to 45%, special requirements:
+       * Has trained skill [618]True reaving to at least 50%
+              May train skill [619]Combat sense to 65%
+     May train skill [620]True reaving to 60%, special requirements:
+       * Has trained skill [621]Reave armour to at least 50%
+     May train skill [622]Way of the scythe to 60%, special requirements:
+       * Has trained skill [623]True reaving to at least 60%
+       * Has studied spell [624]Blood seeker to at least 60%
+       * Has trained skill [625]Rebellion to at least 60%
+              May train skill [626]Cleave to 55%
+              May train skill [627]Impale to 55%
+     May train skill [628]Combat damage analysis to 65%, special
+   requirements:
+       * Has trained skill [629]Consider to at least 40%
+              May train skill [630]Stun to 50%
+     May train skill [631]Reaver strike to 90%, special requirements:
+       * Has trained skill [632]Rampant cutting to at least 50%
+              May train skill [633]Enhance criticals to 40%
+              May train skill [634]Mastery of destruction to 35%
+              May train skill [635]Stunned maneuvers to 30%
+              May train skill [636]Tumbling attack to 30%
+     May train skill [637]Wrath of hells wind to 50%, special
+   requirements:
+       * Has trained skill [638]Infernal arc to at least 50%
+     May train skill [639]Breath of doom to 50%, special requirements:
+       * Has trained skill [640]Corrosive cut to at least 50%
+     May train skill [641]Rebellion to 30%, special requirements:
+       * Has trained skill [642]Riot to at least 30%
+              May train skill [643]Riposte to 15%
+              May train skill [644]Reaving to 30%
+              May train skill [645]Mangle to 30%
+              May train skill [646]Find weakness to 15%
+     May train skill [647]Blood harvest to 20%, special requirements:
+       * Has trained skill [648]Reaver strike to at least 20%
+              May study spell [649]Glory of destruction to 80%
+     May study spell [650]Word of destruction to 70%, special
+   requirements:
+       * Has studied spell [651]Word of blasting to at least 50%
+     May study spell [652]Word of genocide to 80%, special requirements:
+       * Has studied spell [653]Word of slaughter to at least 50%
+              May study spell [654]Blood seeker to 50%
+              May study spell [655]Spirit drain to 30%
+
+                                          Level 23
+              May train skill [656]Parry to 54%
+              May train skill [657]Throw weight to 90%
+              May train skill [658]Combat sense to 70%
+     May train skill [659]True reaving to 65%, special requirements:
+       * Has trained skill [660]Reave armour to at least 50%
+     May train skill [661]Way of the scythe to 65%, special requirements:
+       * Has trained skill [662]True reaving to at least 60%
+       * Has studied spell [663]Blood seeker to at least 60%
+       * Has trained skill [664]Rebellion to at least 60%
+              May train skill [665]Cleave to 60%
+              May train skill [666]Impale to 60%
+     May train skill [667]Combat damage analysis to 70%, special
+   requirements:
+       * Has trained skill [668]Consider to at least 40%
+              May train skill [669]Stun to 55%
+     May train skill [670]Reaver strike to racial maximum, special
+   requirements:
+       * Has trained skill [671]Rampant cutting to at least 50%
+              May train skill [672]Enhance criticals to 45%
+              May train skill [673]Mastery of destruction to 40%
+              May train skill [674]Stunned maneuvers to 35%
+     May train skill [675]Wrath of hells wind to 60%, special
+   requirements:
+       * Has trained skill [676]Infernal arc to at least 50%
+     May train skill [677]Breath of doom to 60%, special requirements:
+       * Has trained skill [678]Corrosive cut to at least 50%
+     May train skill [679]Rebellion to 40%, special requirements:
+       * Has trained skill [680]Riot to at least 40%
+              May train skill [681]Riposte to 20%
+              May train skill [682]Reaving to 40%
+              May train skill [683]Mangle to 40%
+              May train skill [684]Find weakness to 20%
+     May train skill [685]Blood harvest to 30%, special requirements:
+       * Has trained skill [686]Reaver strike to at least 30%
+              May study spell [687]Glory of destruction to 90%
+     May study spell [688]Word of destruction to 80%, special
+   requirements:
+       * Has studied spell [689]Word of blasting to at least 50%
+     May study spell [690]Word of genocide to 80%, special requirements:
+       * Has studied spell [691]Word of slaughter to at least 50%
+              May study spell [692]Blood seeker to 60%
+              May study spell [693]Spirit drain to 40%
+     May study spell [694]Word of oblivion to 30%, special requirements:
+       * Has studied spell [695]Word of destruction to at least 30%
+     May study spell [696]Word of apocalypse to 30%, special
+   requirements:
+       * Has studied spell [697]Word of genocide to at least 30%
+
+                                     Level 24
+         May train skill [698]Parry to 57%
+         May train skill [699]Throw weight to 95%
+     May train skill [700]Dodge to 50%, special requirements:
+       * Has trained skill [701]True reaving to at least 50%
+         May train skill [702]Combat sense to 75%
+     May train skill [703]True reaving to 70%, special requirements:
+       * Has trained skill [704]Reave armour to at least 50%
+     May train skill [705]Way of the scythe to 70%, special requirements:
+       * Has trained skill [706]True reaving to at least 60%
+       * Has studied spell [707]Blood seeker to at least 60%
+       * Has trained skill [708]Rebellion to at least 60%
+         May train skill [709]Cleave to 65%
+         May train skill [710]Impale to 65%
+     May train skill [711]Combat damage analysis to 75%, special
+   requirements:
+       * Has trained skill [712]Consider to at least 40%
+         May train skill [713]Stun to 60%
+         May train skill [714]Enhance criticals to 50%
+         May train skill [715]Mastery of destruction to 45%
+         May train skill [716]Stunned maneuvers to 40%
+     May train skill [717]Wrath of hells wind to 70%, special
+   requirements:
+       * Has trained skill [718]Infernal arc to at least 50%
+     May train skill [719]Breath of doom to 70%, special requirements:
+       * Has trained skill [720]Corrosive cut to at least 50%
+     May train skill [721]Rebellion to 50%, special requirements:
+       * Has trained skill [722]Riot to at least 50%
+         May train skill [723]Riposte to 25%
+         May train skill [724]Reaving to 50%
+         May train skill [725]Mangle to 50%
+         May train skill [726]Find weakness to 25%
+     May train skill [727]Blood harvest to 40%, special requirements:
+       * Has trained skill [728]Reaver strike to at least 40%
+         May study spell [729]Glory of destruction to racial maximum
+     May study spell [730]Word of destruction to 90%, special
+   requirements:
+       * Has studied spell [731]Word of blasting to at least 50%
+     May study spell [732]Word of genocide to 90%, special requirements:
+       * Has studied spell [733]Word of slaughter to at least 50%
+         May study spell [734]Blood seeker to 70%
+         May study spell [735]Spirit drain to 50%
+     May study spell [736]Word of oblivion to 40%, special requirements:
+       * Has studied spell [737]Word of destruction to at least 40%
+     May study spell [738]Word of apocalypse to 40%, special
+   requirements:
+       * Has studied spell [739]Word of genocide to at least 40%
+
+                                         Level 25
+             May train skill [740]Parry to 60%
+             May train skill [741]Throw weight to racial maximum
+     May train skill [742]Dodge to 55%, special requirements:
+       * Has trained skill [743]True reaving to at least 50%
+       * Has trained skill [744]Mastery of destruction to at least 75%
+             May train skill [745]Combat sense to 80%
+     May train skill [746]True reaving to 75%, special requirements:
+       * Has trained skill [747]Reave armour to at least 50%
+     May train skill [748]Way of the scythe to 75%, special requirements:
+       * Has trained skill [749]True reaving to at least 60%
+       * Has studied spell [750]Blood seeker to at least 60%
+       * Has trained skill [751]Rebellion to at least 60%
+             May train skill [752]Cleave to 70%
+             May train skill [753]Impale to 70%
+     May train skill [754]Combat damage analysis to 80%, special
+   requirements:
+       * Has trained skill [755]Consider to at least 40%
+             May train skill [756]Stun to 65%
+             May train skill [757]Enhance criticals to 55%
+             May train skill [758]Mastery of destruction to 50%
+             May train skill [759]Stunned maneuvers to 45%
+     May train skill [760]Wrath of hells wind to 80%, special
+   requirements:
+       * Has trained skill [761]Infernal arc to at least 50%
+     May train skill [762]Breath of doom to 80%, special requirements:
+       * Has trained skill [763]Corrosive cut to at least 50%
+     May train skill [764]Rebellion to 60%, special requirements:
+       * Has trained skill [765]Riot to at least 50%
+             May train skill [766]Riposte to 30%
+             May train skill [767]Reaving to 60%
+             May train skill [768]Mangle to 60%
+             May train skill [769]Find weakness to 30%
+     May train skill [770]Blood harvest to 50%, special requirements:
+       * Has trained skill [771]Reaver strike to at least 50%
+     May study spell [772]Word of destruction to racial maximum, special
+   requirements:
+       * Has studied spell [773]Word of blasting to at least 50%
+     May study spell [774]Word of genocide to racial maximum, special
+   requirements:
+       * Has studied spell [775]Word of slaughter to at least 50%
+             May study spell [776]Blood seeker to 80%
+             May study spell [777]Spirit drain to 60%
+     May study spell [778]Word of oblivion to 50%, special requirements:
+       * Has studied spell [779]Word of destruction to at least 50%
+     May study spell [780]Word of apocalypse to 50%, special
+   requirements:
+       * Has studied spell [781]Word of genocide to at least 50%
+
+                                          Level 26
+              May train skill [782]Parry to 63%
+     May train skill [783]Dodge to 60%, special requirements:
+       * Has trained skill [784]True reaving to at least 50%
+       * Has trained skill [785]Mastery of destruction to at least 75%
+     May train skill [786]True reaving to 80%, special requirements:
+       * Has trained skill [787]Reave armour to at least 50%
+     May train skill [788]Way of the scythe to 80%, special requirements:
+       * Has trained skill [789]True reaving to at least 60%
+       * Has studied spell [790]Blood seeker to at least 60%
+       * Has trained skill [791]Rebellion to at least 60%
+              May train skill [792]Cleave to 75%
+              May train skill [793]Impale to 75%
+     May train skill [794]Combat damage analysis to 85%, special
+   requirements:
+       * Has trained skill [795]Consider to at least 40%
+              May train skill [796]Stun to 70%
+              May train skill [797]Enhance criticals to 60%
+              May train skill [798]Mastery of destruction to 55%
+              May train skill [799]Stunned maneuvers to 50%
+     May train skill [800]Wrath of hells wind to 90%, special
+   requirements:
+       * Has trained skill [801]Infernal arc to at least 50%
+     May train skill [802]Breath of doom to 90%, special requirements:
+       * Has trained skill [803]Corrosive cut to at least 50%
+     May train skill [804]Rebellion to 70%, special requirements:
+       * Has trained skill [805]Riot to at least 50%
+              May train skill [806]Riposte to 35%
+              May train skill [807]Reaving to 70%
+              May train skill [808]Mangle to 70%
+              May train skill [809]Find weakness to 35%
+     May train skill [810]Blood harvest to 60%, special requirements:
+       * Has trained skill [811]Reaver strike to at least 50%
+              May study spell [812]Blood seeker to 90%
+              May study spell [813]Spirit drain to 70%
+     May study spell [814]Word of oblivion to 60%, special requirements:
+       * Has studied spell [815]Word of destruction to at least 50%
+     May study spell [816]Word of apocalypse to 60%, special
+   requirements:
+       * Has studied spell [817]Word of genocide to at least 50%
+              May study spell [818]Black hole to 5%
+
+                                         Level 27
+             May train skill [819]Parry to 66%
+     May train skill [820]Dodge to 65%, special requirements:
+       * Has trained skill [821]True reaving to at least 50%
+       * Has trained skill [822]Mastery of destruction to at least 75%
+     May train skill [823]True reaving to 85%, special requirements:
+       * Has trained skill [824]Reave armour to at least 50%
+     May train skill [825]Way of the scythe to 85%, special requirements:
+       * Has trained skill [826]True reaving to at least 60%
+       * Has studied spell [827]Blood seeker to at least 60%
+       * Has trained skill [828]Rebellion to at least 60%
+             May train skill [829]Cleave to 80%
+             May train skill [830]Impale to 80%
+     May train skill [831]Combat damage analysis to 90%, special
+   requirements:
+       * Has trained skill [832]Consider to at least 40%
+             May train skill [833]Enhance criticals to 65%
+             May train skill [834]Mastery of destruction to 60%
+             May train skill [835]Stunned maneuvers to 55%
+     May train skill [836]Wrath of hells wind to racial maximum, special
+   requirements:
+       * Has trained skill [837]Infernal arc to at least 50%
+     May train skill [838]Breath of doom to racial maximum, special
+   requirements:
+       * Has trained skill [839]Corrosive cut to at least 50%
+     May train skill [840]Rebellion to 80%, special requirements:
+       * Has trained skill [841]Riot to at least 50%
+             May train skill [842]Riposte to 40%
+             May train skill [843]Reaving to 80%
+             May train skill [844]Mangle to 80%
+             May train skill [845]Find weakness to 40%
+     May train skill [846]Blood harvest to 70%, special requirements:
+       * Has trained skill [847]Reaver strike to at least 50%
+             May study spell [848]Blood seeker to racial maximum
+             May study spell [849]Spirit drain to 80%
+     May study spell [850]Word of oblivion to 70%, special requirements:
+       * Has studied spell [851]Word of destruction to at least 50%
+     May study spell [852]Word of apocalypse to 70%, special
+   requirements:
+       * Has studied spell [853]Word of genocide to at least 50%
+             May study spell [854]Black hole to 15%
+
+                                          Level 28
+              May train skill [855]Parry to 69%
+     May train skill [856]Dodge to 70%, special requirements:
+       * Has trained skill [857]True reaving to at least 50%
+       * Has trained skill [858]Mastery of destruction to at least 75%
+     May train skill [859]True reaving to 90%, special requirements:
+       * Has trained skill [860]Reave armour to at least 50%
+     May train skill [861]Way of the scythe to 90%, special requirements:
+       * Has trained skill [862]True reaving to at least 60%
+       * Has studied spell [863]Blood seeker to at least 60%
+       * Has trained skill [864]Rebellion to at least 60%
+     May train skill [865]Combat damage analysis to 95%, special
+   requirements:
+       * Has trained skill [866]Consider to at least 40%
+              May train skill [867]Enhance criticals to 70%
+              May train skill [868]Mastery of destruction to 65%
+              May train skill [869]Stunned maneuvers to 60%
+     May train skill [870]Rebellion to 90%, special requirements:
+       * Has trained skill [871]Riot to at least 50%
+              May train skill [872]Riposte to 45%
+              May train skill [873]Find weakness to 45%
+     May train skill [874]Blood harvest to 80%, special requirements:
+       * Has trained skill [875]Reaver strike to at least 50%
+              May study spell [876]Spirit drain to 90%
+     May study spell [877]Word of oblivion to 80%, special requirements:
+       * Has studied spell [878]Word of destruction to at least 50%
+     May study spell [879]Word of apocalypse to 80%, special
+   requirements:
+       * Has studied spell [880]Word of genocide to at least 50%
+              May study spell [881]Black hole to 30%
+
+                                         Level 29
+             May train skill [882]Parry to 72%
+     May train skill [883]Dodge to 75%, special requirements:
+       * Has trained skill [884]True reaving to at least 50%
+       * Has trained skill [885]Mastery of destruction to at least 75%
+     May train skill [886]True reaving to 95%, special requirements:
+       * Has trained skill [887]Reave armour to at least 50%
+     May train skill [888]Way of the scythe to 95%, special requirements:
+       * Has trained skill [889]True reaving to at least 60%
+       * Has studied spell [890]Blood seeker to at least 60%
+       * Has trained skill [891]Rebellion to at least 60%
+             May train skill [892]Enhance criticals to 75%
+             May train skill [893]Mastery of destruction to 70%
+     May train skill [894]Rebellion to racial maximum, special
+   requirements:
+       * Has trained skill [895]Riot to at least 50%
+             May train skill [896]Riposte to 50%
+             May train skill [897]Find weakness to 50%
+     May train skill [898]Blood harvest to 90%, special requirements:
+       * Has trained skill [899]Reaver strike to at least 50%
+             May study spell [900]Spirit drain to racial maximum
+     May study spell [901]Word of oblivion to 90%, special requirements:
+       * Has studied spell [902]Word of destruction to at least 50%
+     May study spell [903]Word of apocalypse to 90%, special
+   requirements:
+       * Has studied spell [904]Word of genocide to at least 50%
+             May study spell [905]Black hole to 50%
+
+                                   Level 30
+        Has trained skill [906]Reave armour to at least 50%
+        Has studied spell [907]Glory of destruction to at least 50%
+        May train skill [908]Parry to 75%
+     May train skill [909]True reaving to racial maximum, special
+   requirements:
+       * Has trained skill [910]Reave armour to at least 50%
+     May train skill [911]Way of the scythe to racial maximum, special
+   requirements:
+       * Has trained skill [912]True reaving to at least 60%
+       * Has studied spell [913]Blood seeker to at least 60%
+       * Has trained skill [914]Rebellion to at least 60%
+        May train skill [915]Enhance criticals to 80%
+        May train skill [916]Mastery of destruction to racial maximum
+     May train skill [917]Blood harvest to racial maximum, special
+   requirements:
+       * Has trained skill [918]Reaver strike to at least 50%
+        May train skill [919]Endurance to 35%
+     May study spell [920]Word of oblivion to racial maximum, special
+   requirements:
+       * Has studied spell [921]Word of destruction to at least 50%
+     May study spell [922]Word of apocalypse to racial maximum, special
+   requirements:
+       * Has studied spell [923]Word of genocide to at least 50%
+        May study spell [924]Black hole to racial maximum
+
+                   Allows joining to the following guild:
+                     The Cult of Reavers
+
+   [925]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [926]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Cult%20of%20Reavers&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Cult%20of%20Reavers&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Cult%20of%20Reavers&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=shinarae
+  23. http://www.bat.org/help/finger.php?str=firefox
+  24. http://www.bat.org/help/skills.php?str=attack
+  25. http://www.bat.org/help/skills.php?str=axes
+  26. http://www.bat.org/help/skills.php?str=polearms
+  27. http://www.bat.org/help/skills.php?str=consider
+  28. http://www.bat.org/help/skills.php?str=appraise
+  29. http://www.bat.org/help/skills.php?str=cast_generic
+  30. http://www.bat.org/help/skills.php?str=cast_destruction
+  31. http://www.bat.org/help/skills.php?str=reave_shield
+  32. http://www.bat.org/help/skills.php?str=mana_control
+  33. http://www.bat.org/help/skills.php?str=scythe_swipe
+  34. http://www.bat.org/help/skills.php?str=prayer
+  35. http://www.bat.org/help/spells.php?str=word_of_attrition
+  36. http://www.bat.org/help/spells.php?str=darkness
+  37. http://www.bat.org/help/skills.php?str=attack
+  38. http://www.bat.org/help/skills.php?str=axes
+  39. http://www.bat.org/help/skills.php?str=polearms
+  40. http://www.bat.org/help/skills.php?str=consider
+  41. http://www.bat.org/help/skills.php?str=appraise
+  42. http://www.bat.org/help/skills.php?str=cast_generic
+  43. http://www.bat.org/help/skills.php?str=cast_destruction
+  44. http://www.bat.org/help/skills.php?str=reave_shield
+  45. http://www.bat.org/help/skills.php?str=mana_control
+  46. http://www.bat.org/help/skills.php?str=scythe_swipe
+  47. http://www.bat.org/help/skills.php?str=prayer
+  48. http://www.bat.org/help/spells.php?str=word_of_attrition
+  49. http://www.bat.org/help/spells.php?str=darkness
+  50. http://www.bat.org/help/spells.php?str=call_scythe
+  51. http://www.bat.org/help/spells.php?str=destroy_water
+  52. http://www.bat.org/help/skills.php?str=attack
+  53. http://www.bat.org/help/skills.php?str=axes
+  54. http://www.bat.org/help/skills.php?str=polearms
+  55. http://www.bat.org/help/skills.php?str=consider
+  56. http://www.bat.org/help/skills.php?str=appraise
+  57. http://www.bat.org/help/skills.php?str=cast_generic
+  58. http://www.bat.org/help/skills.php?str=cast_destruction
+  59. http://www.bat.org/help/skills.php?str=reave_shield
+  60. http://www.bat.org/help/skills.php?str=mana_control
+  61. http://www.bat.org/help/skills.php?str=scythe_swipe
+  62. http://www.bat.org/help/skills.php?str=prayer
+  63. http://www.bat.org/help/skills.php?str=discipline
+  64. http://www.bat.org/help/spells.php?str=word_of_attrition
+  65. http://www.bat.org/help/spells.php?str=darkness
+  66. http://www.bat.org/help/spells.php?str=call_scythe
+  67. http://www.bat.org/help/spells.php?str=word_of_spite
+  68. http://www.bat.org/help/spells.php?str=detect_race
+  69. http://www.bat.org/help/spells.php?str=destroy_water
+  70. http://www.bat.org/help/skills.php?str=attack
+  71. http://www.bat.org/help/skills.php?str=axes
+  72. http://www.bat.org/help/skills.php?str=polearms
+  73. http://www.bat.org/help/skills.php?str=consider
+  74. http://www.bat.org/help/skills.php?str=appraise
+  75. http://www.bat.org/help/skills.php?str=cast_generic
+  76. http://www.bat.org/help/skills.php?str=cast_destruction
+  77. http://www.bat.org/help/skills.php?str=reave_shield
+  78. http://www.bat.org/help/skills.php?str=mana_control
+  79. http://www.bat.org/help/skills.php?str=scythe_swipe
+  80. http://www.bat.org/help/skills.php?str=prayer
+  81. http://www.bat.org/help/skills.php?str=reave_weapon
+  82. http://www.bat.org/help/skills.php?str=reave_shield
+  83. http://www.bat.org/help/spells.php?str=word_of_attrition
+  84. http://www.bat.org/help/spells.php?str=darkness
+  85. http://www.bat.org/help/spells.php?str=call_scythe
+  86. http://www.bat.org/help/spells.php?str=word_of_spite
+  87. http://www.bat.org/help/spells.php?str=detect_race
+  88. http://www.bat.org/help/spells.php?str=destroy_water
+  89. http://www.bat.org/help/skills.php?str=attack
+  90. http://www.bat.org/help/skills.php?str=axes
+  91. http://www.bat.org/help/skills.php?str=polearms
+  92. http://www.bat.org/help/skills.php?str=consider
+  93. http://www.bat.org/help/skills.php?str=appraise
+  94. http://www.bat.org/help/skills.php?str=cast_generic
+  95. http://www.bat.org/help/skills.php?str=cast_destruction
+  96. http://www.bat.org/help/skills.php?str=reave_shield
+  97. http://www.bat.org/help/skills.php?str=mana_control
+  98. http://www.bat.org/help/skills.php?str=scythe_swipe
+  99. http://www.bat.org/help/skills.php?str=prayer
+ 100. http://www.bat.org/help/skills.php?str=discipline
+ 101. http://www.bat.org/help/skills.php?str=reave_weapon
+ 102. http://www.bat.org/help/skills.php?str=reave_shield
+ 103. http://www.bat.org/help/skills.php?str=bash
+ 104. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 105. http://www.bat.org/help/spells.php?str=darkness
+ 106. http://www.bat.org/help/spells.php?str=call_scythe
+ 107. http://www.bat.org/help/spells.php?str=call_armour
+ 108. http://www.bat.org/help/spells.php?str=word_of_spite
+ 109. http://www.bat.org/help/spells.php?str=detect_race
+ 110. http://www.bat.org/help/spells.php?str=destroy_water
+ 111. http://www.bat.org/help/spells.php?str=infravision
+ 112. http://www.bat.org/help/skills.php?str=attack
+ 113. http://www.bat.org/help/skills.php?str=axes
+ 114. http://www.bat.org/help/skills.php?str=polearms
+ 115. http://www.bat.org/help/skills.php?str=consider
+ 116. http://www.bat.org/help/skills.php?str=appraise
+ 117. http://www.bat.org/help/skills.php?str=cast_generic
+ 118. http://www.bat.org/help/skills.php?str=cast_destruction
+ 119. http://www.bat.org/help/skills.php?str=reave_shield
+ 120. http://www.bat.org/help/skills.php?str=mana_control
+ 121. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 122. http://www.bat.org/help/skills.php?str=prayer
+ 123. http://www.bat.org/help/skills.php?str=reave_weapon
+ 124. http://www.bat.org/help/skills.php?str=reave_shield
+ 125. http://www.bat.org/help/skills.php?str=bash
+ 126. http://www.bat.org/help/skills.php?str=parry
+ 127. http://www.bat.org/help/skills.php?str=dodge
+ 128. http://www.bat.org/help/skills.php?str=throw_weight
+ 129. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 130. http://www.bat.org/help/spells.php?str=darkness
+ 131. http://www.bat.org/help/spells.php?str=call_scythe
+ 132. http://www.bat.org/help/spells.php?str=call_armour
+ 133. http://www.bat.org/help/spells.php?str=word_of_spite
+ 134. http://www.bat.org/help/spells.php?str=detect_race
+ 135. http://www.bat.org/help/spells.php?str=destroy_water
+ 136. http://www.bat.org/help/spells.php?str=infravision
+ 137. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 138. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 139. http://www.bat.org/help/skills.php?str=attack
+ 140. http://www.bat.org/help/skills.php?str=axes
+ 141. http://www.bat.org/help/skills.php?str=polearms
+ 142. http://www.bat.org/help/skills.php?str=consider
+ 143. http://www.bat.org/help/skills.php?str=appraise
+ 144. http://www.bat.org/help/skills.php?str=cast_generic
+ 145. http://www.bat.org/help/skills.php?str=cast_destruction
+ 146. http://www.bat.org/help/skills.php?str=reave_shield
+ 147. http://www.bat.org/help/skills.php?str=mana_control
+ 148. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 149. http://www.bat.org/help/skills.php?str=prayer
+ 150. http://www.bat.org/help/skills.php?str=discipline
+ 151. http://www.bat.org/help/skills.php?str=reave_weapon
+ 152. http://www.bat.org/help/skills.php?str=reave_shield
+ 153. http://www.bat.org/help/skills.php?str=bash
+ 154. http://www.bat.org/help/skills.php?str=parry
+ 155. http://www.bat.org/help/skills.php?str=throw_weight
+ 156. http://www.bat.org/help/skills.php?str=reave_armour
+ 157. http://www.bat.org/help/skills.php?str=reave_weapon
+ 158. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 159. http://www.bat.org/help/spells.php?str=darkness
+ 160. http://www.bat.org/help/spells.php?str=call_scythe
+ 161. http://www.bat.org/help/spells.php?str=call_armour
+ 162. http://www.bat.org/help/spells.php?str=word_of_spite
+ 163. http://www.bat.org/help/spells.php?str=detect_race
+ 164. http://www.bat.org/help/spells.php?str=destroy_water
+ 165. http://www.bat.org/help/spells.php?str=infravision
+ 166. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 167. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 168. http://www.bat.org/help/skills.php?str=attack
+ 169. http://www.bat.org/help/skills.php?str=axes
+ 170. http://www.bat.org/help/skills.php?str=polearms
+ 171. http://www.bat.org/help/skills.php?str=consider
+ 172. http://www.bat.org/help/skills.php?str=appraise
+ 173. http://www.bat.org/help/skills.php?str=cast_generic
+ 174. http://www.bat.org/help/skills.php?str=cast_destruction
+ 175. http://www.bat.org/help/skills.php?str=reave_shield
+ 176. http://www.bat.org/help/skills.php?str=mana_control
+ 177. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 178. http://www.bat.org/help/skills.php?str=prayer
+ 179. http://www.bat.org/help/skills.php?str=reave_weapon
+ 180. http://www.bat.org/help/skills.php?str=reave_shield
+ 181. http://www.bat.org/help/skills.php?str=bash
+ 182. http://www.bat.org/help/skills.php?str=parry
+ 183. http://www.bat.org/help/skills.php?str=throw_weight
+ 184. http://www.bat.org/help/skills.php?str=reave_armour
+ 185. http://www.bat.org/help/skills.php?str=reave_weapon
+ 186. http://www.bat.org/help/skills.php?str=dodge
+ 187. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 188. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 189. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 190. http://www.bat.org/help/spells.php?str=call_scythe
+ 191. http://www.bat.org/help/spells.php?str=call_armour
+ 192. http://www.bat.org/help/spells.php?str=word_of_spite
+ 193. http://www.bat.org/help/spells.php?str=destroy_water
+ 194. http://www.bat.org/help/spells.php?str=infravision
+ 195. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 196. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 197. http://www.bat.org/help/skills.php?str=attack
+ 198. http://www.bat.org/help/skills.php?str=axes
+ 199. http://www.bat.org/help/skills.php?str=polearms
+ 200. http://www.bat.org/help/skills.php?str=consider
+ 201. http://www.bat.org/help/skills.php?str=appraise
+ 202. http://www.bat.org/help/skills.php?str=cast_generic
+ 203. http://www.bat.org/help/skills.php?str=reave_shield
+ 204. http://www.bat.org/help/skills.php?str=mana_control
+ 205. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 206. http://www.bat.org/help/skills.php?str=prayer
+ 207. http://www.bat.org/help/skills.php?str=discipline
+ 208. http://www.bat.org/help/skills.php?str=reave_weapon
+ 209. http://www.bat.org/help/skills.php?str=reave_shield
+ 210. http://www.bat.org/help/skills.php?str=bash
+ 211. http://www.bat.org/help/skills.php?str=parry
+ 212. http://www.bat.org/help/skills.php?str=throw_weight
+ 213. http://www.bat.org/help/skills.php?str=reave_armour
+ 214. http://www.bat.org/help/skills.php?str=reave_weapon
+ 215. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 216. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 217. http://www.bat.org/help/spells.php?str=call_scythe
+ 218. http://www.bat.org/help/spells.php?str=call_armour
+ 219. http://www.bat.org/help/spells.php?str=word_of_spite
+ 220. http://www.bat.org/help/spells.php?str=destroy_water
+ 221. http://www.bat.org/help/spells.php?str=infravision
+ 222. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 223. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 224. http://www.bat.org/help/skills.php?str=attack
+ 225. http://www.bat.org/help/skills.php?str=cast_destruction
+ 226. http://www.bat.org/help/skills.php?str=attack
+ 227. http://www.bat.org/help/skills.php?str=consider
+ 228. http://www.bat.org/help/skills.php?str=appraise
+ 229. http://www.bat.org/help/skills.php?str=cast_generic
+ 230. http://www.bat.org/help/skills.php?str=reave_shield
+ 231. http://www.bat.org/help/skills.php?str=mana_control
+ 232. http://www.bat.org/help/skills.php?str=reave_weapon
+ 233. http://www.bat.org/help/skills.php?str=reave_shield
+ 234. http://www.bat.org/help/skills.php?str=bash
+ 235. http://www.bat.org/help/skills.php?str=parry
+ 236. http://www.bat.org/help/skills.php?str=throw_weight
+ 237. http://www.bat.org/help/skills.php?str=reave_armour
+ 238. http://www.bat.org/help/skills.php?str=reave_weapon
+ 239. http://www.bat.org/help/skills.php?str=dodge
+ 240. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 241. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 242. http://www.bat.org/help/skills.php?str=riot
+ 243. http://www.bat.org/help/skills.php?str=combat_sense
+ 244. http://www.bat.org/help/skills.php?str=endurance
+ 245. http://www.bat.org/help/spells.php?str=call_scythe
+ 246. http://www.bat.org/help/spells.php?str=call_armour
+ 247. http://www.bat.org/help/spells.php?str=word_of_spite
+ 248. http://www.bat.org/help/spells.php?str=destroy_water
+ 249. http://www.bat.org/help/spells.php?str=infravision
+ 250. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 251. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 252. http://www.bat.org/help/skills.php?str=attack
+ 253. http://www.bat.org/help/skills.php?str=appraise
+ 254. http://www.bat.org/help/skills.php?str=discipline
+ 255. http://www.bat.org/help/skills.php?str=reave_weapon
+ 256. http://www.bat.org/help/skills.php?str=reave_shield
+ 257. http://www.bat.org/help/skills.php?str=bash
+ 258. http://www.bat.org/help/skills.php?str=parry
+ 259. http://www.bat.org/help/skills.php?str=throw_weight
+ 260. http://www.bat.org/help/skills.php?str=reave_armour
+ 261. http://www.bat.org/help/skills.php?str=reave_weapon
+ 262. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 263. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 264. http://www.bat.org/help/skills.php?str=riot
+ 265. http://www.bat.org/help/skills.php?str=combat_sense
+ 266. http://www.bat.org/help/skills.php?str=true_reaving
+ 267. http://www.bat.org/help/skills.php?str=reave_armour
+ 268. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 269. http://www.bat.org/help/spells.php?str=call_scythe
+ 270. http://www.bat.org/help/spells.php?str=call_armour
+ 271. http://www.bat.org/help/spells.php?str=word_of_spite
+ 272. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 273. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 274. http://www.bat.org/help/spells.php?str=shattered_feast
+ 275. http://www.bat.org/help/skills.php?str=attack
+ 276. http://www.bat.org/help/skills.php?str=appraise
+ 277. http://www.bat.org/help/skills.php?str=reave_weapon
+ 278. http://www.bat.org/help/skills.php?str=reave_shield
+ 279. http://www.bat.org/help/skills.php?str=bash
+ 280. http://www.bat.org/help/skills.php?str=parry
+ 281. http://www.bat.org/help/skills.php?str=throw_weight
+ 282. http://www.bat.org/help/skills.php?str=reave_armour
+ 283. http://www.bat.org/help/skills.php?str=reave_weapon
+ 284. http://www.bat.org/help/skills.php?str=dodge
+ 285. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 286. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 287. http://www.bat.org/help/skills.php?str=riot
+ 288. http://www.bat.org/help/skills.php?str=combat_sense
+ 289. http://www.bat.org/help/skills.php?str=true_reaving
+ 290. http://www.bat.org/help/skills.php?str=reave_armour
+ 291. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 292. http://www.bat.org/help/spells.php?str=call_armour
+ 293. http://www.bat.org/help/skills.php?str=infernal_arc
+ 294. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 295. http://www.bat.org/help/skills.php?str=cleave
+ 296. http://www.bat.org/help/skills.php?str=impale
+ 297. http://www.bat.org/help/spells.php?str=word_of_spite
+ 298. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 299. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 300. http://www.bat.org/help/spells.php?str=shattered_feast
+ 301. http://www.bat.org/help/skills.php?str=attack
+ 302. http://www.bat.org/help/skills.php?str=appraise
+ 303. http://www.bat.org/help/skills.php?str=discipline
+ 304. http://www.bat.org/help/skills.php?str=reave_weapon
+ 305. http://www.bat.org/help/skills.php?str=reave_shield
+ 306. http://www.bat.org/help/skills.php?str=bash
+ 307. http://www.bat.org/help/skills.php?str=parry
+ 308. http://www.bat.org/help/skills.php?str=throw_weight
+ 309. http://www.bat.org/help/skills.php?str=reave_armour
+ 310. http://www.bat.org/help/skills.php?str=reave_weapon
+ 311. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 312. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 313. http://www.bat.org/help/skills.php?str=riot
+ 314. http://www.bat.org/help/skills.php?str=combat_sense
+ 315. http://www.bat.org/help/skills.php?str=true_reaving
+ 316. http://www.bat.org/help/skills.php?str=reave_armour
+ 317. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 318. http://www.bat.org/help/skills.php?str=true_reaving
+ 319. http://www.bat.org/help/spells.php?str=call_armour
+ 320. http://www.bat.org/help/skills.php?str=infernal_arc
+ 321. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 322. http://www.bat.org/help/skills.php?str=cleave
+ 323. http://www.bat.org/help/skills.php?str=impale
+ 324. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 325. http://www.bat.org/help/skills.php?str=consider
+ 326. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 327. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 328. http://www.bat.org/help/spells.php?str=shattered_feast
+ 329. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 330. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 331. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 332. http://www.bat.org/help/spells.php?str=word_of_spite
+ 333. http://www.bat.org/help/skills.php?str=bash
+ 334. http://www.bat.org/help/skills.php?str=parry
+ 335. http://www.bat.org/help/skills.php?str=throw_weight
+ 336. http://www.bat.org/help/skills.php?str=reave_armour
+ 337. http://www.bat.org/help/skills.php?str=reave_weapon
+ 338. http://www.bat.org/help/skills.php?str=dodge
+ 339. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 340. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 341. http://www.bat.org/help/skills.php?str=riot
+ 342. http://www.bat.org/help/skills.php?str=combat_sense
+ 343. http://www.bat.org/help/skills.php?str=true_reaving
+ 344. http://www.bat.org/help/skills.php?str=reave_armour
+ 345. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 346. http://www.bat.org/help/skills.php?str=true_reaving
+ 347. http://www.bat.org/help/spells.php?str=call_armour
+ 348. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 349. http://www.bat.org/help/skills.php?str=cleave
+ 350. http://www.bat.org/help/skills.php?str=impale
+ 351. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 352. http://www.bat.org/help/skills.php?str=consider
+ 353. http://www.bat.org/help/skills.php?str=stun
+ 354. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 355. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 356. http://www.bat.org/help/spells.php?str=shattered_feast
+ 357. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 358. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 359. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 360. http://www.bat.org/help/spells.php?str=word_of_spite
+ 361. http://www.bat.org/help/skills.php?str=discipline
+ 362. http://www.bat.org/help/skills.php?str=parry
+ 363. http://www.bat.org/help/skills.php?str=throw_weight
+ 364. http://www.bat.org/help/skills.php?str=reave_armour
+ 365. http://www.bat.org/help/skills.php?str=reave_weapon
+ 366. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 367. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 368. http://www.bat.org/help/skills.php?str=riot
+ 369. http://www.bat.org/help/skills.php?str=combat_sense
+ 370. http://www.bat.org/help/skills.php?str=true_reaving
+ 371. http://www.bat.org/help/skills.php?str=reave_armour
+ 372. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 373. http://www.bat.org/help/skills.php?str=true_reaving
+ 374. http://www.bat.org/help/skills.php?str=infernal_arc
+ 375. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 376. http://www.bat.org/help/skills.php?str=cleave
+ 377. http://www.bat.org/help/skills.php?str=impale
+ 378. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 379. http://www.bat.org/help/skills.php?str=consider
+ 380. http://www.bat.org/help/skills.php?str=stun
+ 381. http://www.bat.org/help/skills.php?str=reaver_strike
+ 382. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 383. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 384. http://www.bat.org/help/spells.php?str=immolate_scythe
+ 385. http://www.bat.org/help/spells.php?str=reaping_of_bile
+ 386. http://www.bat.org/help/spells.php?str=shattered_feast
+ 387. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 388. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 389. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 390. http://www.bat.org/help/spells.php?str=word_of_spite
+ 391. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 392. http://www.bat.org/help/skills.php?str=parry
+ 393. http://www.bat.org/help/skills.php?str=throw_weight
+ 394. http://www.bat.org/help/skills.php?str=reave_armour
+ 395. http://www.bat.org/help/skills.php?str=reave_weapon
+ 396. http://www.bat.org/help/skills.php?str=dodge
+ 397. http://www.bat.org/help/skills.php?str=true_reaving
+ 398. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 399. http://www.bat.org/help/skills.php?str=scythe_swipe
+ 400. http://www.bat.org/help/skills.php?str=riot
+ 401. http://www.bat.org/help/skills.php?str=combat_sense
+ 402. http://www.bat.org/help/skills.php?str=true_reaving
+ 403. http://www.bat.org/help/skills.php?str=reave_armour
+ 404. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 405. http://www.bat.org/help/skills.php?str=true_reaving
+ 406. http://www.bat.org/help/skills.php?str=infernal_arc
+ 407. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 408. http://www.bat.org/help/skills.php?str=cleave
+ 409. http://www.bat.org/help/skills.php?str=impale
+ 410. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 411. http://www.bat.org/help/skills.php?str=consider
+ 412. http://www.bat.org/help/skills.php?str=stun
+ 413. http://www.bat.org/help/skills.php?str=reaver_strike
+ 414. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 415. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 416. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 417. http://www.bat.org/help/spells.php?str=shattered_feast
+ 418. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 419. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 420. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 421. http://www.bat.org/help/spells.php?str=word_of_spite
+ 422. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 423. http://www.bat.org/help/skills.php?str=discipline
+ 424. http://www.bat.org/help/skills.php?str=parry
+ 425. http://www.bat.org/help/skills.php?str=throw_weight
+ 426. http://www.bat.org/help/skills.php?str=riot
+ 427. http://www.bat.org/help/skills.php?str=combat_sense
+ 428. http://www.bat.org/help/skills.php?str=true_reaving
+ 429. http://www.bat.org/help/skills.php?str=reave_armour
+ 430. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 431. http://www.bat.org/help/skills.php?str=true_reaving
+ 432. http://www.bat.org/help/spells.php?str=blood_seeker
+ 433. http://www.bat.org/help/skills.php?str=infernal_arc
+ 434. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 435. http://www.bat.org/help/skills.php?str=cleave
+ 436. http://www.bat.org/help/skills.php?str=impale
+ 437. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 438. http://www.bat.org/help/skills.php?str=consider
+ 439. http://www.bat.org/help/skills.php?str=stun
+ 440. http://www.bat.org/help/skills.php?str=reaver_strike
+ 441. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 442. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 443. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 444. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 445. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 446. http://www.bat.org/help/spells.php?str=shattered_feast
+ 447. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 448. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 449. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 450. http://www.bat.org/help/spells.php?str=word_of_spite
+ 451. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 452. http://www.bat.org/help/skills.php?str=parry
+ 453. http://www.bat.org/help/skills.php?str=throw_weight
+ 454. http://www.bat.org/help/skills.php?str=dodge
+ 455. http://www.bat.org/help/skills.php?str=true_reaving
+ 456. http://www.bat.org/help/skills.php?str=riot
+ 457. http://www.bat.org/help/skills.php?str=combat_sense
+ 458. http://www.bat.org/help/skills.php?str=true_reaving
+ 459. http://www.bat.org/help/skills.php?str=reave_armour
+ 460. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 461. http://www.bat.org/help/skills.php?str=true_reaving
+ 462. http://www.bat.org/help/spells.php?str=blood_seeker
+ 463. http://www.bat.org/help/skills.php?str=infernal_arc
+ 464. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 465. http://www.bat.org/help/skills.php?str=cleave
+ 466. http://www.bat.org/help/skills.php?str=impale
+ 467. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 468. http://www.bat.org/help/skills.php?str=consider
+ 469. http://www.bat.org/help/skills.php?str=stun
+ 470. http://www.bat.org/help/skills.php?str=reaver_strike
+ 471. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 472. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 473. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 474. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 475. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 476. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 477. http://www.bat.org/help/skills.php?str=infernal_arc
+ 478. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 479. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 480. http://www.bat.org/help/spells.php?str=shattered_feast
+ 481. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 482. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 483. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 484. http://www.bat.org/help/spells.php?str=word_of_spite
+ 485. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 486. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 487. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 488. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 489. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 490. http://www.bat.org/help/spells.php?str=blood_seeker
+ 491. http://www.bat.org/help/skills.php?str=discipline
+ 492. http://www.bat.org/help/skills.php?str=parry
+ 493. http://www.bat.org/help/skills.php?str=throw_weight
+ 494. http://www.bat.org/help/skills.php?str=riot
+ 495. http://www.bat.org/help/skills.php?str=combat_sense
+ 496. http://www.bat.org/help/skills.php?str=true_reaving
+ 497. http://www.bat.org/help/skills.php?str=reave_armour
+ 498. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 499. http://www.bat.org/help/skills.php?str=true_reaving
+ 500. http://www.bat.org/help/spells.php?str=blood_seeker
+ 501. http://www.bat.org/help/skills.php?str=infernal_arc
+ 502. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 503. http://www.bat.org/help/skills.php?str=cleave
+ 504. http://www.bat.org/help/skills.php?str=impale
+ 505. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 506. http://www.bat.org/help/skills.php?str=consider
+ 507. http://www.bat.org/help/skills.php?str=stun
+ 508. http://www.bat.org/help/skills.php?str=reaver_strike
+ 509. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 510. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 511. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 512. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 513. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 514. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 515. http://www.bat.org/help/skills.php?str=infernal_arc
+ 516. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 517. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 518. http://www.bat.org/help/spells.php?str=shattered_feast
+ 519. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 520. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 521. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 522. http://www.bat.org/help/spells.php?str=word_of_spite
+ 523. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 524. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 525. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 526. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 527. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 528. http://www.bat.org/help/spells.php?str=blood_seeker
+ 529. http://www.bat.org/help/skills.php?str=bash
+ 530. http://www.bat.org/help/spells.php?str=shattered_feast
+ 531. http://www.bat.org/help/skills.php?str=parry
+ 532. http://www.bat.org/help/skills.php?str=throw_weight
+ 533. http://www.bat.org/help/skills.php?str=dodge
+ 534. http://www.bat.org/help/skills.php?str=true_reaving
+ 535. http://www.bat.org/help/skills.php?str=combat_sense
+ 536. http://www.bat.org/help/skills.php?str=true_reaving
+ 537. http://www.bat.org/help/skills.php?str=reave_armour
+ 538. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 539. http://www.bat.org/help/skills.php?str=true_reaving
+ 540. http://www.bat.org/help/spells.php?str=blood_seeker
+ 541. http://www.bat.org/help/skills.php?str=infernal_arc
+ 542. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 543. http://www.bat.org/help/skills.php?str=cleave
+ 544. http://www.bat.org/help/skills.php?str=impale
+ 545. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 546. http://www.bat.org/help/skills.php?str=consider
+ 547. http://www.bat.org/help/skills.php?str=stun
+ 548. http://www.bat.org/help/skills.php?str=reaver_strike
+ 549. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 550. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 551. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 552. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 553. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 554. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 555. http://www.bat.org/help/skills.php?str=infernal_arc
+ 556. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 557. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 558. http://www.bat.org/help/skills.php?str=rebellion
+ 559. http://www.bat.org/help/skills.php?str=riot
+ 560. http://www.bat.org/help/skills.php?str=riposte
+ 561. http://www.bat.org/help/skills.php?str=find_weakness
+ 562. http://www.bat.org/help/skills.php?str=endurance
+ 563. http://www.bat.org/help/spells.php?str=shattered_feast
+ 564. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 565. http://www.bat.org/help/spells.php?str=word_of_attrition
+ 566. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 567. http://www.bat.org/help/spells.php?str=word_of_spite
+ 568. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 569. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 570. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 571. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 572. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 573. http://www.bat.org/help/spells.php?str=blood_seeker
+ 574. http://www.bat.org/help/spells.php?str=spirit_drain
+ 575. http://www.bat.org/help/skills.php?str=discipline
+ 576. http://www.bat.org/help/skills.php?str=parry
+ 577. http://www.bat.org/help/skills.php?str=throw_weight
+ 578. http://www.bat.org/help/skills.php?str=combat_sense
+ 579. http://www.bat.org/help/skills.php?str=true_reaving
+ 580. http://www.bat.org/help/skills.php?str=reave_armour
+ 581. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 582. http://www.bat.org/help/skills.php?str=true_reaving
+ 583. http://www.bat.org/help/spells.php?str=blood_seeker
+ 584. http://www.bat.org/help/skills.php?str=rebellion
+ 585. http://www.bat.org/help/skills.php?str=infernal_arc
+ 586. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 587. http://www.bat.org/help/skills.php?str=cleave
+ 588. http://www.bat.org/help/skills.php?str=impale
+ 589. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 590. http://www.bat.org/help/skills.php?str=consider
+ 591. http://www.bat.org/help/skills.php?str=stun
+ 592. http://www.bat.org/help/skills.php?str=reaver_strike
+ 593. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 594. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 595. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 596. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 597. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 598. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 599. http://www.bat.org/help/skills.php?str=infernal_arc
+ 600. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 601. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 602. http://www.bat.org/help/skills.php?str=rebellion
+ 603. http://www.bat.org/help/skills.php?str=riot
+ 604. http://www.bat.org/help/skills.php?str=riposte
+ 605. http://www.bat.org/help/skills.php?str=reaving
+ 606. http://www.bat.org/help/skills.php?str=mangle
+ 607. http://www.bat.org/help/skills.php?str=find_weakness
+ 608. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 609. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 610. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 611. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 612. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 613. http://www.bat.org/help/spells.php?str=blood_seeker
+ 614. http://www.bat.org/help/spells.php?str=spirit_drain
+ 615. http://www.bat.org/help/skills.php?str=parry
+ 616. http://www.bat.org/help/skills.php?str=throw_weight
+ 617. http://www.bat.org/help/skills.php?str=dodge
+ 618. http://www.bat.org/help/skills.php?str=true_reaving
+ 619. http://www.bat.org/help/skills.php?str=combat_sense
+ 620. http://www.bat.org/help/skills.php?str=true_reaving
+ 621. http://www.bat.org/help/skills.php?str=reave_armour
+ 622. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 623. http://www.bat.org/help/skills.php?str=true_reaving
+ 624. http://www.bat.org/help/spells.php?str=blood_seeker
+ 625. http://www.bat.org/help/skills.php?str=rebellion
+ 626. http://www.bat.org/help/skills.php?str=cleave
+ 627. http://www.bat.org/help/skills.php?str=impale
+ 628. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 629. http://www.bat.org/help/skills.php?str=consider
+ 630. http://www.bat.org/help/skills.php?str=stun
+ 631. http://www.bat.org/help/skills.php?str=reaver_strike
+ 632. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 633. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 634. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 635. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 636. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 637. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 638. http://www.bat.org/help/skills.php?str=infernal_arc
+ 639. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 640. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 641. http://www.bat.org/help/skills.php?str=rebellion
+ 642. http://www.bat.org/help/skills.php?str=riot
+ 643. http://www.bat.org/help/skills.php?str=riposte
+ 644. http://www.bat.org/help/skills.php?str=reaving
+ 645. http://www.bat.org/help/skills.php?str=mangle
+ 646. http://www.bat.org/help/skills.php?str=find_weakness
+ 647. http://www.bat.org/help/skills.php?str=blood_harvest
+ 648. http://www.bat.org/help/skills.php?str=reaver_strike
+ 649. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 650. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 651. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 652. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 653. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 654. http://www.bat.org/help/spells.php?str=blood_seeker
+ 655. http://www.bat.org/help/spells.php?str=spirit_drain
+ 656. http://www.bat.org/help/skills.php?str=parry
+ 657. http://www.bat.org/help/skills.php?str=throw_weight
+ 658. http://www.bat.org/help/skills.php?str=combat_sense
+ 659. http://www.bat.org/help/skills.php?str=true_reaving
+ 660. http://www.bat.org/help/skills.php?str=reave_armour
+ 661. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 662. http://www.bat.org/help/skills.php?str=true_reaving
+ 663. http://www.bat.org/help/spells.php?str=blood_seeker
+ 664. http://www.bat.org/help/skills.php?str=rebellion
+ 665. http://www.bat.org/help/skills.php?str=cleave
+ 666. http://www.bat.org/help/skills.php?str=impale
+ 667. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 668. http://www.bat.org/help/skills.php?str=consider
+ 669. http://www.bat.org/help/skills.php?str=stun
+ 670. http://www.bat.org/help/skills.php?str=reaver_strike
+ 671. http://www.bat.org/help/skills.php?str=rampant_cutting
+ 672. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 673. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 674. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 675. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 676. http://www.bat.org/help/skills.php?str=infernal_arc
+ 677. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 678. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 679. http://www.bat.org/help/skills.php?str=rebellion
+ 680. http://www.bat.org/help/skills.php?str=riot
+ 681. http://www.bat.org/help/skills.php?str=riposte
+ 682. http://www.bat.org/help/skills.php?str=reaving
+ 683. http://www.bat.org/help/skills.php?str=mangle
+ 684. http://www.bat.org/help/skills.php?str=find_weakness
+ 685. http://www.bat.org/help/skills.php?str=blood_harvest
+ 686. http://www.bat.org/help/skills.php?str=reaver_strike
+ 687. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 688. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 689. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 690. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 691. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 692. http://www.bat.org/help/spells.php?str=blood_seeker
+ 693. http://www.bat.org/help/spells.php?str=spirit_drain
+ 694. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 695. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 696. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 697. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 698. http://www.bat.org/help/skills.php?str=parry
+ 699. http://www.bat.org/help/skills.php?str=throw_weight
+ 700. http://www.bat.org/help/skills.php?str=dodge
+ 701. http://www.bat.org/help/skills.php?str=true_reaving
+ 702. http://www.bat.org/help/skills.php?str=combat_sense
+ 703. http://www.bat.org/help/skills.php?str=true_reaving
+ 704. http://www.bat.org/help/skills.php?str=reave_armour
+ 705. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 706. http://www.bat.org/help/skills.php?str=true_reaving
+ 707. http://www.bat.org/help/spells.php?str=blood_seeker
+ 708. http://www.bat.org/help/skills.php?str=rebellion
+ 709. http://www.bat.org/help/skills.php?str=cleave
+ 710. http://www.bat.org/help/skills.php?str=impale
+ 711. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 712. http://www.bat.org/help/skills.php?str=consider
+ 713. http://www.bat.org/help/skills.php?str=stun
+ 714. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 715. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 716. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 717. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 718. http://www.bat.org/help/skills.php?str=infernal_arc
+ 719. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 720. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 721. http://www.bat.org/help/skills.php?str=rebellion
+ 722. http://www.bat.org/help/skills.php?str=riot
+ 723. http://www.bat.org/help/skills.php?str=riposte
+ 724. http://www.bat.org/help/skills.php?str=reaving
+ 725. http://www.bat.org/help/skills.php?str=mangle
+ 726. http://www.bat.org/help/skills.php?str=find_weakness
+ 727. http://www.bat.org/help/skills.php?str=blood_harvest
+ 728. http://www.bat.org/help/skills.php?str=reaver_strike
+ 729. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 730. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 731. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 732. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 733. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 734. http://www.bat.org/help/spells.php?str=blood_seeker
+ 735. http://www.bat.org/help/spells.php?str=spirit_drain
+ 736. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 737. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 738. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 739. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 740. http://www.bat.org/help/skills.php?str=parry
+ 741. http://www.bat.org/help/skills.php?str=throw_weight
+ 742. http://www.bat.org/help/skills.php?str=dodge
+ 743. http://www.bat.org/help/skills.php?str=true_reaving
+ 744. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 745. http://www.bat.org/help/skills.php?str=combat_sense
+ 746. http://www.bat.org/help/skills.php?str=true_reaving
+ 747. http://www.bat.org/help/skills.php?str=reave_armour
+ 748. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 749. http://www.bat.org/help/skills.php?str=true_reaving
+ 750. http://www.bat.org/help/spells.php?str=blood_seeker
+ 751. http://www.bat.org/help/skills.php?str=rebellion
+ 752. http://www.bat.org/help/skills.php?str=cleave
+ 753. http://www.bat.org/help/skills.php?str=impale
+ 754. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 755. http://www.bat.org/help/skills.php?str=consider
+ 756. http://www.bat.org/help/skills.php?str=stun
+ 757. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 758. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 759. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 760. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 761. http://www.bat.org/help/skills.php?str=infernal_arc
+ 762. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 763. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 764. http://www.bat.org/help/skills.php?str=rebellion
+ 765. http://www.bat.org/help/skills.php?str=riot
+ 766. http://www.bat.org/help/skills.php?str=riposte
+ 767. http://www.bat.org/help/skills.php?str=reaving
+ 768. http://www.bat.org/help/skills.php?str=mangle
+ 769. http://www.bat.org/help/skills.php?str=find_weakness
+ 770. http://www.bat.org/help/skills.php?str=blood_harvest
+ 771. http://www.bat.org/help/skills.php?str=reaver_strike
+ 772. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 773. http://www.bat.org/help/spells.php?str=word_of_blasting
+ 774. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 775. http://www.bat.org/help/spells.php?str=word_of_slaughter
+ 776. http://www.bat.org/help/spells.php?str=blood_seeker
+ 777. http://www.bat.org/help/spells.php?str=spirit_drain
+ 778. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 779. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 780. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 781. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 782. http://www.bat.org/help/skills.php?str=parry
+ 783. http://www.bat.org/help/skills.php?str=dodge
+ 784. http://www.bat.org/help/skills.php?str=true_reaving
+ 785. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 786. http://www.bat.org/help/skills.php?str=true_reaving
+ 787. http://www.bat.org/help/skills.php?str=reave_armour
+ 788. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 789. http://www.bat.org/help/skills.php?str=true_reaving
+ 790. http://www.bat.org/help/spells.php?str=blood_seeker
+ 791. http://www.bat.org/help/skills.php?str=rebellion
+ 792. http://www.bat.org/help/skills.php?str=cleave
+ 793. http://www.bat.org/help/skills.php?str=impale
+ 794. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 795. http://www.bat.org/help/skills.php?str=consider
+ 796. http://www.bat.org/help/skills.php?str=stun
+ 797. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 798. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 799. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 800. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 801. http://www.bat.org/help/skills.php?str=infernal_arc
+ 802. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 803. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 804. http://www.bat.org/help/skills.php?str=rebellion
+ 805. http://www.bat.org/help/skills.php?str=riot
+ 806. http://www.bat.org/help/skills.php?str=riposte
+ 807. http://www.bat.org/help/skills.php?str=reaving
+ 808. http://www.bat.org/help/skills.php?str=mangle
+ 809. http://www.bat.org/help/skills.php?str=find_weakness
+ 810. http://www.bat.org/help/skills.php?str=blood_harvest
+ 811. http://www.bat.org/help/skills.php?str=reaver_strike
+ 812. http://www.bat.org/help/spells.php?str=blood_seeker
+ 813. http://www.bat.org/help/spells.php?str=spirit_drain
+ 814. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 815. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 816. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 817. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 818. http://www.bat.org/help/spells.php?str=black_hole
+ 819. http://www.bat.org/help/skills.php?str=parry
+ 820. http://www.bat.org/help/skills.php?str=dodge
+ 821. http://www.bat.org/help/skills.php?str=true_reaving
+ 822. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 823. http://www.bat.org/help/skills.php?str=true_reaving
+ 824. http://www.bat.org/help/skills.php?str=reave_armour
+ 825. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 826. http://www.bat.org/help/skills.php?str=true_reaving
+ 827. http://www.bat.org/help/spells.php?str=blood_seeker
+ 828. http://www.bat.org/help/skills.php?str=rebellion
+ 829. http://www.bat.org/help/skills.php?str=cleave
+ 830. http://www.bat.org/help/skills.php?str=impale
+ 831. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 832. http://www.bat.org/help/skills.php?str=consider
+ 833. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 834. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 835. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 836. http://www.bat.org/help/skills.php?str=wrath_of_hells_wind
+ 837. http://www.bat.org/help/skills.php?str=infernal_arc
+ 838. http://www.bat.org/help/skills.php?str=breath_of_doom
+ 839. http://www.bat.org/help/skills.php?str=corrosive_cut
+ 840. http://www.bat.org/help/skills.php?str=rebellion
+ 841. http://www.bat.org/help/skills.php?str=riot
+ 842. http://www.bat.org/help/skills.php?str=riposte
+ 843. http://www.bat.org/help/skills.php?str=reaving
+ 844. http://www.bat.org/help/skills.php?str=mangle
+ 845. http://www.bat.org/help/skills.php?str=find_weakness
+ 846. http://www.bat.org/help/skills.php?str=blood_harvest
+ 847. http://www.bat.org/help/skills.php?str=reaver_strike
+ 848. http://www.bat.org/help/spells.php?str=blood_seeker
+ 849. http://www.bat.org/help/spells.php?str=spirit_drain
+ 850. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 851. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 852. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 853. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 854. http://www.bat.org/help/spells.php?str=black_hole
+ 855. http://www.bat.org/help/skills.php?str=parry
+ 856. http://www.bat.org/help/skills.php?str=dodge
+ 857. http://www.bat.org/help/skills.php?str=true_reaving
+ 858. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 859. http://www.bat.org/help/skills.php?str=true_reaving
+ 860. http://www.bat.org/help/skills.php?str=reave_armour
+ 861. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 862. http://www.bat.org/help/skills.php?str=true_reaving
+ 863. http://www.bat.org/help/spells.php?str=blood_seeker
+ 864. http://www.bat.org/help/skills.php?str=rebellion
+ 865. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 866. http://www.bat.org/help/skills.php?str=consider
+ 867. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 868. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 869. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 870. http://www.bat.org/help/skills.php?str=rebellion
+ 871. http://www.bat.org/help/skills.php?str=riot
+ 872. http://www.bat.org/help/skills.php?str=riposte
+ 873. http://www.bat.org/help/skills.php?str=find_weakness
+ 874. http://www.bat.org/help/skills.php?str=blood_harvest
+ 875. http://www.bat.org/help/skills.php?str=reaver_strike
+ 876. http://www.bat.org/help/spells.php?str=spirit_drain
+ 877. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 878. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 879. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 880. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 881. http://www.bat.org/help/spells.php?str=black_hole
+ 882. http://www.bat.org/help/skills.php?str=parry
+ 883. http://www.bat.org/help/skills.php?str=dodge
+ 884. http://www.bat.org/help/skills.php?str=true_reaving
+ 885. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 886. http://www.bat.org/help/skills.php?str=true_reaving
+ 887. http://www.bat.org/help/skills.php?str=reave_armour
+ 888. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 889. http://www.bat.org/help/skills.php?str=true_reaving
+ 890. http://www.bat.org/help/spells.php?str=blood_seeker
+ 891. http://www.bat.org/help/skills.php?str=rebellion
+ 892. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 893. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 894. http://www.bat.org/help/skills.php?str=rebellion
+ 895. http://www.bat.org/help/skills.php?str=riot
+ 896. http://www.bat.org/help/skills.php?str=riposte
+ 897. http://www.bat.org/help/skills.php?str=find_weakness
+ 898. http://www.bat.org/help/skills.php?str=blood_harvest
+ 899. http://www.bat.org/help/skills.php?str=reaver_strike
+ 900. http://www.bat.org/help/spells.php?str=spirit_drain
+ 901. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 902. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 903. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 904. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 905. http://www.bat.org/help/spells.php?str=black_hole
+ 906. http://www.bat.org/help/skills.php?str=reave_armour
+ 907. http://www.bat.org/help/spells.php?str=glory_of_destruction
+ 908. http://www.bat.org/help/skills.php?str=parry
+ 909. http://www.bat.org/help/skills.php?str=true_reaving
+ 910. http://www.bat.org/help/skills.php?str=reave_armour
+ 911. http://www.bat.org/help/skills.php?str=way_of_the_scythe
+ 912. http://www.bat.org/help/skills.php?str=true_reaving
+ 913. http://www.bat.org/help/spells.php?str=blood_seeker
+ 914. http://www.bat.org/help/skills.php?str=rebellion
+ 915. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 916. http://www.bat.org/help/skills.php?str=mastery_of_destruction
+ 917. http://www.bat.org/help/skills.php?str=blood_harvest
+ 918. http://www.bat.org/help/skills.php?str=reaver_strike
+ 919. http://www.bat.org/help/skills.php?str=endurance
+ 920. http://www.bat.org/help/spells.php?str=word_of_oblivion
+ 921. http://www.bat.org/help/spells.php?str=word_of_destruction
+ 922. http://www.bat.org/help/spells.php?str=word_of_apocalypse
+ 923. http://www.bat.org/help/spells.php?str=word_of_genocide
+ 924. http://www.bat.org/help/spells.php?str=black_hole
+ 925. http://www.bat.org/help/guilds.php
+ 926. mailto:webmaster@bat.org
+
+   Hidden links:
+ 927. http://www.bat.org/bat.php

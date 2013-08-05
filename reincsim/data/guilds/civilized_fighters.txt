@@ -1,0 +1,1230 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                  [fonter.php?str=The+Civilized+Fighters]
+
+                           The Civilized Fighters
+
+   Command: civilized_fighters
+   Creator: [22]Shardik
+   Maximum level: 25
+   Description:
+   This guild is a fighting academy for city-dwellers. Even though their
+   proficiency in combat cannot match that of their nomad colleagues,
+   they hold their liquor better, which of course is all that matters.
+
+                                 New Member
+                Background must be civilized
+                Receive the signet ring of Civilized Fighters.
+                Receive guild bonuses as you advance.
+                May train skill [23]Attack to 20%
+                May train skill [24]Consider to 40%
+                May train skill [25]Push to 30%
+                May train skill [26]Tinning to 40%
+                May train skill [27]Compare to 25%
+                May train skill [28]Long blades to 10%
+                May train skill [29]Short blades to 10%
+
+                                 Level 2
+              Has trained skill [30]Attack to at least 19%
+              Has trained skill [31]Consider to at least 39%
+              Has trained skill [32]Push to at least 27%
+              Has trained skill [33]Short blades to at least 7%
+              May train skill [34]Attack to 25%
+              May train skill [35]Consider to 44%
+              May train skill [36]Push to 40%
+              May train skill [37]Tinning to 50%
+              May train skill [38]Compare to 29%
+              May train skill [39]First aid to 15%
+              May train skill [40]Torch creation to 15%
+              May train skill [41]Long blades to 15%
+              May train skill [42]Short blades to 19%
+
+                                  Level 3
+              Has trained skill [43]Attack to at least 20%
+              Has trained skill [44]Consider to at least 40%
+              Has trained skill [45]Push to at least 30%
+              Has trained skill [46]Short blades to at least 10%
+              May train skill [47]Attack to 31%
+              May train skill [48]Consider to 48%
+              May train skill [49]Push to 50%
+              May train skill [50]Tinning to 60%
+              May train skill [51]Compare to 33%
+              May train skill [52]First aid to 25%
+              May train skill [53]Torch creation to 23%
+              May train skill [54]Battlecry to 10%
+              May train skill [55]Brawling to 10%
+              May train skill [56]Long blades to 21%
+              May train skill [57]Short blades to 28%
+
+                                  Level 4
+              Has trained skill [58]Attack to at least 21%
+              Has trained skill [59]Consider to at least 41%
+              Has trained skill [60]Push to at least 33%
+              Has trained skill [61]Battlecry to at least 9%
+              Has trained skill [62]Short blades to at least 13%
+              May train skill [63]Attack to 37%
+              May train skill [64]Consider to 52%
+              May train skill [65]Push to 60%
+              May train skill [66]Tinning to 70%
+              May train skill [67]Compare to 38%
+              May train skill [68]First aid to 36%
+              May train skill [69]Torch creation to 32%
+              May train skill [70]Battlecry to 13%
+              May train skill [71]Brawling to 16%
+              May train skill [72]Alertness to 15%
+              May train skill [73]Long blades to 27%
+              May train skill [74]Short blades to 38%
+
+                                  Level 5
+              Has trained skill [75]Attack to at least 23%
+              Has trained skill [76]Consider to at least 42%
+              Has trained skill [77]Push to at least 36%
+              Has trained skill [78]Battlecry to at least 10%
+              Has trained skill [79]Short blades to at least 16%
+              May train skill [80]Attack to 43%
+              May train skill [81]Consider to 57%
+              May train skill [82]Push to 70%
+              May train skill [83]Tinning to 80%
+              May train skill [84]Compare to 42%
+              May train skill [85]First aid to 47%
+              May train skill [86]Torch creation to 41%
+              May train skill [87]Battlecry to 17%
+              May train skill [88]Brawling to 22%
+              May train skill [89]Alertness to 16%
+              May train skill [90]Appraise to 20%
+              May train skill [91]Camping to 20%
+              May train skill [92]Swim to 20%
+              May train skill [93]Long blades to 32%
+              May train skill [94]Short blades to 47%
+
+                                  Level 6
+              Has trained skill [95]Attack to at least 25%
+              Has trained skill [96]Consider to at least 44%
+              Has trained skill [97]Push to at least 40%
+              Has trained skill [98]Battlecry to at least 11%
+              Has trained skill [99]Short blades to at least 19%
+              May train skill [100]Attack to 48%
+              May train skill [101]Consider to 61%
+              May train skill [102]Push to 80%
+              May train skill [103]Compare to 46%
+              May train skill [104]First aid to 58%
+              May train skill [105]Torch creation to 50%
+              May train skill [106]Battlecry to 20%
+              May train skill [107]Brawling to 28%
+              May train skill [108]Alertness to 18%
+              May train skill [109]Appraise to 26%
+              May train skill [110]Camping to 26%
+              May train skill [111]Swim to 25%
+              May train skill [112]Negate offhand penalty to 10%
+              May train skill [113]Long blades to 38%
+              May train skill [114]Short blades to 57%
+
+                                 Level 7
+        Has trained skill [115]Attack to at least 27%
+        Has trained skill [116]Consider to at least 45%
+        Has trained skill [117]Battlecry to at least 12%
+        Has trained skill [118]Negate offhand penalty to at least 10%
+        Has trained skill [119]Short blades to at least 22%
+        May train skill [120]Attack to 54%
+        May train skill [121]Consider to 65%
+        May train skill [122]Compare to 51%
+        May train skill [123]First aid to 69%
+        May train skill [124]Battlecry to 24%
+        May train skill [125]Brawling to 35%
+        May train skill [126]Alertness to 19%
+        May train skill [127]Appraise to 32%
+        May train skill [128]Camping to 32%
+        May train skill [129]Swim to 30%
+        May train skill [130]Negate offhand penalty to 12%
+        May train skill [131]Bash to 30%
+        May train skill [132]Pummel to 30%
+        May train skill [133]Long blades to 44%
+        May train skill [134]Short blades to 66%
+
+                                 Level 8
+        Has trained skill [135]Attack to at least 29%
+        Has trained skill [136]Consider to at least 47%
+        Has trained skill [137]Battlecry to at least 13%
+        Has trained skill [138]Negate offhand penalty to at least 10%
+        Has trained skill [139]Short blades to at least 25%
+        May train skill [140]Attack to 60%
+        May train skill [141]Consider to 69%
+        May train skill [142]Compare to 55%
+        May train skill [143]First aid to 80%
+        May train skill [144]Battlecry to 27%
+        May train skill [145]Brawling to 41%
+        May train skill [146]Alertness to 21%
+        May train skill [147]Appraise to 38%
+        May train skill [148]Camping to 38%
+        May train skill [149]Swim to 36%
+        May train skill [150]Negate offhand penalty to 15%
+        May train skill [151]Bash to 40%
+        May train skill [152]Pummel to 35%
+        May train skill [153]Alcohol tolerance to 10%
+        May train skill [154]Polearms to 10%
+        May train skill [155]Long blades to 49%
+        May train skill [156]Short blades to 76%
+
+                                 Level 9
+        Has trained skill [157]Attack to at least 31%
+        Has trained skill [158]Consider to at least 48%
+        Has trained skill [159]Battlecry to at least 14%
+        Has trained skill [160]Negate offhand penalty to at least 10%
+        Has trained skill [161]Polearms to at least 8%
+        Has trained skill [162]Short blades to at least 28%
+        May train skill [163]Attack to 66%
+        May train skill [164]Consider to 74%
+        May train skill [165]Compare to 60%
+        May train skill [166]Battlecry to 31%
+        May train skill [167]Brawling to 47%
+        May train skill [168]Alertness to 23%
+        May train skill [169]Appraise to 44%
+        May train skill [170]Camping to 44%
+        May train skill [171]Swim to 41%
+        May train skill [172]Negate offhand penalty to 17%
+        May train skill [173]Bash to 50%
+        May train skill [174]Pummel to 41%
+        May train skill [175]Alcohol tolerance to 16%
+        May train skill [176]Switch weapon to 10%
+        May train skill [177]Polearms to 16%
+        May train skill [178]Long blades to 55%
+        May train skill [179]Short blades to 85%
+
+                                 Level 10
+        Has trained skill [180]Attack to at least 33%
+        Has trained skill [181]Consider to at least 49%
+        Has trained skill [182]Battlecry to at least 15%
+        Has trained skill [183]Negate offhand penalty to at least 11%
+        Has trained skill [184]Polearms to at least 10%
+        Has trained skill [185]Short blades to at least 32%
+        May train skill [186]Attack to 71%
+        May train skill [187]Consider to 78%
+        May train skill [188]Battlecry to 34%
+        May train skill [189]Brawling to 53%
+        May train skill [190]Alertness to 24%
+        May train skill [191]Appraise to 50%
+        May train skill [192]Camping to 50%
+        May train skill [193]Swim to 47%
+        May train skill [194]Negate offhand penalty to 20%
+        May train skill [195]Bash to 60%
+        May train skill [196]Pummel to 47%
+        May train skill [197]Alcohol tolerance to 22%
+        May train skill [198]Switch weapon to 16%
+        May train skill [199]Shield bash to 10%
+        May train skill [200]Polearms to 23%
+        May train skill [201]Long blades to 61%
+        May train skill [202]Short blades to 95%
+
+                                 Level 11
+        Has trained skill [203]Attack to at least 35%
+        Has trained skill [204]Consider to at least 51%
+        Has trained skill [205]Battlecry to at least 17%
+        Has trained skill [206]Negate offhand penalty to at least 12%
+        Has trained skill [207]Polearms to at least 12%
+        May train skill [208]Attack to 77%
+        May train skill [209]Consider to 82%
+        May train skill [210]Battlecry to 38%
+        May train skill [211]Brawling to 60%
+        May train skill [212]Alertness to 26%
+        May train skill [213]Swim to 52%
+        May train skill [214]Negate offhand penalty to 23%
+        May train skill [215]Bash to 70%
+        May train skill [216]Pummel to 52%
+        May train skill [217]Alcohol tolerance to 28%
+        May train skill [218]Switch weapon to 23%
+        May train skill [219]Shield bash to 13%
+        May train skill [220]Throw weight to 10%
+        May train skill [221]Polearms to 29%
+        May train skill [222]Long blades to 67%
+
+                                 Level 12
+        Has trained skill [223]Attack to at least 37%
+        Has trained skill [224]Consider to at least 52%
+        Has trained skill [225]Battlecry to at least 18%
+        Has trained skill [226]Negate offhand penalty to at least 13%
+        Has trained skill [227]Throw weight to at least 8%
+        Has trained skill [228]Polearms to at least 14%
+        May train skill [229]Attack to 83%
+        May train skill [230]Consider to 87%
+        May train skill [231]Battlecry to 42%
+        May train skill [232]Alertness to 28%
+        May train skill [233]Swim to 57%
+        May train skill [234]Negate offhand penalty to 25%
+        May train skill [235]Pummel to 58%
+        May train skill [236]Alcohol tolerance to 34%
+        May train skill [237]Switch weapon to 29%
+        May train skill [238]Shield bash to 16%
+        May train skill [239]Throw weight to 16%
+        May train skill [240]Stun to 10%
+        May train skill [241]Polearms to 36%
+        May train skill [242]Long blades to 72%
+
+                                 Level 13
+        Has trained skill [243]Attack to at least 39%
+        Has trained skill [244]Consider to at least 54%
+        Has trained skill [245]Battlecry to at least 19%
+        Has trained skill [246]Negate offhand penalty to at least 14%
+        Has trained skill [247]Throw weight to at least 10%
+        Has trained skill [248]Polearms to at least 16%
+        May train skill [249]Attack to 89%
+        May train skill [250]Consider to 91%
+        May train skill [251]Battlecry to 45%
+        May train skill [252]Alertness to 29%
+        May train skill [253]Swim to 63%
+        May train skill [254]Negate offhand penalty to 28%
+        May train skill [255]Pummel to 64%
+        May train skill [256]Alcohol tolerance to 40%
+        May train skill [257]Switch weapon to 36%
+        May train skill [258]Shield bash to 19%
+        May train skill [259]Throw weight to 23%
+        May train skill [260]Stun to 13%
+        May train skill [261]Kick to 10%
+        May train skill [262]Polearms to 43%
+        May train skill [263]Long blades to 78%
+
+                                 Level 14
+        Has trained skill [264]Attack to at least 41%
+        Has trained skill [265]Consider to at least 55%
+        Has trained skill [266]Battlecry to at least 20%
+        Has trained skill [267]Negate offhand penalty to at least 15%
+        Has trained skill [268]Throw weight to at least 12%
+        Has trained skill [269]Kick to at least 6%
+        Has trained skill [270]Polearms to at least 18%
+        May train skill [271]Attack to 95%
+        May train skill [272]Consider to 95%
+        May train skill [273]Battlecry to 49%
+        May train skill [274]Alertness to 31%
+        May train skill [275]Swim to 68%
+        May train skill [276]Negate offhand penalty to 31%
+        May train skill [277]Pummel to 70%
+        May train skill [278]Alcohol tolerance to 46%
+        May train skill [279]Switch weapon to 43%
+        May train skill [280]Shield bash to 23%
+        May train skill [281]Throw weight to 30%
+        May train skill [282]Stun to 17%
+        May train skill [283]Kick to 30%
+        May train skill [284]Parry to 10%
+        May train skill [285]Overbear to 30%
+        May train skill [286]Polearms to 49%
+        May train skill [287]Long blades to 84%
+
+                                 Level 15
+        Has trained skill [288]Consider to at least 57%
+        Has trained skill [289]Battlecry to at least 21%
+        Has trained skill [290]Negate offhand penalty to at least 16%
+        Has trained skill [291]Throw weight to at least 14%
+        Has trained skill [292]Kick to at least 10%
+        Has trained skill [293]Parry to at least 8%
+        Has trained skill [294]Polearms to at least 21%
+        May train skill [295]Consider to 100%
+        May train skill [296]Battlecry to 52%
+        May train skill [297]Alertness to 33%
+        May train skill [298]Swim to 74%
+        May train skill [299]Negate offhand penalty to 33%
+        May train skill [300]Alcohol tolerance to 52%
+        May train skill [301]Switch weapon to 50%
+        May train skill [302]Shield bash to 26%
+        May train skill [303]Throw weight to 37%
+        May train skill [304]Stun to 21%
+        May train skill [305]Kick to 50%
+        May train skill [306]Parry to 18%
+        May train skill [307]Overbear to 34%
+        May train skill [308]Riposte to 10%
+        May train skill [309]Polearms to 56%
+        May train skill [310]Long blades to 90%
+        May train skill [311]Impale to 10%
+        May train skill [312]Slash to 10%
+        May train skill [313]Stab to 10%
+        May train skill [314]Decapitate to 10%
+        May train skill [315]Pierce to 10%
+        May train skill [316]Mangle to 10%
+
+                                 Level 16
+        Has trained skill [317]Battlecry to at least 23%
+        Has trained skill [318]Negate offhand penalty to at least 17%
+        Has trained skill [319]Throw weight to at least 16%
+        Has trained skill [320]Kick to at least 16%
+        Has trained skill [321]Parry to at least 10%
+        Has trained skill [322]Polearms to at least 23%
+        Has trained skill [323]Pierce to at least 8%
+        May train skill [324]Battlecry to 56%
+        May train skill [325]Alertness to 34%
+        May train skill [326]Swim to 79%
+        May train skill [327]Negate offhand penalty to 36%
+        May train skill [328]Alcohol tolerance to 58%
+        May train skill [329]Shield bash to 29%
+        May train skill [330]Throw weight to 44%
+        May train skill [331]Stun to 25%
+        May train skill [332]Kick to 70%
+        May train skill [333]Parry to 27%
+        May train skill [334]Overbear to 38%
+        May train skill [335]Riposte to 17%
+        May train skill [336]Polearms to 63%
+        May train skill [337]Impale to 18%
+        May train skill [338]Slash to 18%
+        May train skill [339]Stab to 18%
+        May train skill [340]Decapitate to 16%
+        May train skill [341]Pierce to 16%
+        May train skill [342]Mangle to 16%
+
+                                 Level 17
+        Has trained skill [343]Battlecry to at least 24%
+        Has trained skill [344]Negate offhand penalty to at least 17%
+        Has trained skill [345]Throw weight to at least 19%
+        Has trained skill [346]Parry to at least 12%
+        Has trained skill [347]Polearms to at least 25%
+        Has trained skill [348]Pierce to at least 10%
+        May train skill [349]Battlecry to 60%
+        May train skill [350]Alertness to 36%
+        May train skill [351]Swim to 85%
+        May train skill [352]Negate offhand penalty to 38%
+        May train skill [353]Alcohol tolerance to 64%
+        May train skill [354]Shield bash to 33%
+        May train skill [355]Throw weight to 51%
+        May train skill [356]Stun to 29%
+        May train skill [357]Parry to 36%
+        May train skill [358]Overbear to 42%
+        May train skill [359]Riposte to 24%
+        May train skill [360]Enhance criticals to 10%
+        May train skill [361]Polearms to 69%
+        May train skill [362]Impale to 26%
+        May train skill [363]Slash to 26%
+        May train skill [364]Stab to 27%
+        May train skill [365]Decapitate to 22%
+        May train skill [366]Pierce to 22%
+        May train skill [367]Mangle to 22%
+
+                                 Level 18
+        Has trained skill [368]Negate offhand penalty to at least 18%
+        Has trained skill [369]Throw weight to at least 21%
+        Has trained skill [370]Parry to at least 15%
+        Has trained skill [371]Polearms to at least 27%
+        Has trained skill [372]Pierce to at least 12%
+        May train skill [373]Alertness to 38%
+        May train skill [374]Negate offhand penalty to 41%
+        May train skill [375]Alcohol tolerance to 70%
+        May train skill [376]Shield bash to 36%
+        May train skill [377]Throw weight to 58%
+        May train skill [378]Stun to 33%
+        May train skill [379]Parry to 45%
+        May train skill [380]Overbear to 46%
+        May train skill [381]Riposte to 31%
+        May train skill [382]Enhance criticals to 16%
+        May train skill [383]Polearms to 76%
+        May train skill [384]Impale to 34%
+        May train skill [385]Slash to 34%
+        May train skill [386]Stab to 35%
+        May train skill [387]Decapitate to 28%
+        May train skill [388]Pierce to 28%
+        May train skill [389]Mangle to 28%
+
+                                 Level 19
+        Has trained skill [390]Negate offhand penalty to at least 19%
+        Has trained skill [391]Throw weight to at least 23%
+        Has trained skill [392]Parry to at least 18%
+        Has trained skill [393]Polearms to at least 29%
+        Has trained skill [394]Pierce to at least 14%
+        May train skill [395]Alertness to 39%
+        May train skill [396]Negate offhand penalty to 44%
+        May train skill [397]Shield bash to 40%
+        May train skill [398]Throw weight to 65%
+        May train skill [399]Stun to 36%
+        May train skill [400]Parry to 53%
+        May train skill [401]Overbear to 50%
+        May train skill [402]Riposte to 38%
+        May train skill [403]Enhance criticals to 23%
+        May train skill [404]Dirty fighting to 25%
+        May train skill [405]Tumbling attack to 10%
+        May train skill [406]Polearms to 83%
+        May train skill [407]Impale to 42%
+        May train skill [408]Slash to 42%
+        May train skill [409]Stab to 44%
+        May train skill [410]Decapitate to 34%
+        May train skill [411]Pierce to 34%
+        May train skill [412]Mangle to 34%
+
+                                 Level 20
+        Has trained skill [413]Negate offhand penalty to at least 20%
+        Has trained skill [414]Parry to at least 21%
+        Has trained skill [415]Tumbling attack to at least 8%
+        Has trained skill [416]Polearms to at least 32%
+        Has trained skill [417]Pierce to at least 16%
+        May train skill [418]Alertness to 41%
+        May train skill [419]Negate offhand penalty to 46%
+        May train skill [420]Stun to 40%
+        May train skill [421]Parry to 62%
+        May train skill [422]Overbear to 54%
+        May train skill [423]Riposte to 45%
+        May train skill [424]Enhance criticals to 29%
+        May train skill [425]Dirty fighting to 32%
+        May train skill [426]Tumbling attack to 18%
+        May train skill [427]Stunned maneuvers to 10%
+        May train skill [428]Rescue to 10%
+        May train skill [429]Discipline to 10%
+        May train skill [430]Combat sense to 10%
+        May train skill [431]Polearms to 90%
+        May train skill [432]Impale to 50%
+        May train skill [433]Slash to 50%
+        May train skill [434]Stab to 52%
+        May train skill [435]Decapitate to 40%
+        May train skill [436]Pierce to 40%
+        May train skill [437]Mangle to 40%
+
+                                 Level 21
+        Has trained skill [438]Negate offhand penalty to at least 21%
+        Has trained skill [439]Parry to at least 24%
+        Has trained skill [440]Tumbling attack to at least 10%
+        Has trained skill [441]Stunned maneuvers to at least 6%
+        Has trained skill [442]Rescue to at least 8%
+        Has trained skill [443]Discipline to at least 8%
+        Has trained skill [444]Combat sense to at least 8%
+        Has trained skill [445]Pierce to at least 18%
+        May train skill [446]Alertness to 43%
+        May train skill [447]Negate offhand penalty to 49%
+        May train skill [448]Stun to 44%
+        May train skill [449]Parry to 71%
+        May train skill [450]Overbear to 58%
+        May train skill [451]Riposte to 52%
+        May train skill [452]Enhance criticals to 36%
+        May train skill [453]Dirty fighting to 40%
+        May train skill [454]Tumbling attack to 26%
+        May train skill [455]Stunned maneuvers to 23%
+        May train skill [456]Rescue to 18%
+        May train skill [457]Discipline to 18%
+        May train skill [458]Combat sense to 18%
+        May train skill [459]Impale to 58%
+        May train skill [460]Slash to 58%
+        May train skill [461]Stab to 61%
+        May train skill [462]Decapitate to 46%
+        May train skill [463]Pierce to 46%
+        May train skill [464]Mangle to 46%
+
+                                 Level 22
+        Has trained skill [465]Negate offhand penalty to at least 22%
+        Has trained skill [466]Parry to at least 27%
+        Has trained skill [467]Tumbling attack to at least 12%
+        Has trained skill [468]Stunned maneuvers to at least 10%
+        Has trained skill [469]Rescue to at least 10%
+        Has trained skill [470]Discipline to at least 10%
+        Has trained skill [471]Combat sense to at least 10%
+        Has trained skill [472]Pierce to at least 20%
+        May train skill [473]Alertness to 44%
+        May train skill [474]Negate offhand penalty to 52%
+        May train skill [475]Stun to 48%
+        May train skill [476]Parry to 80%
+        May train skill [477]Overbear to 62%
+        May train skill [478]Riposte to 60%
+        May train skill [479]Enhance criticals to 43%
+        May train skill [480]Dirty fighting to 47%
+        May train skill [481]Tumbling attack to 34%
+        May train skill [482]Stunned maneuvers to 37%
+        May train skill [483]Rescue to 26%
+        May train skill [484]Discipline to 26%
+        May train skill [485]Combat sense to 26%
+        May train skill [486]Dodge to 15%
+        May train skill [487]Impale to 66%
+        May train skill [488]Slash to 66%
+        May train skill [489]Stab to 69%
+        May train skill [490]Decapitate to 52%
+        May train skill [491]Pierce to 52%
+        May train skill [492]Mangle to 52%
+
+                                 Level 23
+        Has trained skill [493]Negate offhand penalty to at least 23%
+        Has trained skill [494]Tumbling attack to at least 15%
+        Has trained skill [495]Stunned maneuvers to at least 14%
+        Has trained skill [496]Rescue to at least 12%
+        Has trained skill [497]Discipline to at least 12%
+        Has trained skill [498]Combat sense to at least 12%
+        Has trained skill [499]Dodge to at least 12%
+        Has trained skill [500]Pierce to at least 22%
+        May train skill [501]Alertness to 46%
+        May train skill [502]Negate offhand penalty to 54%
+        May train skill [503]Stun to 52%
+        May train skill [504]Overbear to 66%
+        May train skill [505]Enhance criticals to 50%
+        May train skill [506]Dirty fighting to 55%
+        May train skill [507]Tumbling attack to 42%
+        May train skill [508]Stunned maneuvers to 51%
+        May train skill [509]Rescue to 34%
+        May train skill [510]Discipline to 34%
+        May train skill [511]Combat sense to 34%
+        May train skill [512]Dodge to 26%
+        May train skill [513]Impale to 74%
+        May train skill [514]Slash to 74%
+        May train skill [515]Stab to 78%
+        May train skill [516]Decapitate to 58%
+        May train skill [517]Pierce to 58%
+        May train skill [518]Mangle to 58%
+
+                                 Level 24
+        Has trained skill [519]Negate offhand penalty to at least 24%
+        Has trained skill [520]Tumbling attack to at least 18%
+        Has trained skill [521]Stunned maneuvers to at least 19%
+        Has trained skill [522]Rescue to at least 15%
+        Has trained skill [523]Discipline to at least 15%
+        Has trained skill [524]Combat sense to at least 15%
+        Has trained skill [525]Dodge to at least 15%
+        Has trained skill [526]Pierce to at least 24%
+        May train skill [527]Alertness to 48%
+        May train skill [528]Negate offhand penalty to 57%
+        May train skill [529]Stun to 56%
+        May train skill [530]Overbear to 70%
+        May train skill [531]Dirty fighting to 62%
+        May train skill [532]Tumbling attack to 50%
+        May train skill [533]Stunned maneuvers to 65%
+        May train skill [534]Rescue to 42%
+        May train skill [535]Discipline to 42%
+        May train skill [536]Combat sense to 42%
+        May train skill [537]Dodge to 38%
+        May train skill [538]Impale to 82%
+        May train skill [539]Slash to 82%
+        May train skill [540]Stab to 86%
+        May train skill [541]Decapitate to 64%
+        May train skill [542]Pierce to 64%
+        May train skill [543]Mangle to 64%
+
+                                 Level 25
+        Has trained skill [544]Negate offhand penalty to at least 24%
+        Has trained skill [545]Rescue to at least 18%
+        Has trained skill [546]Discipline to at least 18%
+        Has trained skill [547]Combat sense to at least 18%
+        Has trained skill [548]Dodge to at least 18%
+        Has trained skill [549]Pierce to at least 26%
+        May train skill [550]Alertness to 50%
+        May train skill [551]Negate offhand penalty to 60%
+        May train skill [552]Stun to 60%
+        May train skill [553]Dirty fighting to 70%
+        May train skill [554]Rescue to 50%
+        May train skill [555]Discipline to 50%
+        May train skill [556]Combat sense to 50%
+        May train skill [557]Dodge to 50%
+        May train skill [558]Impale to 90%
+        May train skill [559]Slash to 90%
+        May train skill [560]Stab to 95%
+        May train skill [561]Decapitate to 70%
+        May train skill [562]Pierce to 70%
+        May train skill [563]Mangle to 70%
+
+                   Allows joining to the following guild:
+                     The Civilized Fighters
+
+   [564]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [565]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Civilized%20Fighters&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Civilized%20Fighters&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Civilized%20Fighters&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=shardik
+  23. http://www.bat.org/help/skills.php?str=attack
+  24. http://www.bat.org/help/skills.php?str=consider
+  25. http://www.bat.org/help/skills.php?str=push
+  26. http://www.bat.org/help/skills.php?str=tinning
+  27. http://www.bat.org/help/skills.php?str=compare
+  28. http://www.bat.org/help/skills.php?str=long_blades
+  29. http://www.bat.org/help/skills.php?str=short_blades
+  30. http://www.bat.org/help/skills.php?str=attack
+  31. http://www.bat.org/help/skills.php?str=consider
+  32. http://www.bat.org/help/skills.php?str=push
+  33. http://www.bat.org/help/skills.php?str=short_blades
+  34. http://www.bat.org/help/skills.php?str=attack
+  35. http://www.bat.org/help/skills.php?str=consider
+  36. http://www.bat.org/help/skills.php?str=push
+  37. http://www.bat.org/help/skills.php?str=tinning
+  38. http://www.bat.org/help/skills.php?str=compare
+  39. http://www.bat.org/help/skills.php?str=first_aid
+  40. http://www.bat.org/help/skills.php?str=torch_creation
+  41. http://www.bat.org/help/skills.php?str=long_blades
+  42. http://www.bat.org/help/skills.php?str=short_blades
+  43. http://www.bat.org/help/skills.php?str=attack
+  44. http://www.bat.org/help/skills.php?str=consider
+  45. http://www.bat.org/help/skills.php?str=push
+  46. http://www.bat.org/help/skills.php?str=short_blades
+  47. http://www.bat.org/help/skills.php?str=attack
+  48. http://www.bat.org/help/skills.php?str=consider
+  49. http://www.bat.org/help/skills.php?str=push
+  50. http://www.bat.org/help/skills.php?str=tinning
+  51. http://www.bat.org/help/skills.php?str=compare
+  52. http://www.bat.org/help/skills.php?str=first_aid
+  53. http://www.bat.org/help/skills.php?str=torch_creation
+  54. http://www.bat.org/help/skills.php?str=battlecry
+  55. http://www.bat.org/help/skills.php?str=brawling
+  56. http://www.bat.org/help/skills.php?str=long_blades
+  57. http://www.bat.org/help/skills.php?str=short_blades
+  58. http://www.bat.org/help/skills.php?str=attack
+  59. http://www.bat.org/help/skills.php?str=consider
+  60. http://www.bat.org/help/skills.php?str=push
+  61. http://www.bat.org/help/skills.php?str=battlecry
+  62. http://www.bat.org/help/skills.php?str=short_blades
+  63. http://www.bat.org/help/skills.php?str=attack
+  64. http://www.bat.org/help/skills.php?str=consider
+  65. http://www.bat.org/help/skills.php?str=push
+  66. http://www.bat.org/help/skills.php?str=tinning
+  67. http://www.bat.org/help/skills.php?str=compare
+  68. http://www.bat.org/help/skills.php?str=first_aid
+  69. http://www.bat.org/help/skills.php?str=torch_creation
+  70. http://www.bat.org/help/skills.php?str=battlecry
+  71. http://www.bat.org/help/skills.php?str=brawling
+  72. http://www.bat.org/help/skills.php?str=alertness
+  73. http://www.bat.org/help/skills.php?str=long_blades
+  74. http://www.bat.org/help/skills.php?str=short_blades
+  75. http://www.bat.org/help/skills.php?str=attack
+  76. http://www.bat.org/help/skills.php?str=consider
+  77. http://www.bat.org/help/skills.php?str=push
+  78. http://www.bat.org/help/skills.php?str=battlecry
+  79. http://www.bat.org/help/skills.php?str=short_blades
+  80. http://www.bat.org/help/skills.php?str=attack
+  81. http://www.bat.org/help/skills.php?str=consider
+  82. http://www.bat.org/help/skills.php?str=push
+  83. http://www.bat.org/help/skills.php?str=tinning
+  84. http://www.bat.org/help/skills.php?str=compare
+  85. http://www.bat.org/help/skills.php?str=first_aid
+  86. http://www.bat.org/help/skills.php?str=torch_creation
+  87. http://www.bat.org/help/skills.php?str=battlecry
+  88. http://www.bat.org/help/skills.php?str=brawling
+  89. http://www.bat.org/help/skills.php?str=alertness
+  90. http://www.bat.org/help/skills.php?str=appraise
+  91. http://www.bat.org/help/skills.php?str=camping
+  92. http://www.bat.org/help/skills.php?str=swim
+  93. http://www.bat.org/help/skills.php?str=long_blades
+  94. http://www.bat.org/help/skills.php?str=short_blades
+  95. http://www.bat.org/help/skills.php?str=attack
+  96. http://www.bat.org/help/skills.php?str=consider
+  97. http://www.bat.org/help/skills.php?str=push
+  98. http://www.bat.org/help/skills.php?str=battlecry
+  99. http://www.bat.org/help/skills.php?str=short_blades
+ 100. http://www.bat.org/help/skills.php?str=attack
+ 101. http://www.bat.org/help/skills.php?str=consider
+ 102. http://www.bat.org/help/skills.php?str=push
+ 103. http://www.bat.org/help/skills.php?str=compare
+ 104. http://www.bat.org/help/skills.php?str=first_aid
+ 105. http://www.bat.org/help/skills.php?str=torch_creation
+ 106. http://www.bat.org/help/skills.php?str=battlecry
+ 107. http://www.bat.org/help/skills.php?str=brawling
+ 108. http://www.bat.org/help/skills.php?str=alertness
+ 109. http://www.bat.org/help/skills.php?str=appraise
+ 110. http://www.bat.org/help/skills.php?str=camping
+ 111. http://www.bat.org/help/skills.php?str=swim
+ 112. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 113. http://www.bat.org/help/skills.php?str=long_blades
+ 114. http://www.bat.org/help/skills.php?str=short_blades
+ 115. http://www.bat.org/help/skills.php?str=attack
+ 116. http://www.bat.org/help/skills.php?str=consider
+ 117. http://www.bat.org/help/skills.php?str=battlecry
+ 118. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 119. http://www.bat.org/help/skills.php?str=short_blades
+ 120. http://www.bat.org/help/skills.php?str=attack
+ 121. http://www.bat.org/help/skills.php?str=consider
+ 122. http://www.bat.org/help/skills.php?str=compare
+ 123. http://www.bat.org/help/skills.php?str=first_aid
+ 124. http://www.bat.org/help/skills.php?str=battlecry
+ 125. http://www.bat.org/help/skills.php?str=brawling
+ 126. http://www.bat.org/help/skills.php?str=alertness
+ 127. http://www.bat.org/help/skills.php?str=appraise
+ 128. http://www.bat.org/help/skills.php?str=camping
+ 129. http://www.bat.org/help/skills.php?str=swim
+ 130. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 131. http://www.bat.org/help/skills.php?str=bash
+ 132. http://www.bat.org/help/skills.php?str=pummel
+ 133. http://www.bat.org/help/skills.php?str=long_blades
+ 134. http://www.bat.org/help/skills.php?str=short_blades
+ 135. http://www.bat.org/help/skills.php?str=attack
+ 136. http://www.bat.org/help/skills.php?str=consider
+ 137. http://www.bat.org/help/skills.php?str=battlecry
+ 138. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 139. http://www.bat.org/help/skills.php?str=short_blades
+ 140. http://www.bat.org/help/skills.php?str=attack
+ 141. http://www.bat.org/help/skills.php?str=consider
+ 142. http://www.bat.org/help/skills.php?str=compare
+ 143. http://www.bat.org/help/skills.php?str=first_aid
+ 144. http://www.bat.org/help/skills.php?str=battlecry
+ 145. http://www.bat.org/help/skills.php?str=brawling
+ 146. http://www.bat.org/help/skills.php?str=alertness
+ 147. http://www.bat.org/help/skills.php?str=appraise
+ 148. http://www.bat.org/help/skills.php?str=camping
+ 149. http://www.bat.org/help/skills.php?str=swim
+ 150. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 151. http://www.bat.org/help/skills.php?str=bash
+ 152. http://www.bat.org/help/skills.php?str=pummel
+ 153. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 154. http://www.bat.org/help/skills.php?str=polearms
+ 155. http://www.bat.org/help/skills.php?str=long_blades
+ 156. http://www.bat.org/help/skills.php?str=short_blades
+ 157. http://www.bat.org/help/skills.php?str=attack
+ 158. http://www.bat.org/help/skills.php?str=consider
+ 159. http://www.bat.org/help/skills.php?str=battlecry
+ 160. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 161. http://www.bat.org/help/skills.php?str=polearms
+ 162. http://www.bat.org/help/skills.php?str=short_blades
+ 163. http://www.bat.org/help/skills.php?str=attack
+ 164. http://www.bat.org/help/skills.php?str=consider
+ 165. http://www.bat.org/help/skills.php?str=compare
+ 166. http://www.bat.org/help/skills.php?str=battlecry
+ 167. http://www.bat.org/help/skills.php?str=brawling
+ 168. http://www.bat.org/help/skills.php?str=alertness
+ 169. http://www.bat.org/help/skills.php?str=appraise
+ 170. http://www.bat.org/help/skills.php?str=camping
+ 171. http://www.bat.org/help/skills.php?str=swim
+ 172. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 173. http://www.bat.org/help/skills.php?str=bash
+ 174. http://www.bat.org/help/skills.php?str=pummel
+ 175. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 176. http://www.bat.org/help/skills.php?str=switch_weapon
+ 177. http://www.bat.org/help/skills.php?str=polearms
+ 178. http://www.bat.org/help/skills.php?str=long_blades
+ 179. http://www.bat.org/help/skills.php?str=short_blades
+ 180. http://www.bat.org/help/skills.php?str=attack
+ 181. http://www.bat.org/help/skills.php?str=consider
+ 182. http://www.bat.org/help/skills.php?str=battlecry
+ 183. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 184. http://www.bat.org/help/skills.php?str=polearms
+ 185. http://www.bat.org/help/skills.php?str=short_blades
+ 186. http://www.bat.org/help/skills.php?str=attack
+ 187. http://www.bat.org/help/skills.php?str=consider
+ 188. http://www.bat.org/help/skills.php?str=battlecry
+ 189. http://www.bat.org/help/skills.php?str=brawling
+ 190. http://www.bat.org/help/skills.php?str=alertness
+ 191. http://www.bat.org/help/skills.php?str=appraise
+ 192. http://www.bat.org/help/skills.php?str=camping
+ 193. http://www.bat.org/help/skills.php?str=swim
+ 194. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 195. http://www.bat.org/help/skills.php?str=bash
+ 196. http://www.bat.org/help/skills.php?str=pummel
+ 197. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 198. http://www.bat.org/help/skills.php?str=switch_weapon
+ 199. http://www.bat.org/help/skills.php?str=shield_bash
+ 200. http://www.bat.org/help/skills.php?str=polearms
+ 201. http://www.bat.org/help/skills.php?str=long_blades
+ 202. http://www.bat.org/help/skills.php?str=short_blades
+ 203. http://www.bat.org/help/skills.php?str=attack
+ 204. http://www.bat.org/help/skills.php?str=consider
+ 205. http://www.bat.org/help/skills.php?str=battlecry
+ 206. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 207. http://www.bat.org/help/skills.php?str=polearms
+ 208. http://www.bat.org/help/skills.php?str=attack
+ 209. http://www.bat.org/help/skills.php?str=consider
+ 210. http://www.bat.org/help/skills.php?str=battlecry
+ 211. http://www.bat.org/help/skills.php?str=brawling
+ 212. http://www.bat.org/help/skills.php?str=alertness
+ 213. http://www.bat.org/help/skills.php?str=swim
+ 214. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 215. http://www.bat.org/help/skills.php?str=bash
+ 216. http://www.bat.org/help/skills.php?str=pummel
+ 217. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 218. http://www.bat.org/help/skills.php?str=switch_weapon
+ 219. http://www.bat.org/help/skills.php?str=shield_bash
+ 220. http://www.bat.org/help/skills.php?str=throw_weight
+ 221. http://www.bat.org/help/skills.php?str=polearms
+ 222. http://www.bat.org/help/skills.php?str=long_blades
+ 223. http://www.bat.org/help/skills.php?str=attack
+ 224. http://www.bat.org/help/skills.php?str=consider
+ 225. http://www.bat.org/help/skills.php?str=battlecry
+ 226. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 227. http://www.bat.org/help/skills.php?str=throw_weight
+ 228. http://www.bat.org/help/skills.php?str=polearms
+ 229. http://www.bat.org/help/skills.php?str=attack
+ 230. http://www.bat.org/help/skills.php?str=consider
+ 231. http://www.bat.org/help/skills.php?str=battlecry
+ 232. http://www.bat.org/help/skills.php?str=alertness
+ 233. http://www.bat.org/help/skills.php?str=swim
+ 234. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 235. http://www.bat.org/help/skills.php?str=pummel
+ 236. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 237. http://www.bat.org/help/skills.php?str=switch_weapon
+ 238. http://www.bat.org/help/skills.php?str=shield_bash
+ 239. http://www.bat.org/help/skills.php?str=throw_weight
+ 240. http://www.bat.org/help/skills.php?str=stun
+ 241. http://www.bat.org/help/skills.php?str=polearms
+ 242. http://www.bat.org/help/skills.php?str=long_blades
+ 243. http://www.bat.org/help/skills.php?str=attack
+ 244. http://www.bat.org/help/skills.php?str=consider
+ 245. http://www.bat.org/help/skills.php?str=battlecry
+ 246. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 247. http://www.bat.org/help/skills.php?str=throw_weight
+ 248. http://www.bat.org/help/skills.php?str=polearms
+ 249. http://www.bat.org/help/skills.php?str=attack
+ 250. http://www.bat.org/help/skills.php?str=consider
+ 251. http://www.bat.org/help/skills.php?str=battlecry
+ 252. http://www.bat.org/help/skills.php?str=alertness
+ 253. http://www.bat.org/help/skills.php?str=swim
+ 254. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 255. http://www.bat.org/help/skills.php?str=pummel
+ 256. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 257. http://www.bat.org/help/skills.php?str=switch_weapon
+ 258. http://www.bat.org/help/skills.php?str=shield_bash
+ 259. http://www.bat.org/help/skills.php?str=throw_weight
+ 260. http://www.bat.org/help/skills.php?str=stun
+ 261. http://www.bat.org/help/skills.php?str=kick
+ 262. http://www.bat.org/help/skills.php?str=polearms
+ 263. http://www.bat.org/help/skills.php?str=long_blades
+ 264. http://www.bat.org/help/skills.php?str=attack
+ 265. http://www.bat.org/help/skills.php?str=consider
+ 266. http://www.bat.org/help/skills.php?str=battlecry
+ 267. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 268. http://www.bat.org/help/skills.php?str=throw_weight
+ 269. http://www.bat.org/help/skills.php?str=kick
+ 270. http://www.bat.org/help/skills.php?str=polearms
+ 271. http://www.bat.org/help/skills.php?str=attack
+ 272. http://www.bat.org/help/skills.php?str=consider
+ 273. http://www.bat.org/help/skills.php?str=battlecry
+ 274. http://www.bat.org/help/skills.php?str=alertness
+ 275. http://www.bat.org/help/skills.php?str=swim
+ 276. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 277. http://www.bat.org/help/skills.php?str=pummel
+ 278. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 279. http://www.bat.org/help/skills.php?str=switch_weapon
+ 280. http://www.bat.org/help/skills.php?str=shield_bash
+ 281. http://www.bat.org/help/skills.php?str=throw_weight
+ 282. http://www.bat.org/help/skills.php?str=stun
+ 283. http://www.bat.org/help/skills.php?str=kick
+ 284. http://www.bat.org/help/skills.php?str=parry
+ 285. http://www.bat.org/help/skills.php?str=overbear
+ 286. http://www.bat.org/help/skills.php?str=polearms
+ 287. http://www.bat.org/help/skills.php?str=long_blades
+ 288. http://www.bat.org/help/skills.php?str=consider
+ 289. http://www.bat.org/help/skills.php?str=battlecry
+ 290. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 291. http://www.bat.org/help/skills.php?str=throw_weight
+ 292. http://www.bat.org/help/skills.php?str=kick
+ 293. http://www.bat.org/help/skills.php?str=parry
+ 294. http://www.bat.org/help/skills.php?str=polearms
+ 295. http://www.bat.org/help/skills.php?str=consider
+ 296. http://www.bat.org/help/skills.php?str=battlecry
+ 297. http://www.bat.org/help/skills.php?str=alertness
+ 298. http://www.bat.org/help/skills.php?str=swim
+ 299. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 300. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 301. http://www.bat.org/help/skills.php?str=switch_weapon
+ 302. http://www.bat.org/help/skills.php?str=shield_bash
+ 303. http://www.bat.org/help/skills.php?str=throw_weight
+ 304. http://www.bat.org/help/skills.php?str=stun
+ 305. http://www.bat.org/help/skills.php?str=kick
+ 306. http://www.bat.org/help/skills.php?str=parry
+ 307. http://www.bat.org/help/skills.php?str=overbear
+ 308. http://www.bat.org/help/skills.php?str=riposte
+ 309. http://www.bat.org/help/skills.php?str=polearms
+ 310. http://www.bat.org/help/skills.php?str=long_blades
+ 311. http://www.bat.org/help/skills.php?str=impale
+ 312. http://www.bat.org/help/skills.php?str=slash
+ 313. http://www.bat.org/help/skills.php?str=stab
+ 314. http://www.bat.org/help/skills.php?str=decapitate
+ 315. http://www.bat.org/help/skills.php?str=pierce
+ 316. http://www.bat.org/help/skills.php?str=mangle
+ 317. http://www.bat.org/help/skills.php?str=battlecry
+ 318. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 319. http://www.bat.org/help/skills.php?str=throw_weight
+ 320. http://www.bat.org/help/skills.php?str=kick
+ 321. http://www.bat.org/help/skills.php?str=parry
+ 322. http://www.bat.org/help/skills.php?str=polearms
+ 323. http://www.bat.org/help/skills.php?str=pierce
+ 324. http://www.bat.org/help/skills.php?str=battlecry
+ 325. http://www.bat.org/help/skills.php?str=alertness
+ 326. http://www.bat.org/help/skills.php?str=swim
+ 327. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 328. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 329. http://www.bat.org/help/skills.php?str=shield_bash
+ 330. http://www.bat.org/help/skills.php?str=throw_weight
+ 331. http://www.bat.org/help/skills.php?str=stun
+ 332. http://www.bat.org/help/skills.php?str=kick
+ 333. http://www.bat.org/help/skills.php?str=parry
+ 334. http://www.bat.org/help/skills.php?str=overbear
+ 335. http://www.bat.org/help/skills.php?str=riposte
+ 336. http://www.bat.org/help/skills.php?str=polearms
+ 337. http://www.bat.org/help/skills.php?str=impale
+ 338. http://www.bat.org/help/skills.php?str=slash
+ 339. http://www.bat.org/help/skills.php?str=stab
+ 340. http://www.bat.org/help/skills.php?str=decapitate
+ 341. http://www.bat.org/help/skills.php?str=pierce
+ 342. http://www.bat.org/help/skills.php?str=mangle
+ 343. http://www.bat.org/help/skills.php?str=battlecry
+ 344. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 345. http://www.bat.org/help/skills.php?str=throw_weight
+ 346. http://www.bat.org/help/skills.php?str=parry
+ 347. http://www.bat.org/help/skills.php?str=polearms
+ 348. http://www.bat.org/help/skills.php?str=pierce
+ 349. http://www.bat.org/help/skills.php?str=battlecry
+ 350. http://www.bat.org/help/skills.php?str=alertness
+ 351. http://www.bat.org/help/skills.php?str=swim
+ 352. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 353. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 354. http://www.bat.org/help/skills.php?str=shield_bash
+ 355. http://www.bat.org/help/skills.php?str=throw_weight
+ 356. http://www.bat.org/help/skills.php?str=stun
+ 357. http://www.bat.org/help/skills.php?str=parry
+ 358. http://www.bat.org/help/skills.php?str=overbear
+ 359. http://www.bat.org/help/skills.php?str=riposte
+ 360. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 361. http://www.bat.org/help/skills.php?str=polearms
+ 362. http://www.bat.org/help/skills.php?str=impale
+ 363. http://www.bat.org/help/skills.php?str=slash
+ 364. http://www.bat.org/help/skills.php?str=stab
+ 365. http://www.bat.org/help/skills.php?str=decapitate
+ 366. http://www.bat.org/help/skills.php?str=pierce
+ 367. http://www.bat.org/help/skills.php?str=mangle
+ 368. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 369. http://www.bat.org/help/skills.php?str=throw_weight
+ 370. http://www.bat.org/help/skills.php?str=parry
+ 371. http://www.bat.org/help/skills.php?str=polearms
+ 372. http://www.bat.org/help/skills.php?str=pierce
+ 373. http://www.bat.org/help/skills.php?str=alertness
+ 374. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 375. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 376. http://www.bat.org/help/skills.php?str=shield_bash
+ 377. http://www.bat.org/help/skills.php?str=throw_weight
+ 378. http://www.bat.org/help/skills.php?str=stun
+ 379. http://www.bat.org/help/skills.php?str=parry
+ 380. http://www.bat.org/help/skills.php?str=overbear
+ 381. http://www.bat.org/help/skills.php?str=riposte
+ 382. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 383. http://www.bat.org/help/skills.php?str=polearms
+ 384. http://www.bat.org/help/skills.php?str=impale
+ 385. http://www.bat.org/help/skills.php?str=slash
+ 386. http://www.bat.org/help/skills.php?str=stab
+ 387. http://www.bat.org/help/skills.php?str=decapitate
+ 388. http://www.bat.org/help/skills.php?str=pierce
+ 389. http://www.bat.org/help/skills.php?str=mangle
+ 390. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 391. http://www.bat.org/help/skills.php?str=throw_weight
+ 392. http://www.bat.org/help/skills.php?str=parry
+ 393. http://www.bat.org/help/skills.php?str=polearms
+ 394. http://www.bat.org/help/skills.php?str=pierce
+ 395. http://www.bat.org/help/skills.php?str=alertness
+ 396. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 397. http://www.bat.org/help/skills.php?str=shield_bash
+ 398. http://www.bat.org/help/skills.php?str=throw_weight
+ 399. http://www.bat.org/help/skills.php?str=stun
+ 400. http://www.bat.org/help/skills.php?str=parry
+ 401. http://www.bat.org/help/skills.php?str=overbear
+ 402. http://www.bat.org/help/skills.php?str=riposte
+ 403. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 404. http://www.bat.org/help/skills.php?str=dirty_fighting
+ 405. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 406. http://www.bat.org/help/skills.php?str=polearms
+ 407. http://www.bat.org/help/skills.php?str=impale
+ 408. http://www.bat.org/help/skills.php?str=slash
+ 409. http://www.bat.org/help/skills.php?str=stab
+ 410. http://www.bat.org/help/skills.php?str=decapitate
+ 411. http://www.bat.org/help/skills.php?str=pierce
+ 412. http://www.bat.org/help/skills.php?str=mangle
+ 413. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 414. http://www.bat.org/help/skills.php?str=parry
+ 415. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 416. http://www.bat.org/help/skills.php?str=polearms
+ 417. http://www.bat.org/help/skills.php?str=pierce
+ 418. http://www.bat.org/help/skills.php?str=alertness
+ 419. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 420. http://www.bat.org/help/skills.php?str=stun
+ 421. http://www.bat.org/help/skills.php?str=parry
+ 422. http://www.bat.org/help/skills.php?str=overbear
+ 423. http://www.bat.org/help/skills.php?str=riposte
+ 424. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 425. http://www.bat.org/help/skills.php?str=dirty_fighting
+ 426. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 427. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 428. http://www.bat.org/help/skills.php?str=rescue
+ 429. http://www.bat.org/help/skills.php?str=discipline
+ 430. http://www.bat.org/help/skills.php?str=combat_sense
+ 431. http://www.bat.org/help/skills.php?str=polearms
+ 432. http://www.bat.org/help/skills.php?str=impale
+ 433. http://www.bat.org/help/skills.php?str=slash
+ 434. http://www.bat.org/help/skills.php?str=stab
+ 435. http://www.bat.org/help/skills.php?str=decapitate
+ 436. http://www.bat.org/help/skills.php?str=pierce
+ 437. http://www.bat.org/help/skills.php?str=mangle
+ 438. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 439. http://www.bat.org/help/skills.php?str=parry
+ 440. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 441. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 442. http://www.bat.org/help/skills.php?str=rescue
+ 443. http://www.bat.org/help/skills.php?str=discipline
+ 444. http://www.bat.org/help/skills.php?str=combat_sense
+ 445. http://www.bat.org/help/skills.php?str=pierce
+ 446. http://www.bat.org/help/skills.php?str=alertness
+ 447. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 448. http://www.bat.org/help/skills.php?str=stun
+ 449. http://www.bat.org/help/skills.php?str=parry
+ 450. http://www.bat.org/help/skills.php?str=overbear
+ 451. http://www.bat.org/help/skills.php?str=riposte
+ 452. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 453. http://www.bat.org/help/skills.php?str=dirty_fighting
+ 454. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 455. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 456. http://www.bat.org/help/skills.php?str=rescue
+ 457. http://www.bat.org/help/skills.php?str=discipline
+ 458. http://www.bat.org/help/skills.php?str=combat_sense
+ 459. http://www.bat.org/help/skills.php?str=impale
+ 460. http://www.bat.org/help/skills.php?str=slash
+ 461. http://www.bat.org/help/skills.php?str=stab
+ 462. http://www.bat.org/help/skills.php?str=decapitate
+ 463. http://www.bat.org/help/skills.php?str=pierce
+ 464. http://www.bat.org/help/skills.php?str=mangle
+ 465. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 466. http://www.bat.org/help/skills.php?str=parry
+ 467. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 468. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 469. http://www.bat.org/help/skills.php?str=rescue
+ 470. http://www.bat.org/help/skills.php?str=discipline
+ 471. http://www.bat.org/help/skills.php?str=combat_sense
+ 472. http://www.bat.org/help/skills.php?str=pierce
+ 473. http://www.bat.org/help/skills.php?str=alertness
+ 474. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 475. http://www.bat.org/help/skills.php?str=stun
+ 476. http://www.bat.org/help/skills.php?str=parry
+ 477. http://www.bat.org/help/skills.php?str=overbear
+ 478. http://www.bat.org/help/skills.php?str=riposte
+ 479. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 480. http://www.bat.org/help/skills.php?str=dirty_fighting
+ 481. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 482. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 483. http://www.bat.org/help/skills.php?str=rescue
+ 484. http://www.bat.org/help/skills.php?str=discipline
+ 485. http://www.bat.org/help/skills.php?str=combat_sense
+ 486. http://www.bat.org/help/skills.php?str=dodge
+ 487. http://www.bat.org/help/skills.php?str=impale
+ 488. http://www.bat.org/help/skills.php?str=slash
+ 489. http://www.bat.org/help/skills.php?str=stab
+ 490. http://www.bat.org/help/skills.php?str=decapitate
+ 491. http://www.bat.org/help/skills.php?str=pierce
+ 492. http://www.bat.org/help/skills.php?str=mangle
+ 493. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 494. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 495. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 496. http://www.bat.org/help/skills.php?str=rescue
+ 497. http://www.bat.org/help/skills.php?str=discipline
+ 498. http://www.bat.org/help/skills.php?str=combat_sense
+ 499. http://www.bat.org/help/skills.php?str=dodge
+ 500. http://www.bat.org/help/skills.php?str=pierce
+ 501. http://www.bat.org/help/skills.php?str=alertness
+ 502. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 503. http://www.bat.org/help/skills.php?str=stun
+ 504. http://www.bat.org/help/skills.php?str=overbear
+ 505. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 506. http://www.bat.org/help/skills.php?str=dirty_fighting
+ 507. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 508. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 509. http://www.bat.org/help/skills.php?str=rescue
+ 510. http://www.bat.org/help/skills.php?str=discipline
+ 511. http://www.bat.org/help/skills.php?str=combat_sense
+ 512. http://www.bat.org/help/skills.php?str=dodge
+ 513. http://www.bat.org/help/skills.php?str=impale
+ 514. http://www.bat.org/help/skills.php?str=slash
+ 515. http://www.bat.org/help/skills.php?str=stab
+ 516. http://www.bat.org/help/skills.php?str=decapitate
+ 517. http://www.bat.org/help/skills.php?str=pierce
+ 518. http://www.bat.org/help/skills.php?str=mangle
+ 519. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 520. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 521. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 522. http://www.bat.org/help/skills.php?str=rescue
+ 523. http://www.bat.org/help/skills.php?str=discipline
+ 524. http://www.bat.org/help/skills.php?str=combat_sense
+ 525. http://www.bat.org/help/skills.php?str=dodge
+ 526. http://www.bat.org/help/skills.php?str=pierce
+ 527. http://www.bat.org/help/skills.php?str=alertness
+ 528. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 529. http://www.bat.org/help/skills.php?str=stun
+ 530. http://www.bat.org/help/skills.php?str=overbear
+ 531. http://www.bat.org/help/skills.php?str=dirty_fighting
+ 532. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 533. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 534. http://www.bat.org/help/skills.php?str=rescue
+ 535. http://www.bat.org/help/skills.php?str=discipline
+ 536. http://www.bat.org/help/skills.php?str=combat_sense
+ 537. http://www.bat.org/help/skills.php?str=dodge
+ 538. http://www.bat.org/help/skills.php?str=impale
+ 539. http://www.bat.org/help/skills.php?str=slash
+ 540. http://www.bat.org/help/skills.php?str=stab
+ 541. http://www.bat.org/help/skills.php?str=decapitate
+ 542. http://www.bat.org/help/skills.php?str=pierce
+ 543. http://www.bat.org/help/skills.php?str=mangle
+ 544. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 545. http://www.bat.org/help/skills.php?str=rescue
+ 546. http://www.bat.org/help/skills.php?str=discipline
+ 547. http://www.bat.org/help/skills.php?str=combat_sense
+ 548. http://www.bat.org/help/skills.php?str=dodge
+ 549. http://www.bat.org/help/skills.php?str=pierce
+ 550. http://www.bat.org/help/skills.php?str=alertness
+ 551. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 552. http://www.bat.org/help/skills.php?str=stun
+ 553. http://www.bat.org/help/skills.php?str=dirty_fighting
+ 554. http://www.bat.org/help/skills.php?str=rescue
+ 555. http://www.bat.org/help/skills.php?str=discipline
+ 556. http://www.bat.org/help/skills.php?str=combat_sense
+ 557. http://www.bat.org/help/skills.php?str=dodge
+ 558. http://www.bat.org/help/skills.php?str=impale
+ 559. http://www.bat.org/help/skills.php?str=slash
+ 560. http://www.bat.org/help/skills.php?str=stab
+ 561. http://www.bat.org/help/skills.php?str=decapitate
+ 562. http://www.bat.org/help/skills.php?str=pierce
+ 563. http://www.bat.org/help/skills.php?str=mangle
+ 564. http://www.bat.org/help/guilds.php
+ 565. mailto:webmaster@bat.org
+
+   Hidden links:
+ 566. http://www.bat.org/bat.php

@@ -1,0 +1,23 @@
+name: Dragon
+gms: Moonlord, Torc, Dandy and Mackakkonen
+maxlvl: 20
+1: skillmax,spellmax,str,dex
+2: skillmax,dex,spellmax,con
+3: skillmax,con,dex,str
+4: dex,con,skillmax,str
+5: dex,skillmax,con,str
+6: skillmax,dex,con,str
+7: skillmax,con,dex,str
+8: skillmax,con,dex,str
+9: con,str
+10: skillmax,con
+11: skillmax,con
+12: skillmax,con,dex
+13: con,dex
+14: con,str
+15: con,skillmax,dex
+16: con,dex
+17: con
+18: con
+19: con
+20: skillmax,con,dex

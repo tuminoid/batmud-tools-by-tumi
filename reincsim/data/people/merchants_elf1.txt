@@ -1,0 +1,89 @@
+Elf
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 25  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Appraise                      |   0 |  95 | 100 |       16 |
+| Essence eye                   |  80 |  95 | 100 |     7165 |
+| Tinning                       |   0 |  95 | 100 |       16 |
+| Compare                       |   0 |  95 | 100 |       22 |
+| Skinning                      |   0 |  95 | 100 |       22 |
+| Exchange money                |   0 |  95 | 100 |       32 |
+| Lumberjacking                 |   0 |  95 | 100 |       32 |
+| Mining                        |   0 |  95 | 100 |       32 |
+| Plastic surgery               |   0 |  95 | 100 |       32 |
+| Plant lore                    |  60 |  95 |  50 |    (n/a) |
+| Torch creation                |   0 |  95 |  70 |       41 |
+| Carpentry                     |   0 |  95 | 100 |       45 |
+| Fresh pants                   |   0 |  95 | 100 |       45 |
+| Leather craft                 |   0 |  95 | 100 |       45 |
+| Law                           |   0 |  95 | 100 |       49 |
+| Cast control                  |  53 |  95 | 100 |     8365 |
+| Cast generic                  |  80 |  95 | 100 |    44468 |
+| Cast help                     |   0 |  95 | 100 |       62 |
+| Cast information              |  80 |  95 | 100 |    44468 |
+| Cast protection               |  80 |  95 | 100 |    44468 |
+| Cast special                  |   0 |  95 | 100 |       62 |
+| Cast teleportation            |   0 |  95 |  80 |       62 |
+| Cast transformation           |   0 |  95 | 100 |       62 |
+| Labeling                      |   0 |  95 |  99 |       62 |
+| Mineral cutting               |   0 |  95 | 100 |       62 |
+| Alloying                      |   0 |  95 |  75 |       65 |
+| Bargain                       |   0 |  95 | 100 |       65 |
+| Cannibalize                   |   0 |  95 |  65 |       65 |
+| Sewing                        |   0 |  95 | 100 |       65 |
+| Amalgamate                    |   0 |  95 | 100 |       73 |
+| Attack                        |   0 |  95 |  45 |       73 |
+| Loan sharking                 |   0 |  95 | 100 |       73 |
+| Masonry                       |   0 |  95 | 100 |       76 |
+| Blacksmithing                 |   0 |  95 | 100 |       84 |
+| Make reagent                  |   0 |  95 | 100 |       84 |
+| Repair armour                 |   0 |  95 | 100 |       84 |
+| Repair item                   |   0 |  95 | 100 |       84 |
+| Repair weapon                 |   0 |  95 | 100 |       84 |
+| Sculpture                     |   0 |  95 | 100 |       84 |
+| Refining                      |   0 |  95 | 100 |       87 |
+| Gem cutting                   |   0 |  95 | 100 |      107 |
+| Insider trading               |   0 |  95 | 100 |      113 |
+| Glassblowing                  |   0 |  95 | 100 |      120 |
+| Shopkeeping                   |   0 |  95 | 100 |      120 |
+| Create armour                 |   0 |  95 | 100 |      123 |
+| Create weapon                 |   0 |  95 | 100 |      123 |
+| Axes                          |   0 |  95 |  45 |      126 |
+| Knowledge of identification   |   0 |  95 | 100 |      132 |
+| Knowledge of metamorphosis    |   0 |  95 | 100 |      132 |
+| Bludgeons                     |   0 |  95 |  45 |      138 |
+| Quick chant                   |  90 |  95 |  50 |    (n/a) |
+| Chest creation                |   0 |  95 |  70 |      144 |
+| Chest lock creation           |   0 |  95 |  70 |      144 |
+| Chest trap creation           |   0 |  95 |  70 |      144 |
+| Shipbuilding                  |   0 |  95 | 100 |      167 |
+| Double mine                   |   0 |  95 | 100 |      248 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 25  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Create money                  |   0 | 100 | 100 |       13 |
+| Cash flow                     |   0 | 100 | 100 |       22 |
+| Detect alignment              |   0 | 100 | 100 |       22 |
+| Satiate person                |   0 | 100 | 100 |       22 |
+| Darkness                      |  40 | 100 | 100 |     1403 |
+| Light                         |  40 | 100 | 100 |     1403 |
+| Call pigeon                   |   0 | 100 | 100 |       30 |
+| Credit check                  |   0 | 100 | 100 |       30 |
+| Remote banking                |   0 | 100 | 100 |       30 |
+| Create food                   |   0 | 100 | 100 |       41 |
+| Feather weight                |  70 | 100 | 100 |    15504 |
+| Floating disc                 |   0 | 100 | 100 |       41 |
+| Identify                      |   0 | 100 | 100 |       41 |
+| Preserve corpse               |   0 | 100 | 100 |       41 |
+| Remove scar                   |   0 | 100 | 100 |       41 |
+| Money is power                |   0 | 100 | 100 |       78 |
+| Aura detection                |  50 | 100 | 100 |    11491 |
+| Protect armour                |   0 | 100 | 100 |      127 |
+| Protect item                  |   0 | 100 | 100 |      127 |
+| Protect weapon                |   0 | 100 | 100 |      127 |
+`-----------------------------------------------------------'

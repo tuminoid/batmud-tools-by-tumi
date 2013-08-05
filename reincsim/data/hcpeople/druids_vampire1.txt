@@ -1,0 +1,85 @@
+Vampire
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  82 |  82 |    (n/a) |
+| Essence eye                   |  82 |  82 |    (n/a) |
+| Tinning                       |   0 |  82 |        3 |
+| Make bandage                  |   0 |  82 |        6 |
+| First aid                     |  65 |  82 |     2499 |
+| Hear noises                   |   0 |  82 |       12 |
+| Stargazing                    |  40 |  82 |      424 |
+| Swim                          |  66 |  82 |     3996 |
+| Plant lore                    |  50 |  82 |     1153 |
+| Torch creation                |   0 |  82 |       16 |
+| Camping                       |  45 |  55 |     1016 |
+| Fire building                 |  55 |  55 |    (n/a) |
+| Fresh pants                   |   0 |  82 |       19 |
+| Hiking                        |  60 |  82 |     3703 |
+| Track                         |  30 |  82 |      278 |
+| Baptize                       |  50 |  82 |     1692 |
+| Bless                         |  82 |  82 |    (n/a) |
+| Mana control                  |  75 |  70 |    (n/a) |
+| Cast control                  |  60 | 100 |     5433 |
+| Cast generic                  |  85 | 100 |    46856 |
+| Cast help                     | 100 | 100 |    (n/a) |
+| Cast information              |  60 | 100 |     5433 |
+| Cast runes                    |  79 | 100 |    27938 |
+| Cast special                  |  80 | 100 |    30453 |
+| Cast teleportation            |  57 | 100 |     4195 |
+| Cast transformation           |  50 | 100 |     2294 |
+| Attack                        |  50 |  70 |     2847 |
+| Ceremony                      |  70 |  82 |    21634 |
+| Mastery of runic sigla        |  15 | 100 |      394 |
+| Bludgeons                     |  50 |  70 |     8798 |
+| Quick chant                   |  80 | 100 |   125400 |
+| Location memory               |  45 |  82 |    19313 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |  80 |  98 |     5972 |
+| Create mud                    |  80 |  98 |     8095 |
+| Detect poison                 |  50 |  98 |      609 |
+| Infravision                   |  30 |  98 |      108 |
+| Regeneration                  |  10 |  98 |       18 |
+| See invisible                 |   0 |  98 |        7 |
+| Detect alignment              |  50 |  98 |      756 |
+| Rain                          |  45 |  98 |      491 |
+| Satiate person                |  55 |  98 |     1163 |
+| Water walking                 |  90 |  98 |    23780 |
+| Call pigeon                   |  30 |  98 |      182 |
+| Drying wind                   |  45 |  98 |      747 |
+| Charge staff                  |  85 |  98 |    25992 |
+| Natural transformation        |   0 |  98 |       16 |
+| Earth power                   |  30 |  98 |      247 |
+| Create food                   |  50 |  98 |     1504 |
+| Restore                       |  60 |  98 |     3563 |
+| Earth skin                    |  60 |  98 |     3826 |
+| Moon sense                    |   0 |  98 |       24 |
+| Replenish energy              |   0 |  98 |       27 |
+| Vine mantle                   |   0 |  98 |       27 |
+| Good berry                    |   0 |  98 |       27 |
+| Transfer mana                 |   0 |  98 |       30 |
+| Earth blood                   |   0 |  98 |       32 |
+| Gem fire                      |  82 |  98 |    39906 |
+| Wilderness location           |   0 |  98 |       33 |
+| Star light                    |  70 |  98 |    19230 |
+| Summon storm                  |   0 |  98 |       50 |
+| Earthquake                    |   0 |  98 |       56 |
+| Gust of wind                  |   0 |  98 |       56 |
+| Reincarnation                 |   0 |  98 |       56 |
+| Shapechange                   |  52 |  98 |     5432 |
+| Runic heal                    |   0 |  98 |       61 |
+| Hoar frost                    |   0 |  98 |       67 |
+| Aura detection                |  60 |  98 |    12971 |
+| Flex shield                   |  20 |  98 |      460 |
+| Blessed warmth                |   0 |  98 |      104 |
+| Drain pool                    |  45 |  98 |     5459 |
+| Inquiry to ahm                |   0 |  98 |      113 |
+| Wither flesh                  |   0 |  98 |      198 |
+`------------------------------------------------------'

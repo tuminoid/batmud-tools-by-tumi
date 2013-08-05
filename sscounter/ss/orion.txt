@@ -1,0 +1,23 @@
+name: Seekers of Orion
+gms: Martow, Amaiel and Wex
+maxlvl: 20
+1: skillmax,con,dex,str
+2: con,skillmax,str,dex
+3: con,skillmax,dex,str
+4: con,skillmax,dex,str
+5: con,dex,skillmax,str
+6: dex,skillmax,con,str
+7: con,skillmax,dex,str
+8: con,skillmax,dex,str
+9: dex,skillmax,con,str
+10: con,skillmax,dex,str
+11: dex,str,con,skillmax
+12: con,dex,str,skillmax
+13: con,dex,skillmax,str
+14: dex,con,str,skillmax
+15: skillmax,str,dex,con
+16: str,dex,skillmax,con
+17: con,dex,skillmax,str
+18: con,dex,skillmax,str
+19: con,dex,skillmax,str
+20: skillmax,con,dex,str

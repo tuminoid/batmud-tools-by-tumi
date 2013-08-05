@@ -1,0 +1,77 @@
+Elf
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Essence eye                   |  75 |  95 |     2884 |
+| Mana control                  |  90 |  95 |    59101 |
+| Cast control                  |  70 | 100 |    14292 |
+| Cast generic                  |  80 | 100 |    33837 |
+| Cast heal                     |  61 | 100 |     6580 |
+| Cast help                     |   0 | 100 |       34 |
+| Cast information              |   0 | 100 |       34 |
+| Cast magical                  |   0 | 100 |       34 |
+| Cast protection               |  95 | 100 |   123253 |
+| Cast special                  |   0 | 100 |       34 |
+| Cast teleportation            |   0 | 100 |       34 |
+| Cast transformation           |   0 | 100 |       34 |
+| Attack                        |  75 |  50 |    (n/a) |
+| Ceremony                      |   0 |  95 |       57 |
+| Mastery of shielding          |   0 | 100 |      119 |
+| Quick chant                   |  77 |  80 |   107591 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |   0 |  80 |        5 |
+| Infravision                   |   0 | 100 |        7 |
+| See invisible                 |   0 | 100 |        7 |
+| See magic                     |   0 | 100 |        7 |
+| Water walking                 |   0 | 100 |        9 |
+| Create food                   |   0 | 100 |       19 |
+| Feather weight                |  40 | 100 |      635 |
+| Floating disc                 |   0 | 100 |       19 |
+| Identify                      |   0 | 100 |       19 |
+| Restore                       |   0 | 100 |       19 |
+| Shelter                       |   0 | 100 |       19 |
+| Create air armour             |   0 | 100 |       24 |
+| Mirror image                  |  75 | 100 |    18465 |
+| Anti magic field              |   0 | 100 |       33 |
+| Heal self                     |  83 |  80 |    (n/a) |
+| Magic missile                 |   0 | 100 |       33 |
+| Aura detection                |  50 | 100 |     5479 |
+| Dispel magical protection     |   0 | 100 |       72 |
+| Invisibility                  |  70 |  90 |    33147 |
+| Iron will                     |  64 | 100 |    22797 |
+| Resist dispel                 |   0 | 100 |      102 |
+| Resist entropy                |   0 | 100 |      102 |
+| Blurred image                 |  85 | 100 |   159674 |
+| Corrosion shield              |   0 | 100 |      113 |
+| Energy channeling             |   0 | 100 |      113 |
+| Ether boundary                |   0 | 100 |      113 |
+| Force absorption              |  40 | 100 |     3574 |
+| Frost insulation              |   0 | 100 |      113 |
+| Heat reduction                |   0 | 100 |      113 |
+| Magic dispersion              |   0 | 100 |      113 |
+| Psychic sanctuary             |  60 | 100 |    20038 |
+| Quicksilver                   |   0 | 100 |      113 |
+| Shield of protection          |  80 | 100 |   112310 |
+| Toxic dilution                |   0 | 100 |      113 |
+| Resist disintegrate           |   0 | 100 |      123 |
+| Displacement                  |  88 | 100 |   229999 |
+| Neutralize field              |   0 | 100 |      132 |
+| Resist gaseous form           |   0 | 100 |      142 |
+| Acid shield                   |   0 | 100 |      153 |
+| Aura of wind                  |   0 | 100 |      153 |
+| Flame shield                  |   0 | 100 |      153 |
+| Frost shield                  |   0 | 100 |      153 |
+| Lightning shield              |   0 | 100 |      153 |
+| Psionic phalanx               |  52 | 100 |    13630 |
+| Repulsor aura                 |   0 | 100 |      153 |
+| Shield of detoxification      |   0 | 100 |      153 |
+| Suppress magic                |   0 | 100 |      153 |
+| Armour of aether              |   0 | 100 |      190 |
+`------------------------------------------------------'

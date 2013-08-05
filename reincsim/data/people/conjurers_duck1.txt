@@ -1,0 +1,79 @@
+Duck
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 25  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Essence eye                   |  80 |  81 | 100 |     8598 |
+| Mana control                  |  78 |  81 | 100 |    35604 |
+| Cast control                  |  61 |  81 | 100 |    16907 |
+| Cast generic                  |  85 |  81 | 100 |    71155 |
+| Cast heal                     |  92 |  81 | 100 |   135614 |
+| Cast help                     |  76 |  81 | 100 |    42229 |
+| Cast information              |  60 |  81 | 100 |    15864 |
+| Cast magical                  |   0 |  81 | 100 |       74 |
+| Cast protection               |   0 |  81 | 100 |       74 |
+| Cast special                  |  73 |  81 | 100 |    35346 |
+| Cast teleportation            |  69 |  81 | 100 |    27779 |
+| Cast transformation           |  60 |  81 | 100 |    15864 |
+| Attack                        |  50 |  81 |  50 |    (n/a) |
+| Ceremony                      |  52 |  81 | 100 |    14474 |
+| Mastery of shielding          |   0 |  81 | 100 |      158 |
+| Quick chant                   |  86 |  81 |  80 |    (n/a) |
+`------------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 25  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Word of recall                |  55 |  98 |  80 |     2283 |
+| Floating letters              |   0 |  98 |  80 |       21 |
+| Infravision                   |  80 |  98 | 100 |    11638 |
+| See invisible                 |  50 |  98 | 100 |     2172 |
+| See magic                     |   0 |  98 | 100 |       21 |
+| Water walking                 |  62 |  98 | 100 |     4400 |
+| Create food                   |   0 |  98 | 100 |       39 |
+| Feather weight                |   0 |  98 | 100 |       39 |
+| Floating disc                 |   0 |  98 | 100 |       39 |
+| Identify                      |   0 |  98 | 100 |       39 |
+| Restore                       |  52 |  98 | 100 |     4902 |
+| Shelter                       |   0 |  98 | 100 |       39 |
+| Create air armour             |   0 |  98 | 100 |       46 |
+| Mirror image                  |   0 |  98 | 100 |       52 |
+| Anti magic field              |   0 |  98 | 100 |       58 |
+| Heal self                     |   0 |  98 |  80 |       58 |
+| Magic missile                 |   0 |  98 | 100 |       58 |
+| Aura detection                |  50 |  98 | 100 |    11076 |
+| Dispel magical protection     |   0 |  98 | 100 |       93 |
+| Invisibility                  |   0 |  98 |  90 |       98 |
+| Iron will                     |   0 |  98 | 100 |      103 |
+| Resist dispel                 |   0 |  98 | 100 |      108 |
+| Resist entropy                |   0 |  98 | 100 |      108 |
+| Blurred image                 |   0 |  98 | 100 |      110 |
+| Corrosion shield              |   0 |  98 | 100 |      113 |
+| Energy channeling             |   0 |  98 | 100 |      113 |
+| Ether boundary                |   0 |  98 | 100 |      113 |
+| Force absorption              |   0 |  98 | 100 |      113 |
+| Frost insulation              |   0 |  98 | 100 |      113 |
+| Heat reduction                |   0 |  98 | 100 |      113 |
+| Magic dispersion              |   0 |  98 | 100 |      113 |
+| Psychic sanctuary             |   0 |  98 | 100 |      113 |
+| Quicksilver                   |   0 |  98 | 100 |      113 |
+| Shield of protection          |   0 |  98 | 100 |      113 |
+| Toxic dilution                |   0 |  98 | 100 |      113 |
+| Ship armour                   |   0 |  98 | 100 |      115 |
+| Resist disintegrate           |   0 |  98 | 100 |      117 |
+| Displacement                  |   0 |  98 | 100 |      120 |
+| Neutralize field              |   0 |  98 | 100 |      120 |
+| Resist gaseous form           |   0 |  98 | 100 |      122 |
+| Acid shield                   |   0 |  98 | 100 |      127 |
+| Aura of wind                  |   0 |  98 | 100 |      127 |
+| Flame shield                  |   0 |  98 | 100 |      127 |
+| Frost shield                  |   0 |  98 | 100 |      127 |
+| Lightning shield              |   0 |  98 | 100 |      127 |
+| Psionic phalanx               |   0 |  98 | 100 |      127 |
+| Repulsor aura                 |   0 |  98 | 100 |      127 |
+| Shield of detoxification      |   0 |  98 | 100 |      127 |
+| Suppress magic                |   0 |  98 | 100 |      127 |
+| Armour of aether              |   0 |  98 | 100 |      133 |
+`------------------------------------------------------------'

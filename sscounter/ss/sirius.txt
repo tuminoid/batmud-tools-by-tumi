@@ -1,0 +1,19 @@
+name: Followers of Orion
+gms: Martow, Amaiel and Wex
+maxlvl: 16
+1: int,wis,spellmax,con
+2: int,wis,spellmax,con
+3: int,wis,spellmax,skillmax
+4: int,wis,dex,spellmax
+5: int,wis,dex,spellmax
+6: int,wis,spellmax,con
+7: int,wis,spellmax,con
+8: int,wis,dex,con
+9: int,wis,dex,con
+10: int,wis,spellmax,dex
+11: wis,int
+12: int,wis
+13: int,wis,con
+14: int,wis,dex
+15: int,wis,spellmax
+16: int,wis,con,str

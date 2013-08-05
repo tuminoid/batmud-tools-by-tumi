@@ -1,0 +1,48 @@
+Wolfman
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  61 |  85 |      948 |
+| Alertness                     |  30 |  70 |      218 |
+| Swim                          |  40 |  85 |      519 |
+| Tempt                         |  25 |  85 |      221 |
+| Throw weight                  |  35 |  85 |      567 |
+| Overbear                      |  26 |  85 |      299 |
+| Bloodlust                     |  73 |  85 |    20360 |
+| Cast generic                  |  40 | 100 |     1184 |
+| Cast special                  |  17 |  50 |      162 |
+| Cast transformation           |  30 |  50 |      499 |
+| Attack                        |  68 |  85 |    16419 |
+| Destructive rage              |  26 |  85 |      439 |
+| Short blades                  |  32 |  85 |      999 |
+| Vampiric blow                 |  10 |  85 |      185 |
+| Negate offhand penalty        |  12 |  50 |      280 |
+| Shield bash                   |  43 |  85 |     4065 |
+| Find weakness                 |   0 |  35 |      155 |
+| Long blades                   |  60 |  85 |    29595 |
+| Stun                          |   0 |  35 |      179 |
+| Riposte                       |  18 |  80 |      948 |
+| Combat damage analysis        |  10 |  85 |      668 |
+| Discipline                    |   0 |  40 |      441 |
+| Enhance criticals             |  18 |  85 |     2650 |
+| Parry                         |  38 |  85 |    18188 |
+| Tumbling attack               |   5 |  40 |     1353 |
+| Force of chaos                |  15 |  85 |     4344 |
+| Stunned maneuvers             |   0 |  60 |     1192 |
+| Combat sense                  |   0 |  65 |     1367 |
+| Dodge                         |  19 |  60 |     7610 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Infravision                   |   0 |  78 |       10 |
+| Detect alignment              |  30 |  78 |      184 |
+| Darkness                      |   0 |  78 |       15 |
+| Chaotic warp                  |  37 |  78 |      674 |
+| Summon blade                  |  61 |  78 |     5339 |
+| Blade of fire                 |  28 |  78 |      420 |
+`------------------------------------------------------'

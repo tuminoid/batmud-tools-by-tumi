@@ -1,0 +1,11 @@
+name: Fight Club
+gms: Balance, Aloysha, Pertulio and Dagel
+maxlvl: 8
+1: wis,con,dex,int
+2: con,wis,dex,int
+3: con,skillmax,wis,dex
+4: con,skillmax,wis,dex
+5: con,skillmax,wis,spellmax
+6: skillmax,con,spellmax,wis
+7: spellmax,skillmax,wis,con
+8: spellmax,skillmax,wis,con

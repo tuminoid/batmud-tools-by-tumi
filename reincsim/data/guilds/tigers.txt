@@ -1,0 +1,1502 @@
+FIX 100 86
+Name: The Brotherhood of the Black Tiger
+Command: tiger
+Creator: Dragoness
+Your level: 30
+Maximum level: 30
+
+Description:
+The Brotherhood of Black Tiger is an organization of assassins who worship
+Great Curath, the Designer of Deception. Curath is a generous deity and
+therefore doesn't require much worship. An occasional murder in His name is
+usually enough to satisfy His modest needs of worship. The Brothers of Black
+Tiger usually only kill people they have been hired to kill but occasionally
+they kill just to keep their skills honed.
+Tiger trainers are among the most demanding in physical fields and this
+combined with their magical training turns (the surviving) Tigers into one of
+the most efficient assassins in the world.
+More (1%) [qpbns?]
+
+
+Joining requirements:
+ Background must be evil_religious (passed)
+Abilities gained when joining:
+ Receive bonuses as you advance
+ May train skill Alertness to 20%
+ May train skill Attack to 15%
+ May train skill Cast heal to 1%
+ May train skill Consider to 25%
+ May train skill Discipline to 15%
+ May train skill Kick to 10%
+ May train skill Martial arts to 15%
+ May train skill Stunned maneuvers to 15%
+ May train skill Swim to 25%
+ May train skill Tiger spirit to 15%
+ May study spell Cure light wounds to 1%
+More (2%) [qpbns?]
+
+
+Abilities and requirements at each level:
+ Level 2:
+  Requirements:
+   Has trained skill Discipline to at least 11% (passed)
+   Has trained skill Kick to at least 7% (passed)
+   Has trained skill Martial arts to at least 11% (passed)
+   Has trained skill Tiger spirit to at least 11% (passed)
+  Abilities:
+   May train skill Alertness to 21%
+   May train skill Attack to 24%
+   May train skill Cast heal to 2%
+   May train skill Consider to 33%
+   May train skill Discipline to 17%
+   May train skill Kick to 16%
+   May train skill Martial arts to 21%
+More (3%) [qpbns?]
+
+   May train skill Stunned maneuvers to 19%
+   May train skill Swim to 33%
+   May train skill Tiger spirit to 17%
+   May study spell Cure light wounds to 1%
+ Level 3:
+  Requirements:
+   Has trained skill Cast heal to at least 1% (passed)
+   Has trained skill Discipline to at least 12% (passed)
+   Has trained skill Kick to at least 12% (passed)
+   Has trained skill Martial arts to at least 15% (passed)
+   Has trained skill Tiger spirit to at least 12% (passed)
+  Abilities:
+   May train skill Alertness to 23%
+   May train skill Attack to 33%
+   May train skill Cast heal to 4%
+   May train skill Consider to 41%
+More (4%) [qpbns?]   May train skill Discipline to 19%
+   May train skill Kick to 22%
+   May train skill Martial arts to 27%
+   May train skill Stunned maneuvers to 24%
+   May train skill Swim to 41%
+   May train skill Tiger spirit to 20%
+   May study spell Cure light wounds to 3%
+ Level 4:
+  Requirements:
+   Has trained skill Cast heal to at least 3% (passed)
+   Has trained skill Discipline to at least 14% (passed)
+   Has trained skill Kick to at least 16% (passed)
+   Has trained skill Martial arts to at least 20% (passed)
+   Has trained skill Tiger spirit to at least 15% (passed)
+  Abilities:
+   May train skill Alertness to 25%
+More (5%) [qpbns?]
+   May train skill Attack to 43%
+   May train skill Cast heal to 6%
+   May train skill Consider to 49%
+   May train skill Discipline to 21%
+   May train skill Kick to 29%
+   May train skill Martial arts to 33%
+   May train skill Stunned maneuvers to 28%
+   May train skill Swim to 49%
+   May train skill Tiger spirit to 23%
+   May study spell Cure light wounds to 5%
+ Level 5:
+  Requirements:
+   Has trained skill Cast heal to at least 4% (passed)
+   Has trained skill Discipline to at least 15% (passed)
+   Has trained skill Kick to at least 21% (passed)
+   Has trained skill Martial arts to at least 24% (passed)
+More (6%) [qpbns?]
+
+   Has trained skill Tiger spirit to at least 17% (passed)
+  Abilities:
+   May train skill Alertness to 26%
+   May train skill Attack to 52%
+   May train skill Cast heal to 7%
+   May train skill Consider to 58%
+   May train skill Discipline to 23%
+   May train skill Kick to 35%
+   May train skill Martial arts to 39%
+   May train skill Stunned maneuvers to 33%
+   May train skill Swim to 58%
+   May train skill Tiger spirit to 26%
+   May study spell Infravision to 17%
+   May study spell Cure light wounds to 6%
+ Level 6:
+  Requirements:
+More (8%) [qpbns?]
+
+   Has trained skill Cast heal to at least 5% (passed)
+   Has trained skill Discipline to at least 17% (passed)
+   Has trained skill Kick to at least 26% (passed)
+   Has trained skill Martial arts to at least 29% (passed)
+   Has trained skill Tiger spirit to at least 19% (passed)
+  Abilities:
+   May train skill Alertness to 28%
+   May train skill Attack to 62%
+   May train skill Cast heal to 9%
+   May train skill Consider to 66%
+   May train skill Discipline to 26%
+   May train skill Dodge to 10%
+   May train skill Enhance criticals to 10%
+   May train skill Hiking to 15%
+   May train skill Kick to 42%
+   May train skill Martial arts to 45%
+More (9%) [qpbns?]
+
+   May train skill Stunned maneuvers to 38%
+   May train skill Swim to 66%
+   May train skill Throw weight to 20%
+   May train skill Tiger spirit to 29%
+   May study spell Infravision to 30%
+   May study spell Cure light wounds to 7%
+ Level 7:
+  Requirements:
+   Has trained skill Cast heal to at least 6% (passed)
+   Has trained skill Discipline to at least 19% (passed)
+   Has trained skill Dodge to at least 7% (passed)
+   Has trained skill Enhance criticals to at least 7% (passed)
+   Has trained skill Hiking to at least 7% (passed)
+   Has trained skill Kick to at least 31% (passed)
+   Has trained skill Martial arts to at least 33% (passed)
+   Has trained skill Tiger spirit to at least 21% (passed)
+More (10%) [qpbns?]  Abilities:
+   May train skill Alertness to 30%
+   May train skill Attack to 71%
+   May train skill Cast heal to 11%
+   May train skill Consider to 74%
+   May train skill Discipline to 28%
+   May train skill Dodge to 13%
+   May train skill Enhance criticals to 11%
+   May train skill Hiking to 18%
+   May train skill Kick to 48%
+   May train skill Martial arts to 51%
+   May train skill Stunned maneuvers to 42%
+   May train skill Swim to 74%
+   May train skill Throw weight to 24%
+   May train skill Tiger spirit to 32%
+   May study spell Infravision to 44%
+More (11%) [qpbns?]   May study spell Cure light wounds to 9%
+ Level 8:
+  Requirements:
+   Has trained skill Cast heal to at least 8% (passed)
+   Has trained skill Discipline to at least 21% (passed)
+   Has trained skill Dodge to at least 9% (passed)
+   Has trained skill Enhance criticals to at least 8% (passed)
+   Has trained skill Hiking to at least 9% (passed)
+   Has trained skill Kick to at least 36% (passed)
+   Has trained skill Martial arts to at least 38% (passed)
+   Has trained skill Tiger spirit to at least 24% (passed)
+  Abilities:
+   May train skill Alertness to 32%
+   May train skill Attack to 81%
+   May train skill Cast heal to 12%
+   May train skill Consider to 83%
+More (12%) [qpbns?]   May train skill Discipline to 30%
+   May train skill Dodge to 16%
+   May train skill Enhance criticals to 13%
+   May train skill Hiking to 21%
+   May train skill Kick to 54%
+   May train skill Martial arts to 57%
+   May train skill Stunned maneuvers to 47%
+   May train skill Swim to 83%
+   May train skill Throw weight to 28%
+   May train skill Tiger spirit to 35%
+   May study spell Infravision to 58%
+   May study spell Cure light wounds to 10%
+ Level 9:
+  Requirements:
+   Has trained skill Cast heal to at least 9% (passed)
+   Has trained skill Discipline to at least 22% (passed)
+More (13%) [qpbns?]
+
+   Has trained skill Dodge to at least 12% (passed)
+   Has trained skill Enhance criticals to at least 9% (passed)
+   Has trained skill Hiking to at least 10% (passed)
+   Has trained skill Kick to at least 40% (passed)
+   Has trained skill Martial arts to at least 42% (passed)
+   Has trained skill Tiger spirit to at least 26% (passed)
+  Abilities:
+   May train skill Alertness to 33%
+   May train skill Attack to 90%
+   May train skill Cast heal to 14%
+   May train skill Consider to 91%
+   May train skill Discipline to 32%
+   May train skill Dodge to 19%
+   May train skill Enhance criticals to 14%
+   May train skill Hiking to 25%
+   May train skill Kick to 61%
+More (14%) [qpbns?]
+   May train skill Martial arts to 63%
+   May train skill Stunned maneuvers to 52%
+   May train skill Swim to 91%
+   May train skill Throw weight to 32%
+   May train skill Tiger spirit to 38%
+   May study spell Infravision to 72%
+   May study spell Cure light wounds to 12%
+ Level 10:
+  Requirements:
+   Has trained skill Cast heal to at least 10% (passed)
+   Has trained skill Discipline to at least 24% (passed)
+   Has trained skill Dodge to at least 14% (passed)
+   Has trained skill Enhance criticals to at least 10% (passed)
+   Has trained skill Hiking to at least 12% (passed)
+   Has trained skill Kick to at least 45% (passed)
+   Has trained skill Martial arts to at least 47% (passed)
+More (16%) [qpbns?]
+   Has trained skill Tiger spirit to at least 28% (passed)
+  Abilities:
+   May train skill Alertness to 35%
+   May train skill Attack to 100%
+   May train skill Cast heal to 16%
+   May train skill Consider to 100%
+   May train skill Discipline to 35%
+   May train skill Dodge to 23%
+   May train skill Enhance criticals to 16%
+   May train skill Hiking to 28%
+   May train skill Kick to 67%
+   May train skill Martial arts to 69%
+   May train skill Stunned maneuvers to 56%
+   May train skill Swim to 100%
+   May train skill Throw weight to 37%
+   May train skill Tiger spirit to 41%
+More (17%) [qpbns?]   May study spell Infravision to 86%
+   May study spell Cure light wounds to 13%
+ Level 11:
+  Requirements:
+   Has trained skill Cast heal to at least 12% (passed)
+   Has trained skill Discipline to at least 26% (passed)
+   Has trained skill Dodge to at least 17% (passed)
+   Has trained skill Enhance criticals to at least 12% (passed)
+   Has trained skill Hiking to at least 14% (passed)
+   Has trained skill Kick to at least 50% (passed)
+   Has trained skill Martial arts to at least 51% (passed)
+   Has trained skill Tiger spirit to at least 30% (passed)
+  Abilities:
+   May train skill Alertness to 37%
+   May train skill Cast generic to 25%
+   May train skill Cast control to 25%
+More (18%) [qpbns?]
+
+   May train skill Cast transformation to 25%
+   May train skill Cast information to 25%
+   May train skill Cast heal to 17%
+   May train skill Cast teleportation to 25%
+   May train skill Combat sense to 10%
+   May train skill Defence sense to 15%
+   May train skill Dim mak to 10%
+   May train skill Discipline to 37%
+   May train skill Dodge to 26%
+   May train skill Enhance criticals to 18%
+   May train skill Find weakness to 15%
+   May train skill Hiking to 32%
+   May train skill Kick to 74%
+   May train skill Martial arts to 75%
+   May train skill Meditation to 20%
+   May train skill Sneak to 15%
+More (19%) [qpbns?]
+   May train skill Stun to 15%
+   May train skill Stunned maneuvers to 61%
+   May train skill Throw weight to 41%
+   May train skill Tumbling attack to 15%
+   May train skill Tiger spirit to 44%
+   May train skill Unarmed parry to 10%
+   May study spell Darkness to 17%
+   May study spell Cure light wounds to 14%
+   May study spell Invisibility to 17%
+   May study spell Tiger mask to 17%
+   May study spell Water walking to 17%
+   May study spell Shadow leap to 17%
+ Level 12:
+  Requirements:
+   Has trained skill Cast generic to at least 18% (passed)
+   Has trained skill Cast control to at least 18% (passed)
+More (20%) [qpbns?]
+
+   Has trained skill Cast transformation to at least 18% (passed)
+   Has trained skill Cast information to at least 18% (passed)
+   Has trained skill Cast heal to at least 12% (passed)
+   Has trained skill Cast teleportation to at least 18% (passed)
+   Has trained skill Defence sense to at least 11% (passed)
+   Has trained skill Dim mak to at least 7% (passed)
+   Has trained skill Discipline to at least 27% (passed)
+   Has trained skill Dodge to at least 19% (passed)
+   Has trained skill Enhance criticals to at least 13% (passed)
+   Has trained skill Find weakness to at least 9% (passed)
+   Has trained skill Hiking to at least 16% (passed)
+   Has trained skill Kick to at least 55% (passed)
+   Has trained skill Martial arts to at least 56% (passed)
+   Has trained skill Meditation to at least 15% (passed)
+   Has trained skill Sneak to at least 11% (passed)
+   Has trained skill Stun to at least 11% (passed)
+More (21%) [qpbns?]   Has trained skill Tumbling attack to at least 7% (passed)
+   Has trained skill Tiger spirit to at least 33% (passed)
+   Has studied spell Darkness to at least 15% (passed)
+   Has studied spell Invisibility to at least 8% (passed)
+   Has studied spell Water walking to at least 15% (passed)
+   Has studied spell Shadow leap to at least 15% (passed)
+  Abilities:
+   May train skill Alertness to 38%
+   May train skill Cast generic to 28%
+   May train skill Cast control to 28%
+   May train skill Cast transformation to 27%
+   May train skill Cast information to 32%
+   May train skill Cast heal to 19%
+   May train skill Cast teleportation to 29%
+   May train skill Combat sense to 11%
+   May train skill Defence sense to 18%
+More (22%) [qpbns?]
+
+   May train skill Dim mak to 14%
+   May train skill Discipline to 39%
+   May train skill Dodge to 29%
+   May train skill Enhance criticals to 19%
+   May train skill Find weakness to 18%
+   May train skill Hiking to 35%
+   May train skill Kick to 80%
+   May train skill Martial arts to 81%
+   May train skill Meditation to 24%
+   May train skill Sneak to 18%
+   May train skill Stun to 24%
+   May train skill Stunned maneuvers to 66%
+   May train skill Throw weight to 45%
+   May train skill Tumbling attack to 18%
+   May train skill Tiger spirit to 47%
+   May train skill Unarmed parry to 12%
+More (24%) [qpbns?]
+
+   May study spell Darkness to 24%
+   May study spell Cure light wounds to 16%
+   May study spell Invisibility to 20%
+   May study spell Tiger mask to 20%
+   May study spell Water walking to 24%
+   May study spell Shadow leap to 24%
+ Level 13:
+  Requirements:
+   Has trained skill Cast generic to at least 21% (passed)
+   Has trained skill Cast control to at least 21% (passed)
+   Has trained skill Cast transformation to at least 20% (passed)
+   Has trained skill Cast information to at least 24% (passed)
+   Has trained skill Cast heal to at least 14% (passed)
+   Has trained skill Cast teleportation to at least 21% (passed)
+   Has trained skill Defence sense to at least 13% (passed)
+   Has trained skill Dim mak to at least 10% (passed)
+More (25%) [qpbns?]   Has trained skill Discipline to at least 29% (passed)
+   Has trained skill Dodge to at least 21% (passed)
+   Has trained skill Enhance criticals to at least 14% (passed)
+   Has trained skill Find weakness to at least 10% (passed)
+   Has trained skill Hiking to at least 17% (passed)
+   Has trained skill Kick to at least 60% (passed)
+   Has trained skill Martial arts to at least 60% (passed)
+   Has trained skill Meditation to at least 18% (passed)
+   Has trained skill Sneak to at least 13% (passed)
+   Has trained skill Stun to at least 18% (passed)
+   Has trained skill Tumbling attack to at least 9% (passed)
+   Has trained skill Tiger spirit to at least 35% (passed)
+   Has studied spell Darkness to at least 21% (passed)
+   Has studied spell Invisibility to at least 9% (passed)
+   Has studied spell Water walking to at least 21% (passed)
+   Has studied spell Shadow leap to at least 21% (passed)
+More (26%) [qpbns?]
+  Abilities:
+   May train skill Alertness to 40%
+   May train skill Cast generic to 32%
+   May train skill Cast control to 31%
+   May train skill Cast transformation to 29%
+   May train skill Cast information to 39%
+   May train skill Cast heal to 21%
+   May train skill Cast teleportation to 34%
+   May train skill Combat sense to 12%
+   May train skill Defence sense to 21%
+   May train skill Dim mak to 19%
+   May train skill Discipline to 41%
+   May train skill Dodge to 33%
+   May train skill Enhance criticals to 21%
+   May train skill Find weakness to 21%
+   May train skill Hiking to 38%
+More (27%) [qpbns?]   May train skill Kick to 87%
+   May train skill Martial arts to 87%
+   May train skill Meditation to 28%
+   May train skill Sneak to 21%
+   May train skill Stun to 33%
+   May train skill Stunned maneuvers to 70%
+   May train skill Throw weight to 49%
+   May train skill Tumbling attack to 21%
+   May train skill Tiger spirit to 50%
+   May train skill Unarmed parry to 15%
+   May study spell Darkness to 31%
+   May study spell Cure light wounds to 18%
+   May study spell Invisibility to 24%
+   May study spell Tiger mask to 24%
+   May study spell Water walking to 31%
+   May study spell Shadow leap to 31%
+More (28%) [qpbns?] Level 14:
+  Requirements:
+   Has trained skill Cast generic to at least 24% (passed)
+   Has trained skill Cast control to at least 23% (passed)
+   Has trained skill Cast transformation to at least 21% (passed)
+   Has trained skill Cast information to at least 29% (passed)
+   Has trained skill Cast heal to at least 15% (passed)
+   Has trained skill Cast teleportation to at least 25% (passed)
+   Has trained skill Defence sense to at least 15% (passed)
+   Has trained skill Dim mak to at least 14% (passed)
+   Has trained skill Discipline to at least 30% (passed)
+   Has trained skill Dodge to at least 24% (passed)
+   Has trained skill Enhance criticals to at least 15% (passed)
+   Has trained skill Find weakness to at least 12% (passed)
+   Has trained skill Hiking to at least 19% (passed)
+   Has trained skill Kick to at least 65% (passed)
+More (29%) [qpbns?]
+   Has trained skill Martial arts to at least 65% (passed)
+   Has trained skill Meditation to at least 21% (passed)
+   Has trained skill Sneak to at least 15% (passed)
+   Has trained skill Stun to at least 24% (passed)
+   Has trained skill Tumbling attack to at least 10% (passed)
+   Has trained skill Tiger spirit to at least 37% (passed)
+   Has studied spell Darkness to at least 27% (passed)
+   Has studied spell Invisibility to at least 11% (passed)
+   Has studied spell Water walking to at least 27% (passed)
+   Has studied spell Shadow leap to at least 27% (passed)
+  Abilities:
+   May train skill Alertness to 42%
+   May train skill Cast generic to 36%
+   May train skill Cast control to 34%
+   May train skill Cast transformation to 31%
+   May train skill Cast information to 46%
+More (30%) [qpbns?]
+
+   May train skill Cast heal to 22%
+   May train skill Cast teleportation to 38%
+   May train skill Combat sense to 13%
+   May train skill Defence sense to 25%
+   May train skill Dim mak to 24%
+   May train skill Discipline to 44%
+   May train skill Dodge to 36%
+   May train skill Enhance criticals to 23%
+   May train skill Find weakness to 25%
+   May train skill Hiking to 42%
+   May train skill Kick to 93%
+   May train skill Martial arts to 93%
+   May train skill Meditation to 32%
+   May train skill Sneak to 25%
+   May train skill Stun to 43%
+   May train skill Stunned maneuvers to 75%
+More (32%) [qpbns?]
+
+   May train skill Throw weight to 54%
+   May train skill Tumbling attack to 25%
+   May train skill Tiger spirit to 53%
+   May train skill Unarmed parry to 18%
+   May study spell Darkness to 39%
+   May study spell Cure light wounds to 18%
+   May study spell Invisibility to 27%
+   May study spell Tiger mask to 27%
+   May study spell Water walking to 39%
+   May study spell Shadow leap to 39%
+ Level 15:
+  Requirements:
+   Has trained skill Cast generic to at least 27% (passed)
+   Has trained skill Cast control to at least 25% (passed)
+   Has trained skill Cast transformation to at least 23% (passed)
+   Has trained skill Cast information to at least 34% (passed)
+More (33%) [qpbns?]
+   Has trained skill Cast heal to at least 16% (passed)
+   Has trained skill Cast teleportation to at least 28% (passed)
+   Has trained skill Defence sense to at least 18% (passed)
+   Has trained skill Dim mak to at least 18% (passed)
+   Has trained skill Discipline to at least 33% (passed)
+   Has trained skill Dodge to at least 27% (passed)
+   Has trained skill Enhance criticals to at least 17% (passed)
+   Has trained skill Find weakness to at least 15% (passed)
+   Has trained skill Hiking to at least 21% (passed)
+   Has trained skill Kick to at least 69% (passed)
+   Has trained skill Martial arts to at least 69% (passed)
+   Has trained skill Meditation to at least 24% (passed)
+   Has trained skill Sneak to at least 18% (passed)
+   Has trained skill Stun to at least 32% (passed)
+   Has trained skill Tumbling attack to at least 12% (passed)
+   Has trained skill Tiger spirit to at least 39% (passed)
+More (34%) [qpbns?]   Has studied spell Darkness to at least 34% (passed)
+   Has studied spell Invisibility to at least 12% (passed)
+   Has studied spell Water walking to at least 34% (passed)
+   Has studied spell Shadow leap to at least 34% (passed)
+  Abilities:
+   May train skill Alertness to 44%
+   May train skill Cast generic to 40%
+   May train skill Cast control to 38%
+   May train skill Cast transformation to 33%
+   May train skill Cast information to 53%
+   May train skill Cast heal to 24%
+   May train skill Cast teleportation to 43%
+   May train skill Combat sense to 14%
+   May train skill Defence sense to 28%
+   May train skill Dim mak to 28%
+   May train skill Discipline to 46%
+More (35%) [qpbns?]
+
+Conquer {wanted}: cure player
+   May train skill Dodge to 39%
+   May train skill Enhance criticals to 24%
+   May train skill Find weakness to 28%
+   May train skill Hiking to 45%
+   May train skill Kick to 100%
+   May train skill Martial arts to 100%
+   May train skill Meditation to 36%
+   May train skill Sneak to 28%
+   May train skill Stun to 52%
+   May train skill Stunned maneuvers to 80%
+   May train skill Throw weight to 58%
+   May train skill Tumbling attack to 28%
+   May train skill Tiger spirit to 56%
+   May train skill Unarmed parry to 21%
+   May study spell Darkness to 47%
+   May study spell Cure light wounds to 20%
+More (36%) [qpbns?]   May study spell Invisibility to 30%
+   May study spell Tiger mask to 30%
+   May study spell Water walking to 47%
+   May study spell Shadow leap to 47%
+ Level 16:
+  Requirements:
+   Has trained skill Cast generic to at least 30% (passed)
+   Has trained skill Cast control to at least 28% (passed)
+   Has trained skill Cast transformation to at least 24% (passed)
+   Has trained skill Cast information to at least 39% (passed)
+   Has trained skill Cast heal to at least 18% (passed)
+   Has trained skill Cast teleportation to at least 32% (passed)
+   Has trained skill Defence sense to at least 21% (passed)
+   Has trained skill Dim mak to at least 21% (passed)
+   Has trained skill Discipline to at least 34% (passed)
+   Has trained skill Dodge to at least 29% (passed)
+More (37%) [qpbns?]
+
+   Has trained skill Enhance criticals to at least 18% (passed)
+   Has trained skill Find weakness to at least 16% (passed)
+   Has trained skill Hiking to at least 22% (passed)
+   Has trained skill Meditation to at least 27% (passed)
+   Has trained skill Sneak to at least 21% (passed)
+   Has trained skill Stun to at least 39% (passed)
+   Has trained skill Tumbling attack to at least 14% (passed)
+   Has trained skill Tiger spirit to at least 42% (passed)
+   Has studied spell Darkness to at least 41% (passed)
+   Has studied spell Invisibility to at least 14% (passed)
+   Has studied spell Water walking to at least 41% (passed)
+   Has studied spell Shadow leap to at least 41% (passed)
+  Abilities:
+   May train skill Alertness to 45%
+   May train skill Cast generic to 44%
+   May train skill Cast control to 41%
+More (38%) [qpbns?]
+
+   May train skill Cast transformation to 35%
+   May train skill Cast information to 60%
+   May train skill Cast heal to 26%
+   May train skill Cast teleportation to 47%
+   May train skill Combat sense to 15%
+   May train skill Defence sense to 32%
+   May train skill Dim mak to 33%
+   May train skill Discipline to 48%
+   May train skill Dodge to 43%
+   May train skill Enhance criticals to 26%
+   May train skill Find weakness to 32%
+   May train skill Hiking to 49%
+   May train skill Iron palm to 15%
+   May train skill Meditation to 41%
+   May train skill Pick locks to 10%
+   May train skill Sneak to 32%
+More (40%) [qpbns?]
+   May train skill Stun to 62%
+   May train skill Throw weight to 62%
+   May train skill Track to 20%
+   May train skill Tumbling attack to 32%
+   May train skill Tiger spirit to 58%
+   May train skill Unarmed parry to 24%
+   May study spell Darkness to 55%
+   May study spell Cure light wounds to 22%
+   May study spell Invisibility to 34%
+   May study spell Tiger mask to 35%
+   May study spell Water walking to 55%
+   May study spell Shadow leap to 55%
+ Level 17:
+  Requirements:
+   Has trained skill Cast generic to at least 33% (passed)
+   Has trained skill Cast control to at least 30% (passed)
+More (41%) [qpbns?]   Has trained skill Cast transformation to at least 26% (passed)
+   Has trained skill Cast information to at least 45% (passed)
+   Has trained skill Cast heal to at least 19% (passed)
+   Has trained skill Cast teleportation to at least 35% (passed)
+   Has trained skill Defence sense to at least 24% (passed)
+   Has trained skill Dim mak to at least 24% (passed)
+   Has trained skill Discipline to at least 36% (passed)
+   Has trained skill Dodge to at least 32% (passed)
+   Has trained skill Enhance criticals to at least 19% (passed)
+   Has trained skill Find weakness to at least 19% (passed)
+   Has trained skill Hiking to at least 24% (passed)
+   Has trained skill Iron palm to at least 11% (passed)
+   Has trained skill Meditation to at least 30% (passed)
+   Has trained skill Sneak to at least 24% (passed)
+   Has trained skill Stun to at least 46% (passed)
+   Has trained skill Tumbling attack to at least 16% (passed)
+More (42%) [qpbns?]   Has trained skill Tiger spirit to at least 43% (passed)
+   Has studied spell Darkness to at least 48% (passed)
+   Has studied spell Invisibility to at least 16% (passed)
+   Has studied spell Water walking to at least 48% (passed)
+   Has studied spell Shadow leap to at least 48% (passed)
+  Abilities:
+   May train skill Alertness to 47%
+   May train skill Cast generic to 48%
+   May train skill Cast control to 44%
+   May train skill Cast transformation to 37%
+   May train skill Cast information to 67%
+   May train skill Cast heal to 28%
+   May train skill Cast teleportation to 52%
+   May train skill Combat sense to 16%
+   May train skill Defence sense to 35%
+   May train skill Dim mak to 38%
+More (43%) [qpbns?]   May train skill Discipline to 50%
+   May train skill Dodge to 46%
+   May train skill Enhance criticals to 28%
+   May train skill Find weakness to 35%
+   May train skill Hiking to 52%
+   May train skill Iron palm to 21%
+   May train skill Meditation to 45%
+   May train skill Pick locks to 14%
+   May train skill Sneak to 35%
+   May train skill Stun to 71%
+   May train skill Throw weight to 67%
+   May train skill Track to 24%
+   May train skill Tumbling attack to 35%
+   May train skill Tiger spirit to 61%
+   May train skill Unarmed parry to 27%
+   May study spell Darkness to 62%
+More (44%) [qpbns?]
+
+   May study spell Cure light wounds to 24%
+   May study spell Invisibility to 38%
+   May study spell Tiger mask to 38%
+   May study spell Water walking to 62%
+   May study spell Shadow leap to 62%
+ Level 18:
+  Requirements:
+   Has trained skill Cast generic to at least 36% (passed)
+   Has trained skill Cast control to at least 33% (passed)
+   Has trained skill Cast transformation to at least 27% (passed)
+   Has trained skill Cast information to at least 50% (passed)
+   Has trained skill Cast heal to at least 21% (passed)
+   Has trained skill Cast teleportation to at least 39% (passed)
+   Has trained skill Defence sense to at least 26% (passed)
+   Has trained skill Dim mak to at least 28% (passed)
+   Has trained skill Discipline to at least 37% (passed)
+More (45%) [qpbns?]   Has trained skill Dodge to at least 34% (passed)
+   Has trained skill Enhance criticals to at least 21% (passed)
+   Has trained skill Find weakness to at least 21% (passed)
+   Has trained skill Hiking to at least 26% (passed)
+   Has trained skill Iron palm to at least 15% (passed)
+   Has trained skill Meditation to at least 33% (passed)
+   Has trained skill Sneak to at least 26% (passed)
+   Has trained skill Stun to at least 53% (passed)
+   Has trained skill Tumbling attack to at least 17% (passed)
+   Has trained skill Tiger spirit to at least 45% (passed)
+   Has studied spell Darkness to at least 54% (passed)
+   Has studied spell Water walking to at least 54% (passed)
+   Has studied spell Shadow leap to at least 54% (passed)
+  Abilities:
+   May train skill Alertness to 49%
+   May train skill Cast generic to 52%
+More (46%) [qpbns?]
+
+   May train skill Cast control to 48%
+   May train skill Cast transformation to 40%
+   May train skill Cast information to 74%
+   May train skill Cast heal to 29%
+   May train skill Cast teleportation to 56%
+   May train skill Combat sense to 17%
+   May train skill Defence sense to 38%
+   May train skill Dim mak to 43%
+   May train skill Discipline to 53%
+   May train skill Dodge to 49%
+   May train skill Enhance criticals to 29%
+   May train skill Find weakness to 38%
+   May train skill Hiking to 56%
+   May train skill Iron palm to 27%
+   May train skill Meditation to 49%
+   May train skill Pick locks to 18%
+More (48%) [qpbns?]
+   May train skill Sneak to 38%
+   May train skill Stun to 81%
+   May train skill Throw weight to 71%
+   May train skill Track to 28%
+   May train skill Tumbling attack to 38%
+   May train skill Tiger spirit to 64%
+   May train skill Unarmed parry to 30%
+   May study spell Darkness to 70%
+   May study spell Cure light wounds to 24%
+   May study spell Tiger mask to 42%
+   May study spell Water walking to 70%
+   May study spell Shadow leap to 70%
+ Level 19:
+  Requirements:
+   Has trained skill Cast generic to at least 39% (passed)
+   Has trained skill Cast control to at least 36% (passed)
+More (49%) [qpbns?]   Has trained skill Cast transformation to at least 30% (passed)
+   Has trained skill Cast information to at least 55% (passed)
+   Has trained skill Cast heal to at least 21% (passed)
+   Has trained skill Cast teleportation to at least 42% (passed)
+   Has trained skill Defence sense to at least 28% (passed)
+   Has trained skill Dim mak to at least 32% (passed)
+   Has trained skill Discipline to at least 39% (passed)
+   Has trained skill Dodge to at least 36% (passed)
+   Has trained skill Enhance criticals to at least 21% (passed)
+   Has trained skill Find weakness to at least 22% (passed)
+   Has trained skill Hiking to at least 28% (passed)
+   Has trained skill Iron palm to at least 20% (passed)
+   Has trained skill Meditation to at least 36% (passed)
+   Has trained skill Sneak to at least 28% (passed)
+   Has trained skill Stun to at least 60% (passed)
+   Has trained skill Tumbling attack to at least 19% (passed)
+More (50%) [qpbns?]
+
+   Has trained skill Tiger spirit to at least 48% (passed)
+   Has studied spell Darkness to at least 61% (passed)
+   Has studied spell Water walking to at least 61% (passed)
+   Has studied spell Shadow leap to at least 61% (passed)
+  Abilities:
+   May train skill Alertness to 51%
+   May train skill Cast generic to 56%
+   May train skill Cast control to 51%
+   May train skill Cast transformation to 42%
+   May train skill Cast information to 81%
+   May train skill Cast heal to 31%
+   May train skill Cast teleportation to 61%
+   May train skill Combat sense to 18%
+   May train skill Defence sense to 42%
+   May train skill Dim mak to 47%
+   May train skill Discipline to 55%
+More (51%) [qpbns?]The crystal throbs faintly, healing some of your wounds.
+   May train skill Dodge to 53%
+   May train skill Enhance criticals to 31%
+   May train skill Find weakness to 42%
+   May train skill Hiking to 59%
+   May train skill Iron palm to 33%
+   May train skill Meditation to 53%
+   May train skill Pick locks to 22%
+   May train skill Sneak to 42%
+   May train skill Stun to 90%
+   May train skill Throw weight to 75%
+   May train skill Track to 33%
+   May train skill Tumbling attack to 42%
+   May train skill Tiger spirit to 67%
+   May train skill Unarmed parry to 33%
+   May study spell Darkness to 78%
+   May study spell Cure light wounds to 26%
+More (52%) [qpbns?]
+
+   May study spell Tiger mask to 45%
+   May study spell Water walking to 78%
+   May study spell Shadow leap to 78%
+ Level 20:
+  Requirements:
+   Has trained skill Cast generic to at least 42% (passed)
+   Has trained skill Cast control to at least 38% (passed)
+   Has trained skill Cast transformation to at least 31% (passed)
+   Has trained skill Cast information to at least 60% (passed)
+   Has trained skill Cast heal to at least 23% (passed)
+   Has trained skill Cast teleportation to at least 45% (passed)
+   Has trained skill Defence sense to at least 31% (passed)
+   Has trained skill Dim mak to at least 35% (passed)
+   Has trained skill Discipline to at least 41% (passed)
+   Has trained skill Dodge to at least 39% (passed)
+   Has trained skill Enhance criticals to at least 23% (passed)
+More (53%) [qpbns?]
+   Has trained skill Find weakness to at least 25% (passed)
+   Has trained skill Hiking to at least 29% (passed)
+   Has trained skill Iron palm to at least 24% (passed)
+   Has trained skill Meditation to at least 39% (passed)
+   Has trained skill Sneak to at least 31% (passed)
+   Has trained skill Stun to at least 67% (passed)
+   Has trained skill Tumbling attack to at least 21% (passed)
+   Has trained skill Tiger spirit to at least 50% (passed)
+   Has studied spell Darkness to at least 68% (passed)
+   Has studied spell Water walking to at least 68% (passed)
+   Has studied spell Shadow leap to at least 68% (passed)
+  Abilities:
+   May train skill Alertness to 52%
+   May train skill Cast generic to 60%
+   May train skill Cast control to 54%
+   May train skill Cast transformation to 44%
+More (54%) [qpbns?]
+
+   May train skill Cast information to 88%
+   May train skill Cast heal to 33%
+   May train skill Cast teleportation to 66%
+   May train skill Combat sense to 20%
+   May train skill Defence sense to 45%
+   May train skill Dim mak to 52%
+   May train skill Discipline to 57%
+   May train skill Dodge to 56%
+   May train skill Enhance criticals to 33%
+   May train skill Find weakness to 45%
+   May train skill Hiking to 62%
+   May train skill Iron palm to 39%
+   May train skill Meditation to 57%
+   May train skill Pick locks to 27%
+   May train skill Sneak to 45%
+   May train skill Stun to 100%
+More (56%) [qpbns?]   May train skill Throw weight to 80%
+   May train skill Track to 37%
+   May train skill Tumbling attack to 45%
+   May train skill Tiger spirit to 70%
+   May train skill Unarmed parry to 36%
+   May study spell Darkness to 86%
+   May study spell Cure light wounds to 28%
+   May study spell Tiger mask to 49%
+   May study spell Water walking to 86%
+   May study spell Shadow leap to 86%
+ Level 21:
+  Requirements:
+   Has trained skill Cast generic to at least 45% (passed)
+   Has trained skill Cast control to at least 40% (passed)
+   Has trained skill Cast transformation to at least 33% (passed)
+   Has trained skill Cast heal to at least 24% (passed)
+More (57%) [qpbns?]
+You feel almost fully recovered.
+hp:426/738 sp:119/460 hpdiff:+28
+
+
+   Has trained skill Defence sense to at least 33% (passed)
+   Has trained skill Dim mak to at least 39% (passed)
+   Has trained skill Discipline to at least 42% (passed)
+   Has trained skill Dodge to at least 42% (passed)
+   Has trained skill Enhance criticals to at least 24% (passed)
+   Has trained skill Find weakness to at least 27% (passed)
+   Has trained skill Hiking to at least 31% (passed)
+   Has trained skill Iron palm to at least 29% (passed)
+   Has trained skill Meditation to at least 42% (passed)
+   Has trained skill Sneak to at least 33% (passed)
+   Has trained skill Tumbling attack to at least 22% (passed)
+   Has trained skill Tiger spirit to at least 52% (passed)
+  Abilities:
+   May train skill Alertness to 54%
+   May train skill Cast generic to 64%
+   May train skill Cast control to 58%
+More (58%) [qpbns?]   May train skill Cast fire to 25%
+   May train skill Cast harm to 25%
+   May train skill Cast protection to 25%
+   May train skill Cast special to 25%
+   May train skill Cast transformation to 46%
+   May train skill Cast heal to 34%
+   May train skill Combat sense to 21%
+   May train skill Defence sense to 49%
+   May train skill Dim mak to 57%
+   May train skill Discipline to 59%
+   May train skill Dodge to 59%
+   May train skill Enhance criticals to 34%
+   May train skill Find weakness to 49%
+   May train skill Hiking to 66%
+   May train skill Iron palm to 45%
+   May train skill Meditation to 62%
+More (59%) [qpbns?]
+
+   May train skill Pick locks to 31%
+   May train skill Sneak to 49%
+   May train skill Track to 42%
+   May train skill Tumbling attack to 49%
+   May train skill Tiger spirit to 73%
+   May train skill Dark nerves to 20%
+   May train skill Unarmed parry to 38%
+   May study spell All-seeing eye to 17%
+   May study spell Flame fists to 17%
+   May study spell Haste to 17%
+   May study spell Cure light wounds to 29%
+   May study spell Quicksilver to 17%
+   May study spell Tiger claw to 17%
+   May study spell Tiger mask to 53%
+   May study spell Shadow trick to 17%
+ Level 22:
+More (60%) [qpbns?]  Requirements:
+   Has trained skill Cast generic to at least 48% (passed)
+   Has trained skill Cast control to at least 43% (passed)
+   Has trained skill Cast fire to at least 18% (passed)
+   Has trained skill Cast harm to at least 18% (passed)
+   Has trained skill Cast protection to at least 18% (passed)
+   Has trained skill Cast special to at least 18% (passed)
+   Has trained skill Cast transformation to at least 34% (passed)
+   Has trained skill Cast heal to at least 25% (passed)
+   Has trained skill Defence sense to at least 36% (passed)
+   Has trained skill Dim mak to at least 42% (passed)
+   Has trained skill Discipline to at least 44% (passed)
+   Has trained skill Dodge to at least 44% (passed)
+   Has trained skill Enhance criticals to at least 25% (passed)
+   Has trained skill Find weakness to at least 29% (passed)
+   Has trained skill Hiking to at least 33% (passed)
+More (61%) [qpbns?]   Has trained skill Iron palm to at least 33% (passed)
+   Has trained skill Meditation to at least 46% (passed)
+   Has trained skill Sneak to at least 36% (passed)
+   Has trained skill Tumbling attack to at least 24% (passed)
+   Has trained skill Tiger spirit to at least 54% (passed)
+   Has studied spell Flame fists to at least 15% (passed)
+   Has studied spell Haste to at least 15% (passed)
+   Has studied spell Quicksilver to at least 15% (passed)
+   Has studied spell Tiger claw to at least 15% (passed)
+  Abilities:
+   May train skill Alertness to 56%
+   May train skill Cast generic to 68%
+   May train skill Cast control to 61%
+   May train skill Cast fire to 29%
+   May train skill Cast harm to 29%
+   May train skill Cast protection to 32%
+More (62%) [qpbns?]   May train skill Cast special to 30%
+   May train skill Cast transformation to 48%
+   May train skill Cast heal to 36%
+   May train skill Combat sense to 24%
+   May train skill Defence sense to 52%
+   May train skill Dim mak to 62%
+   May train skill Discipline to 62%
+   May train skill Dodge to 63%
+   May train skill Enhance criticals to 36%
+   May train skill Find weakness to 52%
+   May train skill Hiking to 69%
+   May train skill Iron palm to 51%
+   May train skill Meditation to 66%
+   May train skill Pick locks to 35%
+   May train skill Sneak to 52%
+   May train skill Track to 46%
+More (64%) [qpbns?]
+
+   May train skill Tumbling attack to 52%
+   May train skill Tiger spirit to 76%
+   May train skill Dark nerves to 28%
+   May train skill Unarmed parry to 41%
+   May study spell All-seeing eye to 24%
+   May study spell Flame fists to 24%
+   May study spell Haste to 24%
+   May study spell Cure light wounds to 30%
+   May study spell Quicksilver to 24%
+   May study spell Tiger claw to 24%
+   May study spell Tiger mask to 56%
+   May study spell Shadow trick to 24%
+ Level 23:
+  Requirements:
+   Has trained skill Cast generic to at least 51% (passed)
+   Has trained skill Cast control to at least 45% (passed)
+More (65%) [qpbns?]   Has trained skill Cast fire to at least 21% (passed)
+   Has trained skill Cast harm to at least 21% (passed)
+   Has trained skill Cast protection to at least 24% (passed)
+   Has trained skill Cast special to at least 22% (passed)
+   Has trained skill Cast transformation to at least 36% (passed)
+   Has trained skill Cast heal to at least 27% (passed)
+   Has trained skill Defence sense to at least 39% (passed)
+   Has trained skill Dim mak to at least 46% (passed)
+   Has trained skill Discipline to at least 46% (passed)
+   Has trained skill Dodge to at least 47% (passed)
+   Has trained skill Enhance criticals to at least 27% (passed)
+   Has trained skill Find weakness to at least 31% (passed)
+   Has trained skill Hiking to at least 34% (passed)
+   Has trained skill Iron palm to at least 38% (passed)
+   Has trained skill Meditation to at least 49% (passed)
+   Has trained skill Sneak to at least 39% (passed)
+More (66%) [qpbns?]
+
+
+   Has trained skill Tumbling attack to at least 26% (passed)
+   Has trained skill Tiger spirit to at least 57% (passed)
+   Has studied spell Flame fists to at least 21% (passed)
+   Has studied spell Haste to at least 21% (passed)
+   Has studied spell Quicksilver to at least 21% (passed)
+   Has studied spell Tiger claw to at least 21% (passed)
+  Abilities:
+   May train skill Alertness to 57%
+   May train skill Cast generic to 72%
+   May train skill Cast control to 64%
+   May train skill Cast fire to 34%
+   May train skill Cast harm to 34%
+   May train skill Cast protection to 39%
+   May train skill Cast special to 35%
+   May train skill Cast transformation to 50%
+   May train skill Cast heal to 38%
+More (67%) [qpbns?]   May train skill Combat sense to 28%
+   May train skill Defence sense to 56%
+   May train skill Dim mak to 66%
+   May train skill Discipline to 64%
+   May train skill Dodge to 66%
+   May train skill Enhance criticals to 38%
+   May train skill Find weakness to 56%
+   May train skill Hiking to 73%
+   May train skill Iron palm to 57%
+   May train skill Meditation to 70%
+   May train skill Pick locks to 39%
+   May train skill Sneak to 56%
+   May train skill Track to 51%
+   May train skill Tumbling attack to 56%
+   May train skill Tiger spirit to 79%
+   May train skill Dark nerves to 37%
+More (68%) [qpbns?]
+   May train skill Unarmed parry to 44%
+   May study spell All-seeing eye to 31%
+   May study spell Flame fists to 31%
+   May study spell Haste to 31%
+   May study spell Cure light wounds to 32%
+   May study spell Quicksilver to 31%
+   May study spell Tiger claw to 31%
+   May study spell Tiger mask to 60%
+   May study spell Shadow trick to 31%
+ Level 24:
+  Requirements:
+   Has trained skill Cast generic to at least 54% (passed)
+   Has trained skill Cast control to at least 48% (passed)
+   Has trained skill Cast fire to at least 25% (passed)
+   Has trained skill Cast harm to at least 25% (passed)
+   Has trained skill Cast protection to at least 29% (passed)
+More (69%) [qpbns?]   Has trained skill Cast special to at least 26% (passed)
+   Has trained skill Cast transformation to at least 37% (passed)
+   Has trained skill Cast heal to at least 28% (passed)
+   Has trained skill Defence sense to at least 42% (passed)
+   Has trained skill Dim mak to at least 49% (passed)
+   Has trained skill Discipline to at least 48% (passed)
+   Has trained skill Dodge to at least 49% (passed)
+   Has trained skill Enhance criticals to at least 28% (passed)
+   Has trained skill Find weakness to at least 33% (passed)
+   Has trained skill Hiking to at least 36% (passed)
+   Has trained skill Iron palm to at least 42% (passed)
+   Has trained skill Meditation to at least 52% (passed)
+   Has trained skill Sneak to at least 42% (passed)
+   Has trained skill Tumbling attack to at least 28% (passed)
+   Has trained skill Tiger spirit to at least 59% (passed)
+   Has studied spell Flame fists to at least 27% (passed)
+More (71%) [qpbns?]
+
+   Has studied spell Haste to at least 27% (passed)
+   Has studied spell Quicksilver to at least 27% (passed)
+   Has studied spell Tiger claw to at least 27% (passed)
+  Abilities:
+   May train skill Alertness to 59%
+   May train skill Cast generic to 76%
+   May train skill Cast control to 68%
+   May train skill Cast fire to 38%
+   May train skill Cast harm to 38%
+   May train skill Cast protection to 46%
+   May train skill Cast special to 40%
+   May train skill Cast transformation to 53%
+   May train skill Cast heal to 39%
+   May train skill Combat sense to 32%
+   May train skill Defence sense to 59%
+   May train skill Dim mak to 71%
+More (72%) [qpbns?]
+   May train skill Discipline to 66%
+   May train skill Dodge to 69%
+   May train skill Enhance criticals to 39%
+   May train skill Find weakness to 59%
+   May train skill Hiking to 76%
+   May train skill Iron palm to 63%
+   May train skill Meditation to 74%
+   May train skill Pick locks to 44%
+   May train skill Sneak to 59%
+   May train skill Track to 55%
+   May train skill Tumbling attack to 59%
+   May train skill Tiger spirit to 82%
+   May train skill Dark nerves to 46%
+   May train skill Unarmed parry to 47%
+   May study spell All-seeing eye to 39%
+   May study spell Flame fists to 39%
+More (73%) [qpbns?]
+
+
+   May study spell Haste to 39%
+   May study spell Cure light wounds to 33%
+   May study spell Quicksilver to 39%
+   May study spell Tiger claw to 39%
+   May study spell Tiger mask to 63%
+   May study spell Shadow trick to 39%
+ Level 25:
+  Requirements:
+   Has trained skill Cast generic to at least 57% (passed)
+   Has trained skill Cast control to at least 51% (passed)
+   Has trained skill Cast fire to at least 28% (passed)
+   Has trained skill Cast harm to at least 28% (passed)
+   Has trained skill Cast protection to at least 34% (passed)
+   Has trained skill Cast special to at least 30% (passed)
+   Has trained skill Cast transformation to at least 39% (passed)
+   Has trained skill Cast heal to at least 29% (passed)
+More (74%) [qpbns?]
+   Has trained skill Defence sense to at least 44% (passed)
+   Has trained skill Dim mak to at least 53% (passed)
+   Has trained skill Discipline to at least 49% (passed)
+   Has trained skill Dodge to at least 51% (passed)
+   Has trained skill Enhance criticals to at least 29% (passed)
+   Has trained skill Find weakness to at least 35% (passed)
+   Has trained skill Hiking to at least 38% (passed)
+   Has trained skill Iron palm to at least 47% (passed)
+   Has trained skill Meditation to at least 55% (passed)
+   Has trained skill Sneak to at least 44% (passed)
+   Has trained skill Tumbling attack to at least 29% (passed)
+   Has trained skill Tiger spirit to at least 61% (passed)
+   Has studied spell Flame fists to at least 34% (passed)
+   Has studied spell Haste to at least 34% (passed)
+   Has studied spell Quicksilver to at least 34% (passed)
+   Has studied spell Tiger claw to at least 34% (passed)
+More (75%) [qpbns?]  Abilities:
+   May train skill Alertness to 61%
+   May train skill Cast generic to 80%
+   May train skill Cast control to 71%
+   May train skill Cast fire to 43%
+   May train skill Cast harm to 43%
+   May train skill Cast protection to 53%
+   May train skill Cast special to 45%
+   May train skill Cast transformation to 55%
+   May train skill Cast heal to 41%
+   May train skill Combat sense to 36%
+   May train skill Defence sense to 62%
+   May train skill Dim mak to 76%
+   May train skill Discipline to 68%
+   May train skill Dodge to 73%
+   May train skill Enhance criticals to 41%
+More (76%) [qpbns?]   May train skill Find weakness to 62%
+   May train skill Hiking to 80%
+   May train skill Iron palm to 69%
+   May train skill Meditation to 78%
+   May train skill Pick locks to 48%
+   May train skill Sneak to 62%
+   May train skill Track to 60%
+   May train skill Tumbling attack to 62%
+   May train skill Tiger spirit to 85%
+   May train skill Detect trap to 25%
+   May train skill Dark nerves to 55%
+   May train skill Unarmed parry to 50%
+   May study spell All-seeing eye to 47%
+   May study spell Flame fists to 47%
+   May study spell Haste to 47%
+   May study spell Cure light wounds to 35%
+More (77%) [qpbns?]   May study spell Quicksilver to 47%
+   May study spell Tiger claw to 47%
+   May study spell Tiger mask to 67%
+   May study spell Shadow trick to 47%
+ Level 26:
+  Requirements:
+   Has trained skill Cast generic to at least 60% (passed)
+   Has trained skill Cast control to at least 53% (passed)
+   Has trained skill Cast fire to at least 32% (passed)
+   Has trained skill Cast harm to at least 32% (passed)
+   Has trained skill Cast protection to at least 39% (passed)
+   Has trained skill Cast special to at least 33% (passed)
+   Has trained skill Cast transformation to at least 41% (passed)
+   Has trained skill Cast heal to at least 30% (passed)
+   Has trained skill Defence sense to at least 46% (passed)
+   Has trained skill Dim mak to at least 57% (passed)
+More (79%) [qpbns?]
+
+   Has trained skill Discipline to at least 51% (passed)
+   Has trained skill Dodge to at least 54% (passed)
+   Has trained skill Enhance criticals to at least 30% (passed)
+   Has trained skill Find weakness to at least 37% (passed)
+   Has trained skill Iron palm to at least 51% (passed)
+   Has trained skill Meditation to at least 58% (passed)
+   Has trained skill Sneak to at least 46% (passed)
+   Has trained skill Tumbling attack to at least 31% (passed)
+   Has trained skill Tiger spirit to at least 63% (passed)
+   Has studied spell Flame fists to at least 41% (passed)
+   Has studied spell Haste to at least 41% (passed)
+   Has studied spell Quicksilver to at least 41% (passed)
+   Has studied spell Tiger claw to at least 41% (passed)
+  Abilities:
+   May train skill Alertness to 63%
+   May train skill Cast generic to 84%
+More (80%) [qpbns?]   May train skill Cast control to 74%
+   May train skill Cast fire to 47%
+   May train skill Cast harm to 47%
+   May train skill Cast protection to 60%
+   May train skill Cast special to 50%
+   May train skill Cast transformation to 57%
+   May train skill Cast heal to 43%
+   May train skill Combat sense to 39%
+   May train skill Defence sense to 66%
+   May train skill Dim mak to 81%
+   May train skill Discipline to 71%
+   May train skill Dodge to 76%
+   May train skill Enhance criticals to 43%
+   May train skill Find weakness to 66%
+   May train skill Iron palm to 75%
+   May train skill Meditation to 83%
+More (81%) [qpbns?]
+
+   May train skill Pick locks to 52%
+   May train skill Sneak to 66%
+   May train skill Tumbling attack to 66%
+   May train skill Tiger spirit to 88%
+   May train skill Detect trap to 34%
+   May train skill Dark nerves to 64%
+   May train skill Unarmed parry to 53%
+   May study spell All-seeing eye to 55%
+   May study spell Flame fists to 55%
+   May study spell Haste to 55%
+   May study spell Cure light wounds to 36%
+   May study spell Quicksilver to 55%
+   May study spell Tiger claw to 55%
+   May study spell Tiger mask to 71%
+   May study spell Shadow trick to 55%
+ Level 27:
+More (82%) [qpbns?]  Requirements:
+   Has trained skill Cast generic to at least 63% (passed)
+   Has trained skill Cast control to at least 55% (passed)
+   Has trained skill Cast fire to at least 35% (passed)
+   Has trained skill Cast harm to at least 35% (passed)
+   Has trained skill Cast protection to at least 45% (passed)
+   Has trained skill Cast special to at least 37% (passed)
+   Has trained skill Cast transformation to at least 42% (passed)
+   Has trained skill Cast heal to at least 32% (passed)
+   Has trained skill Defence sense to at least 49% (passed)
+   Has trained skill Dim mak to at least 60% (passed)
+   Has trained skill Discipline to at least 53% (passed)
+   Has trained skill Dodge to at least 57% (passed)
+   Has trained skill Enhance criticals to at least 32% (passed)
+   Has trained skill Find weakness to at least 39% (passed)
+   Has trained skill Iron palm to at least 56% (passed)
+More (83%) [qpbns?]
+
+   Has trained skill Meditation to at least 62% (passed)
+   Has trained skill Sneak to at least 49% (passed)
+   Has trained skill Tumbling attack to at least 33% (passed)
+   Has trained skill Tiger spirit to at least 66% (passed)
+   Has studied spell Flame fists to at least 48% (passed)
+   Has studied spell Haste to at least 48% (passed)
+   Has studied spell Quicksilver to at least 48% (passed)
+   Has studied spell Tiger claw to at least 48% (passed)
+  Abilities:
+   May train skill Alertness to 64%
+   May train skill Cast generic to 88%
+   May train skill Cast control to 78%
+   May train skill Cast fire to 52%
+   May train skill Cast harm to 52%
+   May train skill Cast protection to 67%
+   May train skill Cast special to 55%
+More (84%) [qpbns?]   May train skill Cast transformation to 59%
+   May train skill Cast heal to 44%
+   May train skill Combat sense to 43%
+   May train skill Defence sense to 69%
+   May train skill Dim mak to 85%
+   May train skill Discipline to 73%
+   May train skill Dodge to 79%
+   May train skill Enhance criticals to 44%
+   May train skill Find weakness to 69%
+   May train skill Iron palm to 81%
+   May train skill Mastery of pain to 20%
+   May train skill Meditation to 87%
+   May train skill Pick locks to 57%
+   May train skill Sneak to 69%
+   May train skill Tumbling attack to 69%
+   May train skill Tiger spirit to 91%
+More (85%) [qpbns?]
+
+
+   May train skill Detect trap to 43%
+   May train skill Dark nerves to 73%
+   May train skill Unarmed parry to 56%
+   May study spell All-seeing eye to 62%
+   May study spell Flame fists to 62%
+   May study spell Haste to 62%
+   May study spell Cure light wounds to 37%
+   May study spell Quicksilver to 62%
+   May study spell Tiger claw to 62%
+   May study spell Tiger mask to 74%
+   May study spell Shadow trick to 62%
+ Level 28:
+  Requirements:
+   Has trained skill Cast generic to at least 66% (passed)
+   Has trained skill Cast control to at least 58% (passed)
+   Has trained skill Cast fire to at least 39% (passed)
+More (87%) [qpbns?]   Has trained skill Cast harm to at least 39% (passed)
+   Has trained skill Cast protection to at least 50% (passed)
+   Has trained skill Cast special to at least 41% (passed)
+   Has trained skill Cast transformation to at least 44% (passed)
+   Has trained skill Cast heal to at least 33% (passed)
+   Has trained skill Defence sense to at least 51% (passed)
+   Has trained skill Dim mak to at least 63% (passed)
+   Has trained skill Discipline to at least 54% (passed)
+   Has trained skill Dodge to at least 59% (passed)
+   Has trained skill Enhance criticals to at least 33% (passed)
+   Has trained skill Find weakness to at least 41% (passed)
+   Has trained skill Iron palm to at least 60% (passed)
+   Has trained skill Meditation to at least 65% (passed)
+   Has trained skill Sneak to at least 51% (passed)
+   Has trained skill Tumbling attack to at least 34% (passed)
+   Has trained skill Tiger spirit to at least 68% (passed)
+More (88%) [qpbns?]
+   Has studied spell Flame fists to at least 54% (passed)
+   Has studied spell Haste to at least 54% (passed)
+   Has studied spell Quicksilver to at least 54% (passed)
+   Has studied spell Tiger claw to at least 54% (passed)
+  Abilities:
+   May train skill Alertness to 66%
+   May train skill Cast generic to 92%
+   May train skill Cast control to 81%
+   May train skill Cast fire to 56%
+   May train skill Cast harm to 56%
+   May train skill Cast protection to 74%
+   May train skill Cast special to 60%
+   May train skill Cast transformation to 61%
+   May train skill Cast heal to 46%
+   May train skill Combat sense to 47%
+   May train skill Defence sense to 73%
+More (89%) [qpbns?]   May train skill Dim mak to 90%
+   May train skill Discipline to 75%
+   May train skill Dodge to 83%
+   May train skill Enhance criticals to 46%
+   May train skill Find weakness to 73%
+   May train skill Iron palm to 87%
+   May train skill Mastery of pain to 31%
+   May train skill Meditation to 91%
+   May train skill Pick locks to 61%
+   May train skill Sneak to 73%
+   May train skill Tumbling attack to 73%
+   May train skill Tiger spirit to 94%
+   May train skill Detect trap to 52%
+   May train skill Dark nerves to 82%
+   May train skill Unarmed parry to 59%
+   May study spell All-seeing eye to 70%
+More (90%) [qpbns?]
+
+   May study spell Flame fists to 70%
+   May study spell Haste to 70%
+   May study spell Cure light wounds to 39%
+   May study spell Quicksilver to 70%
+   May study spell Tiger claw to 70%
+   May study spell Tiger mask to 78%
+   May study spell Shadow trick to 70%
+ Level 29:
+  Requirements:
+   Has trained skill Cast generic to at least 69% (passed)
+   Has trained skill Cast control to at least 60% (passed)
+   Has trained skill Cast fire to at least 42% (passed)
+   Has trained skill Cast harm to at least 42% (passed)
+   Has trained skill Cast protection to at least 55% (passed)
+   Has trained skill Cast special to at least 45% (passed)
+   Has trained skill Cast transformation to at least 45% (passed)
+More (91%) [qpbns?]
+   Has trained skill Cast heal to at least 34% (passed)
+   Has trained skill Defence sense to at least 54% (passed)
+   Has trained skill Dim mak to at least 67% (passed)
+   Has trained skill Discipline to at least 56% (passed)
+   Has trained skill Dodge to at least 62% (passed)
+   Has trained skill Enhance criticals to at least 34% (passed)
+   Has trained skill Find weakness to at least 43% (passed)
+   Has trained skill Iron palm to at least 65% (passed)
+   Has trained skill Meditation to at least 68% (passed)
+   Has trained skill Sneak to at least 54% (passed)
+   Has trained skill Tumbling attack to at least 36% (passed)
+   Has trained skill Tiger spirit to at least 70% (passed)
+   Has studied spell Flame fists to at least 61% (passed)
+   Has studied spell Haste to at least 61% (passed)
+   Has studied spell Quicksilver to at least 61% (passed)
+   Has studied spell Tiger claw to at least 61% (passed)
+More (92%) [qpbns?]  Abilities:
+   May train skill Alertness to 68%
+   May train skill Cast generic to 96%
+   May train skill Cast control to 84%
+   May train skill Cast fire to 61%
+   May train skill Cast harm to 61%
+   May train skill Cast protection to 81%
+   May train skill Cast special to 65%
+   May train skill Cast transformation to 63%
+   May train skill Cast heal to 48%
+   May train skill Vital points to 1%
+   May train skill Combat sense to 51%
+   May train skill Defence sense to 76%
+   May train skill Dim mak to 95%
+   May train skill Discipline to 77%
+   May train skill Dodge to 86%
+More (93%) [qpbns?]
+
+   May train skill Enhance criticals to 48%
+   May train skill Find weakness to 76%
+   May train skill Iron palm to 93%
+   May train skill Mastery of pain to 43%
+   May train skill Meditation to 95%
+   May train skill Pick locks to 65%
+   May train skill Sneak to 76%
+   May train skill Tumbling attack to 76%
+   May train skill Tiger spirit to 97%
+   May train skill Detect trap to 61%
+   May train skill Dark nerves to 91%
+   May train skill Unarmed parry to 62%
+   May study spell All-seeing eye to 78%
+   May study spell Flame fists to 78%
+   May study spell Haste to 78%
+   May study spell Cure light wounds to 41%
+   May study spell Quicksilver to 78%
+   May study spell Tiger claw to 78%
+   May study spell Tiger mask to 81%
+   May study spell Shadow trick to 78%
+ Level 30:
+  Requirements:
+   Has trained skill Cast generic to at least 72% (passed)
+   Has trained skill Cast control to at least 63% (passed)
+   Has trained skill Cast fire to at least 45% (passed)
+   Has trained skill Cast harm to at least 45% (passed)
+   Has trained skill Cast protection to at least 60% (passed)
+   Has trained skill Cast special to at least 48% (passed)
+   Has trained skill Cast transformation to at least 47% (passed)
+   Has trained skill Cast heal to at least 36% (passed)
+   Has trained skill Defence sense to at least 57% (passed)
+   Has trained skill Dim mak to at least 71% (passed)
+More (96%) [qpbns?]
+   Has trained skill Discipline to at least 57% (passed)
+   Has trained skill Dodge to at least 64% (passed)
+   Has trained skill Enhance criticals to at least 36% (passed)
+   Has trained skill Find weakness to at least 45% (passed)
+   Has trained skill Iron palm to at least 69% (passed)
+   Has trained skill Meditation to at least 71% (passed)
+   Has trained skill Sneak to at least 57% (passed)
+   Has trained skill Tumbling attack to at least 38% (passed)
+   Has trained skill Tiger spirit to at least 72% (passed)
+   Has studied spell Flame fists to at least 68% (passed)
+   Has studied spell Haste to at least 68% (passed)
+   Has studied spell Quicksilver to at least 68% (passed)
+   Has studied spell Tiger claw to at least 68% (passed)
+  Abilities:
+   May train skill Alertness to 70%
+   May train skill Cast generic to 100%
+More (97%) [qpbns?]
+
+
+   May train skill Cast control to 88%
+   May train skill Cast fire to 66%
+   May train skill Cast harm to 66%
+   May train skill Cast protection to 88%
+   May train skill Cast special to 70%
+   May train skill Cast transformation to 66%
+   May train skill Cast heal to 50%
+   May train skill Vital points to 100%
+   May train skill Combat sense to 55%
+   May train skill Defence sense to 80%
+   May train skill Dim mak to 100%
+   May train skill Discipline to 80%
+   May train skill Dodge to 90%
+   May train skill Enhance criticals to 50%
+   May train skill Find weakness to 80%
+   May train skill Iron palm to 100%
+   May train skill Mastery of pain to 55%
+   May train skill Meditation to 100%
+   May train skill Pick locks to 70%
+   May train skill Sneak to 80%
+   May train skill Tumbling attack to 80%
+   May train skill Tiger spirit to 100%
+   May train skill Detect trap to 70%
+   May train skill Dark nerves to 100%
+   May train skill Unarmed parry to 65%
+   May study spell All-seeing eye to 86%
+   May study spell Flame fists to 86%
+   May study spell Haste to 86%
+   May study spell Cure light wounds to 43%
+   May study spell Quicksilver to 86%
+   May study spell Tiger claw to 86%
+   May study spell Tiger mask to 86%
+   May study spell Shadow trick to 86%
+
+Allows joining to the following guild:
+ The Brotherhood of the Black Tiger
+
+
+
+tiikeli.txt
+
+Content-Description:
+	tiikeli.txt
+Content-Type:
+	text/plain
+Content-Encoding:
+	base64
+

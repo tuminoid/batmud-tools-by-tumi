@@ -1,0 +1,19 @@
+name: Erimaankielenpuhumista
+gms: Demerzel, Desos, Gotrek, Spid, Doughnut and Ruffneck
+maxlvl: 16
+1: skillmax,str,spellmax,con,dex,wis,dodge 
+2: con,dex,int,skillmax,dodge 
+3: con,dex,skillmax,int
+4: con,dex,skillmax,int
+5: dex,con,skillmax,int
+6: con,skillmax,dodge 
+7: con,parry ,skillmax,dex
+8: con,wis
+9: dex,int,parry 
+10: dex,skillmax,wis
+11: dex,skillmax,wis
+12: con,wis
+13: str,con,wis
+14: con,str,int
+15: dex,str,skillmax
+16: str

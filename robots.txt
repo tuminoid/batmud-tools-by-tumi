@@ -1,0 +1,5 @@
+# robots.txt for support.bat.org by Tumi (c) 2006
+
+User-Agent: *
+Disallow: /content/yabb2
+

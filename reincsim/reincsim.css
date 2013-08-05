@@ -1,0 +1,165 @@
+
+/* reincsim.css (c) Tumi 2003-2006 */
+
+/* affecting all elements */
+
+div#reincsim-main {
+	width: 98%;
+	margin-left: 1%;
+	font-size: smaller;
+
+	background-color: White;
+	color: Black;
+}
+
+div#reincsim-main table {
+	background-color: #f5f5f5;
+	color: Black;
+	border: 1px solid Black;
+}
+
+div#reincsim-main table table {
+	border: 0;
+}
+
+div#reincsim-main table a {
+	letter-spacing: 0;
+}
+
+
+div#reincsim-main tr > td {
+	font-weight: bold;
+}
+
+ul {
+	line-height: 1.2em;
+	letter-spacing: 0;
+	list-style-type: square;
+}
+
+
+table#reincsim-bgrace {
+	width: 100%;
+	padding: 0.25em;
+	border: 1px solid Black;
+	margin-bottom: 2em;
+}
+
+table#reincsim-bgrace a {
+	padding: 0.6em;
+}
+
+
+div#reincsim-main table td.reincsim-numbers {
+	font-family: "Courier New";
+	font-weight: normal;
+	padding-left: 0.6em;
+	padding-right: 0.6em;
+	text-align: right;
+	letter-spacing: 0;
+}
+
+
+table#reincsim-quests {
+/*	width: 100%;*/
+	border: 1px solid Black;
+	margin-bottom: 2em;
+}
+
+table#reincsim-quests td.questtd {
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+	margin-right: 0.75em;
+	border-right: 1px dotted Black;
+/*	font-size: 0.85em;*/
+	letter-spacing: 0;
+	font-weight: normal;
+}
+
+
+table#reincsim-stats {
+	/*width: 100%;*/
+	border: 1px solid Black;
+	margin-bottom: 2em;
+}
+
+table#reincsim-stats td {
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 0.75em;
+	border-right: 1px dotted Black;
+	text-align: center;
+}
+
+table#reincsim-stats tr td {
+	text-align: left;
+}
+
+table#reincsim-stats tr#reincsim-stats-header {
+	letter-spacing: 0;
+	font-weight: bold;
+	border-bottom: 1px solid Black;
+}
+
+table#reincsim-stats td select {
+	letter-spacing: 0;
+}
+
+table#reincsim-stats td input.eqstat {
+	font-size: 0.8em;
+	font-weight: bold;
+	text-align: right;
+}
+
+
+table.reincsim-guilds td {
+	padding: 0.25em;
+/*	font-size: 1.05em;*/
+}
+
+table.reincsim-guilds {
+	/*border: 1px solid Black;*/
+	width: 100%;
+	margin-bottom: 2em;
+	letter-spacing: 0;
+}
+
+table.reincsim-guild {
+/*	width: 100%;*/
+}
+
+div#reincsim-main select {
+	font-size: 0.9em;
+	font-weight: bold;
+}
+
+div#reincsim-main tr.reincsim-guild-header {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+div#reincsim-main tr.reincsim-guild-header td {
+	/*border-bottom: 1px dotted Black;*/
+}
+
+div#reincsim-main td.reincsim-submit {
+	padding-top: 0.6em;
+	padding-bottom: 0.6em;
+	padding-left: 0.7em;
+	border-top: 2px dashed Black;
+	margin-top: 1em;
+
+	margin-left: auto;
+	text-align: right;
+	letter-spacing: 0;
+}
+
+div#reincsim-main td.reincsim-submit input {
+	margin-right: 1em;
+	font-weight: bold;
+}
+
+
+/* end of css */

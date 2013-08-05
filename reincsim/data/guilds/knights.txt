@@ -1,0 +1,1344 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]150 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                   [fonter.php?str=The+Legion+of+Knights]
+
+                           The Legion of Knights
+
+   Command: knight
+   Creators: [22]Shinarae, [23]Elwood
+   Maximum level: 15
+   Description:
+   Knights are the honourable champions of the kingdom or region in which
+   they
+   serve. It is their sworn duty to protect the land and its people. Most
+   knights
+   are worthy fighters, capable of using strong armour and mighty
+   weapons, and
+   can fight equally well on horseback or on foot. While different
+   knights may
+   act in different ways -- some seek power and glory, others the greater
+   good --
+   they have a Code of behavior that they follow. They strive to be the
+   best
+   through the routes of Education, Conduct, Valor, and Skill.
+
+                                New Member
+        Background must be civilized
+        Must be maximum level in Squire
+        Knights gain power through their dedication to the Code.
+        You receive a crest to show your rank amongst fellow knights.
+        May train skill [24]Attack to 50%
+        May train skill [25]Long blades to 30%
+        May train skill [26]Axes to 30%
+        May train skill [27]Bludgeons to 30%
+        May train skill [28]Shield bash to 10%
+        May train skill [29]Combat sense to 10%
+        May train skill [30]Riding to 30%
+        May train skill [31]Combat riding to 5%
+        May train skill [32]Mastery of mounted combat to 5%
+        May train skill [33]Cast generic to 30%
+        May train skill [34]Cast information to 30%
+        May train skill [35]Compare to 50%
+        May train skill [36]Find weakness to 5%
+        May train skill [37]Cast help to 30%
+        May study spell [38]Heal mount to 10%
+        May train skill [39]Leadership to 5%
+        May train skill [40]Mighty charge to 15%
+        May train skill [41]Take prisoner to 20%
+        May train skill [42]Controlled panic to 5%
+        May train skill [43]Power slash to 20%
+        May train skill [44]Crushing blow to 20%
+        May train skill [45]Enhance criticals to 10%
+
+                                  Level 2
+             May train skill [46]Attack to 60%
+             May train skill [47]Long blades to 40%
+             May train skill [48]Axes to 40%
+             May train skill [49]Bludgeons to 40%
+             May train skill [50]Shield bash to 15%
+             May train skill [51]Combat sense to 15%
+             May train skill [52]Riding to 30%
+             May train skill [53]Combat riding to 10%
+             May train skill [54]Mastery of mounted combat to 10%
+             May train skill [55]Cast generic to 40%
+             May train skill [56]Cast information to 35%
+             May train skill [57]Compare to 60%
+             May train skill [58]Find weakness to 10%
+             May train skill [59]Cast help to 35%
+             May study spell [60]Heal mount to 20%
+             May train skill [61]Leadership to 10%
+             May train skill [62]Mighty charge to 25%
+             May train skill [63]Take prisoner to 30%
+             May train skill [64]Controlled panic to 10%
+             May train skill [65]Power slash to 30%
+             May train skill [66]Crushing blow to 30%
+             May train skill [67]Enhance criticals to 15%
+
+                                  Level 3
+             Has trained skill [68]Attack to at least 50%
+             Has trained skill [69]Compare to at least 50%
+     Must pass 1 out of the following:
+       * Has trained skill [70]Long blades to at least 40%
+       * Has trained skill [71]Bludgeons to at least 40%
+       * Has trained skill [72]Axes to at least 40%
+             May train skill [73]Attack to 70%
+             May train skill [74]Long blades to 50%
+             May train skill [75]Axes to 50%
+             May train skill [76]Bludgeons to 50%
+             May train skill [77]Shield bash to 20%
+             May train skill [78]Combat sense to 20%
+             May train skill [79]Riding to 30%
+             May train skill [80]Combat riding to 15%
+             May train skill [81]Mastery of mounted combat to 15%
+             May train skill [82]Cast generic to 50%
+             May train skill [83]Cast information to 40%
+             May train skill [84]Compare to 70%
+             May train skill [85]Find weakness to 15%
+             May train skill [86]Cast help to 40%
+             May study spell [87]Heal mount to 30%
+             May train skill [88]Leadership to 15%
+             May train skill [89]Mighty charge to 35%
+             May train skill [90]Take prisoner to 40%
+             May train skill [91]Controlled panic to 15%
+             May train skill [92]Power slash to 40%
+             May train skill [93]Crushing blow to 40%
+             May train skill [94]Discipline to 20%
+             May train skill [95]Enhance criticals to 20%
+             May study spell [96]Noble mount to 10%
+             May study spell [97]Summon mount to 10%
+
+                                     Level 4
+           May train skill [98]Attack to 80%
+           May train skill [99]Long blades to 60%
+           May train skill [100]Axes to 60%
+           May train skill [101]Bludgeons to 60%
+           May train skill [102]Shield bash to 25%
+           May train skill [103]Combat sense to 25%
+           May train skill [104]Riding to 30%
+           May train skill [105]Combat riding to 20%
+           May train skill [106]Mastery of mounted combat to 20%
+           May train skill [107]Cast generic to 60%
+           May train skill [108]Cast information to 45%
+           May train skill [109]Compare to 80%
+           May train skill [110]Find weakness to 20%
+           May train skill [111]Cast help to 45%
+           May study spell [112]Heal mount to 40%
+           May train skill [113]Leadership to 20%
+           May train skill [114]Mighty charge to 45%
+           May train skill [115]Take prisoner to 50%
+           May train skill [116]Controlled panic to 20%
+           May train skill [117]Power slash to 50%
+           May train skill [118]Crushing blow to 50%
+           May train skill [119]Discipline to 20%
+           May train skill [120]Enhance criticals to 25%
+           May study spell [121]Noble mount to 20%
+           May study spell [122]Summon mount to 20%
+     May train skill [123]Spell parry to 25%, special requirements:
+       * Has trained skill [124]Parry to at least 25%
+       * Has trained skill [125]Cast generic to at least 25%
+           May train skill [126]Knowledge of identification to 10%
+     May study spell [127]Arms lore to 10%, special requirements:
+       * Has trained skill [128]Compare to at least 10%
+           May train skill [129]Riposte to 10%
+
+                                      Level 5
+           May train skill [130]Attack to 90%
+           May train skill [131]Long blades to 70%
+           May train skill [132]Axes to 70%
+           May train skill [133]Bludgeons to 70%
+           May train skill [134]Shield bash to 30%
+           May train skill [135]Combat sense to 30%
+           May train skill [136]Riding to 30%
+           May train skill [137]Combat riding to 25%
+           May train skill [138]Mastery of mounted combat to 25%
+           May train skill [139]Cast generic to 70%
+           May train skill [140]Cast information to 50%
+           May train skill [141]Compare to 90%
+           May train skill [142]Find weakness to 25%
+           May train skill [143]Cast help to 50%
+           May study spell [144]Heal mount to 50%
+           May train skill [145]Leadership to 25%
+           May train skill [146]Mighty charge to 55%
+           May train skill [147]Take prisoner to 60%
+           May train skill [148]Controlled panic to 25%
+           May train skill [149]Power slash to 60%
+           May train skill [150]Crushing blow to 60%
+           May train skill [151]Discipline to 20%
+           May train skill [152]Enhance criticals to 30%
+           May study spell [153]Noble mount to 30%
+           May study spell [154]Summon mount to 30%
+     May train skill [155]Spell parry to 25%, special requirements:
+       * Has trained skill [156]Parry to at least 25%
+       * Has trained skill [157]Cast generic to at least 25%
+           May train skill [158]Knowledge of identification to 20%
+     May study spell [159]Arms lore to 20%, special requirements:
+       * Has trained skill [160]Compare to at least 20%
+           May train skill [161]Riposte to 20%
+           May train skill [162]Parry to 5%
+     May train skill [163]Precise slash to 20%, special requirements:
+       * Has trained skill [164]Power slash to at least 20%
+     May train skill [165]Forceful blow to 20%, special requirements:
+       * Has trained skill [166]Crushing blow to at least 20%
+           May study spell [167]Protect mount to 10%
+
+                                      Level 6
+           Has trained skill [168]Cast generic to at least 50%
+           Has studied spell [169]Heal mount to at least 35%
+     Must pass 1 out of the following:
+       * Has trained skill [170]Power slash to at least 35%
+       * Has trained skill [171]Crushing blow to at least 35%
+           May train skill [172]Long blades to 80%
+           May train skill [173]Axes to 80%
+           May train skill [174]Bludgeons to 80%
+           May train skill [175]Shield bash to 35%
+           May train skill [176]Combat sense to 35%
+           May train skill [177]Riding to 40%
+           May train skill [178]Combat riding to 30%
+           May train skill [179]Mastery of mounted combat to 30%
+           May train skill [180]Cast generic to 80%
+           May train skill [181]Cast information to 55%
+           May train skill [182]Compare to racial maximum
+           May train skill [183]Find weakness to 30%
+           May train skill [184]Cast help to 55%
+           May study spell [185]Heal mount to 60%
+           May train skill [186]Leadership to 30%
+           May train skill [187]Mighty charge to 65%
+           May train skill [188]Take prisoner to 70%
+           May train skill [189]Controlled panic to 30%
+           May train skill [190]Power slash to 70%
+           May train skill [191]Crushing blow to 70%
+           May train skill [192]Discipline to 40%
+           May train skill [193]Enhance criticals to 35%
+           May study spell [194]Noble mount to 40%
+           May study spell [195]Summon mount to 40%
+     May train skill [196]Spell parry to 25%, special requirements:
+       * Has trained skill [197]Parry to at least 25%
+       * Has trained skill [198]Cast generic to at least 25%
+           May train skill [199]Knowledge of identification to 30%
+     May study spell [200]Arms lore to 30%, special requirements:
+       * Has trained skill [201]Compare to at least 30%
+           May train skill [202]Riposte to 30%
+           May train skill [203]Parry to 10%
+           May study spell [204]Protect mount to 20%
+     May train skill [205]Precise slash to 30%, special requirements:
+       * Has trained skill [206]Power slash to at least 30%
+     May train skill [207]Forceful blow to 30%, special requirements:
+       * Has trained skill [208]Crushing blow to at least 30%
+           May train skill [209]Dodge to 5%
+           May train skill [210]Combat damage analysis to 10%
+           May study spell [211]Monster lore to 10%
+           May train skill [212]Rescue to 5%
+     May train skill [213]Turnblade to 10%, special requirements:
+       * Has trained skill [214]Riposte to at least 10%
+           May study spell [215]Summon squire to 10%
+
+                                      Level 7
+           May train skill [216]Shield bash to 40%
+           May train skill [217]Combat sense to 40%
+           May train skill [218]Riding to 40%
+           May train skill [219]Combat riding to 35%
+           May train skill [220]Mastery of mounted combat to 35%
+           May train skill [221]Cast generic to 90%
+           May train skill [222]Cast information to 60%
+           May train skill [223]Find weakness to 35%
+           May train skill [224]Cast help to 60%
+           May study spell [225]Heal mount to 70%
+           May train skill [226]Leadership to 35%
+           May train skill [227]Mighty charge to 75%
+           May train skill [228]Take prisoner to 80%
+           May train skill [229]Controlled panic to 35%
+           May train skill [230]Power slash to 80%
+           May train skill [231]Crushing blow to 80%
+           May train skill [232]Discipline to 40%
+           May train skill [233]Enhance criticals to 40%
+           May study spell [234]Noble mount to 50%
+           May study spell [235]Summon mount to 50%
+     May train skill [236]Spell parry to 25%, special requirements:
+       * Has trained skill [237]Parry to at least 25%
+       * Has trained skill [238]Cast generic to at least 25%
+           May train skill [239]Knowledge of identification to 40%
+     May study spell [240]Arms lore to 40%, special requirements:
+       * Has trained skill [241]Compare to at least 40%
+           May train skill [242]Riposte to 40%
+           May train skill [243]Parry to 15%
+           May study spell [244]Protect mount to 30%
+     May train skill [245]Precise slash to 40%, special requirements:
+       * Has trained skill [246]Power slash to at least 40%
+     May train skill [247]Forceful blow to 40%, special requirements:
+       * Has trained skill [248]Crushing blow to at least 40%
+           May train skill [249]Dodge to 10%
+           May train skill [250]Combat damage analysis to 20%
+           May study spell [251]Monster lore to 20%
+           May train skill [252]Rescue to 15%
+     May train skill [253]Turnblade to 20%, special requirements:
+       * Has trained skill [254]Riposte to at least 20%
+           May study spell [255]Summon squire to 20%
+           May train skill [256]Stunned maneuvers to 20%
+     May train skill [257]Skullsplitter to 20%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [258]Precise slash to at least 20%
+       * Has trained skill [259]Forceful blow to at least 20%
+
+                                      Level 8
+           May train skill [260]Shield bash to 45%
+           May train skill [261]Combat sense to 45%
+           May train skill [262]Riding to 40%
+           May train skill [263]Combat riding to 40%
+           May train skill [264]Mastery of mounted combat to 40%
+           May train skill [265]Cast generic to racial maximum
+           May train skill [266]Cast information to 65%
+           May train skill [267]Find weakness to 40%
+           May train skill [268]Cast help to 65%
+           May study spell [269]Heal mount to 80%
+           May train skill [270]Leadership to 40%
+           May train skill [271]Mighty charge to 85%
+           May train skill [272]Take prisoner to 90%
+           May train skill [273]Controlled panic to 40%
+           May train skill [274]Power slash to 90%
+           May train skill [275]Crushing blow to 90%
+           May train skill [276]Discipline to 40%
+           May train skill [277]Enhance criticals to 45%
+           May study spell [278]Noble mount to 60%
+           May study spell [279]Summon mount to 60%
+     May train skill [280]Spell parry to 50%, special requirements:
+       * Has trained skill [281]Parry to at least 50%
+       * Has trained skill [282]Cast generic to at least 50%
+           May train skill [283]Knowledge of identification to 50%
+     May study spell [284]Arms lore to 50%, special requirements:
+       * Has trained skill [285]Compare to at least 50%
+           May train skill [286]Riposte to 50%
+           May train skill [287]Parry to 20%
+           May study spell [288]Protect mount to 40%
+     May train skill [289]Precise slash to 50%, special requirements:
+       * Has trained skill [290]Power slash to at least 50%
+     May train skill [291]Forceful blow to 50%, special requirements:
+       * Has trained skill [292]Crushing blow to at least 50%
+           May train skill [293]Dodge to 15%
+           May train skill [294]Combat damage analysis to 30%
+           May study spell [295]Monster lore to 30%
+           May train skill [296]Rescue to 20%
+     May train skill [297]Turnblade to 30%, special requirements:
+       * Has trained skill [298]Riposte to at least 30%
+           May study spell [299]Summon squire to 30%
+           May train skill [300]Stunned maneuvers to 30%
+     May train skill [301]Skullsplitter to 30%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [302]Precise slash to at least 30%
+       * Has trained skill [303]Forceful blow to at least 30%
+           May train skill [304]Defiance to 30%
+
+                                      Level 9
+           Has trained skill [305]Mighty charge to at least 50%
+           Has trained skill [306]Combat riding to at least 35%
+           Has trained skill [307]Combat sense to at least 35%
+           May train skill [308]Shield bash to 50%
+           May train skill [309]Combat sense to 50%
+           May train skill [310]Riding to 40%
+           May train skill [311]Combat riding to 45%
+           May train skill [312]Mastery of mounted combat to 45%
+           May train skill [313]Cast information to 70%
+           May train skill [314]Find weakness to 45%
+           May train skill [315]Cast help to 70%
+           May study spell [316]Heal mount to 90%
+           May train skill [317]Leadership to 45%
+           May train skill [318]Mighty charge to 95%
+           May train skill [319]Take prisoner to racial maximum
+           May train skill [320]Controlled panic to 45%
+           May train skill [321]Power slash to racial maximum
+           May train skill [322]Crushing blow to racial maximum
+           May train skill [323]Discipline to 60%
+           May train skill [324]Enhance criticals to 50%
+           May study spell [325]Noble mount to 70%
+           May study spell [326]Summon mount to 70%
+     May train skill [327]Spell parry to 50%, special requirements:
+       * Has trained skill [328]Parry to at least 50%
+       * Has trained skill [329]Cast generic to at least 50%
+           May train skill [330]Knowledge of identification to 60%
+     May study spell [331]Arms lore to 60%, special requirements:
+       * Has trained skill [332]Compare to at least 60%
+           May train skill [333]Riposte to 60%
+           May train skill [334]Parry to 25%
+           May study spell [335]Protect mount to 50%
+     May train skill [336]Precise slash to 60%, special requirements:
+       * Has trained skill [337]Power slash to at least 60%
+     May train skill [338]Forceful blow to 60%, special requirements:
+       * Has trained skill [339]Crushing blow to at least 60%
+           May train skill [340]Dodge to 20%
+           May train skill [341]Combat damage analysis to 40%
+           May study spell [342]Monster lore to 40%
+           May train skill [343]Rescue to 30%
+     May train skill [344]Turnblade to 40%, special requirements:
+       * Has trained skill [345]Riposte to at least 40%
+           May study spell [346]Summon squire to 40%
+           May train skill [347]Stunned maneuvers to 40%
+     May train skill [348]Skullsplitter to 40%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [349]Precise slash to at least 40%
+       * Has trained skill [350]Forceful blow to at least 40%
+           May train skill [351]Defiance to 40%
+           May train skill [352]Elite guard to 10%
+
+                                     Level 10
+           May train skill [353]Shield bash to 55%
+           May train skill [354]Combat sense to 55%
+           May train skill [355]Riding to 40%
+           May train skill [356]Combat riding to 50%
+           May train skill [357]Mastery of mounted combat to 50%
+           May train skill [358]Cast information to 75%
+           May train skill [359]Find weakness to 50%
+           May train skill [360]Cast help to 75%
+           May study spell [361]Heal mount to racial maximum
+           May train skill [362]Leadership to 50%
+           May train skill [363]Mighty charge to racial maximum
+           May train skill [364]Controlled panic to 50%
+           May train skill [365]Discipline to 60%
+           May train skill [366]Enhance criticals to 55%
+           May study spell [367]Noble mount to 80%
+           May study spell [368]Summon mount to 80%
+     May train skill [369]Spell parry to 50%, special requirements:
+       * Has trained skill [370]Parry to at least 50%
+       * Has trained skill [371]Cast generic to at least 50%
+           May train skill [372]Knowledge of identification to 70%
+     May study spell [373]Arms lore to 70%, special requirements:
+       * Has trained skill [374]Compare to at least 70%
+           May train skill [375]Riposte to 70%
+           May train skill [376]Parry to 30%
+           May study spell [377]Protect mount to 60%
+     May train skill [378]Precise slash to 70%, special requirements:
+       * Has trained skill [379]Power slash to at least 70%
+     May train skill [380]Forceful blow to 70%, special requirements:
+       * Has trained skill [381]Crushing blow to at least 70%
+           May train skill [382]Dodge to 25%
+           May train skill [383]Combat damage analysis to 50%
+           May study spell [384]Monster lore to 50%
+           May train skill [385]Rescue to 35%
+     May train skill [386]Turnblade to 50%, special requirements:
+       * Has trained skill [387]Riposte to at least 50%
+           May study spell [388]Summon squire to 50%
+           May train skill [389]Stunned maneuvers to 50%
+     May train skill [390]Skullsplitter to 50%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [391]Precise slash to at least 50%
+       * Has trained skill [392]Forceful blow to at least 50%
+           May train skill [393]Defiance to 50%
+           May train skill [394]Elite guard to 25%
+
+                                       Level 11
+           May train skill [395]Shield bash to 60%
+           May train skill [396]Combat sense to 60%
+           May train skill [397]Riding to 50%
+           May train skill [398]Combat riding to 55%
+           May train skill [399]Mastery of mounted combat to 55%
+           May train skill [400]Cast information to 80%
+     May train skill [401]Find weakness to 60%, special requirements:
+       * Has studied spell [402]Monster lore to at least 50%
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+           May train skill [403]Cast help to 80%
+     May train skill [404]Leadership to 60%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [405]Controlled panic to 60%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+           May train skill [406]Discipline to 60%
+           May train skill [407]Enhance criticals to 60%
+           May study spell [408]Noble mount to 90%
+           May study spell [409]Summon mount to 90%
+     May train skill [410]Spell parry to 50%, special requirements:
+       * Has trained skill [411]Parry to at least 50%
+       * Has trained skill [412]Cast generic to at least 50%
+           May train skill [413]Knowledge of identification to 80%
+     May study spell [414]Arms lore to 80%, special requirements:
+       * Has trained skill [415]Compare to at least 70%
+           May train skill [416]Riposte to 80%
+           May train skill [417]Parry to 35%
+           May study spell [418]Protect mount to 70%
+     May train skill [419]Precise slash to 80%, special requirements:
+       * Has trained skill [420]Power slash to at least 80%
+     May train skill [421]Forceful blow to 80%, special requirements:
+       * Has trained skill [422]Crushing blow to at least 80%
+           May train skill [423]Dodge to 30%
+           May train skill [424]Combat damage analysis to 60%
+           May study spell [425]Monster lore to 60%
+           May train skill [426]Rescue to 45%
+     May train skill [427]Turnblade to 60%, special requirements:
+       * Has trained skill [428]Riposte to at least 60%
+           May study spell [429]Summon squire to 60%
+           May train skill [430]Stunned maneuvers to 60%
+     May train skill [431]Skullsplitter to 60%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [432]Precise slash to at least 60%
+       * Has trained skill [433]Forceful blow to at least 60%
+           May train skill [434]Defiance to 60%
+           May train skill [435]Elite guard to 40%
+     May train skill [436]Relentless to 20%, special requirements:
+       * Has trained skill [437]Stunned maneuvers to at least 20%
+       * Has trained skill [438]Discipline to at least 20%
+
+                                       Level 12
+           Has trained skill [439]Attack to at least 75%
+           Has trained skill [440]Cast generic to at least 75%
+     Must pass 1 out of the following:
+       * Has trained skill [441]Long blades to at least 75%
+       * Has trained skill [442]Bludgeons to at least 75%
+       * Has trained skill [443]Axes to at least 75%
+           May train skill [444]Shield bash to 65%
+           May train skill [445]Combat sense to 65%
+           May train skill [446]Combat riding to 60%
+           May train skill [447]Mastery of mounted combat to 60%
+           May train skill [448]Cast information to 85%
+     May train skill [449]Find weakness to 70%, special requirements:
+       * Has studied spell [450]Monster lore to at least 60%
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+           May train skill [451]Cast help to 85%
+     May train skill [452]Leadership to 70%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [453]Controlled panic to 70%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+           May train skill [454]Discipline to 80%
+     May train skill [455]Enhance criticals to 70%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+           May study spell [456]Noble mount to racial maximum
+           May study spell [457]Summon mount to racial maximum
+     May train skill [458]Spell parry to 75%, special requirements:
+       * Has trained skill [459]Parry to at least 75%
+       * Has trained skill [460]Cast generic to at least 75%
+           May train skill [461]Knowledge of identification to 90%
+     May study spell [462]Arms lore to 90%, special requirements:
+       * Has trained skill [463]Compare to at least 70%
+           May train skill [464]Riposte to 90%
+           May train skill [465]Parry to 40%
+           May study spell [466]Protect mount to 80%
+     May train skill [467]Precise slash to 90%, special requirements:
+       * Has trained skill [468]Power slash to at least 80%
+     May train skill [469]Forceful blow to 90%, special requirements:
+       * Has trained skill [470]Crushing blow to at least 80%
+           May train skill [471]Dodge to 35%
+           May train skill [472]Combat damage analysis to 70%
+           May study spell [473]Monster lore to 70%
+           May train skill [474]Rescue to 50%
+     May train skill [475]Turnblade to 70%, special requirements:
+       * Has trained skill [476]Riposte to at least 70%
+           May study spell [477]Summon squire to 70%
+           May train skill [478]Stunned maneuvers to 70%
+     May train skill [479]Skullsplitter to 70%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [480]Precise slash to at least 70%
+       * Has trained skill [481]Forceful blow to at least 70%
+           May train skill [482]Defiance to 70%
+           May train skill [483]Elite guard to 55%
+     May train skill [484]Relentless to 40%, special requirements:
+       * Has trained skill [485]Stunned maneuvers to at least 40%
+       * Has trained skill [486]Discipline to at least 40%
+
+                                  Level 13
+      May train skill [487]Shield bash to 70%
+      May train skill [488]Combat sense to 70%
+      May train skill [489]Combat riding to 65%
+      May train skill [490]Mastery of mounted combat to 65%
+      May train skill [491]Cast information to 90%
+     May train skill [492]Find weakness to 80%, special requirements:
+       * Has studied spell [493]Monster lore to at least 70%
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+      May train skill [494]Cast help to 90%
+     May train skill [495]Leadership to 80%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [496]Controlled panic to 80%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+      May train skill [497]Discipline to 80%
+     May train skill [498]Enhance criticals to 80%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [499]Spell parry to 75%, special requirements:
+       * Has trained skill [500]Parry to at least 75%
+       * Has trained skill [501]Cast generic to at least 75%
+      May train skill [502]Knowledge of identification to racial maximum
+     May study spell [503]Arms lore to racial maximum, special
+   requirements:
+       * Has trained skill [504]Compare to at least 70%
+      May train skill [505]Riposte to racial maximum
+      May train skill [506]Parry to 45%
+      May study spell [507]Protect mount to 90%
+     May train skill [508]Precise slash to racial maximum, special
+   requirements:
+       * Has trained skill [509]Power slash to at least 80%
+     May train skill [510]Forceful blow to racial maximum, special
+   requirements:
+       * Has trained skill [511]Crushing blow to at least 80%
+      May train skill [512]Dodge to 40%
+      May train skill [513]Combat damage analysis to 80%
+      May study spell [514]Monster lore to 80%
+      May train skill [515]Rescue to 60%
+     May train skill [516]Turnblade to 80%, special requirements:
+       * Has trained skill [517]Riposte to at least 70%
+      May study spell [518]Summon squire to 80%
+      May train skill [519]Stunned maneuvers to 80%
+     May train skill [520]Skullsplitter to 80%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [521]Precise slash to at least 70%
+       * Has trained skill [522]Forceful blow to at least 70%
+      May train skill [523]Defiance to 80%
+      May train skill [524]Elite guard to 70%
+     May train skill [525]Relentless to 60%, special requirements:
+       * Has trained skill [526]Stunned maneuvers to at least 60%
+       * Has trained skill [527]Discipline to at least 60%
+
+                                        Level 14
+            May train skill [528]Shield bash to 75%
+            May train skill [529]Combat sense to 75%
+            May train skill [530]Combat riding to 70%
+            May train skill [531]Mastery of mounted combat to 70%
+            May train skill [532]Cast information to 95%
+     May train skill [533]Find weakness to 90%, special requirements:
+       * Has studied spell [534]Monster lore to at least 75%
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+            May train skill [535]Cast help to 95%
+     May train skill [536]Leadership to 90%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [537]Controlled panic to 90%, special requirements:
+       * Must be maximum level in The Division of Cavaliers
+            May train skill [538]Discipline to 80%
+     May train skill [539]Enhance criticals to 90%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [540]Spell parry to 75%, special requirements:
+       * Has trained skill [541]Parry to at least 75%
+       * Has trained skill [542]Cast generic to at least 75%
+            May train skill [543]Parry to 50%
+            May study spell [544]Protect mount to racial maximum
+            May train skill [545]Combat damage analysis to 90%
+            May study spell [546]Monster lore to 90%
+            May train skill [547]Rescue to 65%
+     May train skill [548]Turnblade to 90%, special requirements:
+       * Has trained skill [549]Riposte to at least 70%
+            May study spell [550]Summon squire to 90%
+            May train skill [551]Stunned maneuvers to 90%
+     May train skill [552]Skullsplitter to 90%, special requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [553]Precise slash to at least 70%
+       * Has trained skill [554]Forceful blow to at least 70%
+            May train skill [555]Defiance to 90%
+            May train skill [556]Elite guard to 85%
+     May train skill [557]Relentless to 80%, special requirements:
+       * Has trained skill [558]Stunned maneuvers to at least 70%
+       * Has trained skill [559]Discipline to at least 70%
+
+                                   Level 15
+     Must pass 1 out of the following:
+       * Has studied spell [560]Monster lore to at least 50%
+       * Has studied spell [561]Protect mount to at least 50%
+       * Has trained skill [562]Elite guard to at least 50%
+       * Has trained skill [563]Skullsplitter to at least 50%
+        May train skill [564]Shield bash to 80%
+        May train skill [565]Combat sense to 80%
+        May train skill [566]Combat riding to 75%
+        May train skill [567]Mastery of mounted combat to 75%
+        May train skill [568]Cast information to racial maximum
+     May train skill [569]Find weakness to racial maximum, special
+   requirements:
+       * Has studied spell [570]Monster lore to at least 75%
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+        May train skill [571]Cast help to racial maximum
+     May train skill [572]Leadership to racial maximum, special
+   requirements:
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [573]Controlled panic to racial maximum, special
+   requirements:
+       * Must be maximum level in The Division of Cavaliers
+        May train skill [574]Discipline to racial maximum
+     May train skill [575]Enhance criticals to racial maximum, special
+   requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Division of Cavaliers
+     May train skill [576]Spell parry to racial maximum, special
+   requirements:
+       * Has trained skill [577]Parry to at least 75%
+       * Has trained skill [578]Cast generic to at least 75%
+        May train skill [579]Parry to 55%
+        May train skill [580]Combat damage analysis to racial maximum
+        May study spell [581]Monster lore to racial maximum
+        May train skill [582]Rescue to 75%
+     May train skill [583]Turnblade to racial maximum, special
+   requirements:
+       * Has trained skill [584]Riposte to at least 70%
+        May study spell [585]Summon squire to racial maximum
+        May train skill [586]Stunned maneuvers to racial maximum
+     May train skill [587]Skullsplitter to racial maximum, special
+   requirements:
+       * Must pass 1 out of the following:
+       * Has trained skill [588]Precise slash to at least 70%
+       * Has trained skill [589]Forceful blow to at least 70%
+        May train skill [590]Defiance to racial maximum
+        May train skill [591]Elite guard to racial maximum
+     May train skill [592]Relentless to racial maximum, special
+   requirements:
+       * Has trained skill [593]Stunned maneuvers to at least 70%
+       * Has trained skill [594]Discipline to at least 70%
+
+                    Allows joining to the following guild:
+     The Legion of Knights, special requirements:
+       * Must be maximum level in Squire
+
+   [595]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [596]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Legion%20of%20Knights&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Legion%20of%20Knights&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Legion%20of%20Knights&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=shinarae
+  23. http://www.bat.org/help/finger.php?str=elwood
+  24. http://www.bat.org/help/skills.php?str=attack
+  25. http://www.bat.org/help/skills.php?str=long_blades
+  26. http://www.bat.org/help/skills.php?str=axes
+  27. http://www.bat.org/help/skills.php?str=bludgeons
+  28. http://www.bat.org/help/skills.php?str=shield_bash
+  29. http://www.bat.org/help/skills.php?str=combat_sense
+  30. http://www.bat.org/help/skills.php?str=riding
+  31. http://www.bat.org/help/skills.php?str=combat_riding
+  32. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+  33. http://www.bat.org/help/skills.php?str=cast_generic
+  34. http://www.bat.org/help/skills.php?str=cast_information
+  35. http://www.bat.org/help/skills.php?str=compare
+  36. http://www.bat.org/help/skills.php?str=find_weakness
+  37. http://www.bat.org/help/skills.php?str=cast_help
+  38. http://www.bat.org/help/spells.php?str=heal_mount
+  39. http://www.bat.org/help/skills.php?str=leadership
+  40. http://www.bat.org/help/skills.php?str=mighty_charge
+  41. http://www.bat.org/help/skills.php?str=take_prisoner
+  42. http://www.bat.org/help/skills.php?str=controlled_panic
+  43. http://www.bat.org/help/skills.php?str=power_slash
+  44. http://www.bat.org/help/skills.php?str=crushing_blow
+  45. http://www.bat.org/help/skills.php?str=enhance_criticals
+  46. http://www.bat.org/help/skills.php?str=attack
+  47. http://www.bat.org/help/skills.php?str=long_blades
+  48. http://www.bat.org/help/skills.php?str=axes
+  49. http://www.bat.org/help/skills.php?str=bludgeons
+  50. http://www.bat.org/help/skills.php?str=shield_bash
+  51. http://www.bat.org/help/skills.php?str=combat_sense
+  52. http://www.bat.org/help/skills.php?str=riding
+  53. http://www.bat.org/help/skills.php?str=combat_riding
+  54. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+  55. http://www.bat.org/help/skills.php?str=cast_generic
+  56. http://www.bat.org/help/skills.php?str=cast_information
+  57. http://www.bat.org/help/skills.php?str=compare
+  58. http://www.bat.org/help/skills.php?str=find_weakness
+  59. http://www.bat.org/help/skills.php?str=cast_help
+  60. http://www.bat.org/help/spells.php?str=heal_mount
+  61. http://www.bat.org/help/skills.php?str=leadership
+  62. http://www.bat.org/help/skills.php?str=mighty_charge
+  63. http://www.bat.org/help/skills.php?str=take_prisoner
+  64. http://www.bat.org/help/skills.php?str=controlled_panic
+  65. http://www.bat.org/help/skills.php?str=power_slash
+  66. http://www.bat.org/help/skills.php?str=crushing_blow
+  67. http://www.bat.org/help/skills.php?str=enhance_criticals
+  68. http://www.bat.org/help/skills.php?str=attack
+  69. http://www.bat.org/help/skills.php?str=compare
+  70. http://www.bat.org/help/skills.php?str=long_blades
+  71. http://www.bat.org/help/skills.php?str=bludgeons
+  72. http://www.bat.org/help/skills.php?str=axes
+  73. http://www.bat.org/help/skills.php?str=attack
+  74. http://www.bat.org/help/skills.php?str=long_blades
+  75. http://www.bat.org/help/skills.php?str=axes
+  76. http://www.bat.org/help/skills.php?str=bludgeons
+  77. http://www.bat.org/help/skills.php?str=shield_bash
+  78. http://www.bat.org/help/skills.php?str=combat_sense
+  79. http://www.bat.org/help/skills.php?str=riding
+  80. http://www.bat.org/help/skills.php?str=combat_riding
+  81. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+  82. http://www.bat.org/help/skills.php?str=cast_generic
+  83. http://www.bat.org/help/skills.php?str=cast_information
+  84. http://www.bat.org/help/skills.php?str=compare
+  85. http://www.bat.org/help/skills.php?str=find_weakness
+  86. http://www.bat.org/help/skills.php?str=cast_help
+  87. http://www.bat.org/help/spells.php?str=heal_mount
+  88. http://www.bat.org/help/skills.php?str=leadership
+  89. http://www.bat.org/help/skills.php?str=mighty_charge
+  90. http://www.bat.org/help/skills.php?str=take_prisoner
+  91. http://www.bat.org/help/skills.php?str=controlled_panic
+  92. http://www.bat.org/help/skills.php?str=power_slash
+  93. http://www.bat.org/help/skills.php?str=crushing_blow
+  94. http://www.bat.org/help/skills.php?str=discipline
+  95. http://www.bat.org/help/skills.php?str=enhance_criticals
+  96. http://www.bat.org/help/spells.php?str=noble_mount
+  97. http://www.bat.org/help/spells.php?str=summon_mount
+  98. http://www.bat.org/help/skills.php?str=attack
+  99. http://www.bat.org/help/skills.php?str=long_blades
+ 100. http://www.bat.org/help/skills.php?str=axes
+ 101. http://www.bat.org/help/skills.php?str=bludgeons
+ 102. http://www.bat.org/help/skills.php?str=shield_bash
+ 103. http://www.bat.org/help/skills.php?str=combat_sense
+ 104. http://www.bat.org/help/skills.php?str=riding
+ 105. http://www.bat.org/help/skills.php?str=combat_riding
+ 106. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 107. http://www.bat.org/help/skills.php?str=cast_generic
+ 108. http://www.bat.org/help/skills.php?str=cast_information
+ 109. http://www.bat.org/help/skills.php?str=compare
+ 110. http://www.bat.org/help/skills.php?str=find_weakness
+ 111. http://www.bat.org/help/skills.php?str=cast_help
+ 112. http://www.bat.org/help/spells.php?str=heal_mount
+ 113. http://www.bat.org/help/skills.php?str=leadership
+ 114. http://www.bat.org/help/skills.php?str=mighty_charge
+ 115. http://www.bat.org/help/skills.php?str=take_prisoner
+ 116. http://www.bat.org/help/skills.php?str=controlled_panic
+ 117. http://www.bat.org/help/skills.php?str=power_slash
+ 118. http://www.bat.org/help/skills.php?str=crushing_blow
+ 119. http://www.bat.org/help/skills.php?str=discipline
+ 120. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 121. http://www.bat.org/help/spells.php?str=noble_mount
+ 122. http://www.bat.org/help/spells.php?str=summon_mount
+ 123. http://www.bat.org/help/skills.php?str=spell_parry
+ 124. http://www.bat.org/help/skills.php?str=parry
+ 125. http://www.bat.org/help/skills.php?str=cast_generic
+ 126. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 127. http://www.bat.org/help/spells.php?str=arms_lore
+ 128. http://www.bat.org/help/skills.php?str=compare
+ 129. http://www.bat.org/help/skills.php?str=riposte
+ 130. http://www.bat.org/help/skills.php?str=attack
+ 131. http://www.bat.org/help/skills.php?str=long_blades
+ 132. http://www.bat.org/help/skills.php?str=axes
+ 133. http://www.bat.org/help/skills.php?str=bludgeons
+ 134. http://www.bat.org/help/skills.php?str=shield_bash
+ 135. http://www.bat.org/help/skills.php?str=combat_sense
+ 136. http://www.bat.org/help/skills.php?str=riding
+ 137. http://www.bat.org/help/skills.php?str=combat_riding
+ 138. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 139. http://www.bat.org/help/skills.php?str=cast_generic
+ 140. http://www.bat.org/help/skills.php?str=cast_information
+ 141. http://www.bat.org/help/skills.php?str=compare
+ 142. http://www.bat.org/help/skills.php?str=find_weakness
+ 143. http://www.bat.org/help/skills.php?str=cast_help
+ 144. http://www.bat.org/help/spells.php?str=heal_mount
+ 145. http://www.bat.org/help/skills.php?str=leadership
+ 146. http://www.bat.org/help/skills.php?str=mighty_charge
+ 147. http://www.bat.org/help/skills.php?str=take_prisoner
+ 148. http://www.bat.org/help/skills.php?str=controlled_panic
+ 149. http://www.bat.org/help/skills.php?str=power_slash
+ 150. http://www.bat.org/help/skills.php?str=crushing_blow
+ 151. http://www.bat.org/help/skills.php?str=discipline
+ 152. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 153. http://www.bat.org/help/spells.php?str=noble_mount
+ 154. http://www.bat.org/help/spells.php?str=summon_mount
+ 155. http://www.bat.org/help/skills.php?str=spell_parry
+ 156. http://www.bat.org/help/skills.php?str=parry
+ 157. http://www.bat.org/help/skills.php?str=cast_generic
+ 158. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 159. http://www.bat.org/help/spells.php?str=arms_lore
+ 160. http://www.bat.org/help/skills.php?str=compare
+ 161. http://www.bat.org/help/skills.php?str=riposte
+ 162. http://www.bat.org/help/skills.php?str=parry
+ 163. http://www.bat.org/help/skills.php?str=precise_slash
+ 164. http://www.bat.org/help/skills.php?str=power_slash
+ 165. http://www.bat.org/help/skills.php?str=forceful_blow
+ 166. http://www.bat.org/help/skills.php?str=crushing_blow
+ 167. http://www.bat.org/help/spells.php?str=protect_mount
+ 168. http://www.bat.org/help/skills.php?str=cast_generic
+ 169. http://www.bat.org/help/spells.php?str=heal_mount
+ 170. http://www.bat.org/help/skills.php?str=power_slash
+ 171. http://www.bat.org/help/skills.php?str=crushing_blow
+ 172. http://www.bat.org/help/skills.php?str=long_blades
+ 173. http://www.bat.org/help/skills.php?str=axes
+ 174. http://www.bat.org/help/skills.php?str=bludgeons
+ 175. http://www.bat.org/help/skills.php?str=shield_bash
+ 176. http://www.bat.org/help/skills.php?str=combat_sense
+ 177. http://www.bat.org/help/skills.php?str=riding
+ 178. http://www.bat.org/help/skills.php?str=combat_riding
+ 179. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 180. http://www.bat.org/help/skills.php?str=cast_generic
+ 181. http://www.bat.org/help/skills.php?str=cast_information
+ 182. http://www.bat.org/help/skills.php?str=compare
+ 183. http://www.bat.org/help/skills.php?str=find_weakness
+ 184. http://www.bat.org/help/skills.php?str=cast_help
+ 185. http://www.bat.org/help/spells.php?str=heal_mount
+ 186. http://www.bat.org/help/skills.php?str=leadership
+ 187. http://www.bat.org/help/skills.php?str=mighty_charge
+ 188. http://www.bat.org/help/skills.php?str=take_prisoner
+ 189. http://www.bat.org/help/skills.php?str=controlled_panic
+ 190. http://www.bat.org/help/skills.php?str=power_slash
+ 191. http://www.bat.org/help/skills.php?str=crushing_blow
+ 192. http://www.bat.org/help/skills.php?str=discipline
+ 193. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 194. http://www.bat.org/help/spells.php?str=noble_mount
+ 195. http://www.bat.org/help/spells.php?str=summon_mount
+ 196. http://www.bat.org/help/skills.php?str=spell_parry
+ 197. http://www.bat.org/help/skills.php?str=parry
+ 198. http://www.bat.org/help/skills.php?str=cast_generic
+ 199. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 200. http://www.bat.org/help/spells.php?str=arms_lore
+ 201. http://www.bat.org/help/skills.php?str=compare
+ 202. http://www.bat.org/help/skills.php?str=riposte
+ 203. http://www.bat.org/help/skills.php?str=parry
+ 204. http://www.bat.org/help/spells.php?str=protect_mount
+ 205. http://www.bat.org/help/skills.php?str=precise_slash
+ 206. http://www.bat.org/help/skills.php?str=power_slash
+ 207. http://www.bat.org/help/skills.php?str=forceful_blow
+ 208. http://www.bat.org/help/skills.php?str=crushing_blow
+ 209. http://www.bat.org/help/skills.php?str=dodge
+ 210. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 211. http://www.bat.org/help/spells.php?str=monster_lore
+ 212. http://www.bat.org/help/skills.php?str=rescue
+ 213. http://www.bat.org/help/skills.php?str=turnblade
+ 214. http://www.bat.org/help/skills.php?str=riposte
+ 215. http://www.bat.org/help/spells.php?str=summon_squire
+ 216. http://www.bat.org/help/skills.php?str=shield_bash
+ 217. http://www.bat.org/help/skills.php?str=combat_sense
+ 218. http://www.bat.org/help/skills.php?str=riding
+ 219. http://www.bat.org/help/skills.php?str=combat_riding
+ 220. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 221. http://www.bat.org/help/skills.php?str=cast_generic
+ 222. http://www.bat.org/help/skills.php?str=cast_information
+ 223. http://www.bat.org/help/skills.php?str=find_weakness
+ 224. http://www.bat.org/help/skills.php?str=cast_help
+ 225. http://www.bat.org/help/spells.php?str=heal_mount
+ 226. http://www.bat.org/help/skills.php?str=leadership
+ 227. http://www.bat.org/help/skills.php?str=mighty_charge
+ 228. http://www.bat.org/help/skills.php?str=take_prisoner
+ 229. http://www.bat.org/help/skills.php?str=controlled_panic
+ 230. http://www.bat.org/help/skills.php?str=power_slash
+ 231. http://www.bat.org/help/skills.php?str=crushing_blow
+ 232. http://www.bat.org/help/skills.php?str=discipline
+ 233. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 234. http://www.bat.org/help/spells.php?str=noble_mount
+ 235. http://www.bat.org/help/spells.php?str=summon_mount
+ 236. http://www.bat.org/help/skills.php?str=spell_parry
+ 237. http://www.bat.org/help/skills.php?str=parry
+ 238. http://www.bat.org/help/skills.php?str=cast_generic
+ 239. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 240. http://www.bat.org/help/spells.php?str=arms_lore
+ 241. http://www.bat.org/help/skills.php?str=compare
+ 242. http://www.bat.org/help/skills.php?str=riposte
+ 243. http://www.bat.org/help/skills.php?str=parry
+ 244. http://www.bat.org/help/spells.php?str=protect_mount
+ 245. http://www.bat.org/help/skills.php?str=precise_slash
+ 246. http://www.bat.org/help/skills.php?str=power_slash
+ 247. http://www.bat.org/help/skills.php?str=forceful_blow
+ 248. http://www.bat.org/help/skills.php?str=crushing_blow
+ 249. http://www.bat.org/help/skills.php?str=dodge
+ 250. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 251. http://www.bat.org/help/spells.php?str=monster_lore
+ 252. http://www.bat.org/help/skills.php?str=rescue
+ 253. http://www.bat.org/help/skills.php?str=turnblade
+ 254. http://www.bat.org/help/skills.php?str=riposte
+ 255. http://www.bat.org/help/spells.php?str=summon_squire
+ 256. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 257. http://www.bat.org/help/skills.php?str=skullsplitter
+ 258. http://www.bat.org/help/skills.php?str=precise_slash
+ 259. http://www.bat.org/help/skills.php?str=forceful_blow
+ 260. http://www.bat.org/help/skills.php?str=shield_bash
+ 261. http://www.bat.org/help/skills.php?str=combat_sense
+ 262. http://www.bat.org/help/skills.php?str=riding
+ 263. http://www.bat.org/help/skills.php?str=combat_riding
+ 264. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 265. http://www.bat.org/help/skills.php?str=cast_generic
+ 266. http://www.bat.org/help/skills.php?str=cast_information
+ 267. http://www.bat.org/help/skills.php?str=find_weakness
+ 268. http://www.bat.org/help/skills.php?str=cast_help
+ 269. http://www.bat.org/help/spells.php?str=heal_mount
+ 270. http://www.bat.org/help/skills.php?str=leadership
+ 271. http://www.bat.org/help/skills.php?str=mighty_charge
+ 272. http://www.bat.org/help/skills.php?str=take_prisoner
+ 273. http://www.bat.org/help/skills.php?str=controlled_panic
+ 274. http://www.bat.org/help/skills.php?str=power_slash
+ 275. http://www.bat.org/help/skills.php?str=crushing_blow
+ 276. http://www.bat.org/help/skills.php?str=discipline
+ 277. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 278. http://www.bat.org/help/spells.php?str=noble_mount
+ 279. http://www.bat.org/help/spells.php?str=summon_mount
+ 280. http://www.bat.org/help/skills.php?str=spell_parry
+ 281. http://www.bat.org/help/skills.php?str=parry
+ 282. http://www.bat.org/help/skills.php?str=cast_generic
+ 283. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 284. http://www.bat.org/help/spells.php?str=arms_lore
+ 285. http://www.bat.org/help/skills.php?str=compare
+ 286. http://www.bat.org/help/skills.php?str=riposte
+ 287. http://www.bat.org/help/skills.php?str=parry
+ 288. http://www.bat.org/help/spells.php?str=protect_mount
+ 289. http://www.bat.org/help/skills.php?str=precise_slash
+ 290. http://www.bat.org/help/skills.php?str=power_slash
+ 291. http://www.bat.org/help/skills.php?str=forceful_blow
+ 292. http://www.bat.org/help/skills.php?str=crushing_blow
+ 293. http://www.bat.org/help/skills.php?str=dodge
+ 294. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 295. http://www.bat.org/help/spells.php?str=monster_lore
+ 296. http://www.bat.org/help/skills.php?str=rescue
+ 297. http://www.bat.org/help/skills.php?str=turnblade
+ 298. http://www.bat.org/help/skills.php?str=riposte
+ 299. http://www.bat.org/help/spells.php?str=summon_squire
+ 300. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 301. http://www.bat.org/help/skills.php?str=skullsplitter
+ 302. http://www.bat.org/help/skills.php?str=precise_slash
+ 303. http://www.bat.org/help/skills.php?str=forceful_blow
+ 304. http://www.bat.org/help/skills.php?str=defiance
+ 305. http://www.bat.org/help/skills.php?str=mighty_charge
+ 306. http://www.bat.org/help/skills.php?str=combat_riding
+ 307. http://www.bat.org/help/skills.php?str=combat_sense
+ 308. http://www.bat.org/help/skills.php?str=shield_bash
+ 309. http://www.bat.org/help/skills.php?str=combat_sense
+ 310. http://www.bat.org/help/skills.php?str=riding
+ 311. http://www.bat.org/help/skills.php?str=combat_riding
+ 312. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 313. http://www.bat.org/help/skills.php?str=cast_information
+ 314. http://www.bat.org/help/skills.php?str=find_weakness
+ 315. http://www.bat.org/help/skills.php?str=cast_help
+ 316. http://www.bat.org/help/spells.php?str=heal_mount
+ 317. http://www.bat.org/help/skills.php?str=leadership
+ 318. http://www.bat.org/help/skills.php?str=mighty_charge
+ 319. http://www.bat.org/help/skills.php?str=take_prisoner
+ 320. http://www.bat.org/help/skills.php?str=controlled_panic
+ 321. http://www.bat.org/help/skills.php?str=power_slash
+ 322. http://www.bat.org/help/skills.php?str=crushing_blow
+ 323. http://www.bat.org/help/skills.php?str=discipline
+ 324. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 325. http://www.bat.org/help/spells.php?str=noble_mount
+ 326. http://www.bat.org/help/spells.php?str=summon_mount
+ 327. http://www.bat.org/help/skills.php?str=spell_parry
+ 328. http://www.bat.org/help/skills.php?str=parry
+ 329. http://www.bat.org/help/skills.php?str=cast_generic
+ 330. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 331. http://www.bat.org/help/spells.php?str=arms_lore
+ 332. http://www.bat.org/help/skills.php?str=compare
+ 333. http://www.bat.org/help/skills.php?str=riposte
+ 334. http://www.bat.org/help/skills.php?str=parry
+ 335. http://www.bat.org/help/spells.php?str=protect_mount
+ 336. http://www.bat.org/help/skills.php?str=precise_slash
+ 337. http://www.bat.org/help/skills.php?str=power_slash
+ 338. http://www.bat.org/help/skills.php?str=forceful_blow
+ 339. http://www.bat.org/help/skills.php?str=crushing_blow
+ 340. http://www.bat.org/help/skills.php?str=dodge
+ 341. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 342. http://www.bat.org/help/spells.php?str=monster_lore
+ 343. http://www.bat.org/help/skills.php?str=rescue
+ 344. http://www.bat.org/help/skills.php?str=turnblade
+ 345. http://www.bat.org/help/skills.php?str=riposte
+ 346. http://www.bat.org/help/spells.php?str=summon_squire
+ 347. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 348. http://www.bat.org/help/skills.php?str=skullsplitter
+ 349. http://www.bat.org/help/skills.php?str=precise_slash
+ 350. http://www.bat.org/help/skills.php?str=forceful_blow
+ 351. http://www.bat.org/help/skills.php?str=defiance
+ 352. http://www.bat.org/help/skills.php?str=elite_guard
+ 353. http://www.bat.org/help/skills.php?str=shield_bash
+ 354. http://www.bat.org/help/skills.php?str=combat_sense
+ 355. http://www.bat.org/help/skills.php?str=riding
+ 356. http://www.bat.org/help/skills.php?str=combat_riding
+ 357. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 358. http://www.bat.org/help/skills.php?str=cast_information
+ 359. http://www.bat.org/help/skills.php?str=find_weakness
+ 360. http://www.bat.org/help/skills.php?str=cast_help
+ 361. http://www.bat.org/help/spells.php?str=heal_mount
+ 362. http://www.bat.org/help/skills.php?str=leadership
+ 363. http://www.bat.org/help/skills.php?str=mighty_charge
+ 364. http://www.bat.org/help/skills.php?str=controlled_panic
+ 365. http://www.bat.org/help/skills.php?str=discipline
+ 366. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 367. http://www.bat.org/help/spells.php?str=noble_mount
+ 368. http://www.bat.org/help/spells.php?str=summon_mount
+ 369. http://www.bat.org/help/skills.php?str=spell_parry
+ 370. http://www.bat.org/help/skills.php?str=parry
+ 371. http://www.bat.org/help/skills.php?str=cast_generic
+ 372. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 373. http://www.bat.org/help/spells.php?str=arms_lore
+ 374. http://www.bat.org/help/skills.php?str=compare
+ 375. http://www.bat.org/help/skills.php?str=riposte
+ 376. http://www.bat.org/help/skills.php?str=parry
+ 377. http://www.bat.org/help/spells.php?str=protect_mount
+ 378. http://www.bat.org/help/skills.php?str=precise_slash
+ 379. http://www.bat.org/help/skills.php?str=power_slash
+ 380. http://www.bat.org/help/skills.php?str=forceful_blow
+ 381. http://www.bat.org/help/skills.php?str=crushing_blow
+ 382. http://www.bat.org/help/skills.php?str=dodge
+ 383. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 384. http://www.bat.org/help/spells.php?str=monster_lore
+ 385. http://www.bat.org/help/skills.php?str=rescue
+ 386. http://www.bat.org/help/skills.php?str=turnblade
+ 387. http://www.bat.org/help/skills.php?str=riposte
+ 388. http://www.bat.org/help/spells.php?str=summon_squire
+ 389. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 390. http://www.bat.org/help/skills.php?str=skullsplitter
+ 391. http://www.bat.org/help/skills.php?str=precise_slash
+ 392. http://www.bat.org/help/skills.php?str=forceful_blow
+ 393. http://www.bat.org/help/skills.php?str=defiance
+ 394. http://www.bat.org/help/skills.php?str=elite_guard
+ 395. http://www.bat.org/help/skills.php?str=shield_bash
+ 396. http://www.bat.org/help/skills.php?str=combat_sense
+ 397. http://www.bat.org/help/skills.php?str=riding
+ 398. http://www.bat.org/help/skills.php?str=combat_riding
+ 399. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 400. http://www.bat.org/help/skills.php?str=cast_information
+ 401. http://www.bat.org/help/skills.php?str=find_weakness
+ 402. http://www.bat.org/help/spells.php?str=monster_lore
+ 403. http://www.bat.org/help/skills.php?str=cast_help
+ 404. http://www.bat.org/help/skills.php?str=leadership
+ 405. http://www.bat.org/help/skills.php?str=controlled_panic
+ 406. http://www.bat.org/help/skills.php?str=discipline
+ 407. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 408. http://www.bat.org/help/spells.php?str=noble_mount
+ 409. http://www.bat.org/help/spells.php?str=summon_mount
+ 410. http://www.bat.org/help/skills.php?str=spell_parry
+ 411. http://www.bat.org/help/skills.php?str=parry
+ 412. http://www.bat.org/help/skills.php?str=cast_generic
+ 413. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 414. http://www.bat.org/help/spells.php?str=arms_lore
+ 415. http://www.bat.org/help/skills.php?str=compare
+ 416. http://www.bat.org/help/skills.php?str=riposte
+ 417. http://www.bat.org/help/skills.php?str=parry
+ 418. http://www.bat.org/help/spells.php?str=protect_mount
+ 419. http://www.bat.org/help/skills.php?str=precise_slash
+ 420. http://www.bat.org/help/skills.php?str=power_slash
+ 421. http://www.bat.org/help/skills.php?str=forceful_blow
+ 422. http://www.bat.org/help/skills.php?str=crushing_blow
+ 423. http://www.bat.org/help/skills.php?str=dodge
+ 424. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 425. http://www.bat.org/help/spells.php?str=monster_lore
+ 426. http://www.bat.org/help/skills.php?str=rescue
+ 427. http://www.bat.org/help/skills.php?str=turnblade
+ 428. http://www.bat.org/help/skills.php?str=riposte
+ 429. http://www.bat.org/help/spells.php?str=summon_squire
+ 430. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 431. http://www.bat.org/help/skills.php?str=skullsplitter
+ 432. http://www.bat.org/help/skills.php?str=precise_slash
+ 433. http://www.bat.org/help/skills.php?str=forceful_blow
+ 434. http://www.bat.org/help/skills.php?str=defiance
+ 435. http://www.bat.org/help/skills.php?str=elite_guard
+ 436. http://www.bat.org/help/skills.php?str=relentless
+ 437. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 438. http://www.bat.org/help/skills.php?str=discipline
+ 439. http://www.bat.org/help/skills.php?str=attack
+ 440. http://www.bat.org/help/skills.php?str=cast_generic
+ 441. http://www.bat.org/help/skills.php?str=long_blades
+ 442. http://www.bat.org/help/skills.php?str=bludgeons
+ 443. http://www.bat.org/help/skills.php?str=axes
+ 444. http://www.bat.org/help/skills.php?str=shield_bash
+ 445. http://www.bat.org/help/skills.php?str=combat_sense
+ 446. http://www.bat.org/help/skills.php?str=combat_riding
+ 447. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 448. http://www.bat.org/help/skills.php?str=cast_information
+ 449. http://www.bat.org/help/skills.php?str=find_weakness
+ 450. http://www.bat.org/help/spells.php?str=monster_lore
+ 451. http://www.bat.org/help/skills.php?str=cast_help
+ 452. http://www.bat.org/help/skills.php?str=leadership
+ 453. http://www.bat.org/help/skills.php?str=controlled_panic
+ 454. http://www.bat.org/help/skills.php?str=discipline
+ 455. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 456. http://www.bat.org/help/spells.php?str=noble_mount
+ 457. http://www.bat.org/help/spells.php?str=summon_mount
+ 458. http://www.bat.org/help/skills.php?str=spell_parry
+ 459. http://www.bat.org/help/skills.php?str=parry
+ 460. http://www.bat.org/help/skills.php?str=cast_generic
+ 461. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 462. http://www.bat.org/help/spells.php?str=arms_lore
+ 463. http://www.bat.org/help/skills.php?str=compare
+ 464. http://www.bat.org/help/skills.php?str=riposte
+ 465. http://www.bat.org/help/skills.php?str=parry
+ 466. http://www.bat.org/help/spells.php?str=protect_mount
+ 467. http://www.bat.org/help/skills.php?str=precise_slash
+ 468. http://www.bat.org/help/skills.php?str=power_slash
+ 469. http://www.bat.org/help/skills.php?str=forceful_blow
+ 470. http://www.bat.org/help/skills.php?str=crushing_blow
+ 471. http://www.bat.org/help/skills.php?str=dodge
+ 472. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 473. http://www.bat.org/help/spells.php?str=monster_lore
+ 474. http://www.bat.org/help/skills.php?str=rescue
+ 475. http://www.bat.org/help/skills.php?str=turnblade
+ 476. http://www.bat.org/help/skills.php?str=riposte
+ 477. http://www.bat.org/help/spells.php?str=summon_squire
+ 478. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 479. http://www.bat.org/help/skills.php?str=skullsplitter
+ 480. http://www.bat.org/help/skills.php?str=precise_slash
+ 481. http://www.bat.org/help/skills.php?str=forceful_blow
+ 482. http://www.bat.org/help/skills.php?str=defiance
+ 483. http://www.bat.org/help/skills.php?str=elite_guard
+ 484. http://www.bat.org/help/skills.php?str=relentless
+ 485. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 486. http://www.bat.org/help/skills.php?str=discipline
+ 487. http://www.bat.org/help/skills.php?str=shield_bash
+ 488. http://www.bat.org/help/skills.php?str=combat_sense
+ 489. http://www.bat.org/help/skills.php?str=combat_riding
+ 490. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 491. http://www.bat.org/help/skills.php?str=cast_information
+ 492. http://www.bat.org/help/skills.php?str=find_weakness
+ 493. http://www.bat.org/help/spells.php?str=monster_lore
+ 494. http://www.bat.org/help/skills.php?str=cast_help
+ 495. http://www.bat.org/help/skills.php?str=leadership
+ 496. http://www.bat.org/help/skills.php?str=controlled_panic
+ 497. http://www.bat.org/help/skills.php?str=discipline
+ 498. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 499. http://www.bat.org/help/skills.php?str=spell_parry
+ 500. http://www.bat.org/help/skills.php?str=parry
+ 501. http://www.bat.org/help/skills.php?str=cast_generic
+ 502. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 503. http://www.bat.org/help/spells.php?str=arms_lore
+ 504. http://www.bat.org/help/skills.php?str=compare
+ 505. http://www.bat.org/help/skills.php?str=riposte
+ 506. http://www.bat.org/help/skills.php?str=parry
+ 507. http://www.bat.org/help/spells.php?str=protect_mount
+ 508. http://www.bat.org/help/skills.php?str=precise_slash
+ 509. http://www.bat.org/help/skills.php?str=power_slash
+ 510. http://www.bat.org/help/skills.php?str=forceful_blow
+ 511. http://www.bat.org/help/skills.php?str=crushing_blow
+ 512. http://www.bat.org/help/skills.php?str=dodge
+ 513. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 514. http://www.bat.org/help/spells.php?str=monster_lore
+ 515. http://www.bat.org/help/skills.php?str=rescue
+ 516. http://www.bat.org/help/skills.php?str=turnblade
+ 517. http://www.bat.org/help/skills.php?str=riposte
+ 518. http://www.bat.org/help/spells.php?str=summon_squire
+ 519. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 520. http://www.bat.org/help/skills.php?str=skullsplitter
+ 521. http://www.bat.org/help/skills.php?str=precise_slash
+ 522. http://www.bat.org/help/skills.php?str=forceful_blow
+ 523. http://www.bat.org/help/skills.php?str=defiance
+ 524. http://www.bat.org/help/skills.php?str=elite_guard
+ 525. http://www.bat.org/help/skills.php?str=relentless
+ 526. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 527. http://www.bat.org/help/skills.php?str=discipline
+ 528. http://www.bat.org/help/skills.php?str=shield_bash
+ 529. http://www.bat.org/help/skills.php?str=combat_sense
+ 530. http://www.bat.org/help/skills.php?str=combat_riding
+ 531. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 532. http://www.bat.org/help/skills.php?str=cast_information
+ 533. http://www.bat.org/help/skills.php?str=find_weakness
+ 534. http://www.bat.org/help/spells.php?str=monster_lore
+ 535. http://www.bat.org/help/skills.php?str=cast_help
+ 536. http://www.bat.org/help/skills.php?str=leadership
+ 537. http://www.bat.org/help/skills.php?str=controlled_panic
+ 538. http://www.bat.org/help/skills.php?str=discipline
+ 539. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 540. http://www.bat.org/help/skills.php?str=spell_parry
+ 541. http://www.bat.org/help/skills.php?str=parry
+ 542. http://www.bat.org/help/skills.php?str=cast_generic
+ 543. http://www.bat.org/help/skills.php?str=parry
+ 544. http://www.bat.org/help/spells.php?str=protect_mount
+ 545. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 546. http://www.bat.org/help/spells.php?str=monster_lore
+ 547. http://www.bat.org/help/skills.php?str=rescue
+ 548. http://www.bat.org/help/skills.php?str=turnblade
+ 549. http://www.bat.org/help/skills.php?str=riposte
+ 550. http://www.bat.org/help/spells.php?str=summon_squire
+ 551. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 552. http://www.bat.org/help/skills.php?str=skullsplitter
+ 553. http://www.bat.org/help/skills.php?str=precise_slash
+ 554. http://www.bat.org/help/skills.php?str=forceful_blow
+ 555. http://www.bat.org/help/skills.php?str=defiance
+ 556. http://www.bat.org/help/skills.php?str=elite_guard
+ 557. http://www.bat.org/help/skills.php?str=relentless
+ 558. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 559. http://www.bat.org/help/skills.php?str=discipline
+ 560. http://www.bat.org/help/spells.php?str=monster_lore
+ 561. http://www.bat.org/help/spells.php?str=protect_mount
+ 562. http://www.bat.org/help/skills.php?str=elite_guard
+ 563. http://www.bat.org/help/skills.php?str=skullsplitter
+ 564. http://www.bat.org/help/skills.php?str=shield_bash
+ 565. http://www.bat.org/help/skills.php?str=combat_sense
+ 566. http://www.bat.org/help/skills.php?str=combat_riding
+ 567. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 568. http://www.bat.org/help/skills.php?str=cast_information
+ 569. http://www.bat.org/help/skills.php?str=find_weakness
+ 570. http://www.bat.org/help/spells.php?str=monster_lore
+ 571. http://www.bat.org/help/skills.php?str=cast_help
+ 572. http://www.bat.org/help/skills.php?str=leadership
+ 573. http://www.bat.org/help/skills.php?str=controlled_panic
+ 574. http://www.bat.org/help/skills.php?str=discipline
+ 575. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 576. http://www.bat.org/help/skills.php?str=spell_parry
+ 577. http://www.bat.org/help/skills.php?str=parry
+ 578. http://www.bat.org/help/skills.php?str=cast_generic
+ 579. http://www.bat.org/help/skills.php?str=parry
+ 580. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 581. http://www.bat.org/help/spells.php?str=monster_lore
+ 582. http://www.bat.org/help/skills.php?str=rescue
+ 583. http://www.bat.org/help/skills.php?str=turnblade
+ 584. http://www.bat.org/help/skills.php?str=riposte
+ 585. http://www.bat.org/help/spells.php?str=summon_squire
+ 586. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 587. http://www.bat.org/help/skills.php?str=skullsplitter
+ 588. http://www.bat.org/help/skills.php?str=precise_slash
+ 589. http://www.bat.org/help/skills.php?str=forceful_blow
+ 590. http://www.bat.org/help/skills.php?str=defiance
+ 591. http://www.bat.org/help/skills.php?str=elite_guard
+ 592. http://www.bat.org/help/skills.php?str=relentless
+ 593. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 594. http://www.bat.org/help/skills.php?str=discipline
+ 595. http://www.bat.org/help/guilds.php
+ 596. mailto:webmaster@bat.org
+
+   Hidden links:
+ 597. http://www.bat.org/bat.php

@@ -1,0 +1,433 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+          [fonter.php?str=The+Association+of+Mystical+Navigators]
+
+                   The Association of Mystical Navigators
+
+   Command: navigator
+   Creator: [22]Alaron
+   Maximum level: 5
+   Description:
+   Over the centuries, the arts of mystical navigation gradually became
+   dispersed among the various regions and guilds of the world. However,
+   in this process, many spells were lost. No one guild could remembered
+   them
+   all.
+   Then suddenly an amazing discovery was made: the original location of
+   training for the ancient Mystical Navigators! Due to the great powers
+   contained therein, only the most experienced of people are able to
+   join and learn the secrets of mystical navigation. To access these
+   abilities, one must know the world well.
+
+                                       New Member
+                Has explored at least 15% of the world
+     Must pass 1 out of the following:
+       * Must be maximum level in The Fellowship of Wizardry
+       * Must be maximum level in The Blades of the Spider Queen
+       * Must be maximum level in The Humble Druids
+       * Must be maximum level in The Brotherhood of Wizardry
+       * Must be maximum level in The Guild of Channellers
+       * Must be maximum level in The Master Merchants
+       * Must be maximum level in Lords of Chaos
+       * Must be maximum level in Evil Priests
+       * Must be maximum level in The Bards' guild
+       * Must be maximum level in The Faculte of Runemagi
+       * Must be maximum level in The Followers of Tarmalen
+       * Must be maximum level in The Psionicists
+       * Must be maximum level in Sisters of Las
+       * Must be maximum level in The Conjurers
+       * Must be maximum level in Guild of Alchemy
+       * Must be maximum level in The Cult of Reavers
+                May study spell [23]Banish to 20%
+                May study spell [24]Dimension door to 20%
+                May study spell [25]Go to 20%
+                May study spell [26]Goto ship to 20%
+                May study spell [27]Heavy weight to 20%
+                May study spell [28]Mobile cannon to 20%
+                May study spell [29]Relocate to 20%
+                May study spell [30]Summon to 20%
+                May study spell [31]Teleport with error to 20%
+     May study spell [32]Teleport without error to 20%, special
+   requirements:
+       * Has studied spell [33]Teleport with error to at least 15%
+                May study spell [34]Wizard eye to 20%
+                May study spell [35]Word of recall to 20%
+                May train skill [36]Cast generic to 20%
+                May train skill [37]Cast teleportation to 20%
+                May train skill [38]Location memory to 20%
+                May train skill [39]Mastery of locating to 20%
+                May train skill [40]Stargazing to 20%
+                Receive the Pendant of the Navigators
+                Receive the reward for joining the guild
+
+                                  Level 2
+          Has explored at least 35% of the world
+          Has studied spell [41]Banish to at least 15%
+          Has studied spell [42]Dimension door to at least 15%
+          Has studied spell [43]Go to at least 15%
+          Has studied spell [44]Heavy weight to at least 15%
+          Has studied spell [45]Mobile cannon to at least 15%
+          Has studied spell [46]Relocate to at least 15%
+          Has studied spell [47]Summon to at least 15%
+          Has studied spell [48]Teleport with error to at least 15%
+          Has trained skill [49]Cast teleportation to at least 15%
+          Has trained skill [50]Location memory to at least 15%
+          Has trained skill [51]Mastery of locating to at least 15%
+          May study spell [52]Banish to 40%
+          May study spell [53]Dimension door to 40%
+          May study spell [54]Go to 40%
+          May study spell [55]Goto ship to 40%
+          May study spell [56]Heavy weight to 40%
+          May study spell [57]Mobile cannon to 40%
+          May study spell [58]Relocate to 40%
+          May study spell [59]Summon to 40%
+          May study spell [60]Teleport with error to 40%
+     May study spell [61]Teleport without error to 40%, special
+   requirements:
+       * Has studied spell [62]Teleport with error to at least 15%
+          May study spell [63]Wizard eye to 40%
+          May study spell [64]Word of recall to 40%
+          May train skill [65]Cast generic to 40%
+          May train skill [66]Cast teleportation to 40%
+          May train skill [67]Location memory to 40%
+          May train skill [68]Mastery of locating to 40%
+          May train skill [69]Stargazing to 40%
+
+                                  Level 3
+          Has explored at least 45% of the world
+          Has studied spell [70]Banish to at least 30%
+          Has studied spell [71]Dimension door to at least 30%
+          Has studied spell [72]Go to at least 30%
+          Has studied spell [73]Heavy weight to at least 30%
+          Has studied spell [74]Mobile cannon to at least 30%
+          Has studied spell [75]Relocate to at least 30%
+          Has studied spell [76]Summon to at least 30%
+          Has studied spell [77]Teleport with error to at least 30%
+          Has trained skill [78]Cast teleportation to at least 30%
+          Has trained skill [79]Location memory to at least 30%
+          Has trained skill [80]Mastery of locating to at least 30%
+          May study spell [81]Banish to 60%
+          May study spell [82]Dimension door to 60%
+          May study spell [83]Go to 60%
+          May study spell [84]Goto ship to 60%
+          May study spell [85]Heavy weight to 60%
+          May study spell [86]Mobile cannon to 60%
+          May study spell [87]Relocate to 60%
+          May study spell [88]Summon to 60%
+          May study spell [89]Teleport with error to 60%
+     May study spell [90]Teleport without error to 60%, special
+   requirements:
+       * Has studied spell [91]Teleport with error to at least 30%
+          May study spell [92]Wizard eye to 60%
+          May study spell [93]Word of recall to 60%
+          May train skill [94]Cast generic to 60%
+          May train skill [95]Cast teleportation to 60%
+          May train skill [96]Location memory to 60%
+          May train skill [97]Mastery of locating to 60%
+          May train skill [98]Stargazing to 60%
+
+                                  Level 4
+          Has explored at least 60% of the world
+          Has studied spell [99]Banish to at least 45%
+          Has studied spell [100]Dimension door to at least 45%
+          Has studied spell [101]Go to at least 45%
+          Has studied spell [102]Heavy weight to at least 45%
+          Has studied spell [103]Mobile cannon to at least 45%
+          Has studied spell [104]Relocate to at least 45%
+          Has studied spell [105]Summon to at least 45%
+          Has studied spell [106]Teleport with error to at least 45%
+          Has trained skill [107]Cast teleportation to at least 45%
+          Has trained skill [108]Location memory to at least 45%
+          Has trained skill [109]Mastery of locating to at least 45%
+          May study spell [110]Rune of warding to 20%
+          May study spell [111]Banish to 80%
+          May study spell [112]Dimension door to 80%
+          May study spell [113]Go to 80%
+          May study spell [114]Goto ship to 80%
+          May study spell [115]Heavy weight to 80%
+          May study spell [116]Mobile cannon to 80%
+          May study spell [117]Relocate to 80%
+          May study spell [118]Summon to 80%
+          May study spell [119]Teleport with error to 80%
+     May study spell [120]Teleport without error to 80%, special
+   requirements:
+       * Has studied spell [121]Teleport with error to at least 45%
+          May study spell [122]Wizard eye to 80%
+          May study spell [123]Word of recall to 80%
+          May train skill [124]Cast generic to 80%
+          May train skill [125]Cast teleportation to 80%
+          May train skill [126]Location memory to 80%
+          May train skill [127]Mastery of locating to 80%
+          May train skill [128]Stargazing to 80%
+
+                                  Level 5
+        Has explored at least 75% of the world
+        Has studied spell [129]Banish to at least 60%
+        Has studied spell [130]Rune of warding to at least 15%
+        Has studied spell [131]Dimension door to at least 60%
+        Has studied spell [132]Go to at least 60%
+        Has studied spell [133]Heavy weight to at least 60%
+        Has studied spell [134]Mobile cannon to at least 60%
+        Has studied spell [135]Relocate to at least 60%
+        Has studied spell [136]Summon to at least 60%
+        Has studied spell [137]Teleport without error to at least 30%
+        Has trained skill [138]Cast teleportation to at least 60%
+        Has trained skill [139]Location memory to at least 60%
+        Has trained skill [140]Mastery of locating to at least 60%
+        May study spell [141]Banish to racial maximum
+        May study spell [142]Dimension door to racial maximum
+        May study spell [143]Rune of warding to racial maximum
+        May study spell [144]Go to racial maximum
+        May study spell [145]Goto ship to racial maximum
+        May study spell [146]Heavy weight to racial maximum
+        May study spell [147]Mobile cannon to racial maximum
+        May study spell [148]Relocate to racial maximum
+        May study spell [149]Summon to racial maximum
+        May study spell [150]Teleport with error to racial maximum
+     May study spell [151]Teleport without error to racial maximum,
+   special requirements:
+       * Has studied spell [152]Teleport with error to at least 60%
+        May study spell [153]Wizard eye to racial maximum
+        May study spell [154]Word of recall to racial maximum
+        May train skill [155]Cast generic to racial maximum
+        May train skill [156]Cast teleportation to racial maximum
+        May train skill [157]Location memory to racial maximum
+        May train skill [158]Mastery of locating to racial maximum
+        May train skill [159]Stargazing to racial maximum
+
+                     Allows joining to the following guild:
+     The Association of Mystical Navigators, special requirements:
+       * Has explored at least 15% of the world
+       * Must pass 1 out of the following:
+           Must be maximum level in The Fellowship of Wizardry
+           Must be maximum level in The Blades of the Spider Queen
+           Must be maximum level in The Humble Druids
+           Must be maximum level in The Brotherhood of Wizardry
+           Must be maximum level in The Guild of Channellers
+           Must be maximum level in The Conjurers
+           Must be maximum level in The Master Merchants
+           Must be maximum level in The Bards' guild
+           Must be maximum level in The Faculte of Runemagi
+           Must be maximum level in Lords of Chaos
+           Must be maximum level in Evil Priests
+           Must be maximum level in The Followers of Tarmalen
+           Must be maximum level in The Psionicists
+           Must be maximum level in Sisters of Las
+           Must be maximum level in Guild of Alchemy
+           Must be maximum level in The Cult of Reavers
+
+   [160]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [161]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Association%20of%20Mystical%20Navigators&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Association%20of%20Mystical%20Navigators&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Association%20of%20Mystical%20Navigators&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=alaron
+  23. http://www.bat.org/help/spells.php?str=banish
+  24. http://www.bat.org/help/spells.php?str=dimension_door
+  25. http://www.bat.org/help/spells.php?str=go
+  26. http://www.bat.org/help/spells.php?str=goto_ship
+  27. http://www.bat.org/help/spells.php?str=heavy_weight
+  28. http://www.bat.org/help/spells.php?str=mobile_cannon
+  29. http://www.bat.org/help/spells.php?str=relocate
+  30. http://www.bat.org/help/spells.php?str=summon
+  31. http://www.bat.org/help/spells.php?str=teleport_with_error
+  32. http://www.bat.org/help/spells.php?str=teleport_without_error
+  33. http://www.bat.org/help/spells.php?str=teleport_with_error
+  34. http://www.bat.org/help/spells.php?str=wizard_eye
+  35. http://www.bat.org/help/spells.php?str=word_of_recall
+  36. http://www.bat.org/help/skills.php?str=cast_generic
+  37. http://www.bat.org/help/skills.php?str=cast_teleportation
+  38. http://www.bat.org/help/skills.php?str=location_memory
+  39. http://www.bat.org/help/skills.php?str=mastery_of_locating
+  40. http://www.bat.org/help/skills.php?str=stargazing
+  41. http://www.bat.org/help/spells.php?str=banish
+  42. http://www.bat.org/help/spells.php?str=dimension_door
+  43. http://www.bat.org/help/spells.php?str=go
+  44. http://www.bat.org/help/spells.php?str=heavy_weight
+  45. http://www.bat.org/help/spells.php?str=mobile_cannon
+  46. http://www.bat.org/help/spells.php?str=relocate
+  47. http://www.bat.org/help/spells.php?str=summon
+  48. http://www.bat.org/help/spells.php?str=teleport_with_error
+  49. http://www.bat.org/help/skills.php?str=cast_teleportation
+  50. http://www.bat.org/help/skills.php?str=location_memory
+  51. http://www.bat.org/help/skills.php?str=mastery_of_locating
+  52. http://www.bat.org/help/spells.php?str=banish
+  53. http://www.bat.org/help/spells.php?str=dimension_door
+  54. http://www.bat.org/help/spells.php?str=go
+  55. http://www.bat.org/help/spells.php?str=goto_ship
+  56. http://www.bat.org/help/spells.php?str=heavy_weight
+  57. http://www.bat.org/help/spells.php?str=mobile_cannon
+  58. http://www.bat.org/help/spells.php?str=relocate
+  59. http://www.bat.org/help/spells.php?str=summon
+  60. http://www.bat.org/help/spells.php?str=teleport_with_error
+  61. http://www.bat.org/help/spells.php?str=teleport_without_error
+  62. http://www.bat.org/help/spells.php?str=teleport_with_error
+  63. http://www.bat.org/help/spells.php?str=wizard_eye
+  64. http://www.bat.org/help/spells.php?str=word_of_recall
+  65. http://www.bat.org/help/skills.php?str=cast_generic
+  66. http://www.bat.org/help/skills.php?str=cast_teleportation
+  67. http://www.bat.org/help/skills.php?str=location_memory
+  68. http://www.bat.org/help/skills.php?str=mastery_of_locating
+  69. http://www.bat.org/help/skills.php?str=stargazing
+  70. http://www.bat.org/help/spells.php?str=banish
+  71. http://www.bat.org/help/spells.php?str=dimension_door
+  72. http://www.bat.org/help/spells.php?str=go
+  73. http://www.bat.org/help/spells.php?str=heavy_weight
+  74. http://www.bat.org/help/spells.php?str=mobile_cannon
+  75. http://www.bat.org/help/spells.php?str=relocate
+  76. http://www.bat.org/help/spells.php?str=summon
+  77. http://www.bat.org/help/spells.php?str=teleport_with_error
+  78. http://www.bat.org/help/skills.php?str=cast_teleportation
+  79. http://www.bat.org/help/skills.php?str=location_memory
+  80. http://www.bat.org/help/skills.php?str=mastery_of_locating
+  81. http://www.bat.org/help/spells.php?str=banish
+  82. http://www.bat.org/help/spells.php?str=dimension_door
+  83. http://www.bat.org/help/spells.php?str=go
+  84. http://www.bat.org/help/spells.php?str=goto_ship
+  85. http://www.bat.org/help/spells.php?str=heavy_weight
+  86. http://www.bat.org/help/spells.php?str=mobile_cannon
+  87. http://www.bat.org/help/spells.php?str=relocate
+  88. http://www.bat.org/help/spells.php?str=summon
+  89. http://www.bat.org/help/spells.php?str=teleport_with_error
+  90. http://www.bat.org/help/spells.php?str=teleport_without_error
+  91. http://www.bat.org/help/spells.php?str=teleport_with_error
+  92. http://www.bat.org/help/spells.php?str=wizard_eye
+  93. http://www.bat.org/help/spells.php?str=word_of_recall
+  94. http://www.bat.org/help/skills.php?str=cast_generic
+  95. http://www.bat.org/help/skills.php?str=cast_teleportation
+  96. http://www.bat.org/help/skills.php?str=location_memory
+  97. http://www.bat.org/help/skills.php?str=mastery_of_locating
+  98. http://www.bat.org/help/skills.php?str=stargazing
+  99. http://www.bat.org/help/spells.php?str=banish
+ 100. http://www.bat.org/help/spells.php?str=dimension_door
+ 101. http://www.bat.org/help/spells.php?str=go
+ 102. http://www.bat.org/help/spells.php?str=heavy_weight
+ 103. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 104. http://www.bat.org/help/spells.php?str=relocate
+ 105. http://www.bat.org/help/spells.php?str=summon
+ 106. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 107. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 108. http://www.bat.org/help/skills.php?str=location_memory
+ 109. http://www.bat.org/help/skills.php?str=mastery_of_locating
+ 110. http://www.bat.org/help/spells.php?str=rune_of_warding
+ 111. http://www.bat.org/help/spells.php?str=banish
+ 112. http://www.bat.org/help/spells.php?str=dimension_door
+ 113. http://www.bat.org/help/spells.php?str=go
+ 114. http://www.bat.org/help/spells.php?str=goto_ship
+ 115. http://www.bat.org/help/spells.php?str=heavy_weight
+ 116. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 117. http://www.bat.org/help/spells.php?str=relocate
+ 118. http://www.bat.org/help/spells.php?str=summon
+ 119. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 120. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 121. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 122. http://www.bat.org/help/spells.php?str=wizard_eye
+ 123. http://www.bat.org/help/spells.php?str=word_of_recall
+ 124. http://www.bat.org/help/skills.php?str=cast_generic
+ 125. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 126. http://www.bat.org/help/skills.php?str=location_memory
+ 127. http://www.bat.org/help/skills.php?str=mastery_of_locating
+ 128. http://www.bat.org/help/skills.php?str=stargazing
+ 129. http://www.bat.org/help/spells.php?str=banish
+ 130. http://www.bat.org/help/spells.php?str=rune_of_warding
+ 131. http://www.bat.org/help/spells.php?str=dimension_door
+ 132. http://www.bat.org/help/spells.php?str=go
+ 133. http://www.bat.org/help/spells.php?str=heavy_weight
+ 134. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 135. http://www.bat.org/help/spells.php?str=relocate
+ 136. http://www.bat.org/help/spells.php?str=summon
+ 137. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 138. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 139. http://www.bat.org/help/skills.php?str=location_memory
+ 140. http://www.bat.org/help/skills.php?str=mastery_of_locating
+ 141. http://www.bat.org/help/spells.php?str=banish
+ 142. http://www.bat.org/help/spells.php?str=dimension_door
+ 143. http://www.bat.org/help/spells.php?str=rune_of_warding
+ 144. http://www.bat.org/help/spells.php?str=go
+ 145. http://www.bat.org/help/spells.php?str=goto_ship
+ 146. http://www.bat.org/help/spells.php?str=heavy_weight
+ 147. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 148. http://www.bat.org/help/spells.php?str=relocate
+ 149. http://www.bat.org/help/spells.php?str=summon
+ 150. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 151. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 152. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 153. http://www.bat.org/help/spells.php?str=wizard_eye
+ 154. http://www.bat.org/help/spells.php?str=word_of_recall
+ 155. http://www.bat.org/help/skills.php?str=cast_generic
+ 156. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 157. http://www.bat.org/help/skills.php?str=location_memory
+ 158. http://www.bat.org/help/skills.php?str=mastery_of_locating
+ 159. http://www.bat.org/help/skills.php?str=stargazing
+ 160. http://www.bat.org/help/guilds.php
+ 161. mailto:webmaster@bat.org
+
+   Hidden links:
+ 162. http://www.bat.org/bat.php

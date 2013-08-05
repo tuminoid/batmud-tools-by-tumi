@@ -1,0 +1,1380 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                      [fonter.php?str=The+Psionicists]
+
+                              The Psionicists
+
+   Command: psionicist
+   Creators: [22]Grimsh, [23]Blitzer, [24]Drakken
+   Maximum level: 35
+   Description:
+   Psionicists are the masters of the mind. They also master certain
+   common
+   magics, but should not be associated with real magic-users; mages
+   think of
+   them as revolting abusers of the weave of magic (the psionicists are
+   commonly
+   feared for their unknown combinations of magic and powers of the
+   mind).
+
+                                New Member
+                   Background must be magical
+                   Receive the tattoo of the blue star
+                   May train skill [25]Cast generic to 20%
+                   May train skill [26]Cast psionic to 20%
+                   May train skill [27]Cast control to 20%
+                   May train skill [28]Mana control to 20%
+                   May train skill [29]Attack to 20%
+                   May train skill [30]Consider to 20%
+                   May train skill [31]Short blades to 20%
+                   May study spell [32]Mind blast to 20%
+                   May study spell [33]Mirror image to 20%
+                   May study spell [34]Darkness to 20%
+                   May study spell [35]Light to 20%
+
+                                  Level 2
+              Has trained skill [36]Cast generic to at least 15%
+              Has trained skill [37]Cast psionic to at least 15%
+              Has trained skill [38]Mana control to at least 15%
+              Has studied spell [39]Mind blast to at least 15%
+              Has studied spell [40]Darkness to at least 10%
+              Has studied spell [41]Light to at least 10%
+              May train skill [42]Cast generic to 28%
+              May train skill [43]Cast psionic to 28%
+              May train skill [44]Cast control to 28%
+              May train skill [45]Mana control to 40%
+              May train skill [46]Attack to 23%
+              May train skill [47]Consider to 40%
+              May train skill [48]Short blades to 23%
+              May study spell [49]Mind blast to 40%
+              May study spell [50]Mirror image to 40%
+              May study spell [51]Darkness to 40%
+              May study spell [52]Light to 40%
+
+                                  Level 3
+              Has trained skill [53]Cast generic to at least 21%
+              Has trained skill [54]Cast psionic to at least 21%
+              Has trained skill [55]Mana control to at least 30%
+              Has studied spell [56]Mind blast to at least 30%
+              Has studied spell [57]Darkness to at least 20%
+              Has studied spell [58]Light to at least 20%
+              May train skill [59]Cast generic to 37%
+              May train skill [60]Cast psionic to 37%
+              May train skill [61]Cast control to 37%
+              May train skill [62]Mana control to 60%
+              May train skill [63]Attack to 27%
+              May train skill [64]Consider to 60%
+              May train skill [65]Short blades to 27%
+              May study spell [66]Mind blast to 60%
+              May study spell [67]Mirror image to 60%
+              May study spell [68]Darkness to 60%
+              May study spell [69]Light to 60%
+
+                                  Level 4
+              Has trained skill [70]Cast generic to at least 27%
+              Has trained skill [71]Cast psionic to at least 27%
+              Has trained skill [72]Mana control to at least 45%
+              Has studied spell [73]Mind blast to at least 45%
+              Has studied spell [74]Darkness to at least 30%
+              Has studied spell [75]Light to at least 30%
+              May train skill [76]Cast generic to 46%
+              May train skill [77]Cast psionic to 46%
+              May train skill [78]Cast control to 46%
+              May train skill [79]Mana control to 80%
+              May train skill [80]Attack to 31%
+              May train skill [81]Consider to 80%
+              May train skill [82]Short blades to 30%
+              May study spell [83]Mind blast to 80%
+              May study spell [84]Mirror image to 80%
+              May study spell [85]Darkness to 80%
+              May study spell [86]Light to 80%
+              May study spell [87]Mental glance to 20%
+              May study spell [88]Force shield to 20%
+              May train skill [89]Meditation to 20%
+
+                                  Level 5
+            Has trained skill [90]Cast generic to at least 34%
+            Has trained skill [91]Cast psionic to at least 34%
+            Has trained skill [92]Mana control to at least 60%
+            Has studied spell [93]Mind blast to at least 60%
+            Has studied spell [94]Darkness to at least 40%
+            Has studied spell [95]Light to at least 40%
+            Has studied spell [96]Mental glance to at least 12%
+            Has studied spell [97]Force shield to at least 15%
+            Has trained skill [98]Meditation to at least 15%
+            May train skill [99]Cast generic to 55%
+            May train skill [100]Cast psionic to 55%
+            May train skill [101]Cast control to 55%
+            May train skill [102]Mana control to 100%
+            May train skill [103]Attack to 35%
+            May train skill [104]Consider to 100%
+            May train skill [105]Short blades to 34%
+            May study spell [106]Mind blast to 100%
+            May study spell [107]Mirror image to 100%
+            May study spell [108]Darkness to 100%
+            May study spell [109]Light to 100%
+            May study spell [110]Mental glance to 36%
+            May study spell [111]Force shield to 36%
+            May train skill [112]Meditation to 36%
+            May study spell [113]Levitation to 10%
+            May train skill [114]Knowledge of mental defence to 5%
+
+                                  Level 6
+            Has trained skill [115]Cast generic to at least 41%
+            Has trained skill [116]Cast psionic to at least 41%
+            Has studied spell [117]Mental glance to at least 21%
+            Has studied spell [118]Force shield to at least 27%
+            Has trained skill [119]Meditation to at least 27%
+            Has studied spell [120]Levitation to at least 7%
+            May train skill [121]Cast generic to 64%
+            May train skill [122]Cast psionic to 64%
+            May train skill [123]Cast control to 64%
+            May train skill [124]Attack to 39%
+            May train skill [125]Short blades to 37%
+            May study spell [126]Mental glance to 52%
+            May study spell [127]Force shield to 52%
+            May train skill [128]Meditation to 52%
+            May study spell [129]Levitation to 19%
+            May study spell [130]Mind development to 20%
+            May study spell [131]Floating letters to 20%
+            May train skill [132]Knowledge of mental defence to 8%
+
+                                 Level 7
+           Has trained skill [133]Cast generic to at least 48%
+           Has trained skill [134]Cast psionic to at least 48%
+           Has studied spell [135]Mental glance to at least 31%
+           Has studied spell [136]Force shield to at least 39%
+           Has trained skill [137]Meditation to at least 39%
+           Has studied spell [138]Levitation to at least 14%
+           Has studied spell [139]Mind development to at least 12%
+           May train skill [140]Cast generic to 73%
+           May train skill [141]Cast psionic to 73%
+           May train skill [142]Cast control to 73%
+           May train skill [143]Attack to 43%
+           May train skill [144]Short blades to 41%
+           May study spell [145]Mental glance to 68%
+           May study spell [146]Force shield to 68%
+           May train skill [147]Meditation to 68%
+           May study spell [148]Levitation to 28%
+           May study spell [149]Mind development to 36%
+           May study spell [150]Floating letters to 36%
+           May train skill [151]Knowledge of mental defence to 11%
+
+                                 Level 8
+           Has trained skill [152]Cast generic to at least 54%
+           Has trained skill [153]Cast psionic to at least 54%
+           Has studied spell [154]Mental glance to at least 40%
+           Has studied spell [155]Force shield to at least 51%
+           Has trained skill [156]Meditation to at least 51%
+           Has studied spell [157]Levitation to at least 21%
+           Has studied spell [158]Mind development to at least 21%
+           May train skill [159]Cast generic to 82%
+           May train skill [160]Cast psionic to 82%
+           May train skill [161]Cast control to 82%
+           May train skill [162]Attack to 47%
+           May train skill [163]Short blades to 44%
+           May study spell [164]Mental glance to 84%
+           May study spell [165]Force shield to 84%
+           May train skill [166]Meditation to 84%
+           May study spell [167]Levitation to 37%
+           May study spell [168]Mind development to 52%
+           May study spell [169]Floating letters to 52%
+           May study spell [170]Psibolt to 20%
+           May study spell [171]Psionic shield to 20%
+           May train skill [172]Cast protection to 20%
+           May study spell [173]Mindseize to 20%
+           May train skill [174]Knowledge of mental defence to 14%
+
+                                 Level 9
+           Has trained skill [175]Cast generic to at least 61%
+           Has trained skill [176]Cast psionic to at least 61%
+           Has studied spell [177]Mental glance to at least 50%
+           Has studied spell [178]Force shield to at least 63%
+           Has trained skill [179]Meditation to at least 63%
+           Has studied spell [180]Levitation to at least 27%
+           Has studied spell [181]Mind development to at least 31%
+           Has studied spell [182]Psibolt to at least 15%
+           Has studied spell [183]Psionic shield to at least 15%
+           Has trained skill [184]Cast protection to at least 15%
+           Has studied spell [185]Mindseize to at least 15%
+           May train skill [186]Cast generic to 91%
+           May train skill [187]Cast psionic to 91%
+           May train skill [188]Cast control to 91%
+           May train skill [189]Attack to 51%
+           May train skill [190]Short blades to 48%
+           May study spell [191]Mental glance to 100%
+           May study spell [192]Force shield to 100%
+           May train skill [193]Meditation to 100%
+           May study spell [194]Levitation to 46%
+           May study spell [195]Mind development to 68%
+           May study spell [196]Floating letters to 68%
+           May study spell [197]Psibolt to 36%
+           May study spell [198]Psionic shield to 36%
+           May train skill [199]Cast protection to 36%
+           May study spell [200]Mindseize to 30%
+           May train skill [201]Knowledge of mental defence to 17%
+
+                                 Level 10
+           Has trained skill [202]Cast generic to at least 68%
+           Has trained skill [203]Cast psionic to at least 68%
+           Has studied spell [204]Levitation to at least 34%
+           Has studied spell [205]Mind development to at least 40%
+           Has studied spell [206]Psibolt to at least 27%
+           Has studied spell [207]Psionic shield to at least 27%
+           Has trained skill [208]Cast protection to at least 27%
+           Has studied spell [209]Mindseize to at least 22%
+           May train skill [210]Cast generic to 100%
+           May train skill [211]Cast psionic to 100%
+           May train skill [212]Cast control to 100%
+           May train skill [213]Attack to 55%
+           May train skill [214]Short blades to 52%
+           May study spell [215]Levitation to 55%
+           May study spell [216]Mind development to 84%
+           May study spell [217]Floating letters to 84%
+           May study spell [218]Psibolt to 52%
+           May study spell [219]Psionic shield to 52%
+           May train skill [220]Cast protection to 52%
+           May study spell [221]Heal self to 20%
+           May train skill [222]Cast heal to 20%
+           May study spell [223]Mindseize to 40%
+           May train skill [224]Knowledge of mental defence to 20%
+
+                                 Level 11
+           Has studied spell [225]Levitation to at least 41%
+           Has studied spell [226]Mind development to at least 50%
+           Has studied spell [227]Psibolt to at least 39%
+           Has studied spell [228]Psionic shield to at least 39%
+           Has trained skill [229]Cast protection to at least 39%
+           Has studied spell [230]Mindseize to at least 30%
+           May train skill [231]Attack to 59%
+           May train skill [232]Short blades to 55%
+           May study spell [233]Levitation to 64%
+           May study spell [234]Mind development to 100%
+           May study spell [235]Floating letters to 100%
+           May study spell [236]Psibolt to 68%
+           May study spell [237]Psionic shield to 68%
+           May train skill [238]Cast protection to 68%
+           May study spell [239]Heal self to 36%
+           May train skill [240]Cast heal to 28%
+           May study spell [241]Mindseize to 50%
+           May train skill [242]Knowledge of mental defence to 23%
+
+                                 Level 12
+           Has studied spell [243]Levitation to at least 48%
+           Has studied spell [244]Psibolt to at least 51%
+           Has studied spell [245]Psionic shield to at least 51%
+           Has trained skill [246]Cast protection to at least 51%
+           Has studied spell [247]Mindseize to at least 37%
+           May train skill [248]Attack to 63%
+           May train skill [249]Short blades to 59%
+           May study spell [250]Levitation to 73%
+           May study spell [251]Psibolt to 84%
+           May study spell [252]Psionic shield to 84%
+           May train skill [253]Cast protection to 84%
+           May study spell [254]Heal self to 52%
+           May train skill [255]Cast heal to 36%
+           May study spell [256]Feather weight to 20%
+           May study spell [257]Transmute self to 20%
+           May study spell [258]Mindseize to 60%
+           May train skill [259]Knowledge of mental defence to 27%
+
+                                 Level 13
+           Has studied spell [260]Levitation to at least 54%
+           Has studied spell [261]Psibolt to at least 63%
+           Has studied spell [262]Psionic shield to at least 63%
+           Has trained skill [263]Cast protection to at least 63%
+           Has studied spell [264]Transmute self to at least 12%
+           Has studied spell [265]Mindseize to at least 45%
+           May train skill [266]Attack to 67%
+           May train skill [267]Short blades to 62%
+           May study spell [268]Levitation to 82%
+           May study spell [269]Psibolt to 100%
+           May study spell [270]Psionic shield to 100%
+           May train skill [271]Cast protection to 100%
+           May study spell [272]Heal self to 68%
+           May train skill [273]Cast heal to 44%
+           May study spell [274]Feather weight to 36%
+           May study spell [275]Transmute self to 36%
+           May study spell [276]Invisibility to 20%
+           May study spell [277]Mindseize to 70%
+           May train skill [278]Knowledge of mental defence to 30%
+
+                                 Level 14
+           Has studied spell [279]Levitation to at least 61%
+           Has studied spell [280]Transmute self to at least 21%
+           Has studied spell [281]Invisibility to at least 15%
+           Has studied spell [282]Mindseize to at least 52%
+           May train skill [283]Attack to 71%
+           May train skill [284]Short blades to 66%
+           May study spell [285]Levitation to 91%
+           May study spell [286]Heal self to 84%
+           May train skill [287]Cast heal to 52%
+           May study spell [288]Feather weight to 52%
+           May study spell [289]Transmute self to 52%
+           May study spell [290]Invisibility to 31%
+           May study spell [291]Mindseize to 80%
+           May train skill [292]Knowledge of mental defence to 33%
+
+                                 Level 15
+           Has studied spell [293]Levitation to at least 68%
+           Has studied spell [294]Transmute self to at least 31%
+           Has studied spell [295]Invisibility to at least 23%
+           Has studied spell [296]Mindseize to at least 60%
+           May train skill [297]Attack to 75%
+           May train skill [298]Short blades to 70%
+           May study spell [299]Levitation to 100%
+           May study spell [300]Heal self to 100%
+           May train skill [301]Cast heal to 60%
+           May study spell [302]Feather weight to 68%
+           May study spell [303]Transmute self to 68%
+           May study spell [304]Invisibility to 42%
+           May study spell [305]Psi blast to 20%
+           May study spell [306]Terror to 20%
+           May train skill [307]Quick chant to 20%
+           May study spell [308]Unstable mutation to 20%
+           May study spell [309]Mindseize to 90%
+           May train skill [310]Knowledge of mental defence to 36%
+
+                                 Level 16
+           Has studied spell [311]Transmute self to at least 40%
+           Has studied spell [312]Invisibility to at least 31%
+           Has studied spell [313]Psi blast to at least 15%
+           Has studied spell [314]Terror to at least 15%
+           Has studied spell [315]Mindseize to at least 67%
+           May study spell [316]Feather weight to 84%
+           May study spell [317]Transmute self to 84%
+           May study spell [318]Invisibility to 54%
+           May study spell [319]Psi blast to 36%
+           May study spell [320]Terror to 36%
+           May train skill [321]Quick chant to 26%
+           May study spell [322]Unstable mutation to 36%
+           May study spell [323]Mindseize to 100%
+           May train skill [324]Knowledge of mental defence to 39%
+
+                                 Level 17
+           Has studied spell [325]Transmute self to at least 50%
+           Has studied spell [326]Invisibility to at least 40%
+           Has studied spell [327]Psi blast to at least 27%
+           Has studied spell [328]Terror to at least 27%
+           May study spell [329]Feather weight to 100%
+           May study spell [330]Transmute self to 100%
+           May study spell [331]Invisibility to 65%
+           May study spell [332]Psi blast to 52%
+           May study spell [333]Terror to 52%
+           May train skill [334]Quick chant to 32%
+           May study spell [335]Unstable mutation to 52%
+           May study spell [336]Phaze shift to 20%
+           May study spell [337]Mind store to 20%
+           May study spell [338]There not there to 20%
+           May train skill [339]Knowledge of mental defence to 42%
+
+                                 Level 18
+           Has studied spell [340]Invisibility to at least 48%
+           Has studied spell [341]Psi blast to at least 39%
+           Has studied spell [342]Terror to at least 39%
+           Has studied spell [343]Phaze shift to at least 12%
+           Has studied spell [344]Mind store to at least 12%
+           Has studied spell [345]There not there to at least 12%
+           May study spell [346]Invisibility to 77%
+           May study spell [347]Psi blast to 68%
+           May study spell [348]Terror to 68%
+           May train skill [349]Quick chant to 38%
+           May study spell [350]Unstable mutation to 68%
+           May study spell [351]Phaze shift to 36%
+           May study spell [352]Mind store to 36%
+           May study spell [353]There not there to 36%
+           May train skill [354]Knowledge of mental defence to 46%
+
+                                 Level 19
+           Has studied spell [355]Invisibility to at least 57%
+           Has studied spell [356]Psi blast to at least 51%
+           Has studied spell [357]Terror to at least 51%
+           Has studied spell [358]Phaze shift to at least 21%
+           Has studied spell [359]Mind store to at least 21%
+           Has studied spell [360]There not there to at least 21%
+           May study spell [361]Invisibility to 88%
+           May study spell [362]Psi blast to 84%
+           May study spell [363]Terror to 84%
+           May train skill [364]Quick chant to 44%
+           May study spell [365]Unstable mutation to 84%
+           May study spell [366]Phaze shift to 52%
+           May study spell [367]Mind store to 52%
+           May study spell [368]There not there to 52%
+           May study spell [369]Forget to 20%
+           May study spell [370]Force dome to 20%
+           May train skill [371]Essence eye to 20%
+           May train skill [372]Knowledge of mental defence to 49%
+
+                                 Level 20
+           Has studied spell [373]Invisibility to at least 66%
+           Has studied spell [374]Psi blast to at least 63%
+           Has studied spell [375]Terror to at least 63%
+           Has studied spell [376]Phaze shift to at least 31%
+           Has studied spell [377]Mind store to at least 31%
+           Has studied spell [378]There not there to at least 31%
+           Has studied spell [379]Forget to at least 15%
+           Has studied spell [380]Force dome to at least 12%
+           May study spell [381]Invisibility to 100%
+           May study spell [382]Psi blast to 100%
+           May study spell [383]Terror to 100%
+           May train skill [384]Quick chant to 50%
+           May study spell [385]Unstable mutation to 100%
+           May study spell [386]Phaze shift to 68%
+           May study spell [387]Mind store to 68%
+           May study spell [388]There not there to 68%
+           May study spell [389]Forget to 36%
+           May study spell [390]Force dome to 36%
+           May train skill [391]Essence eye to 36%
+           May train skill [392]Knowledge of mental defence to 52%
+
+                                 Level 21
+           Has studied spell [393]Phaze shift to at least 40%
+           Has studied spell [394]Mind store to at least 40%
+           Has studied spell [395]There not there to at least 40%
+           Has studied spell [396]Forget to at least 27%
+           Has studied spell [397]Force dome to at least 21%
+           May study spell [398]Phaze shift to 84%
+           May study spell [399]Mind store to 84%
+           May study spell [400]There not there to 84%
+           May study spell [401]Forget to 52%
+           May study spell [402]Force dome to 52%
+           May train skill [403]Essence eye to 52%
+           May train skill [404]Knowledge of mental defence to 55%
+
+                                 Level 22
+           Has studied spell [405]Phaze shift to at least 50%
+           Has studied spell [406]Mind store to at least 50%
+           Has studied spell [407]There not there to at least 50%
+           Has studied spell [408]Forget to at least 39%
+           Has studied spell [409]Force dome to at least 31%
+           May study spell [410]Phaze shift to 100%
+           May study spell [411]Mind store to 100%
+           May study spell [412]There not there to 100%
+           May study spell [413]Forget to 68%
+           May study spell [414]Force dome to 68%
+           May train skill [415]Essence eye to 68%
+           May study spell [416]Mind disruption to 20%
+           May study spell [417]Psychic shout to 20%
+           May study spell [418]Psychic purge to 20%
+           May train skill [419]Knowledge of mental defence to 58%
+
+                                 Level 23
+           Has studied spell [420]Forget to at least 51%
+           Has studied spell [421]Force dome to at least 40%
+           Has studied spell [422]Mind disruption to at least 15%
+           Has studied spell [423]Psychic shout to at least 15%
+           Has studied spell [424]Psychic purge to at least 15%
+           May study spell [425]Forget to 84%
+           May study spell [426]Force dome to 84%
+           May train skill [427]Essence eye to 84%
+           May study spell [428]Mind disruption to 36%
+           May study spell [429]Psychic shout to 36%
+           May study spell [430]Psychic purge to 26%
+           May train skill [431]Knowledge of mental defence to 61%
+
+                                 Level 24
+           Has studied spell [432]Forget to at least 63%
+           Has studied spell [433]Force dome to at least 50%
+           Has studied spell [434]Mind disruption to at least 27%
+           Has studied spell [435]Psychic shout to at least 27%
+           Has studied spell [436]Psychic purge to at least 19%
+           May study spell [437]Forget to 100%
+           May study spell [438]Force dome to 100%
+           May train skill [439]Essence eye to 100%
+           May study spell [440]Mind disruption to 52%
+           May study spell [441]Psychic shout to 52%
+           May study spell [442]Psychic purge to 32%
+           May train skill [443]Knowledge of mental defence to 65%
+
+                                 Level 25
+           Has studied spell [444]Mind disruption to at least 39%
+           Has studied spell [445]Psychic shout to at least 39%
+           Has studied spell [446]Psychic purge to at least 24%
+           May study spell [447]Mind disruption to 68%
+           May study spell [448]Psychic shout to 68%
+           May study spell [449]Psychic purge to 38%
+           May train skill [450]Conceal spellcasting to 20%
+           May study spell [451]Paralyze to 20%
+           May study spell [452]Psychic sanctuary to 20%
+           May train skill [453]Knowledge of mental defence to 68%
+
+                                 Level 26
+           Has studied spell [454]Mind disruption to at least 51%
+           Has studied spell [455]Psychic shout to at least 51%
+           Has studied spell [456]Psychic purge to at least 28%
+           Has studied spell [457]Paralyze to at least 15%
+           Has studied spell [458]Psychic sanctuary to at least 15%
+           May study spell [459]Mind disruption to 84%
+           May study spell [460]Psychic shout to 84%
+           May study spell [461]Psychic purge to 44%
+           May train skill [462]Conceal spellcasting to 36%
+           May study spell [463]Paralyze to 36%
+           May study spell [464]Psychic sanctuary to 40%
+           May train skill [465]Knowledge of mental defence to 71%
+
+                                 Level 27
+           Has studied spell [466]Mind disruption to at least 63%
+           Has studied spell [467]Psychic shout to at least 63%
+           Has studied spell [468]Psychic purge to at least 33%
+           Has studied spell [469]Paralyze to at least 27%
+           Has studied spell [470]Psychic sanctuary to at least 30%
+           May study spell [471]Mind disruption to 100%
+           May study spell [472]Psychic shout to 100%
+           May study spell [473]Psychic purge to 50%
+           May train skill [474]Conceal spellcasting to 52%
+           May study spell [475]Paralyze to 52%
+           May study spell [476]Psychic sanctuary to 60%
+           May study spell [477]Mental watch to 20%
+           May study spell [478]Field of fear to 20%
+           May train skill [479]Knowledge of mental defence to 74%
+
+                                 Level 28
+           Has studied spell [480]Psychic purge to at least 37%
+           Has studied spell [481]Paralyze to at least 39%
+           Has studied spell [482]Psychic sanctuary to at least 45%
+           Has studied spell [483]Mental watch to at least 12%
+           Has studied spell [484]Field of fear to at least 15%
+           May study spell [485]Psychic purge to 56%
+           May train skill [486]Conceal spellcasting to 68%
+           May study spell [487]Paralyze to 68%
+           May study spell [488]Psychic sanctuary to 80%
+           May study spell [489]Mental watch to 36%
+           May study spell [490]Field of fear to 36%
+           May train skill [491]Knowledge of mental defence to 77%
+
+                                 Level 29
+           Has studied spell [492]Psychic purge to at least 42%
+           Has studied spell [493]Paralyze to at least 51%
+           Has studied spell [494]Psychic sanctuary to at least 60%
+           Has studied spell [495]Mental watch to at least 21%
+           Has studied spell [496]Field of fear to at least 27%
+           May study spell [497]Psychic purge to 63%
+           May train skill [498]Conceal spellcasting to 84%
+           May study spell [499]Paralyze to 84%
+           May study spell [500]Psychic sanctuary to 100%
+           May study spell [501]Mental watch to 52%
+           May study spell [502]Field of fear to 52%
+           May study spell [503]Iron will to 20%
+           May study spell [504]Spellteaching to 20%
+           May study spell [505]Aura detection to 20%
+           May train skill [506]Cast information to 20%
+           May train skill [507]Knowledge of mental defence to 80%
+
+                                 Level 30
+           Has studied spell [508]Psychic purge to at least 47%
+           Has studied spell [509]Paralyze to at least 63%
+           Has studied spell [510]Mental watch to at least 31%
+           Has studied spell [511]Field of fear to at least 39%
+           Has studied spell [512]Iron will to at least 15%
+           Has studied spell [513]Spellteaching to at least 15%
+           Has studied spell [514]Aura detection to at least 12%
+           May study spell [515]Psychic purge to 69%
+           May train skill [516]Conceal spellcasting to 100%
+           May study spell [517]Paralyze to 100%
+           May study spell [518]Mental watch to 68%
+           May study spell [519]Field of fear to 68%
+           May study spell [520]Iron will to 33%
+           May study spell [521]Spellteaching to 36%
+           May study spell [522]Aura detection to 36%
+           May train skill [523]Cast information to 36%
+           May study spell [524]Psionic phalanx to 20%
+           May study spell [525]Psychic crush to 20%
+           May study spell [526]Psychic storm to 20%
+           May train skill [527]Theory of mental power to 20%
+           May train skill [528]Knowledge of mental defence to 84%
+
+                                 Level 31
+        Has studied spell [529]Psychic purge to at least 51%
+        Has studied spell [530]Mental watch to at least 40%
+        Has studied spell [531]Field of fear to at least 51%
+        Has studied spell [532]Iron will to at least 24%
+        Has studied spell [533]Spellteaching to at least 27%
+        Has studied spell [534]Aura detection to at least 21%
+        Has studied spell [535]Psionic phalanx to at least 12%
+        Has studied spell [536]Psychic crush to at least 15%
+        Has studied spell [537]Psychic storm to at least 15%
+        Has trained skill [538]Theory of mental power to at least 15%
+        May study spell [539]Psychic purge to 75%
+        May study spell [540]Mental watch to 84%
+        May study spell [541]Field of fear to 84%
+        May study spell [542]Iron will to 46%
+        May study spell [543]Spellteaching to 52%
+        May study spell [544]Aura detection to 52%
+        May train skill [545]Cast information to 52%
+        May study spell [546]Psionic phalanx to 36%
+        May study spell [547]Psychic crush to 36%
+        May study spell [548]Psychic storm to 36%
+        May train skill [549]Theory of mental power to 36%
+        May train skill [550]Knowledge of mental defence to 87%
+
+                                 Level 32
+        Has studied spell [551]Psychic purge to at least 56%
+        Has studied spell [552]Mental watch to at least 50%
+        Has studied spell [553]Field of fear to at least 63%
+        Has studied spell [554]Iron will to at least 34%
+        Has studied spell [555]Spellteaching to at least 39%
+        Has studied spell [556]Aura detection to at least 31%
+        Has studied spell [557]Psionic phalanx to at least 21%
+        Has studied spell [558]Psychic crush to at least 27%
+        Has studied spell [559]Psychic storm to at least 27%
+        Has trained skill [560]Theory of mental power to at least 27%
+        May study spell [561]Psychic purge to 81%
+        May study spell [562]Mental watch to 100%
+        May study spell [563]Field of fear to 100%
+        May study spell [564]Iron will to 59%
+        May study spell [565]Spellteaching to 68%
+        May study spell [566]Aura detection to 68%
+        May train skill [567]Cast information to 68%
+        May study spell [568]Psionic phalanx to 52%
+        May study spell [569]Psychic crush to 52%
+        May study spell [570]Psychic storm to 52%
+        May train skill [571]Theory of mental power to 52%
+        May train skill [572]Quick chant to 60%
+        May train skill [573]Knowledge of mental defence to 90%
+
+                                 Level 33
+        Has studied spell [574]Psychic purge to at least 60%
+        Has studied spell [575]Iron will to at least 44%
+        Has studied spell [576]Spellteaching to at least 51%
+        Has studied spell [577]Aura detection to at least 40%
+        Has studied spell [578]Psionic phalanx to at least 31%
+        Has studied spell [579]Psychic crush to at least 39%
+        Has studied spell [580]Psychic storm to at least 39%
+        Has trained skill [581]Theory of mental power to at least 39%
+        May study spell [582]Psychic purge to 87%
+        May study spell [583]Iron will to 73%
+        May study spell [584]Spellteaching to 84%
+        May study spell [585]Aura detection to 84%
+        May train skill [586]Cast information to 84%
+        May study spell [587]Psionic phalanx to 68%
+        May study spell [588]Psychic crush to 68%
+        May study spell [589]Psychic storm to 68%
+        May train skill [590]Theory of mental power to 68%
+        May train skill [591]Quick chant to 73%
+        May train skill [592]Knowledge of mental defence to 93%
+
+                                 Level 34
+        Has studied spell [593]Psychic purge to at least 65%
+        Has studied spell [594]Iron will to at least 54%
+        Has studied spell [595]Spellteaching to at least 63%
+        Has studied spell [596]Aura detection to at least 50%
+        Has studied spell [597]Psionic phalanx to at least 40%
+        Has studied spell [598]Psychic crush to at least 51%
+        Has studied spell [599]Psychic storm to at least 51%
+        Has trained skill [600]Theory of mental power to at least 51%
+        May study spell [601]Psychic purge to 93%
+        May study spell [602]Iron will to 86%
+        May study spell [603]Spellteaching to 100%
+        May study spell [604]Aura detection to 100%
+        May train skill [605]Cast information to 100%
+        May study spell [606]Psionic phalanx to 84%
+        May study spell [607]Psychic crush to 84%
+        May study spell [608]Psychic storm to 84%
+        May train skill [609]Theory of mental power to 84%
+        May train skill [610]Quick chant to 86%
+        May train skill [611]Damage criticality to 20%
+        May train skill [612]Knowledge of mental defence to 96%
+
+                                 Level 35
+        Has studied spell [613]Psychic purge to at least 69%
+        Has studied spell [614]Iron will to at least 64%
+        Has studied spell [615]Psionic phalanx to at least 50%
+        Has studied spell [616]Psychic crush to at least 63%
+        Has studied spell [617]Psychic storm to at least 63%
+        Has trained skill [618]Theory of mental power to at least 63%
+        May study spell [619]Psychic purge to 100%
+        May study spell [620]Iron will to 100%
+        May study spell [621]Psionic phalanx to 100%
+        May study spell [622]Psychic crush to 100%
+        May study spell [623]Psychic storm to 100%
+        May train skill [624]Theory of mental power to 100%
+        May train skill [625]Quick chant to 100%
+        May train skill [626]Damage criticality to 100%
+        May train skill [627]Knowledge of mental defence to 100%
+
+                   Allows joining to the following guild:
+                     The Psionicists
+
+   [628]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [629]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Psionicists&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Psionicists&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Psionicists&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=grimsh
+  23. http://www.bat.org/help/finger.php?str=blitzer
+  24. http://www.bat.org/help/finger.php?str=drakken
+  25. http://www.bat.org/help/skills.php?str=cast_generic
+  26. http://www.bat.org/help/skills.php?str=cast_psionic
+  27. http://www.bat.org/help/skills.php?str=cast_control
+  28. http://www.bat.org/help/skills.php?str=mana_control
+  29. http://www.bat.org/help/skills.php?str=attack
+  30. http://www.bat.org/help/skills.php?str=consider
+  31. http://www.bat.org/help/skills.php?str=short_blades
+  32. http://www.bat.org/help/spells.php?str=mind_blast
+  33. http://www.bat.org/help/spells.php?str=mirror_image
+  34. http://www.bat.org/help/spells.php?str=darkness
+  35. http://www.bat.org/help/spells.php?str=light
+  36. http://www.bat.org/help/skills.php?str=cast_generic
+  37. http://www.bat.org/help/skills.php?str=cast_psionic
+  38. http://www.bat.org/help/skills.php?str=mana_control
+  39. http://www.bat.org/help/spells.php?str=mind_blast
+  40. http://www.bat.org/help/spells.php?str=darkness
+  41. http://www.bat.org/help/spells.php?str=light
+  42. http://www.bat.org/help/skills.php?str=cast_generic
+  43. http://www.bat.org/help/skills.php?str=cast_psionic
+  44. http://www.bat.org/help/skills.php?str=cast_control
+  45. http://www.bat.org/help/skills.php?str=mana_control
+  46. http://www.bat.org/help/skills.php?str=attack
+  47. http://www.bat.org/help/skills.php?str=consider
+  48. http://www.bat.org/help/skills.php?str=short_blades
+  49. http://www.bat.org/help/spells.php?str=mind_blast
+  50. http://www.bat.org/help/spells.php?str=mirror_image
+  51. http://www.bat.org/help/spells.php?str=darkness
+  52. http://www.bat.org/help/spells.php?str=light
+  53. http://www.bat.org/help/skills.php?str=cast_generic
+  54. http://www.bat.org/help/skills.php?str=cast_psionic
+  55. http://www.bat.org/help/skills.php?str=mana_control
+  56. http://www.bat.org/help/spells.php?str=mind_blast
+  57. http://www.bat.org/help/spells.php?str=darkness
+  58. http://www.bat.org/help/spells.php?str=light
+  59. http://www.bat.org/help/skills.php?str=cast_generic
+  60. http://www.bat.org/help/skills.php?str=cast_psionic
+  61. http://www.bat.org/help/skills.php?str=cast_control
+  62. http://www.bat.org/help/skills.php?str=mana_control
+  63. http://www.bat.org/help/skills.php?str=attack
+  64. http://www.bat.org/help/skills.php?str=consider
+  65. http://www.bat.org/help/skills.php?str=short_blades
+  66. http://www.bat.org/help/spells.php?str=mind_blast
+  67. http://www.bat.org/help/spells.php?str=mirror_image
+  68. http://www.bat.org/help/spells.php?str=darkness
+  69. http://www.bat.org/help/spells.php?str=light
+  70. http://www.bat.org/help/skills.php?str=cast_generic
+  71. http://www.bat.org/help/skills.php?str=cast_psionic
+  72. http://www.bat.org/help/skills.php?str=mana_control
+  73. http://www.bat.org/help/spells.php?str=mind_blast
+  74. http://www.bat.org/help/spells.php?str=darkness
+  75. http://www.bat.org/help/spells.php?str=light
+  76. http://www.bat.org/help/skills.php?str=cast_generic
+  77. http://www.bat.org/help/skills.php?str=cast_psionic
+  78. http://www.bat.org/help/skills.php?str=cast_control
+  79. http://www.bat.org/help/skills.php?str=mana_control
+  80. http://www.bat.org/help/skills.php?str=attack
+  81. http://www.bat.org/help/skills.php?str=consider
+  82. http://www.bat.org/help/skills.php?str=short_blades
+  83. http://www.bat.org/help/spells.php?str=mind_blast
+  84. http://www.bat.org/help/spells.php?str=mirror_image
+  85. http://www.bat.org/help/spells.php?str=darkness
+  86. http://www.bat.org/help/spells.php?str=light
+  87. http://www.bat.org/help/spells.php?str=mental_glance
+  88. http://www.bat.org/help/spells.php?str=force_shield
+  89. http://www.bat.org/help/skills.php?str=meditation
+  90. http://www.bat.org/help/skills.php?str=cast_generic
+  91. http://www.bat.org/help/skills.php?str=cast_psionic
+  92. http://www.bat.org/help/skills.php?str=mana_control
+  93. http://www.bat.org/help/spells.php?str=mind_blast
+  94. http://www.bat.org/help/spells.php?str=darkness
+  95. http://www.bat.org/help/spells.php?str=light
+  96. http://www.bat.org/help/spells.php?str=mental_glance
+  97. http://www.bat.org/help/spells.php?str=force_shield
+  98. http://www.bat.org/help/skills.php?str=meditation
+  99. http://www.bat.org/help/skills.php?str=cast_generic
+ 100. http://www.bat.org/help/skills.php?str=cast_psionic
+ 101. http://www.bat.org/help/skills.php?str=cast_control
+ 102. http://www.bat.org/help/skills.php?str=mana_control
+ 103. http://www.bat.org/help/skills.php?str=attack
+ 104. http://www.bat.org/help/skills.php?str=consider
+ 105. http://www.bat.org/help/skills.php?str=short_blades
+ 106. http://www.bat.org/help/spells.php?str=mind_blast
+ 107. http://www.bat.org/help/spells.php?str=mirror_image
+ 108. http://www.bat.org/help/spells.php?str=darkness
+ 109. http://www.bat.org/help/spells.php?str=light
+ 110. http://www.bat.org/help/spells.php?str=mental_glance
+ 111. http://www.bat.org/help/spells.php?str=force_shield
+ 112. http://www.bat.org/help/skills.php?str=meditation
+ 113. http://www.bat.org/help/spells.php?str=levitation
+ 114. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 115. http://www.bat.org/help/skills.php?str=cast_generic
+ 116. http://www.bat.org/help/skills.php?str=cast_psionic
+ 117. http://www.bat.org/help/spells.php?str=mental_glance
+ 118. http://www.bat.org/help/spells.php?str=force_shield
+ 119. http://www.bat.org/help/skills.php?str=meditation
+ 120. http://www.bat.org/help/spells.php?str=levitation
+ 121. http://www.bat.org/help/skills.php?str=cast_generic
+ 122. http://www.bat.org/help/skills.php?str=cast_psionic
+ 123. http://www.bat.org/help/skills.php?str=cast_control
+ 124. http://www.bat.org/help/skills.php?str=attack
+ 125. http://www.bat.org/help/skills.php?str=short_blades
+ 126. http://www.bat.org/help/spells.php?str=mental_glance
+ 127. http://www.bat.org/help/spells.php?str=force_shield
+ 128. http://www.bat.org/help/skills.php?str=meditation
+ 129. http://www.bat.org/help/spells.php?str=levitation
+ 130. http://www.bat.org/help/spells.php?str=mind_development
+ 131. http://www.bat.org/help/spells.php?str=floating_letters
+ 132. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 133. http://www.bat.org/help/skills.php?str=cast_generic
+ 134. http://www.bat.org/help/skills.php?str=cast_psionic
+ 135. http://www.bat.org/help/spells.php?str=mental_glance
+ 136. http://www.bat.org/help/spells.php?str=force_shield
+ 137. http://www.bat.org/help/skills.php?str=meditation
+ 138. http://www.bat.org/help/spells.php?str=levitation
+ 139. http://www.bat.org/help/spells.php?str=mind_development
+ 140. http://www.bat.org/help/skills.php?str=cast_generic
+ 141. http://www.bat.org/help/skills.php?str=cast_psionic
+ 142. http://www.bat.org/help/skills.php?str=cast_control
+ 143. http://www.bat.org/help/skills.php?str=attack
+ 144. http://www.bat.org/help/skills.php?str=short_blades
+ 145. http://www.bat.org/help/spells.php?str=mental_glance
+ 146. http://www.bat.org/help/spells.php?str=force_shield
+ 147. http://www.bat.org/help/skills.php?str=meditation
+ 148. http://www.bat.org/help/spells.php?str=levitation
+ 149. http://www.bat.org/help/spells.php?str=mind_development
+ 150. http://www.bat.org/help/spells.php?str=floating_letters
+ 151. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 152. http://www.bat.org/help/skills.php?str=cast_generic
+ 153. http://www.bat.org/help/skills.php?str=cast_psionic
+ 154. http://www.bat.org/help/spells.php?str=mental_glance
+ 155. http://www.bat.org/help/spells.php?str=force_shield
+ 156. http://www.bat.org/help/skills.php?str=meditation
+ 157. http://www.bat.org/help/spells.php?str=levitation
+ 158. http://www.bat.org/help/spells.php?str=mind_development
+ 159. http://www.bat.org/help/skills.php?str=cast_generic
+ 160. http://www.bat.org/help/skills.php?str=cast_psionic
+ 161. http://www.bat.org/help/skills.php?str=cast_control
+ 162. http://www.bat.org/help/skills.php?str=attack
+ 163. http://www.bat.org/help/skills.php?str=short_blades
+ 164. http://www.bat.org/help/spells.php?str=mental_glance
+ 165. http://www.bat.org/help/spells.php?str=force_shield
+ 166. http://www.bat.org/help/skills.php?str=meditation
+ 167. http://www.bat.org/help/spells.php?str=levitation
+ 168. http://www.bat.org/help/spells.php?str=mind_development
+ 169. http://www.bat.org/help/spells.php?str=floating_letters
+ 170. http://www.bat.org/help/spells.php?str=psibolt
+ 171. http://www.bat.org/help/spells.php?str=psionic_shield
+ 172. http://www.bat.org/help/skills.php?str=cast_protection
+ 173. http://www.bat.org/help/spells.php?str=mindseize
+ 174. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 175. http://www.bat.org/help/skills.php?str=cast_generic
+ 176. http://www.bat.org/help/skills.php?str=cast_psionic
+ 177. http://www.bat.org/help/spells.php?str=mental_glance
+ 178. http://www.bat.org/help/spells.php?str=force_shield
+ 179. http://www.bat.org/help/skills.php?str=meditation
+ 180. http://www.bat.org/help/spells.php?str=levitation
+ 181. http://www.bat.org/help/spells.php?str=mind_development
+ 182. http://www.bat.org/help/spells.php?str=psibolt
+ 183. http://www.bat.org/help/spells.php?str=psionic_shield
+ 184. http://www.bat.org/help/skills.php?str=cast_protection
+ 185. http://www.bat.org/help/spells.php?str=mindseize
+ 186. http://www.bat.org/help/skills.php?str=cast_generic
+ 187. http://www.bat.org/help/skills.php?str=cast_psionic
+ 188. http://www.bat.org/help/skills.php?str=cast_control
+ 189. http://www.bat.org/help/skills.php?str=attack
+ 190. http://www.bat.org/help/skills.php?str=short_blades
+ 191. http://www.bat.org/help/spells.php?str=mental_glance
+ 192. http://www.bat.org/help/spells.php?str=force_shield
+ 193. http://www.bat.org/help/skills.php?str=meditation
+ 194. http://www.bat.org/help/spells.php?str=levitation
+ 195. http://www.bat.org/help/spells.php?str=mind_development
+ 196. http://www.bat.org/help/spells.php?str=floating_letters
+ 197. http://www.bat.org/help/spells.php?str=psibolt
+ 198. http://www.bat.org/help/spells.php?str=psionic_shield
+ 199. http://www.bat.org/help/skills.php?str=cast_protection
+ 200. http://www.bat.org/help/spells.php?str=mindseize
+ 201. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 202. http://www.bat.org/help/skills.php?str=cast_generic
+ 203. http://www.bat.org/help/skills.php?str=cast_psionic
+ 204. http://www.bat.org/help/spells.php?str=levitation
+ 205. http://www.bat.org/help/spells.php?str=mind_development
+ 206. http://www.bat.org/help/spells.php?str=psibolt
+ 207. http://www.bat.org/help/spells.php?str=psionic_shield
+ 208. http://www.bat.org/help/skills.php?str=cast_protection
+ 209. http://www.bat.org/help/spells.php?str=mindseize
+ 210. http://www.bat.org/help/skills.php?str=cast_generic
+ 211. http://www.bat.org/help/skills.php?str=cast_psionic
+ 212. http://www.bat.org/help/skills.php?str=cast_control
+ 213. http://www.bat.org/help/skills.php?str=attack
+ 214. http://www.bat.org/help/skills.php?str=short_blades
+ 215. http://www.bat.org/help/spells.php?str=levitation
+ 216. http://www.bat.org/help/spells.php?str=mind_development
+ 217. http://www.bat.org/help/spells.php?str=floating_letters
+ 218. http://www.bat.org/help/spells.php?str=psibolt
+ 219. http://www.bat.org/help/spells.php?str=psionic_shield
+ 220. http://www.bat.org/help/skills.php?str=cast_protection
+ 221. http://www.bat.org/help/spells.php?str=heal_self
+ 222. http://www.bat.org/help/skills.php?str=cast_heal
+ 223. http://www.bat.org/help/spells.php?str=mindseize
+ 224. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 225. http://www.bat.org/help/spells.php?str=levitation
+ 226. http://www.bat.org/help/spells.php?str=mind_development
+ 227. http://www.bat.org/help/spells.php?str=psibolt
+ 228. http://www.bat.org/help/spells.php?str=psionic_shield
+ 229. http://www.bat.org/help/skills.php?str=cast_protection
+ 230. http://www.bat.org/help/spells.php?str=mindseize
+ 231. http://www.bat.org/help/skills.php?str=attack
+ 232. http://www.bat.org/help/skills.php?str=short_blades
+ 233. http://www.bat.org/help/spells.php?str=levitation
+ 234. http://www.bat.org/help/spells.php?str=mind_development
+ 235. http://www.bat.org/help/spells.php?str=floating_letters
+ 236. http://www.bat.org/help/spells.php?str=psibolt
+ 237. http://www.bat.org/help/spells.php?str=psionic_shield
+ 238. http://www.bat.org/help/skills.php?str=cast_protection
+ 239. http://www.bat.org/help/spells.php?str=heal_self
+ 240. http://www.bat.org/help/skills.php?str=cast_heal
+ 241. http://www.bat.org/help/spells.php?str=mindseize
+ 242. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 243. http://www.bat.org/help/spells.php?str=levitation
+ 244. http://www.bat.org/help/spells.php?str=psibolt
+ 245. http://www.bat.org/help/spells.php?str=psionic_shield
+ 246. http://www.bat.org/help/skills.php?str=cast_protection
+ 247. http://www.bat.org/help/spells.php?str=mindseize
+ 248. http://www.bat.org/help/skills.php?str=attack
+ 249. http://www.bat.org/help/skills.php?str=short_blades
+ 250. http://www.bat.org/help/spells.php?str=levitation
+ 251. http://www.bat.org/help/spells.php?str=psibolt
+ 252. http://www.bat.org/help/spells.php?str=psionic_shield
+ 253. http://www.bat.org/help/skills.php?str=cast_protection
+ 254. http://www.bat.org/help/spells.php?str=heal_self
+ 255. http://www.bat.org/help/skills.php?str=cast_heal
+ 256. http://www.bat.org/help/spells.php?str=feather_weight
+ 257. http://www.bat.org/help/spells.php?str=transmute_self
+ 258. http://www.bat.org/help/spells.php?str=mindseize
+ 259. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 260. http://www.bat.org/help/spells.php?str=levitation
+ 261. http://www.bat.org/help/spells.php?str=psibolt
+ 262. http://www.bat.org/help/spells.php?str=psionic_shield
+ 263. http://www.bat.org/help/skills.php?str=cast_protection
+ 264. http://www.bat.org/help/spells.php?str=transmute_self
+ 265. http://www.bat.org/help/spells.php?str=mindseize
+ 266. http://www.bat.org/help/skills.php?str=attack
+ 267. http://www.bat.org/help/skills.php?str=short_blades
+ 268. http://www.bat.org/help/spells.php?str=levitation
+ 269. http://www.bat.org/help/spells.php?str=psibolt
+ 270. http://www.bat.org/help/spells.php?str=psionic_shield
+ 271. http://www.bat.org/help/skills.php?str=cast_protection
+ 272. http://www.bat.org/help/spells.php?str=heal_self
+ 273. http://www.bat.org/help/skills.php?str=cast_heal
+ 274. http://www.bat.org/help/spells.php?str=feather_weight
+ 275. http://www.bat.org/help/spells.php?str=transmute_self
+ 276. http://www.bat.org/help/spells.php?str=invisibility
+ 277. http://www.bat.org/help/spells.php?str=mindseize
+ 278. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 279. http://www.bat.org/help/spells.php?str=levitation
+ 280. http://www.bat.org/help/spells.php?str=transmute_self
+ 281. http://www.bat.org/help/spells.php?str=invisibility
+ 282. http://www.bat.org/help/spells.php?str=mindseize
+ 283. http://www.bat.org/help/skills.php?str=attack
+ 284. http://www.bat.org/help/skills.php?str=short_blades
+ 285. http://www.bat.org/help/spells.php?str=levitation
+ 286. http://www.bat.org/help/spells.php?str=heal_self
+ 287. http://www.bat.org/help/skills.php?str=cast_heal
+ 288. http://www.bat.org/help/spells.php?str=feather_weight
+ 289. http://www.bat.org/help/spells.php?str=transmute_self
+ 290. http://www.bat.org/help/spells.php?str=invisibility
+ 291. http://www.bat.org/help/spells.php?str=mindseize
+ 292. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 293. http://www.bat.org/help/spells.php?str=levitation
+ 294. http://www.bat.org/help/spells.php?str=transmute_self
+ 295. http://www.bat.org/help/spells.php?str=invisibility
+ 296. http://www.bat.org/help/spells.php?str=mindseize
+ 297. http://www.bat.org/help/skills.php?str=attack
+ 298. http://www.bat.org/help/skills.php?str=short_blades
+ 299. http://www.bat.org/help/spells.php?str=levitation
+ 300. http://www.bat.org/help/spells.php?str=heal_self
+ 301. http://www.bat.org/help/skills.php?str=cast_heal
+ 302. http://www.bat.org/help/spells.php?str=feather_weight
+ 303. http://www.bat.org/help/spells.php?str=transmute_self
+ 304. http://www.bat.org/help/spells.php?str=invisibility
+ 305. http://www.bat.org/help/spells.php?str=psi_blast
+ 306. http://www.bat.org/help/spells.php?str=terror
+ 307. http://www.bat.org/help/skills.php?str=quick_chant
+ 308. http://www.bat.org/help/spells.php?str=unstable_mutation
+ 309. http://www.bat.org/help/spells.php?str=mindseize
+ 310. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 311. http://www.bat.org/help/spells.php?str=transmute_self
+ 312. http://www.bat.org/help/spells.php?str=invisibility
+ 313. http://www.bat.org/help/spells.php?str=psi_blast
+ 314. http://www.bat.org/help/spells.php?str=terror
+ 315. http://www.bat.org/help/spells.php?str=mindseize
+ 316. http://www.bat.org/help/spells.php?str=feather_weight
+ 317. http://www.bat.org/help/spells.php?str=transmute_self
+ 318. http://www.bat.org/help/spells.php?str=invisibility
+ 319. http://www.bat.org/help/spells.php?str=psi_blast
+ 320. http://www.bat.org/help/spells.php?str=terror
+ 321. http://www.bat.org/help/skills.php?str=quick_chant
+ 322. http://www.bat.org/help/spells.php?str=unstable_mutation
+ 323. http://www.bat.org/help/spells.php?str=mindseize
+ 324. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 325. http://www.bat.org/help/spells.php?str=transmute_self
+ 326. http://www.bat.org/help/spells.php?str=invisibility
+ 327. http://www.bat.org/help/spells.php?str=psi_blast
+ 328. http://www.bat.org/help/spells.php?str=terror
+ 329. http://www.bat.org/help/spells.php?str=feather_weight
+ 330. http://www.bat.org/help/spells.php?str=transmute_self
+ 331. http://www.bat.org/help/spells.php?str=invisibility
+ 332. http://www.bat.org/help/spells.php?str=psi_blast
+ 333. http://www.bat.org/help/spells.php?str=terror
+ 334. http://www.bat.org/help/skills.php?str=quick_chant
+ 335. http://www.bat.org/help/spells.php?str=unstable_mutation
+ 336. http://www.bat.org/help/spells.php?str=phaze_shift
+ 337. http://www.bat.org/help/spells.php?str=mind_store
+ 338. http://www.bat.org/help/spells.php?str=there_not_there
+ 339. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 340. http://www.bat.org/help/spells.php?str=invisibility
+ 341. http://www.bat.org/help/spells.php?str=psi_blast
+ 342. http://www.bat.org/help/spells.php?str=terror
+ 343. http://www.bat.org/help/spells.php?str=phaze_shift
+ 344. http://www.bat.org/help/spells.php?str=mind_store
+ 345. http://www.bat.org/help/spells.php?str=there_not_there
+ 346. http://www.bat.org/help/spells.php?str=invisibility
+ 347. http://www.bat.org/help/spells.php?str=psi_blast
+ 348. http://www.bat.org/help/spells.php?str=terror
+ 349. http://www.bat.org/help/skills.php?str=quick_chant
+ 350. http://www.bat.org/help/spells.php?str=unstable_mutation
+ 351. http://www.bat.org/help/spells.php?str=phaze_shift
+ 352. http://www.bat.org/help/spells.php?str=mind_store
+ 353. http://www.bat.org/help/spells.php?str=there_not_there
+ 354. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 355. http://www.bat.org/help/spells.php?str=invisibility
+ 356. http://www.bat.org/help/spells.php?str=psi_blast
+ 357. http://www.bat.org/help/spells.php?str=terror
+ 358. http://www.bat.org/help/spells.php?str=phaze_shift
+ 359. http://www.bat.org/help/spells.php?str=mind_store
+ 360. http://www.bat.org/help/spells.php?str=there_not_there
+ 361. http://www.bat.org/help/spells.php?str=invisibility
+ 362. http://www.bat.org/help/spells.php?str=psi_blast
+ 363. http://www.bat.org/help/spells.php?str=terror
+ 364. http://www.bat.org/help/skills.php?str=quick_chant
+ 365. http://www.bat.org/help/spells.php?str=unstable_mutation
+ 366. http://www.bat.org/help/spells.php?str=phaze_shift
+ 367. http://www.bat.org/help/spells.php?str=mind_store
+ 368. http://www.bat.org/help/spells.php?str=there_not_there
+ 369. http://www.bat.org/help/spells.php?str=forget
+ 370. http://www.bat.org/help/spells.php?str=force_dome
+ 371. http://www.bat.org/help/skills.php?str=essence_eye
+ 372. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 373. http://www.bat.org/help/spells.php?str=invisibility
+ 374. http://www.bat.org/help/spells.php?str=psi_blast
+ 375. http://www.bat.org/help/spells.php?str=terror
+ 376. http://www.bat.org/help/spells.php?str=phaze_shift
+ 377. http://www.bat.org/help/spells.php?str=mind_store
+ 378. http://www.bat.org/help/spells.php?str=there_not_there
+ 379. http://www.bat.org/help/spells.php?str=forget
+ 380. http://www.bat.org/help/spells.php?str=force_dome
+ 381. http://www.bat.org/help/spells.php?str=invisibility
+ 382. http://www.bat.org/help/spells.php?str=psi_blast
+ 383. http://www.bat.org/help/spells.php?str=terror
+ 384. http://www.bat.org/help/skills.php?str=quick_chant
+ 385. http://www.bat.org/help/spells.php?str=unstable_mutation
+ 386. http://www.bat.org/help/spells.php?str=phaze_shift
+ 387. http://www.bat.org/help/spells.php?str=mind_store
+ 388. http://www.bat.org/help/spells.php?str=there_not_there
+ 389. http://www.bat.org/help/spells.php?str=forget
+ 390. http://www.bat.org/help/spells.php?str=force_dome
+ 391. http://www.bat.org/help/skills.php?str=essence_eye
+ 392. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 393. http://www.bat.org/help/spells.php?str=phaze_shift
+ 394. http://www.bat.org/help/spells.php?str=mind_store
+ 395. http://www.bat.org/help/spells.php?str=there_not_there
+ 396. http://www.bat.org/help/spells.php?str=forget
+ 397. http://www.bat.org/help/spells.php?str=force_dome
+ 398. http://www.bat.org/help/spells.php?str=phaze_shift
+ 399. http://www.bat.org/help/spells.php?str=mind_store
+ 400. http://www.bat.org/help/spells.php?str=there_not_there
+ 401. http://www.bat.org/help/spells.php?str=forget
+ 402. http://www.bat.org/help/spells.php?str=force_dome
+ 403. http://www.bat.org/help/skills.php?str=essence_eye
+ 404. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 405. http://www.bat.org/help/spells.php?str=phaze_shift
+ 406. http://www.bat.org/help/spells.php?str=mind_store
+ 407. http://www.bat.org/help/spells.php?str=there_not_there
+ 408. http://www.bat.org/help/spells.php?str=forget
+ 409. http://www.bat.org/help/spells.php?str=force_dome
+ 410. http://www.bat.org/help/spells.php?str=phaze_shift
+ 411. http://www.bat.org/help/spells.php?str=mind_store
+ 412. http://www.bat.org/help/spells.php?str=there_not_there
+ 413. http://www.bat.org/help/spells.php?str=forget
+ 414. http://www.bat.org/help/spells.php?str=force_dome
+ 415. http://www.bat.org/help/skills.php?str=essence_eye
+ 416. http://www.bat.org/help/spells.php?str=mind_disruption
+ 417. http://www.bat.org/help/spells.php?str=psychic_shout
+ 418. http://www.bat.org/help/spells.php?str=psychic_purge
+ 419. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 420. http://www.bat.org/help/spells.php?str=forget
+ 421. http://www.bat.org/help/spells.php?str=force_dome
+ 422. http://www.bat.org/help/spells.php?str=mind_disruption
+ 423. http://www.bat.org/help/spells.php?str=psychic_shout
+ 424. http://www.bat.org/help/spells.php?str=psychic_purge
+ 425. http://www.bat.org/help/spells.php?str=forget
+ 426. http://www.bat.org/help/spells.php?str=force_dome
+ 427. http://www.bat.org/help/skills.php?str=essence_eye
+ 428. http://www.bat.org/help/spells.php?str=mind_disruption
+ 429. http://www.bat.org/help/spells.php?str=psychic_shout
+ 430. http://www.bat.org/help/spells.php?str=psychic_purge
+ 431. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 432. http://www.bat.org/help/spells.php?str=forget
+ 433. http://www.bat.org/help/spells.php?str=force_dome
+ 434. http://www.bat.org/help/spells.php?str=mind_disruption
+ 435. http://www.bat.org/help/spells.php?str=psychic_shout
+ 436. http://www.bat.org/help/spells.php?str=psychic_purge
+ 437. http://www.bat.org/help/spells.php?str=forget
+ 438. http://www.bat.org/help/spells.php?str=force_dome
+ 439. http://www.bat.org/help/skills.php?str=essence_eye
+ 440. http://www.bat.org/help/spells.php?str=mind_disruption
+ 441. http://www.bat.org/help/spells.php?str=psychic_shout
+ 442. http://www.bat.org/help/spells.php?str=psychic_purge
+ 443. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 444. http://www.bat.org/help/spells.php?str=mind_disruption
+ 445. http://www.bat.org/help/spells.php?str=psychic_shout
+ 446. http://www.bat.org/help/spells.php?str=psychic_purge
+ 447. http://www.bat.org/help/spells.php?str=mind_disruption
+ 448. http://www.bat.org/help/spells.php?str=psychic_shout
+ 449. http://www.bat.org/help/spells.php?str=psychic_purge
+ 450. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 451. http://www.bat.org/help/spells.php?str=paralyze
+ 452. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 453. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 454. http://www.bat.org/help/spells.php?str=mind_disruption
+ 455. http://www.bat.org/help/spells.php?str=psychic_shout
+ 456. http://www.bat.org/help/spells.php?str=psychic_purge
+ 457. http://www.bat.org/help/spells.php?str=paralyze
+ 458. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 459. http://www.bat.org/help/spells.php?str=mind_disruption
+ 460. http://www.bat.org/help/spells.php?str=psychic_shout
+ 461. http://www.bat.org/help/spells.php?str=psychic_purge
+ 462. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 463. http://www.bat.org/help/spells.php?str=paralyze
+ 464. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 465. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 466. http://www.bat.org/help/spells.php?str=mind_disruption
+ 467. http://www.bat.org/help/spells.php?str=psychic_shout
+ 468. http://www.bat.org/help/spells.php?str=psychic_purge
+ 469. http://www.bat.org/help/spells.php?str=paralyze
+ 470. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 471. http://www.bat.org/help/spells.php?str=mind_disruption
+ 472. http://www.bat.org/help/spells.php?str=psychic_shout
+ 473. http://www.bat.org/help/spells.php?str=psychic_purge
+ 474. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 475. http://www.bat.org/help/spells.php?str=paralyze
+ 476. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 477. http://www.bat.org/help/spells.php?str=mental_watch
+ 478. http://www.bat.org/help/spells.php?str=field_of_fear
+ 479. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 480. http://www.bat.org/help/spells.php?str=psychic_purge
+ 481. http://www.bat.org/help/spells.php?str=paralyze
+ 482. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 483. http://www.bat.org/help/spells.php?str=mental_watch
+ 484. http://www.bat.org/help/spells.php?str=field_of_fear
+ 485. http://www.bat.org/help/spells.php?str=psychic_purge
+ 486. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 487. http://www.bat.org/help/spells.php?str=paralyze
+ 488. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 489. http://www.bat.org/help/spells.php?str=mental_watch
+ 490. http://www.bat.org/help/spells.php?str=field_of_fear
+ 491. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 492. http://www.bat.org/help/spells.php?str=psychic_purge
+ 493. http://www.bat.org/help/spells.php?str=paralyze
+ 494. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 495. http://www.bat.org/help/spells.php?str=mental_watch
+ 496. http://www.bat.org/help/spells.php?str=field_of_fear
+ 497. http://www.bat.org/help/spells.php?str=psychic_purge
+ 498. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 499. http://www.bat.org/help/spells.php?str=paralyze
+ 500. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 501. http://www.bat.org/help/spells.php?str=mental_watch
+ 502. http://www.bat.org/help/spells.php?str=field_of_fear
+ 503. http://www.bat.org/help/spells.php?str=iron_will
+ 504. http://www.bat.org/help/spells.php?str=spellteaching
+ 505. http://www.bat.org/help/spells.php?str=aura_detection
+ 506. http://www.bat.org/help/skills.php?str=cast_information
+ 507. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 508. http://www.bat.org/help/spells.php?str=psychic_purge
+ 509. http://www.bat.org/help/spells.php?str=paralyze
+ 510. http://www.bat.org/help/spells.php?str=mental_watch
+ 511. http://www.bat.org/help/spells.php?str=field_of_fear
+ 512. http://www.bat.org/help/spells.php?str=iron_will
+ 513. http://www.bat.org/help/spells.php?str=spellteaching
+ 514. http://www.bat.org/help/spells.php?str=aura_detection
+ 515. http://www.bat.org/help/spells.php?str=psychic_purge
+ 516. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 517. http://www.bat.org/help/spells.php?str=paralyze
+ 518. http://www.bat.org/help/spells.php?str=mental_watch
+ 519. http://www.bat.org/help/spells.php?str=field_of_fear
+ 520. http://www.bat.org/help/spells.php?str=iron_will
+ 521. http://www.bat.org/help/spells.php?str=spellteaching
+ 522. http://www.bat.org/help/spells.php?str=aura_detection
+ 523. http://www.bat.org/help/skills.php?str=cast_information
+ 524. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 525. http://www.bat.org/help/spells.php?str=psychic_crush
+ 526. http://www.bat.org/help/spells.php?str=psychic_storm
+ 527. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 528. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 529. http://www.bat.org/help/spells.php?str=psychic_purge
+ 530. http://www.bat.org/help/spells.php?str=mental_watch
+ 531. http://www.bat.org/help/spells.php?str=field_of_fear
+ 532. http://www.bat.org/help/spells.php?str=iron_will
+ 533. http://www.bat.org/help/spells.php?str=spellteaching
+ 534. http://www.bat.org/help/spells.php?str=aura_detection
+ 535. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 536. http://www.bat.org/help/spells.php?str=psychic_crush
+ 537. http://www.bat.org/help/spells.php?str=psychic_storm
+ 538. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 539. http://www.bat.org/help/spells.php?str=psychic_purge
+ 540. http://www.bat.org/help/spells.php?str=mental_watch
+ 541. http://www.bat.org/help/spells.php?str=field_of_fear
+ 542. http://www.bat.org/help/spells.php?str=iron_will
+ 543. http://www.bat.org/help/spells.php?str=spellteaching
+ 544. http://www.bat.org/help/spells.php?str=aura_detection
+ 545. http://www.bat.org/help/skills.php?str=cast_information
+ 546. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 547. http://www.bat.org/help/spells.php?str=psychic_crush
+ 548. http://www.bat.org/help/spells.php?str=psychic_storm
+ 549. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 550. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 551. http://www.bat.org/help/spells.php?str=psychic_purge
+ 552. http://www.bat.org/help/spells.php?str=mental_watch
+ 553. http://www.bat.org/help/spells.php?str=field_of_fear
+ 554. http://www.bat.org/help/spells.php?str=iron_will
+ 555. http://www.bat.org/help/spells.php?str=spellteaching
+ 556. http://www.bat.org/help/spells.php?str=aura_detection
+ 557. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 558. http://www.bat.org/help/spells.php?str=psychic_crush
+ 559. http://www.bat.org/help/spells.php?str=psychic_storm
+ 560. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 561. http://www.bat.org/help/spells.php?str=psychic_purge
+ 562. http://www.bat.org/help/spells.php?str=mental_watch
+ 563. http://www.bat.org/help/spells.php?str=field_of_fear
+ 564. http://www.bat.org/help/spells.php?str=iron_will
+ 565. http://www.bat.org/help/spells.php?str=spellteaching
+ 566. http://www.bat.org/help/spells.php?str=aura_detection
+ 567. http://www.bat.org/help/skills.php?str=cast_information
+ 568. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 569. http://www.bat.org/help/spells.php?str=psychic_crush
+ 570. http://www.bat.org/help/spells.php?str=psychic_storm
+ 571. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 572. http://www.bat.org/help/skills.php?str=quick_chant
+ 573. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 574. http://www.bat.org/help/spells.php?str=psychic_purge
+ 575. http://www.bat.org/help/spells.php?str=iron_will
+ 576. http://www.bat.org/help/spells.php?str=spellteaching
+ 577. http://www.bat.org/help/spells.php?str=aura_detection
+ 578. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 579. http://www.bat.org/help/spells.php?str=psychic_crush
+ 580. http://www.bat.org/help/spells.php?str=psychic_storm
+ 581. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 582. http://www.bat.org/help/spells.php?str=psychic_purge
+ 583. http://www.bat.org/help/spells.php?str=iron_will
+ 584. http://www.bat.org/help/spells.php?str=spellteaching
+ 585. http://www.bat.org/help/spells.php?str=aura_detection
+ 586. http://www.bat.org/help/skills.php?str=cast_information
+ 587. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 588. http://www.bat.org/help/spells.php?str=psychic_crush
+ 589. http://www.bat.org/help/spells.php?str=psychic_storm
+ 590. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 591. http://www.bat.org/help/skills.php?str=quick_chant
+ 592. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 593. http://www.bat.org/help/spells.php?str=psychic_purge
+ 594. http://www.bat.org/help/spells.php?str=iron_will
+ 595. http://www.bat.org/help/spells.php?str=spellteaching
+ 596. http://www.bat.org/help/spells.php?str=aura_detection
+ 597. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 598. http://www.bat.org/help/spells.php?str=psychic_crush
+ 599. http://www.bat.org/help/spells.php?str=psychic_storm
+ 600. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 601. http://www.bat.org/help/spells.php?str=psychic_purge
+ 602. http://www.bat.org/help/spells.php?str=iron_will
+ 603. http://www.bat.org/help/spells.php?str=spellteaching
+ 604. http://www.bat.org/help/spells.php?str=aura_detection
+ 605. http://www.bat.org/help/skills.php?str=cast_information
+ 606. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 607. http://www.bat.org/help/spells.php?str=psychic_crush
+ 608. http://www.bat.org/help/spells.php?str=psychic_storm
+ 609. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 610. http://www.bat.org/help/skills.php?str=quick_chant
+ 611. http://www.bat.org/help/skills.php?str=damage_criticality
+ 612. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 613. http://www.bat.org/help/spells.php?str=psychic_purge
+ 614. http://www.bat.org/help/spells.php?str=iron_will
+ 615. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 616. http://www.bat.org/help/spells.php?str=psychic_crush
+ 617. http://www.bat.org/help/spells.php?str=psychic_storm
+ 618. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 619. http://www.bat.org/help/spells.php?str=psychic_purge
+ 620. http://www.bat.org/help/spells.php?str=iron_will
+ 621. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 622. http://www.bat.org/help/spells.php?str=psychic_crush
+ 623. http://www.bat.org/help/spells.php?str=psychic_storm
+ 624. http://www.bat.org/help/skills.php?str=theory_of_mental_power
+ 625. http://www.bat.org/help/skills.php?str=quick_chant
+ 626. http://www.bat.org/help/skills.php?str=damage_criticality
+ 627. http://www.bat.org/help/skills.php?str=knowledge_of_mental_defence
+ 628. http://www.bat.org/help/guilds.php
+ 629. mailto:webmaster@bat.org
+
+   Hidden links:
+ 630. http://www.bat.org/bat.php

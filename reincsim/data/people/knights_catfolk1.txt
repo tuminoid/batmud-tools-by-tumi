@@ -1,0 +1,57 @@
+Catfolk
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 15  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Compare                       |  92 |  92 | 100 |    53533 |
+| Controlled panic              |  50 |  92 |  50 |    (n/a) |
+| Riding                        |  50 |  92 |  50 |    (n/a) |
+| Cast generic                  |  79 |  92 | 100 |    37759 |
+| Cast help                     |  68 |  92 | 100 |    19603 |
+| Cast information              |  78 |  92 | 100 |    35618 |
+| Attack                        |  93 |  92 |  90 |    (n/a) |
+| Shield bash                   |  84 |  92 |  80 |    (n/a) |
+| Axes                          |  74 |  92 |  80 |    71226 |
+| Knowledge of identification   |  98 |  92 | 100 |   706568 |
+| Bludgeons                     |  81 |  92 |  80 |    (n/a) |
+| Combat riding                 |  81 |  92 |  75 |    (n/a) |
+| Mighty charge                 |  77 |  92 | 100 |    97395 |
+| Rescue                        |  35 |  92 |  75 |     4410 |
+| Find weakness                 |  31 |  92 |  50 |     3116 |
+| Long blades                   |  80 |  92 |  80 |    (n/a) |
+| Riposte                       |  51 |  92 | 100 |    18463 |
+| Combat damage analysis        |  81 |  92 | 100 |   169802 |
+| Elite guard                   |   0 |  92 | 100 |      162 |
+| Take prisoner                 |  87 |  92 | 100 |   266786 |
+| Leadership                    |  50 |  92 |  50 |    (n/a) |
+| Defiance                      |  92 |  92 | 100 |  1063617 |
+| Discipline                    |  50 |  92 | 100 |    21843 |
+| Enhance criticals             |  40 |  92 |  60 |    10114 |
+| Crushing blow                 |  81 |  92 | 100 |   217467 |
+| Power slash                   |  79 |  92 | 100 |   190237 |
+| Parry                         |  97 |  92 |  55 |    (n/a) |
+| Mastery of mounted combat     |  78 |  92 |  75 |    (n/a) |
+| Stunned maneuvers             |  60 |  92 | 100 |    59168 |
+| Combat sense                  |  92 |  92 |  80 |    (n/a) |
+| Forceful blow                 |  76 |  92 | 100 |   193315 |
+| Precise slash                 |  51 |  92 |  70 |    30598 |
+| Relentless                    |   0 |  92 |  40 |      221 |
+| Dodge                         |  60 |  92 |  40 |    (n/a) |
+| Skullsplitter                 |  54 |  92 | 100 |    45308 |
+| Turnblade                     |   0 |  92 |  50 |      253 |
+| Spell parry                   |  32 |  92 | 100 |     7038 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 15  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Arms lore                     |  61 |  86 | 100 |    24617 |
+| Summon mount                  |  85 |  86 | 100 |   114484 |
+| Heal mount                    |  77 |  86 | 100 |    83566 |
+| Noble mount                   |  55 |  86 | 100 |    29547 |
+| Protect mount                 |  72 |  86 | 100 |    99029 |
+| Summon squire                 |  14 |  86 | 100 |      565 |
+| Monster lore                  |  86 |  86 | 100 |  1131185 |
+`-----------------------------------------------------------'

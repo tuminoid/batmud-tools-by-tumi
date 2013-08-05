@@ -1,0 +1,65 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Essence eye                   |   0 |  96 | 100 |       13 |
+| Cardiac stimulation           |   0 |  96 | 100 |       21 |
+| Evil intent                   |   0 |  96 | 100 |       21 |
+| Baptize                       |   0 |  96 | 100 |       39 |
+| Mana control                  |   0 |  96 | 100 |       39 |
+| Cast control                  |   0 |  96 | 100 |       49 |
+| Cast evil                     |   0 |  96 | 100 |       49 |
+| Cast generic                  |   0 |  96 | 100 |       49 |
+| Cast harm                     |   0 |  96 | 100 |       49 |
+| Cast information              |   0 |  96 | 100 |       49 |
+| Cast magical                  |   0 |  96 | 100 |       49 |
+| Cast protection               |   0 |  96 | 100 |       49 |
+| Cast special                  |   0 |  96 | 100 |       49 |
+| Cast teleportation            |   0 |  96 | 100 |       49 |
+| Dark baptism                  |   0 |  96 | 100 |       49 |
+| Desecrate ground              |   0 |  96 |  80 |       52 |
+| Attack                        |  56 |  96 | 100 |     9921 |
+| Dark meditation               |   0 |  96 | 100 |       58 |
+| Ceremony                      |   0 |  96 | 100 |       72 |
+| Mastery of pain               |   0 |  96 | 100 |      105 |
+| Quick chant                   |   0 |  96 | 100 |      113 |
+| Location memory               |   0 |  96 | 100 |      157 |
+| Conceal spellcasting          |   0 |  96 | 100 |      176 |
+| Spiritual conduct             |   0 |  96 | 100 |      188 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Cure light wounds             |   0 |  68 |  95 |       49 |
+| Detect alignment              |   0 |  68 | 100 |       49 |
+| Cause light wounds            |   0 |  68 | 100 |       58 |
+| Damn armament                 |   0 |  68 | 100 |       58 |
+| Unholy matrimony              |   0 |  68 | 100 |       74 |
+| Bastardly balm                |   0 |  68 | 100 |       82 |
+| Last rites                    |   0 |  68 | 100 |       89 |
+| Make scar                     |   0 |  68 | 100 |       89 |
+| Protection from good          |   0 |  68 | 100 |       89 |
+| Energy drain                  |   0 |  68 |  60 |       97 |
+| Mana drain                    |   0 |  68 |  50 |       97 |
+| Mellon collie                 |   0 |  68 | 100 |      104 |
+| Detect misery                 |   0 |  68 | 100 |      118 |
+| Cure serious wounds           |   0 |  68 |  80 |      131 |
+| Aura of hate                  |   0 |  68 | 100 |      138 |
+| Raise dead                    |   0 |  68 | 100 |      144 |
+| Cause serious wounds          |   0 |  68 | 100 |      151 |
+| Pestilence                    |   0 |  68 | 100 |      157 |
+| Resurrect                     |   0 |  68 | 100 |      175 |
+| Cause critical wounds         |   0 |  68 | 100 |      187 |
+| Reanimation                   |   0 |  68 | 100 |      187 |
+| Hemorrhage                    |   0 |  68 | 100 |      238 |
+| Dispel good                   |   0 |  68 | 100 |      243 |
+| New body                      |   0 |  68 | 100 |      254 |
+| Go                            |   0 |  68 | 100 |      270 |
+| Mobile cannon                 |   0 |  68 | 100 |      285 |
+| Aneurysm                      |   0 |  68 | 100 |      301 |
+| Harm body                     |   0 |  68 | 100 |      373 |
+`-----------------------------------------------------------'

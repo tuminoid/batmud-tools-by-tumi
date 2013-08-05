@@ -1,0 +1,38 @@
+Ent
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 15  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Evaluate mount                |   0 |  98 |        5 |
+| Alertness                     |  40 |  75 |      613 |
+| Plant lore                    |   0 |  50 |       21 |
+| Hiking                        |  35 |  50 |      620 |
+| Riding                        |   0 |  98 |       28 |
+| Kick                          |  60 |  80 |     5789 |
+| Throw weight                  |  50 |  40 |    (n/a) |
+| Rebuke                        |   0 |  98 |       47 |
+| Attack                        |  75 |  70 |    (n/a) |
+| Butchering                    |   0 |  98 |       54 |
+| Make mount feed               |   0 |  98 |       63 |
+| Short blades                  |  73 |  90 |    40468 |
+| Trample                       |   0 |  98 |       91 |
+| Heel                          |   0 |  98 |       99 |
+| Refit mount gear              |   0 |  98 |       99 |
+| Stay                          |   0 |  98 |       99 |
+| Stab                          |  63 |  45 |    (n/a) |
+| Bludgeons                     |   0 |  90 |      170 |
+| Combat riding                 |   0 |  75 |      170 |
+| Pound                         |   0 |  45 |      211 |
+| Ride through flame            |   0 |  98 |      250 |
+| Ride through frost            |   0 |  98 |      250 |
+| Ride through pain             |   0 |  98 |      367 |
+| Tame mount                    |   0 |  98 |      570 |
+| Ride underground              |   0 |  -  |    (n/a) |
+| Parry                         |  60 |  25 |    (n/a) |
+| Guided strike                 |   0 |  -  |    (n/a) |
+| Stunned maneuvers             |  34 |  50 |    26406 |
+| Calm animal                   |   0 |  98 |     1581 |
+| Combat sense                  |  43 |  35 |    (n/a) |
+| Dodge                         |  60 |  25 |    (n/a) |
+`------------------------------------------------------'

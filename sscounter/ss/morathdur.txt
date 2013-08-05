@@ -1,0 +1,10 @@
+1: skillmax,spellmax,str,dex
+2: skillmax,spellmax,str
+3: skillmax,dex
+4: con,skillmax
+5: con,skillmax
+6: con,skillmax,str
+7: str,dex
+8: skillmax,str
+9: dex
+10: str

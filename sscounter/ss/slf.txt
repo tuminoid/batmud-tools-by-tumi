@@ -1,0 +1,23 @@
+name: Skeleton Liberation Front
+gms: Daran, Damogles, Poe, Marv, Locray and Mega
+maxlvl: 20
+1: skillmax,con,int,spellmax
+2: dex,con,skillmax,int
+3: con,dex,skillmax,int
+4: con,int,skillmax,dex
+5: con,int,skillmax,dex
+6: skillmax,int,spellmax,con
+7: dex,con,skillmax,int
+8: dex,wis,skillmax,con
+9: con,wis,spellmax,skillmax
+10: skillmax,int,spellmax,con
+11: dex,wis,skillmax,con
+12: dex,wis,con,skillmax
+13: con,wis,dex,str
+14: con,dex,str
+15: skillmax,parry ,wis,str
+16: skillmax,str,wis
+17: dex,con,str
+18: con,str,int
+19: con,str,wis
+20: skillmax,spellmax

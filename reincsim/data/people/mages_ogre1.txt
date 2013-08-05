@@ -1,0 +1,113 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  70 |  96 | 100 |     3508 |
+| Essence eye                   |   0 |  96 | 100 |       13 |
+| Zapping                       |   0 |  96 | 100 |       17 |
+| Wandmaking                    |   0 |  96 | 100 |       33 |
+| Mana control                  |   0 |  96 | 100 |       39 |
+| Cast acid                     |   0 |  96 | 100 |       49 |
+| Cast asphyxiation             |   0 |  96 | 100 |       49 |
+| Cast cold                     |   0 |  96 | 100 |       49 |
+| Cast electricity              |   0 |  96 | 100 |       49 |
+| Cast fire                     |   0 |  96 | 100 |       49 |
+| Cast generic                  |   0 |  96 | 100 |       49 |
+| Cast heal                     |   0 |  96 |  30 |       49 |
+| Cast magical                  |   0 |  96 | 100 |       49 |
+| Cast poison                   |   0 |  96 | 100 |       49 |
+| Cast protection               |   0 |  96 | 100 |       49 |
+| Cast teleportation            |   0 |  96 | 100 |       49 |
+| Attack                        |  56 |  96 |  40 |    (n/a) |
+| Short blades                  |  33 |  96 |  30 |    (n/a) |
+| Knowledge of asphyxiation     |   0 |  96 | 100 |      105 |
+| Knowledge of magic lore       |   0 |  96 | 100 |      105 |
+| Knowledge of toxicology       |   0 |  96 | 100 |      105 |
+| Mastery of arctic powers      |   0 |  96 | 100 |      105 |
+| Mastery of control            |   0 |  96 | 100 |      105 |
+| Theory of corrosion           |   0 |  96 | 100 |      105 |
+| Theory of electrical engineering|   0 |  96 | 100 |      105 |
+| Theory of pyromania           |   0 |  96 | 100 |      105 |
+| Quick chant                   |   0 |  96 | 100 |      113 |
+| Analysis of magic lore        |   0 |  96 | 100 |      138 |
+| Conceal spellcasting          |   0 |  96 | 100 |      176 |
+| Damage criticality            |   0 |  96 | 100 |      190 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Word of recall                |   0 |  68 | 100 |       39 |
+| Degenerate person             |   0 |  68 | 100 |       49 |
+| Floating letters              |   0 |  68 | 100 |       49 |
+| Darkness                      |   0 |  68 | 100 |       58 |
+| Floating                      |   0 |  68 | 100 |       58 |
+| Light                         |   0 |  68 | 100 |       58 |
+| Greater darkness              |   0 |  68 | 100 |       74 |
+| Greater light                 |   0 |  68 | 100 |       74 |
+| Enhance vision                |   0 |  68 | 100 |       89 |
+| Feather weight                |   0 |  68 | 100 |       89 |
+| Dimension door                |   0 |  68 | 100 |       97 |
+| Moon sense                    |   0 |  68 | 100 |      104 |
+| Summon                        |   0 |  68 | 100 |      111 |
+| Teleport with error           |   0 |  68 | 100 |      111 |
+| Mirror image                  |   0 |  68 | 100 |      118 |
+| Chill touch                   |   0 |  68 | 100 |      131 |
+| Disruption                    |   0 |  68 | 100 |      131 |
+| Flame arrow                   |   0 |  68 | 100 |      131 |
+| Heal self                     |   0 |  68 | 100 |      131 |
+| Magic missile                 |   0 |  68 | 100 |      131 |
+| Shocking grasp                |   0 |  68 | 100 |      131 |
+| Teleport without error        |   0 |  68 | 100 |      131 |
+| Thorn spray                   |   0 |  68 | 100 |      131 |
+| Vacuumbolt                    |   0 |  68 | 100 |      131 |
+| Heavy weight                  |   0 |  68 | 100 |      169 |
+| Acid wind                     |   0 |  68 | 100 |      187 |
+| Firebolt                      |   0 |  68 | 100 |      187 |
+| Flaming ice                   |   0 |  68 | 100 |      187 |
+| Lightning bolt                |   0 |  68 | 100 |      187 |
+| Poison blast                  |   0 |  68 | 100 |      187 |
+| Suffocation                   |   0 |  68 | 100 |      187 |
+| Summon lesser spores          |   0 |  68 | 100 |      187 |
+| Relocate                      |   0 |  68 | 100 |      210 |
+| Acid arrow                    |   0 |  68 | 100 |      216 |
+| Blast lightning               |   0 |  68 | 100 |      216 |
+| Chaos bolt                    |   0 |  68 | 100 |      216 |
+| Darkfire                      |   0 |  68 | 100 |      216 |
+| Fire blast                    |   0 |  68 | 100 |      216 |
+| Levin bolt                    |   0 |  68 | 100 |      216 |
+| Venom strike                  |   0 |  68 | 100 |      216 |
+| Invisibility                  |   0 |  68 | 100 |      222 |
+| Acid rain                     |   0 |  68 | 100 |      238 |
+| Acid ray                      |   0 |  68 | 100 |      238 |
+| Chain lightning               |   0 |  68 | 100 |      238 |
+| Cone of cold                  |   0 |  68 | 100 |      238 |
+| Forked lightning              |   0 |  68 | 100 |      238 |
+| Icebolt                       |   0 |  68 | 100 |      238 |
+| Magic wave                    |   0 |  68 | 100 |      238 |
+| Meteor blast                  |   0 |  68 | 100 |      238 |
+| Meteor swarm                  |   0 |  68 | 100 |      238 |
+| Poison spray                  |   0 |  68 | 100 |      238 |
+| Power blast                   |   0 |  68 | 100 |      238 |
+| Strangulation                 |   0 |  68 | 100 |      238 |
+| Summon greater spores         |   0 |  68 | 100 |      238 |
+| Vacuum ball                   |   0 |  68 | 100 |      238 |
+| Uncontrollable hideous laughter|   0 |  68 | 100 |      354 |
+| Acid blast                    |   0 |  68 | 100 |      515 |
+| Blast vacuum                  |   0 |  68 | 100 |      515 |
+| Cold ray                      |   0 |  68 | 100 |      515 |
+| Electrocution                 |   0 |  68 | 100 |      515 |
+| Golden arrow                  |   0 |  68 | 100 |      515 |
+| Lava blast                    |   0 |  68 | 100 |      515 |
+| Summon carnal spores          |   0 |  68 | 100 |      515 |
+| Acid storm                    |   0 |  68 | 100 |      528 |
+| Hailstorm                     |   0 |  68 | 100 |      528 |
+| Lava storm                    |   0 |  68 | 100 |      528 |
+| Lightning storm               |   0 |  68 | 100 |      528 |
+| Magic eruption                |   0 |  68 | 100 |      528 |
+| Vacuum globe                  |   0 |  68 | 100 |      528 |
+| Killing cloud                 |   0 |  68 | 100 |      532 |
+`-----------------------------------------------------------'

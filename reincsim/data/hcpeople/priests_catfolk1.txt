@@ -1,0 +1,64 @@
+Catfolk
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Essence eye                   |  60 |  92 |      712 |
+| Cardiac stimulation           |  35 |  92 |      187 |
+| Evil intent                   |  28 |  92 |      102 |
+| Baptize                       |  70 |  92 |     9490 |
+| Mana control                  |  78 |  92 |    18910 |
+| Cast control                  |  60 | 100 |     5433 |
+| Cast evil                     |   0 | 100 |       30 |
+| Cast generic                  |  90 | 100 |    72094 |
+| Cast harm                     |  75 | 100 |    19791 |
+| Cast information              |  60 | 100 |     5433 |
+| Cast magical                  |  22 | 100 |      204 |
+| Cast protection               |  55 | 100 |     3531 |
+| Cast special                  |  65 | 100 |     8359 |
+| Cast teleportation            |  45 | 100 |     1490 |
+| Dark baptism                  |   0 |  92 |       30 |
+| Desecrate ground              |  19 |  80 |      173 |
+| Attack                        |  92 |  92 |    (n/a) |
+| Dark meditation               |  16 |  92 |      151 |
+| Ceremony                      |  65 |  92 |    14060 |
+| Mastery of pain               |  43 | 100 |     4406 |
+| Quick chant                   |  78 | 100 |   105546 |
+| Conceal spellcasting          |  16 |  92 |      653 |
+| Location memory               |   0 |  92 |      398 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Cure light wounds             |  61 |  86 |     1770 |
+| Detect alignment              |   0 |  86 |       10 |
+| Cause light wounds            |  70 |  86 |     5643 |
+| Damn armament                 |  61 |  86 |     2597 |
+| Unholy matrimony              |   0 |  86 |       18 |
+| Bastardly balm                |   0 |  86 |       19 |
+| Make scar                     |   0 |  86 |       22 |
+| Protection from good          |   0 |  86 |       22 |
+| Last rites                    |  86 |  86 |    (n/a) |
+| Energy drain                  |  32 |  60 |      411 |
+| Mana drain                    |  43 |  50 |     1061 |
+| Mellon collie                 |  71 |  86 |    13313 |
+| Detect misery                 |  25 |  86 |      278 |
+| Cure serious wounds           |  80 |  80 |    (n/a) |
+| Aura of hate                  |  69 |  86 |    16261 |
+| Raise dead                    |  55 |  86 |     5022 |
+| Cause serious wounds          |  70 |  86 |    18868 |
+| Pestilence                    |   0 |  86 |       47 |
+| Resurrect                     |   0 |  86 |       56 |
+| Cause critical wounds         |  75 |  86 |    41302 |
+| Reanimation                   |   0 |  86 |       63 |
+| Hemorrhage                    |  51 |  86 |     8780 |
+| Dispel good                   |   0 |  86 |      115 |
+| New body                      |   0 |  86 |      124 |
+| Go                            |   0 |  86 |      148 |
+| Mobile cannon                 |   0 |  86 |      178 |
+| Aneurysm                      |   0 |  86 |      214 |
+| Harm body                     |   0 |  86 |      490 |
+`------------------------------------------------------'

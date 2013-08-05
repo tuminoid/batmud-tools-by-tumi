@@ -1,0 +1,96 @@
+
+/* layout.css (c) Tumi 2003-2006 */
+
+/* whole site title */
+
+div#title {
+	min-width: 36em;
+	margin-top: 1em;
+	margin-left: 0;
+	margin-right: 0;
+
+	padding-top: 1em;
+	padding-bottom: 1em;
+
+	border-top: 3px solid #dddddd;
+	border-bottom: 3px solid #dddddd;
+
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+}
+
+
+
+/* left side - menu + adsense */
+
+div#left {
+	width: 11em;
+	left: 0;
+	top: 100px;
+	display: block;
+	float: left;
+	margin-left: 0;
+}
+
+div#menu {
+	margin-left: 0;
+	padding-left: 1em;
+}
+
+div#login {
+	margin-left: 0;
+	padding-left: 1em;
+}
+
+div#submenu {
+	margin-left: 0;
+	padding-left: 1em;
+}
+
+div#google {
+	margin-left: 0;
+	margin-bottom: 2em;
+	padding-left: 1em;
+}
+
+
+
+
+/* right side - subtitle + content */
+
+div#right {
+	top: 100px;
+	display: block;
+	min-width: 400px;
+
+	margin-right: 0;
+	margin-left: 12em;
+}
+
+
+div#subtitle {
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-right: 1em;
+}
+
+
+div#content {
+	letter-spacing: 0.1em;
+}
+
+
+div#bottom {
+	text-align: center;
+}
+
+
+
+/* end of css */

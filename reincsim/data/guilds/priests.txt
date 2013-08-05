@@ -1,0 +1,1459 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                       [fonter.php?str=Evil+Priests]
+
+                                Evil Priests
+
+   Command: priests
+   Creator: [22]coren
+   Maximum level: 35
+   Description:
+   Evil Priests originally started as a small cult with few devoted
+   followers,
+   but over the years its strength, as well as the number of followers
+   increased.
+   Their hatred grew with every new member. They chose to follow several
+   evil
+   gods instead of being singularly devoted to any one specificly. But
+   they are
+   closest to Burglefloogah and Draen-Dalar in temperment. Draen-Dalar
+   accepts
+   any mortal who wishes to follow him, but his pledges must make a life
+   time
+   commitment to serve only evil. For this reason initiates to the guild
+   start
+   out serving only Draen-Dalar. Only after they obtain his blessings by
+   obtaining power and serving evil in its truest form can they expand
+   their
+   horizons and commit themselves to other gods for additional power.
+   Evil is a
+   general thing and everyone has a bit within them. The stronger the
+   evil the
+   better and the more powerful the priest. The High Priest is the gods'
+   main
+   link to the world therefore more powerful and has greater
+   responsibility
+   within the guild itself.
+   Both gods smile upon those who use their evil gifts to bring evil into
+   the
+   world, although it has been rumored that the harming of a newbie can
+   have dire
+   consequences. For a newbie's path is uncertain that soon in life, so
+   little,
+   if any, should be done to harm or hinder them. One should also strive
+   to be
+   evil incarnate and avoid those that are pure of heart. For a time of
+   reckoning
+   will come. And then the follower will truly know how they appear in
+   their gods
+   eyes...
+
+                                New Member
+               Alignment must be evil
+               Background must be evil_religious
+               The robes of death and destruction.
+               Be Powered by the force of The Darkness.
+               May study spell [23]Detect alignment to 30%
+               May study spell [24]Cause light wounds to 40%
+               May study spell [25]Cause serious wounds to 15%
+               May study spell [26]Energy drain to 5%
+               May study spell [27]Make scar to 5%
+               May study spell [28]Mana drain to 5%
+               May train skill [29]Attack to 10%
+               May train skill [30]Cast control to 10%
+               May train skill [31]Cast generic to 30%
+               May train skill [32]Cast harm to 30%
+               May train skill [33]Cast information to 20%
+               May train skill [34]Cast magical to 5%
+               May train skill [35]Cast protection to 5%
+               May train skill [36]Cast special to 10%
+               May train skill [37]Cast teleportation to 10%
+               May train skill [38]Ceremony to 30%
+               May train skill [39]Essence eye to 20%
+               May train skill [40]Mana control to 5%
+
+                                 Level 2
+          Has studied spell [41]Cause light wounds to at least 20%
+          Has studied spell [42]Cause serious wounds to at least 6%
+          Has trained skill [43]Cast harm to at least 18%
+          May study spell [44]Detect alignment to 47%
+          May study spell [45]Cause light wounds to 60%
+          May study spell [46]Cause serious wounds to 32%
+          May study spell [47]Energy drain to 11%
+          May study spell [48]Make scar to 12%
+          May study spell [49]Mana drain to 11%
+          May train skill [50]Attack to 25%
+          May train skill [51]Cast control to 21%
+          May train skill [52]Cast generic to 44%
+          May train skill [53]Cast harm to 41%
+          May train skill [54]Cast information to 31%
+          May train skill [55]Cast magical to 13%
+          May train skill [56]Cast protection to 15%
+          May train skill [57]Cast special to 22%
+          May train skill [58]Cast teleportation to 22%
+          May train skill [59]Ceremony to 41%
+          May train skill [60]Essence eye to 30%
+          May train skill [61]Mana control to 15%
+          May study spell [62]Cure light wounds to 5%
+          May study spell [63]Last rites to 10%
+          May train skill [64]Quick chant to 20%
+
+                                  Level 3
+          Has studied spell [65]Cause light wounds to at least 30%
+          Has studied spell [66]Cause serious wounds to at least 12%
+          Has trained skill [67]Cast harm to at least 24%
+          May study spell [68]Detect alignment to 65%
+          May study spell [69]Cause light wounds to 80%
+          May study spell [70]Cause serious wounds to 49%
+          May study spell [71]Energy drain to 18%
+          May study spell [72]Make scar to 19%
+          May study spell [73]Mana drain to 17%
+          May train skill [74]Attack to 40%
+          May train skill [75]Cast control to 32%
+          May train skill [76]Cast generic to 58%
+          May train skill [77]Cast harm to 53%
+          May train skill [78]Cast information to 42%
+          May train skill [79]Cast magical to 22%
+          May train skill [80]Cast protection to 26%
+          May train skill [81]Cast special to 35%
+          May train skill [82]Cast teleportation to 35%
+          May train skill [83]Ceremony to 53%
+          May train skill [84]Essence eye to 40%
+          May train skill [85]Mana control to 26%
+          May study spell [86]Cure light wounds to 16%
+          May study spell [87]Last rites to 21%
+          May train skill [88]Quick chant to 27%
+          May study spell [89]Mellon collie to 10%
+
+                                  Level 4
+          Has studied spell [90]Cause light wounds to at least 40%
+          Has studied spell [91]Cause serious wounds to at least 19%
+          Has trained skill [92]Cast harm to at least 31%
+          May study spell [93]Detect alignment to 82%
+          May study spell [94]Cause light wounds to 100%
+          May study spell [95]Cause serious wounds to 66%
+          May study spell [96]Energy drain to 25%
+          May study spell [97]Make scar to 26%
+          May study spell [98]Mana drain to 24%
+          May train skill [99]Attack to 55%
+          May train skill [100]Cast control to 43%
+          May train skill [101]Cast generic to 72%
+          May train skill [102]Cast harm to 64%
+          May train skill [103]Cast information to 54%
+          May train skill [104]Cast magical to 30%
+          May train skill [105]Cast protection to 36%
+          May train skill [106]Cast special to 48%
+          May train skill [107]Cast teleportation to 48%
+          May train skill [108]Ceremony to 64%
+          May train skill [109]Essence eye to 50%
+          May train skill [110]Mana control to 36%
+          May study spell [111]Cure light wounds to 27%
+          May study spell [112]Last rites to 32%
+          May train skill [113]Quick chant to 34%
+          May study spell [114]Mellon collie to 25%
+          May study spell [115]Cause critical wounds to 20%
+          May study spell [116]Damn armament to 10%
+
+                                 Level 5
+         Has studied spell [117]Cause serious wounds to at least 26%
+         Has trained skill [118]Cast harm to at least 38%
+         Has studied spell [119]Cause critical wounds to at least 7%
+         May study spell [120]Detect alignment to 100%
+         May study spell [121]Cause serious wounds to 83%
+         May study spell [122]Energy drain to 32%
+         May study spell [123]Make scar to 34%
+         May study spell [124]Mana drain to 30%
+         May train skill [125]Attack to 70%
+         May train skill [126]Cast control to 55%
+         May train skill [127]Cast generic to 86%
+         May train skill [128]Cast harm to 76%
+         May train skill [129]Cast information to 65%
+         May train skill [130]Cast magical to 39%
+         May train skill [131]Cast protection to 47%
+         May train skill [132]Cast special to 61%
+         May train skill [133]Cast teleportation to 61%
+         May train skill [134]Ceremony to 76%
+         May train skill [135]Essence eye to 60%
+         May train skill [136]Mana control to 47%
+         May study spell [137]Cure light wounds to 38%
+         May study spell [138]Last rites to 43%
+         May train skill [139]Quick chant to 41%
+         May study spell [140]Mellon collie to 40%
+         May study spell [141]Cause critical wounds to 33%
+         May study spell [142]Damn armament to 22%
+         May study spell [143]Aura of hate to 7%
+         May study spell [144]Cure serious wounds to 13%
+         May train skill [145]Baptize to 10%
+
+                                  Level 6
+         Has studied spell [146]Cause serious wounds to at least 33%
+         Has trained skill [147]Cast harm to at least 45%
+         Has studied spell [148]Cause critical wounds to at least 12%
+         Has studied spell [149]Aura of hate to at least 2%
+         May study spell [150]Cause serious wounds to 100%
+         May study spell [151]Energy drain to 39%
+         May study spell [152]Make scar to 41%
+         May study spell [153]Mana drain to 37%
+         May train skill [154]Attack to 85%
+         May train skill [155]Cast control to 66%
+         May train skill [156]Cast generic to 100%
+         May train skill [157]Cast harm to 88%
+         May train skill [158]Cast information to 77%
+         May train skill [159]Cast magical to 48%
+         May train skill [160]Cast protection to 57%
+         May train skill [161]Cast special to 74%
+         May train skill [162]Cast teleportation to 74%
+         May train skill [163]Ceremony to 88%
+         May train skill [164]Essence eye to 70%
+         May train skill [165]Mana control to 57%
+         May study spell [166]Cure light wounds to 50%
+         May study spell [167]Last rites to 55%
+         May train skill [168]Quick chant to 49%
+         May study spell [169]Mellon collie to 55%
+         May study spell [170]Cause critical wounds to 46%
+         May study spell [171]Damn armament to 35%
+         May study spell [172]Aura of hate to 18%
+         May study spell [173]Cure serious wounds to 24%
+         May train skill [174]Baptize to 25%
+
+                                  Level 7
+         Has trained skill [175]Cast harm to at least 52%
+         Has studied spell [176]Cause critical wounds to at least 17%
+         Has studied spell [177]Aura of hate to at least 5%
+         May study spell [178]Energy drain to 46%
+         May study spell [179]Make scar to 48%
+         May study spell [180]Mana drain to 43%
+         May train skill [181]Attack to 100%
+         May train skill [182]Cast control to 77%
+         May train skill [183]Cast harm to 100%
+         May train skill [184]Cast information to 88%
+         May train skill [185]Cast magical to 56%
+         May train skill [186]Cast protection to 68%
+         May train skill [187]Cast special to 87%
+         May train skill [188]Cast teleportation to 87%
+         May train skill [189]Ceremony to 100%
+         May train skill [190]Essence eye to 80%
+         May train skill [191]Mana control to 68%
+         May study spell [192]Cure light wounds to 61%
+         May study spell [193]Last rites to 66%
+         May train skill [194]Quick chant to 56%
+         May study spell [195]Mellon collie to 70%
+         May study spell [196]Cause critical wounds to 59%
+         May study spell [197]Damn armament to 48%
+         May study spell [198]Aura of hate to 30%
+         May study spell [199]Cure serious wounds to 35%
+         May train skill [200]Baptize to 40%
+
+                                  Level 8
+         Has studied spell [201]Cause critical wounds to at least 21%
+         Has studied spell [202]Aura of hate to at least 9%
+         May study spell [203]Energy drain to 53%
+         May study spell [204]Make scar to 56%
+         May study spell [205]Mana drain to 50%
+         May train skill [206]Cast control to 88%
+         May train skill [207]Cast information to 100%
+         May train skill [208]Cast magical to 65%
+         May train skill [209]Cast protection to 78%
+         May train skill [210]Cast special to 100%
+         May train skill [211]Cast teleportation to 100%
+         May train skill [212]Essence eye to 90%
+         May train skill [213]Mana control to 78%
+         May study spell [214]Cure light wounds to 72%
+         May study spell [215]Last rites to 77%
+         May train skill [216]Quick chant to 63%
+         May study spell [217]Mellon collie to 85%
+         May study spell [218]Cause critical wounds to 73%
+         May study spell [219]Damn armament to 61%
+         May study spell [220]Aura of hate to 41%
+         May study spell [221]Cure serious wounds to 46%
+         May train skill [222]Baptize to 55%
+         May study spell [223]Raise dead to 10%
+
+                                  Level 9
+         Has studied spell [224]Cause critical wounds to at least 27%
+         Has studied spell [225]Aura of hate to at least 12%
+         May study spell [226]Energy drain to 60%
+         May study spell [227]Make scar to 63%
+         May train skill [228]Cast control to 100%
+         May train skill [229]Cast magical to 74%
+         May train skill [230]Cast protection to 89%
+         May train skill [231]Essence eye to 100%
+         May train skill [232]Mana control to 89%
+         May study spell [233]Cure light wounds to 83%
+         May study spell [234]Last rites to 88%
+         May train skill [235]Quick chant to 70%
+         May study spell [236]Mellon collie to 100%
+         May study spell [237]Cause critical wounds to 86%
+         May study spell [238]Damn armament to 74%
+         May study spell [239]Aura of hate to 53%
+         May study spell [240]Cure serious wounds to 57%
+         May train skill [241]Baptize to 70%
+         May study spell [242]Raise dead to 19%
+
+                                 Level 10
+         Has studied spell [243]Cause critical wounds to at least 31%
+         Has studied spell [244]Aura of hate to at least 15%
+         May study spell [245]Make scar to 70%
+         May train skill [246]Cast magical to 82%
+         May train skill [247]Cast protection to 100%
+         May train skill [248]Mana control to 100%
+         May study spell [249]Cure light wounds to 95%
+         May study spell [250]Last rites to 100%
+         May train skill [251]Quick chant to 78%
+         May study spell [252]Cause critical wounds to 100%
+         May study spell [253]Damn armament to 87%
+         May study spell [254]Aura of hate to 65%
+         May study spell [255]Cure serious wounds to 68%
+         May train skill [256]Baptize to 85%
+         May study spell [257]Raise dead to 28%
+         May study spell [258]Hemorrhage to 15%
+         May study spell [259]Mobile cannon to 10%
+         May train skill [260]Dark meditation to 5%
+         May train skill [261]Location memory to 10%
+         May train skill [262]Conceal spellcasting to 5%
+
+                                 Level 11
+             Has studied spell [263]Aura of hate to at least 19%
+             Has studied spell [264]Hemorrhage to at least 6%
+             May study spell [265]Make scar to 78%
+             May train skill [266]Cast magical to 91%
+             May train skill [267]Quick chant to 85%
+             May study spell [268]Damn armament to 100%
+             May study spell [269]Aura of hate to 76%
+             May study spell [270]Cure serious wounds to 80%
+             May train skill [271]Baptize to 100%
+             May study spell [272]Raise dead to 37%
+             May study spell [273]Hemorrhage to 32%
+             May study spell [274]Mobile cannon to 22%
+             May train skill [275]Dark meditation to 8%
+             May train skill [276]Location memory to 22%
+             May train skill [277]Conceal spellcasting to 8%
+             May train skill [278]Cardiac stimulation to 10%
+             May train skill [279]Evil intent to 10%
+
+                                 Level 12
+             Has studied spell [280]Aura of hate to at least 22%
+             Has studied spell [281]Hemorrhage to at least 14%
+             May study spell [282]Make scar to 85%
+             May train skill [283]Cast magical to 100%
+             May train skill [284]Quick chant to 92%
+             May study spell [285]Aura of hate to 88%
+             May study spell [286]Raise dead to 46%
+             May study spell [287]Hemorrhage to 49%
+             May study spell [288]Mobile cannon to 35%
+             May train skill [289]Dark meditation to 12%
+             May train skill [290]Location memory to 35%
+             May train skill [291]Conceal spellcasting to 12%
+             May train skill [292]Cardiac stimulation to 22%
+             May train skill [293]Evil intent to 19%
+             May train skill [294]Desecrate ground to 9%
+             May study spell [295]Detect misery to 30%
+
+                                 Level 13
+            Has studied spell [296]Aura of hate to at least 26%
+            Has studied spell [297]Hemorrhage to at least 22%
+            Has trained skill [298]Desecrate ground to at least 5%
+            May study spell [299]Make scar to 92%
+            May train skill [300]Quick chant to 100%
+            May study spell [301]Aura of hate to 100%
+            May study spell [302]Raise dead to 55%
+            May study spell [303]Hemorrhage to 66%
+            May study spell [304]Mobile cannon to 48%
+            May train skill [305]Dark meditation to 16%
+            May train skill [306]Location memory to 48%
+            May train skill [307]Conceal spellcasting to 16%
+            May train skill [308]Cardiac stimulation to 35%
+            May train skill [309]Evil intent to 28%
+            May train skill [310]Desecrate ground to 19%
+            May study spell [311]Detect misery to 33%
+
+                                 Level 14
+           Has studied spell [312]Hemorrhage to at least 29%
+           Has trained skill [313]Desecrate ground to at least 11%
+           May study spell [314]Make scar to 100%
+           May study spell [315]Raise dead to 64%
+           May study spell [316]Hemorrhage to 83%
+           May study spell [317]Mobile cannon to 61%
+           May train skill [318]Dark meditation to 20%
+           May train skill [319]Location memory to 61%
+           May train skill [320]Conceal spellcasting to 20%
+           May train skill [321]Cardiac stimulation to 48%
+           May train skill [322]Evil intent to 37%
+           May train skill [323]Desecrate ground to 29%
+           May study spell [324]Aneurysm to 30%
+           May study spell [325]Detect misery to 37%
+
+                                 Level 15
+           Has studied spell [326]Hemorrhage to at least 37%
+           Has trained skill [327]Desecrate ground to at least 17%
+           Has studied spell [328]Aneurysm to at least 12%
+           May study spell [329]Raise dead to 73%
+           May study spell [330]Hemorrhage to 100%
+           May study spell [331]Mobile cannon to 74%
+           May train skill [332]Dark meditation to 24%
+           May train skill [333]Location memory to 74%
+           May train skill [334]Conceal spellcasting to 23%
+           May train skill [335]Cardiac stimulation to 61%
+           May train skill [336]Evil intent to 46%
+           May train skill [337]Desecrate ground to 39%
+           May study spell [338]Aneurysm to 35%
+           May study spell [339]Unholy matrimony to 10%
+           May train skill [340]Dark baptism to 10%
+           May study spell [341]Detect misery to 40%
+
+                                 Level 16
+           Has trained skill [342]Desecrate ground to at least 23%
+           Has studied spell [343]Aneurysm to at least 14%
+           May study spell [344]Raise dead to 82%
+           May study spell [345]Mobile cannon to 87%
+           May train skill [346]Dark meditation to 28%
+           May train skill [347]Location memory to 87%
+           May train skill [348]Conceal spellcasting to 27%
+           May train skill [349]Cardiac stimulation to 74%
+           May train skill [350]Evil intent to 55%
+           May train skill [351]Desecrate ground to 49%
+           May study spell [352]Aneurysm to 40%
+           May study spell [353]Unholy matrimony to 22%
+           May train skill [354]Dark baptism to 17%
+           May study spell [355]Detect misery to 44%
+
+                                 Level 17
+           Has trained skill [356]Desecrate ground to at least 29%
+           Has studied spell [357]Aneurysm to at least 16%
+           May study spell [358]Raise dead to 91%
+           May study spell [359]Mobile cannon to 100%
+           May train skill [360]Dark meditation to 32%
+           May train skill [361]Location memory to 100%
+           May train skill [362]Conceal spellcasting to 31%
+           May train skill [363]Cardiac stimulation to 87%
+           May train skill [364]Evil intent to 64%
+           May train skill [365]Desecrate ground to 59%
+           May study spell [366]Aneurysm to 46%
+           May study spell [367]Unholy matrimony to 35%
+           May train skill [368]Dark baptism to 25%
+           May study spell [369]Pestilence to 5%
+           May study spell [370]Detect misery to 47%
+
+                                 Level 18
+           Has trained skill [371]Desecrate ground to at least 35%
+           Has studied spell [372]Aneurysm to at least 18%
+           Has studied spell [373]Pestilence to at least 1%
+           May study spell [374]Raise dead to 100%
+           May train skill [375]Dark meditation to 36%
+           May train skill [376]Conceal spellcasting to 35%
+           May train skill [377]Cardiac stimulation to 100%
+           May train skill [378]Evil intent to 73%
+           May train skill [379]Desecrate ground to 69%
+           May study spell [380]Aneurysm to 51%
+           May study spell [381]Unholy matrimony to 48%
+           May train skill [382]Dark baptism to 32%
+           May study spell [383]Pestilence to 13%
+           May study spell [384]Detect misery to 51%
+
+                                 Level 19
+           Has trained skill [385]Desecrate ground to at least 41%
+           Has studied spell [386]Aneurysm to at least 20%
+           Has studied spell [387]Pestilence to at least 3%
+           May train skill [388]Dark meditation to 40%
+           May train skill [389]Conceal spellcasting to 39%
+           May train skill [390]Evil intent to 82%
+           May train skill [391]Desecrate ground to 80%
+           May study spell [392]Aneurysm to 56%
+           May study spell [393]Unholy matrimony to 61%
+           May train skill [394]Dark baptism to 40%
+           May study spell [395]Pestilence to 22%
+           May study spell [396]Resurrect to 10%
+           May study spell [397]Detect misery to 54%
+
+                                 Level 20
+               Has studied spell [398]Aneurysm to at least 22%
+               Has studied spell [399]Pestilence to at least 6%
+               May train skill [400]Dark meditation to 44%
+               May train skill [401]Conceal spellcasting to 42%
+               May train skill [402]Evil intent to 91%
+               May study spell [403]Aneurysm to 62%
+               May study spell [404]Unholy matrimony to 74%
+               May train skill [405]Dark baptism to 47%
+               May study spell [406]Pestilence to 30%
+               May study spell [407]Resurrect to 19%
+               May study spell [408]Detect misery to 58%
+               May study spell [409]Dispel good to 11%
+               May train skill [410]Cast evil to 20%
+
+                                 Level 21
+              Has studied spell [411]Aneurysm to at least 24%
+              Has studied spell [412]Pestilence to at least 9%
+              Has studied spell [413]Dispel good to at least 3%
+              May train skill [414]Dark meditation to 48%
+              May train skill [415]Conceal spellcasting to 46%
+              May train skill [416]Evil intent to 100%
+              May study spell [417]Aneurysm to 67%
+              May study spell [418]Unholy matrimony to 87%
+              May train skill [419]Dark baptism to 55%
+              May study spell [420]Pestilence to 39%
+              May study spell [421]Resurrect to 28%
+              May study spell [422]Detect misery to 61%
+              May study spell [423]Dispel good to 22%
+              May train skill [424]Cast evil to 36%
+              May study spell [425]Bastardly balm to 12%
+
+                                 Level 22
+              Has studied spell [426]Aneurysm to at least 26%
+              Has studied spell [427]Pestilence to at least 11%
+              Has studied spell [428]Dispel good to at least 6%
+              May train skill [429]Dark meditation to 52%
+              May train skill [430]Conceal spellcasting to 50%
+              May study spell [431]Aneurysm to 73%
+              May study spell [432]Unholy matrimony to 100%
+              May train skill [433]Dark baptism to 62%
+              May study spell [434]Pestilence to 48%
+              May study spell [435]Resurrect to 37%
+              May study spell [436]Detect misery to 65%
+              May study spell [437]Dispel good to 33%
+              May train skill [438]Cast evil to 52%
+              May study spell [439]Bastardly balm to 24%
+
+                                 Level 23
+              Has studied spell [440]Aneurysm to at least 29%
+              Has studied spell [441]Pestilence to at least 14%
+              Has studied spell [442]Dispel good to at least 9%
+              May train skill [443]Dark meditation to 56%
+              May train skill [444]Conceal spellcasting to 54%
+              May study spell [445]Aneurysm to 78%
+              May train skill [446]Dark baptism to 70%
+              May study spell [447]Pestilence to 56%
+              May study spell [448]Resurrect to 46%
+              May study spell [449]Detect misery to 68%
+              May study spell [450]Dispel good to 44%
+              May train skill [451]Cast evil to 68%
+              May study spell [452]Bastardly balm to 37%
+              May study spell [453]Protection from good to 5%
+
+                                 Level 24
+          Has studied spell [454]Aneurysm to at least 31%
+          Has studied spell [455]Pestilence to at least 16%
+          Has studied spell [456]Dispel good to at least 13%
+          Has studied spell [457]Protection from good to at least 2%
+          May train skill [458]Dark meditation to 60%
+          May train skill [459]Conceal spellcasting to 58%
+          May study spell [460]Aneurysm to 83%
+          May train skill [461]Dark baptism to 77%
+          May study spell [462]Pestilence to 65%
+          May study spell [463]Resurrect to 55%
+          May study spell [464]Detect misery to 72%
+          May study spell [465]Dispel good to 55%
+          May train skill [466]Cast evil to 84%
+          May study spell [467]Bastardly balm to 49%
+          May study spell [468]Protection from good to 15%
+
+                                 Level 25
+          Has studied spell [469]Aneurysm to at least 33%
+          Has studied spell [470]Pestilence to at least 19%
+          Has studied spell [471]Dispel good to at least 16%
+          Has studied spell [472]Protection from good to at least 6%
+          May train skill [473]Dark meditation to 64%
+          May train skill [474]Conceal spellcasting to 61%
+          May study spell [475]Aneurysm to 89%
+          May train skill [476]Dark baptism to 85%
+          May study spell [477]Pestilence to 74%
+          May study spell [478]Resurrect to 64%
+          May study spell [479]Detect misery to 75%
+          May study spell [480]Dispel good to 66%
+          May train skill [481]Cast evil to 100%
+          May study spell [482]Bastardly balm to 62%
+          May study spell [483]Protection from good to 26%
+          May study spell [484]Go to 10%
+          May study spell [485]New body to 10%
+          May train skill [486]Mastery of pain to 5%
+          May train skill [487]Spiritual conduct to 5%
+          May study spell [488]Reanimation to 10%
+
+                                 Level 26
+         Has studied spell [489]Aneurysm to at least 35%
+         Has studied spell [490]Pestilence to at least 22%
+         Has studied spell [491]Dispel good to at least 19%
+         Has studied spell [492]Protection from good to at least 10%
+         Has trained skill [493]Mastery of pain to at least 1%
+         Has trained skill [494]Spiritual conduct to at least 1%
+         Has studied spell [495]Reanimation to at least 3%
+         May train skill [496]Dark meditation to 68%
+         May train skill [497]Conceal spellcasting to 65%
+         May study spell [498]Aneurysm to 94%
+         May train skill [499]Dark baptism to 92%
+         May study spell [500]Pestilence to 82%
+         May study spell [501]Resurrect to 73%
+         May study spell [502]Detect misery to 79%
+         May study spell [503]Dispel good to 77%
+         May study spell [504]Bastardly balm to 74%
+         May study spell [505]Protection from good to 36%
+         May study spell [506]Go to 22%
+         May study spell [507]New body to 19%
+         May train skill [508]Mastery of pain to 14%
+         May train skill [509]Spiritual conduct to 14%
+         May study spell [510]Reanimation to 19%
+
+                                 Level 27
+         Has studied spell [511]Aneurysm to at least 37%
+         Has studied spell [512]Pestilence to at least 24%
+         Has studied spell [513]Dispel good to at least 23%
+         Has studied spell [514]Protection from good to at least 14%
+         Has trained skill [515]Mastery of pain to at least 4%
+         Has trained skill [516]Spiritual conduct to at least 4%
+         Has studied spell [517]Reanimation to at least 5%
+         May train skill [518]Dark meditation to 72%
+         May train skill [519]Conceal spellcasting to 69%
+         May study spell [520]Aneurysm to 100%
+         May train skill [521]Dark baptism to 100%
+         May study spell [522]Pestilence to 91%
+         May study spell [523]Resurrect to 82%
+         May study spell [524]Detect misery to 82%
+         May study spell [525]Dispel good to 88%
+         May study spell [526]Bastardly balm to 87%
+         May study spell [527]Protection from good to 47%
+         May study spell [528]Go to 35%
+         May study spell [529]New body to 28%
+         May train skill [530]Mastery of pain to 24%
+         May train skill [531]Spiritual conduct to 24%
+         May study spell [532]Reanimation to 28%
+
+                                 Level 28
+         Has studied spell [533]Pestilence to at least 27%
+         Has studied spell [534]Dispel good to at least 26%
+         Has studied spell [535]Protection from good to at least 18%
+         Has trained skill [536]Mastery of pain to at least 7%
+         Has trained skill [537]Spiritual conduct to at least 7%
+         Has studied spell [538]Reanimation to at least 8%
+         May train skill [539]Dark meditation to 76%
+         May train skill [540]Conceal spellcasting to 73%
+         May study spell [541]Pestilence to 100%
+         May study spell [542]Resurrect to 91%
+         May study spell [543]Detect misery to 86%
+         May study spell [544]Dispel good to 100%
+         May study spell [545]Bastardly balm to 100%
+         May study spell [546]Protection from good to 57%
+         May study spell [547]Go to 48%
+         May study spell [548]New body to 37%
+         May train skill [549]Mastery of pain to 33%
+         May train skill [550]Spiritual conduct to 33%
+         May study spell [551]Reanimation to 37%
+
+                                 Level 29
+         Has studied spell [552]Protection from good to at least 22%
+         Has trained skill [553]Mastery of pain to at least 10%
+         Has trained skill [554]Spiritual conduct to at least 10%
+         Has studied spell [555]Reanimation to at least 11%
+         May train skill [556]Dark meditation to 80%
+         May train skill [557]Conceal spellcasting to 77%
+         May study spell [558]Resurrect to 100%
+         May study spell [559]Detect misery to 89%
+         May study spell [560]Protection from good to 68%
+         May study spell [561]Go to 61%
+         May study spell [562]New body to 46%
+         May train skill [563]Mastery of pain to 43%
+         May train skill [564]Spiritual conduct to 43%
+         May study spell [565]Harm body to 10%
+         May study spell [566]Reanimation to 46%
+
+                                 Level 30
+         Has studied spell [567]Protection from good to at least 27%
+         Has trained skill [568]Mastery of pain to at least 14%
+         Has trained skill [569]Spiritual conduct to at least 14%
+         Has studied spell [570]Harm body to at least 4%
+         Has studied spell [571]Reanimation to at least 13%
+         May train skill [572]Dark meditation to 84%
+         May train skill [573]Conceal spellcasting to 80%
+         May study spell [574]Detect misery to 93%
+         May study spell [575]Protection from good to 78%
+         May study spell [576]Go to 74%
+         May study spell [577]New body to 55%
+         May train skill [578]Mastery of pain to 52%
+         May train skill [579]Spiritual conduct to 52%
+         May study spell [580]Harm body to 25%
+         May study spell [581]Reanimation to 55%
+         May study spell [582]Paranoia to 25%
+
+                                 Level 31
+         Has studied spell [583]Protection from good to at least 31%
+         Has trained skill [584]Mastery of pain to at least 17%
+         Has trained skill [585]Spiritual conduct to at least 17%
+         Has studied spell [586]Harm body to at least 10%
+         Has studied spell [587]Reanimation to at least 16%
+         May train skill [588]Dark meditation to 88%
+         May train skill [589]Conceal spellcasting to 84%
+         May study spell [590]Detect misery to 96%
+         May study spell [591]Protection from good to 89%
+         May study spell [592]Go to 87%
+         May study spell [593]New body to 64%
+         May train skill [594]Mastery of pain to 62%
+         May train skill [595]Spiritual conduct to 62%
+         May study spell [596]Harm body to 40%
+         May study spell [597]Reanimation to 64%
+         May study spell [598]Paranoia to 40%
+
+                                 Level 32
+         Has studied spell [599]Protection from good to at least 35%
+         Has trained skill [600]Mastery of pain to at least 20%
+         Has trained skill [601]Spiritual conduct to at least 20%
+         Has studied spell [602]Harm body to at least 16%
+         Has studied spell [603]Reanimation to at least 19%
+         May train skill [604]Dark meditation to 92%
+         May train skill [605]Conceal spellcasting to 88%
+         May study spell [606]Detect misery to 100%
+         May study spell [607]Protection from good to 100%
+         May study spell [608]Go to 100%
+         May study spell [609]New body to 73%
+         May train skill [610]Mastery of pain to 71%
+         May train skill [611]Spiritual conduct to 71%
+         May study spell [612]Harm body to 55%
+         May study spell [613]Reanimation to 73%
+         May study spell [614]Paranoia to 55%
+
+                                 Level 33
+           Has trained skill [615]Mastery of pain to at least 23%
+           Has trained skill [616]Spiritual conduct to at least 23%
+           Has studied spell [617]Harm body to at least 22%
+           Has studied spell [618]Reanimation to at least 21%
+           May train skill [619]Dark meditation to 96%
+           May train skill [620]Conceal spellcasting to 92%
+           May study spell [621]New body to 82%
+           May train skill [622]Mastery of pain to 81%
+           May train skill [623]Spiritual conduct to 81%
+           May study spell [624]Harm body to 70%
+           May study spell [625]Reanimation to 82%
+           May study spell [626]Paranoia to 70%
+
+                                 Level 34
+           Has trained skill [627]Mastery of pain to at least 26%
+           Has trained skill [628]Spiritual conduct to at least 26%
+           Has studied spell [629]Harm body to at least 28%
+           Has studied spell [630]Reanimation to at least 24%
+           May train skill [631]Dark meditation to 100%
+           May train skill [632]Conceal spellcasting to 96%
+           May study spell [633]New body to 91%
+           May train skill [634]Mastery of pain to 90%
+           May train skill [635]Spiritual conduct to 90%
+           May study spell [636]Harm body to 85%
+           May study spell [637]Reanimation to 91%
+           May study spell [638]Paranoia to 85%
+
+                                 Level 35
+           Has trained skill [639]Mastery of pain to at least 29%
+           Has trained skill [640]Spiritual conduct to at least 29%
+           Has studied spell [641]Harm body to at least 34%
+           Has studied spell [642]Reanimation to at least 27%
+           May train skill [643]Conceal spellcasting to 100%
+           May study spell [644]New body to 100%
+           May train skill [645]Mastery of pain to 100%
+           May train skill [646]Spiritual conduct to 100%
+           May study spell [647]Harm body to 100%
+           May study spell [648]Reanimation to 100%
+           May study spell [649]Paranoia to 100%
+
+                   Allows joining to the following guild:
+                     Evil Priests
+
+   [650]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [651]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=Evil%20Priests&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=Evil%20Priests&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=Evil%20Priests&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=coren
+  23. http://www.bat.org/help/spells.php?str=detect_alignment
+  24. http://www.bat.org/help/spells.php?str=cause_light_wounds
+  25. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+  26. http://www.bat.org/help/spells.php?str=energy_drain
+  27. http://www.bat.org/help/spells.php?str=make_scar
+  28. http://www.bat.org/help/spells.php?str=mana_drain
+  29. http://www.bat.org/help/skills.php?str=attack
+  30. http://www.bat.org/help/skills.php?str=cast_control
+  31. http://www.bat.org/help/skills.php?str=cast_generic
+  32. http://www.bat.org/help/skills.php?str=cast_harm
+  33. http://www.bat.org/help/skills.php?str=cast_information
+  34. http://www.bat.org/help/skills.php?str=cast_magical
+  35. http://www.bat.org/help/skills.php?str=cast_protection
+  36. http://www.bat.org/help/skills.php?str=cast_special
+  37. http://www.bat.org/help/skills.php?str=cast_teleportation
+  38. http://www.bat.org/help/skills.php?str=ceremony
+  39. http://www.bat.org/help/skills.php?str=essence_eye
+  40. http://www.bat.org/help/skills.php?str=mana_control
+  41. http://www.bat.org/help/spells.php?str=cause_light_wounds
+  42. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+  43. http://www.bat.org/help/skills.php?str=cast_harm
+  44. http://www.bat.org/help/spells.php?str=detect_alignment
+  45. http://www.bat.org/help/spells.php?str=cause_light_wounds
+  46. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+  47. http://www.bat.org/help/spells.php?str=energy_drain
+  48. http://www.bat.org/help/spells.php?str=make_scar
+  49. http://www.bat.org/help/spells.php?str=mana_drain
+  50. http://www.bat.org/help/skills.php?str=attack
+  51. http://www.bat.org/help/skills.php?str=cast_control
+  52. http://www.bat.org/help/skills.php?str=cast_generic
+  53. http://www.bat.org/help/skills.php?str=cast_harm
+  54. http://www.bat.org/help/skills.php?str=cast_information
+  55. http://www.bat.org/help/skills.php?str=cast_magical
+  56. http://www.bat.org/help/skills.php?str=cast_protection
+  57. http://www.bat.org/help/skills.php?str=cast_special
+  58. http://www.bat.org/help/skills.php?str=cast_teleportation
+  59. http://www.bat.org/help/skills.php?str=ceremony
+  60. http://www.bat.org/help/skills.php?str=essence_eye
+  61. http://www.bat.org/help/skills.php?str=mana_control
+  62. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  63. http://www.bat.org/help/spells.php?str=last_rites
+  64. http://www.bat.org/help/skills.php?str=quick_chant
+  65. http://www.bat.org/help/spells.php?str=cause_light_wounds
+  66. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+  67. http://www.bat.org/help/skills.php?str=cast_harm
+  68. http://www.bat.org/help/spells.php?str=detect_alignment
+  69. http://www.bat.org/help/spells.php?str=cause_light_wounds
+  70. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+  71. http://www.bat.org/help/spells.php?str=energy_drain
+  72. http://www.bat.org/help/spells.php?str=make_scar
+  73. http://www.bat.org/help/spells.php?str=mana_drain
+  74. http://www.bat.org/help/skills.php?str=attack
+  75. http://www.bat.org/help/skills.php?str=cast_control
+  76. http://www.bat.org/help/skills.php?str=cast_generic
+  77. http://www.bat.org/help/skills.php?str=cast_harm
+  78. http://www.bat.org/help/skills.php?str=cast_information
+  79. http://www.bat.org/help/skills.php?str=cast_magical
+  80. http://www.bat.org/help/skills.php?str=cast_protection
+  81. http://www.bat.org/help/skills.php?str=cast_special
+  82. http://www.bat.org/help/skills.php?str=cast_teleportation
+  83. http://www.bat.org/help/skills.php?str=ceremony
+  84. http://www.bat.org/help/skills.php?str=essence_eye
+  85. http://www.bat.org/help/skills.php?str=mana_control
+  86. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  87. http://www.bat.org/help/spells.php?str=last_rites
+  88. http://www.bat.org/help/skills.php?str=quick_chant
+  89. http://www.bat.org/help/spells.php?str=mellon_collie
+  90. http://www.bat.org/help/spells.php?str=cause_light_wounds
+  91. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+  92. http://www.bat.org/help/skills.php?str=cast_harm
+  93. http://www.bat.org/help/spells.php?str=detect_alignment
+  94. http://www.bat.org/help/spells.php?str=cause_light_wounds
+  95. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+  96. http://www.bat.org/help/spells.php?str=energy_drain
+  97. http://www.bat.org/help/spells.php?str=make_scar
+  98. http://www.bat.org/help/spells.php?str=mana_drain
+  99. http://www.bat.org/help/skills.php?str=attack
+ 100. http://www.bat.org/help/skills.php?str=cast_control
+ 101. http://www.bat.org/help/skills.php?str=cast_generic
+ 102. http://www.bat.org/help/skills.php?str=cast_harm
+ 103. http://www.bat.org/help/skills.php?str=cast_information
+ 104. http://www.bat.org/help/skills.php?str=cast_magical
+ 105. http://www.bat.org/help/skills.php?str=cast_protection
+ 106. http://www.bat.org/help/skills.php?str=cast_special
+ 107. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 108. http://www.bat.org/help/skills.php?str=ceremony
+ 109. http://www.bat.org/help/skills.php?str=essence_eye
+ 110. http://www.bat.org/help/skills.php?str=mana_control
+ 111. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 112. http://www.bat.org/help/spells.php?str=last_rites
+ 113. http://www.bat.org/help/skills.php?str=quick_chant
+ 114. http://www.bat.org/help/spells.php?str=mellon_collie
+ 115. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 116. http://www.bat.org/help/spells.php?str=damn_armament
+ 117. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+ 118. http://www.bat.org/help/skills.php?str=cast_harm
+ 119. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 120. http://www.bat.org/help/spells.php?str=detect_alignment
+ 121. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+ 122. http://www.bat.org/help/spells.php?str=energy_drain
+ 123. http://www.bat.org/help/spells.php?str=make_scar
+ 124. http://www.bat.org/help/spells.php?str=mana_drain
+ 125. http://www.bat.org/help/skills.php?str=attack
+ 126. http://www.bat.org/help/skills.php?str=cast_control
+ 127. http://www.bat.org/help/skills.php?str=cast_generic
+ 128. http://www.bat.org/help/skills.php?str=cast_harm
+ 129. http://www.bat.org/help/skills.php?str=cast_information
+ 130. http://www.bat.org/help/skills.php?str=cast_magical
+ 131. http://www.bat.org/help/skills.php?str=cast_protection
+ 132. http://www.bat.org/help/skills.php?str=cast_special
+ 133. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 134. http://www.bat.org/help/skills.php?str=ceremony
+ 135. http://www.bat.org/help/skills.php?str=essence_eye
+ 136. http://www.bat.org/help/skills.php?str=mana_control
+ 137. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 138. http://www.bat.org/help/spells.php?str=last_rites
+ 139. http://www.bat.org/help/skills.php?str=quick_chant
+ 140. http://www.bat.org/help/spells.php?str=mellon_collie
+ 141. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 142. http://www.bat.org/help/spells.php?str=damn_armament
+ 143. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 144. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 145. http://www.bat.org/help/skills.php?str=baptize
+ 146. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+ 147. http://www.bat.org/help/skills.php?str=cast_harm
+ 148. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 149. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 150. http://www.bat.org/help/spells.php?str=cause_serious_wounds
+ 151. http://www.bat.org/help/spells.php?str=energy_drain
+ 152. http://www.bat.org/help/spells.php?str=make_scar
+ 153. http://www.bat.org/help/spells.php?str=mana_drain
+ 154. http://www.bat.org/help/skills.php?str=attack
+ 155. http://www.bat.org/help/skills.php?str=cast_control
+ 156. http://www.bat.org/help/skills.php?str=cast_generic
+ 157. http://www.bat.org/help/skills.php?str=cast_harm
+ 158. http://www.bat.org/help/skills.php?str=cast_information
+ 159. http://www.bat.org/help/skills.php?str=cast_magical
+ 160. http://www.bat.org/help/skills.php?str=cast_protection
+ 161. http://www.bat.org/help/skills.php?str=cast_special
+ 162. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 163. http://www.bat.org/help/skills.php?str=ceremony
+ 164. http://www.bat.org/help/skills.php?str=essence_eye
+ 165. http://www.bat.org/help/skills.php?str=mana_control
+ 166. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 167. http://www.bat.org/help/spells.php?str=last_rites
+ 168. http://www.bat.org/help/skills.php?str=quick_chant
+ 169. http://www.bat.org/help/spells.php?str=mellon_collie
+ 170. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 171. http://www.bat.org/help/spells.php?str=damn_armament
+ 172. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 173. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 174. http://www.bat.org/help/skills.php?str=baptize
+ 175. http://www.bat.org/help/skills.php?str=cast_harm
+ 176. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 177. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 178. http://www.bat.org/help/spells.php?str=energy_drain
+ 179. http://www.bat.org/help/spells.php?str=make_scar
+ 180. http://www.bat.org/help/spells.php?str=mana_drain
+ 181. http://www.bat.org/help/skills.php?str=attack
+ 182. http://www.bat.org/help/skills.php?str=cast_control
+ 183. http://www.bat.org/help/skills.php?str=cast_harm
+ 184. http://www.bat.org/help/skills.php?str=cast_information
+ 185. http://www.bat.org/help/skills.php?str=cast_magical
+ 186. http://www.bat.org/help/skills.php?str=cast_protection
+ 187. http://www.bat.org/help/skills.php?str=cast_special
+ 188. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 189. http://www.bat.org/help/skills.php?str=ceremony
+ 190. http://www.bat.org/help/skills.php?str=essence_eye
+ 191. http://www.bat.org/help/skills.php?str=mana_control
+ 192. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 193. http://www.bat.org/help/spells.php?str=last_rites
+ 194. http://www.bat.org/help/skills.php?str=quick_chant
+ 195. http://www.bat.org/help/spells.php?str=mellon_collie
+ 196. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 197. http://www.bat.org/help/spells.php?str=damn_armament
+ 198. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 199. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 200. http://www.bat.org/help/skills.php?str=baptize
+ 201. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 202. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 203. http://www.bat.org/help/spells.php?str=energy_drain
+ 204. http://www.bat.org/help/spells.php?str=make_scar
+ 205. http://www.bat.org/help/spells.php?str=mana_drain
+ 206. http://www.bat.org/help/skills.php?str=cast_control
+ 207. http://www.bat.org/help/skills.php?str=cast_information
+ 208. http://www.bat.org/help/skills.php?str=cast_magical
+ 209. http://www.bat.org/help/skills.php?str=cast_protection
+ 210. http://www.bat.org/help/skills.php?str=cast_special
+ 211. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 212. http://www.bat.org/help/skills.php?str=essence_eye
+ 213. http://www.bat.org/help/skills.php?str=mana_control
+ 214. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 215. http://www.bat.org/help/spells.php?str=last_rites
+ 216. http://www.bat.org/help/skills.php?str=quick_chant
+ 217. http://www.bat.org/help/spells.php?str=mellon_collie
+ 218. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 219. http://www.bat.org/help/spells.php?str=damn_armament
+ 220. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 221. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 222. http://www.bat.org/help/skills.php?str=baptize
+ 223. http://www.bat.org/help/spells.php?str=raise_dead
+ 224. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 225. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 226. http://www.bat.org/help/spells.php?str=energy_drain
+ 227. http://www.bat.org/help/spells.php?str=make_scar
+ 228. http://www.bat.org/help/skills.php?str=cast_control
+ 229. http://www.bat.org/help/skills.php?str=cast_magical
+ 230. http://www.bat.org/help/skills.php?str=cast_protection
+ 231. http://www.bat.org/help/skills.php?str=essence_eye
+ 232. http://www.bat.org/help/skills.php?str=mana_control
+ 233. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 234. http://www.bat.org/help/spells.php?str=last_rites
+ 235. http://www.bat.org/help/skills.php?str=quick_chant
+ 236. http://www.bat.org/help/spells.php?str=mellon_collie
+ 237. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 238. http://www.bat.org/help/spells.php?str=damn_armament
+ 239. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 240. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 241. http://www.bat.org/help/skills.php?str=baptize
+ 242. http://www.bat.org/help/spells.php?str=raise_dead
+ 243. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 244. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 245. http://www.bat.org/help/spells.php?str=make_scar
+ 246. http://www.bat.org/help/skills.php?str=cast_magical
+ 247. http://www.bat.org/help/skills.php?str=cast_protection
+ 248. http://www.bat.org/help/skills.php?str=mana_control
+ 249. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 250. http://www.bat.org/help/spells.php?str=last_rites
+ 251. http://www.bat.org/help/skills.php?str=quick_chant
+ 252. http://www.bat.org/help/spells.php?str=cause_critical_wounds
+ 253. http://www.bat.org/help/spells.php?str=damn_armament
+ 254. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 255. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 256. http://www.bat.org/help/skills.php?str=baptize
+ 257. http://www.bat.org/help/spells.php?str=raise_dead
+ 258. http://www.bat.org/help/spells.php?str=hemorrhage
+ 259. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 260. http://www.bat.org/help/skills.php?str=dark_meditation
+ 261. http://www.bat.org/help/skills.php?str=location_memory
+ 262. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 263. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 264. http://www.bat.org/help/spells.php?str=hemorrhage
+ 265. http://www.bat.org/help/spells.php?str=make_scar
+ 266. http://www.bat.org/help/skills.php?str=cast_magical
+ 267. http://www.bat.org/help/skills.php?str=quick_chant
+ 268. http://www.bat.org/help/spells.php?str=damn_armament
+ 269. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 270. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 271. http://www.bat.org/help/skills.php?str=baptize
+ 272. http://www.bat.org/help/spells.php?str=raise_dead
+ 273. http://www.bat.org/help/spells.php?str=hemorrhage
+ 274. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 275. http://www.bat.org/help/skills.php?str=dark_meditation
+ 276. http://www.bat.org/help/skills.php?str=location_memory
+ 277. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 278. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 279. http://www.bat.org/help/skills.php?str=evil_intent
+ 280. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 281. http://www.bat.org/help/spells.php?str=hemorrhage
+ 282. http://www.bat.org/help/spells.php?str=make_scar
+ 283. http://www.bat.org/help/skills.php?str=cast_magical
+ 284. http://www.bat.org/help/skills.php?str=quick_chant
+ 285. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 286. http://www.bat.org/help/spells.php?str=raise_dead
+ 287. http://www.bat.org/help/spells.php?str=hemorrhage
+ 288. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 289. http://www.bat.org/help/skills.php?str=dark_meditation
+ 290. http://www.bat.org/help/skills.php?str=location_memory
+ 291. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 292. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 293. http://www.bat.org/help/skills.php?str=evil_intent
+ 294. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 295. http://www.bat.org/help/spells.php?str=detect_misery
+ 296. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 297. http://www.bat.org/help/spells.php?str=hemorrhage
+ 298. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 299. http://www.bat.org/help/spells.php?str=make_scar
+ 300. http://www.bat.org/help/skills.php?str=quick_chant
+ 301. http://www.bat.org/help/spells.php?str=aura_of_hate
+ 302. http://www.bat.org/help/spells.php?str=raise_dead
+ 303. http://www.bat.org/help/spells.php?str=hemorrhage
+ 304. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 305. http://www.bat.org/help/skills.php?str=dark_meditation
+ 306. http://www.bat.org/help/skills.php?str=location_memory
+ 307. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 308. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 309. http://www.bat.org/help/skills.php?str=evil_intent
+ 310. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 311. http://www.bat.org/help/spells.php?str=detect_misery
+ 312. http://www.bat.org/help/spells.php?str=hemorrhage
+ 313. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 314. http://www.bat.org/help/spells.php?str=make_scar
+ 315. http://www.bat.org/help/spells.php?str=raise_dead
+ 316. http://www.bat.org/help/spells.php?str=hemorrhage
+ 317. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 318. http://www.bat.org/help/skills.php?str=dark_meditation
+ 319. http://www.bat.org/help/skills.php?str=location_memory
+ 320. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 321. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 322. http://www.bat.org/help/skills.php?str=evil_intent
+ 323. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 324. http://www.bat.org/help/spells.php?str=aneurysm
+ 325. http://www.bat.org/help/spells.php?str=detect_misery
+ 326. http://www.bat.org/help/spells.php?str=hemorrhage
+ 327. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 328. http://www.bat.org/help/spells.php?str=aneurysm
+ 329. http://www.bat.org/help/spells.php?str=raise_dead
+ 330. http://www.bat.org/help/spells.php?str=hemorrhage
+ 331. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 332. http://www.bat.org/help/skills.php?str=dark_meditation
+ 333. http://www.bat.org/help/skills.php?str=location_memory
+ 334. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 335. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 336. http://www.bat.org/help/skills.php?str=evil_intent
+ 337. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 338. http://www.bat.org/help/spells.php?str=aneurysm
+ 339. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 340. http://www.bat.org/help/skills.php?str=dark_baptism
+ 341. http://www.bat.org/help/spells.php?str=detect_misery
+ 342. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 343. http://www.bat.org/help/spells.php?str=aneurysm
+ 344. http://www.bat.org/help/spells.php?str=raise_dead
+ 345. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 346. http://www.bat.org/help/skills.php?str=dark_meditation
+ 347. http://www.bat.org/help/skills.php?str=location_memory
+ 348. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 349. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 350. http://www.bat.org/help/skills.php?str=evil_intent
+ 351. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 352. http://www.bat.org/help/spells.php?str=aneurysm
+ 353. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 354. http://www.bat.org/help/skills.php?str=dark_baptism
+ 355. http://www.bat.org/help/spells.php?str=detect_misery
+ 356. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 357. http://www.bat.org/help/spells.php?str=aneurysm
+ 358. http://www.bat.org/help/spells.php?str=raise_dead
+ 359. http://www.bat.org/help/spells.php?str=mobile_cannon
+ 360. http://www.bat.org/help/skills.php?str=dark_meditation
+ 361. http://www.bat.org/help/skills.php?str=location_memory
+ 362. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 363. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 364. http://www.bat.org/help/skills.php?str=evil_intent
+ 365. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 366. http://www.bat.org/help/spells.php?str=aneurysm
+ 367. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 368. http://www.bat.org/help/skills.php?str=dark_baptism
+ 369. http://www.bat.org/help/spells.php?str=pestilence
+ 370. http://www.bat.org/help/spells.php?str=detect_misery
+ 371. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 372. http://www.bat.org/help/spells.php?str=aneurysm
+ 373. http://www.bat.org/help/spells.php?str=pestilence
+ 374. http://www.bat.org/help/spells.php?str=raise_dead
+ 375. http://www.bat.org/help/skills.php?str=dark_meditation
+ 376. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 377. http://www.bat.org/help/skills.php?str=cardiac_stimulation
+ 378. http://www.bat.org/help/skills.php?str=evil_intent
+ 379. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 380. http://www.bat.org/help/spells.php?str=aneurysm
+ 381. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 382. http://www.bat.org/help/skills.php?str=dark_baptism
+ 383. http://www.bat.org/help/spells.php?str=pestilence
+ 384. http://www.bat.org/help/spells.php?str=detect_misery
+ 385. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 386. http://www.bat.org/help/spells.php?str=aneurysm
+ 387. http://www.bat.org/help/spells.php?str=pestilence
+ 388. http://www.bat.org/help/skills.php?str=dark_meditation
+ 389. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 390. http://www.bat.org/help/skills.php?str=evil_intent
+ 391. http://www.bat.org/help/skills.php?str=desecrate_ground
+ 392. http://www.bat.org/help/spells.php?str=aneurysm
+ 393. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 394. http://www.bat.org/help/skills.php?str=dark_baptism
+ 395. http://www.bat.org/help/spells.php?str=pestilence
+ 396. http://www.bat.org/help/spells.php?str=resurrect
+ 397. http://www.bat.org/help/spells.php?str=detect_misery
+ 398. http://www.bat.org/help/spells.php?str=aneurysm
+ 399. http://www.bat.org/help/spells.php?str=pestilence
+ 400. http://www.bat.org/help/skills.php?str=dark_meditation
+ 401. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 402. http://www.bat.org/help/skills.php?str=evil_intent
+ 403. http://www.bat.org/help/spells.php?str=aneurysm
+ 404. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 405. http://www.bat.org/help/skills.php?str=dark_baptism
+ 406. http://www.bat.org/help/spells.php?str=pestilence
+ 407. http://www.bat.org/help/spells.php?str=resurrect
+ 408. http://www.bat.org/help/spells.php?str=detect_misery
+ 409. http://www.bat.org/help/spells.php?str=dispel_good
+ 410. http://www.bat.org/help/skills.php?str=cast_evil
+ 411. http://www.bat.org/help/spells.php?str=aneurysm
+ 412. http://www.bat.org/help/spells.php?str=pestilence
+ 413. http://www.bat.org/help/spells.php?str=dispel_good
+ 414. http://www.bat.org/help/skills.php?str=dark_meditation
+ 415. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 416. http://www.bat.org/help/skills.php?str=evil_intent
+ 417. http://www.bat.org/help/spells.php?str=aneurysm
+ 418. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 419. http://www.bat.org/help/skills.php?str=dark_baptism
+ 420. http://www.bat.org/help/spells.php?str=pestilence
+ 421. http://www.bat.org/help/spells.php?str=resurrect
+ 422. http://www.bat.org/help/spells.php?str=detect_misery
+ 423. http://www.bat.org/help/spells.php?str=dispel_good
+ 424. http://www.bat.org/help/skills.php?str=cast_evil
+ 425. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 426. http://www.bat.org/help/spells.php?str=aneurysm
+ 427. http://www.bat.org/help/spells.php?str=pestilence
+ 428. http://www.bat.org/help/spells.php?str=dispel_good
+ 429. http://www.bat.org/help/skills.php?str=dark_meditation
+ 430. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 431. http://www.bat.org/help/spells.php?str=aneurysm
+ 432. http://www.bat.org/help/spells.php?str=unholy_matrimony
+ 433. http://www.bat.org/help/skills.php?str=dark_baptism
+ 434. http://www.bat.org/help/spells.php?str=pestilence
+ 435. http://www.bat.org/help/spells.php?str=resurrect
+ 436. http://www.bat.org/help/spells.php?str=detect_misery
+ 437. http://www.bat.org/help/spells.php?str=dispel_good
+ 438. http://www.bat.org/help/skills.php?str=cast_evil
+ 439. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 440. http://www.bat.org/help/spells.php?str=aneurysm
+ 441. http://www.bat.org/help/spells.php?str=pestilence
+ 442. http://www.bat.org/help/spells.php?str=dispel_good
+ 443. http://www.bat.org/help/skills.php?str=dark_meditation
+ 444. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 445. http://www.bat.org/help/spells.php?str=aneurysm
+ 446. http://www.bat.org/help/skills.php?str=dark_baptism
+ 447. http://www.bat.org/help/spells.php?str=pestilence
+ 448. http://www.bat.org/help/spells.php?str=resurrect
+ 449. http://www.bat.org/help/spells.php?str=detect_misery
+ 450. http://www.bat.org/help/spells.php?str=dispel_good
+ 451. http://www.bat.org/help/skills.php?str=cast_evil
+ 452. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 453. http://www.bat.org/help/spells.php?str=protection_from_good
+ 454. http://www.bat.org/help/spells.php?str=aneurysm
+ 455. http://www.bat.org/help/spells.php?str=pestilence
+ 456. http://www.bat.org/help/spells.php?str=dispel_good
+ 457. http://www.bat.org/help/spells.php?str=protection_from_good
+ 458. http://www.bat.org/help/skills.php?str=dark_meditation
+ 459. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 460. http://www.bat.org/help/spells.php?str=aneurysm
+ 461. http://www.bat.org/help/skills.php?str=dark_baptism
+ 462. http://www.bat.org/help/spells.php?str=pestilence
+ 463. http://www.bat.org/help/spells.php?str=resurrect
+ 464. http://www.bat.org/help/spells.php?str=detect_misery
+ 465. http://www.bat.org/help/spells.php?str=dispel_good
+ 466. http://www.bat.org/help/skills.php?str=cast_evil
+ 467. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 468. http://www.bat.org/help/spells.php?str=protection_from_good
+ 469. http://www.bat.org/help/spells.php?str=aneurysm
+ 470. http://www.bat.org/help/spells.php?str=pestilence
+ 471. http://www.bat.org/help/spells.php?str=dispel_good
+ 472. http://www.bat.org/help/spells.php?str=protection_from_good
+ 473. http://www.bat.org/help/skills.php?str=dark_meditation
+ 474. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 475. http://www.bat.org/help/spells.php?str=aneurysm
+ 476. http://www.bat.org/help/skills.php?str=dark_baptism
+ 477. http://www.bat.org/help/spells.php?str=pestilence
+ 478. http://www.bat.org/help/spells.php?str=resurrect
+ 479. http://www.bat.org/help/spells.php?str=detect_misery
+ 480. http://www.bat.org/help/spells.php?str=dispel_good
+ 481. http://www.bat.org/help/skills.php?str=cast_evil
+ 482. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 483. http://www.bat.org/help/spells.php?str=protection_from_good
+ 484. http://www.bat.org/help/spells.php?str=go
+ 485. http://www.bat.org/help/spells.php?str=new_body
+ 486. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 487. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 488. http://www.bat.org/help/spells.php?str=reanimation
+ 489. http://www.bat.org/help/spells.php?str=aneurysm
+ 490. http://www.bat.org/help/spells.php?str=pestilence
+ 491. http://www.bat.org/help/spells.php?str=dispel_good
+ 492. http://www.bat.org/help/spells.php?str=protection_from_good
+ 493. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 494. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 495. http://www.bat.org/help/spells.php?str=reanimation
+ 496. http://www.bat.org/help/skills.php?str=dark_meditation
+ 497. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 498. http://www.bat.org/help/spells.php?str=aneurysm
+ 499. http://www.bat.org/help/skills.php?str=dark_baptism
+ 500. http://www.bat.org/help/spells.php?str=pestilence
+ 501. http://www.bat.org/help/spells.php?str=resurrect
+ 502. http://www.bat.org/help/spells.php?str=detect_misery
+ 503. http://www.bat.org/help/spells.php?str=dispel_good
+ 504. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 505. http://www.bat.org/help/spells.php?str=protection_from_good
+ 506. http://www.bat.org/help/spells.php?str=go
+ 507. http://www.bat.org/help/spells.php?str=new_body
+ 508. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 509. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 510. http://www.bat.org/help/spells.php?str=reanimation
+ 511. http://www.bat.org/help/spells.php?str=aneurysm
+ 512. http://www.bat.org/help/spells.php?str=pestilence
+ 513. http://www.bat.org/help/spells.php?str=dispel_good
+ 514. http://www.bat.org/help/spells.php?str=protection_from_good
+ 515. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 516. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 517. http://www.bat.org/help/spells.php?str=reanimation
+ 518. http://www.bat.org/help/skills.php?str=dark_meditation
+ 519. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 520. http://www.bat.org/help/spells.php?str=aneurysm
+ 521. http://www.bat.org/help/skills.php?str=dark_baptism
+ 522. http://www.bat.org/help/spells.php?str=pestilence
+ 523. http://www.bat.org/help/spells.php?str=resurrect
+ 524. http://www.bat.org/help/spells.php?str=detect_misery
+ 525. http://www.bat.org/help/spells.php?str=dispel_good
+ 526. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 527. http://www.bat.org/help/spells.php?str=protection_from_good
+ 528. http://www.bat.org/help/spells.php?str=go
+ 529. http://www.bat.org/help/spells.php?str=new_body
+ 530. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 531. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 532. http://www.bat.org/help/spells.php?str=reanimation
+ 533. http://www.bat.org/help/spells.php?str=pestilence
+ 534. http://www.bat.org/help/spells.php?str=dispel_good
+ 535. http://www.bat.org/help/spells.php?str=protection_from_good
+ 536. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 537. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 538. http://www.bat.org/help/spells.php?str=reanimation
+ 539. http://www.bat.org/help/skills.php?str=dark_meditation
+ 540. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 541. http://www.bat.org/help/spells.php?str=pestilence
+ 542. http://www.bat.org/help/spells.php?str=resurrect
+ 543. http://www.bat.org/help/spells.php?str=detect_misery
+ 544. http://www.bat.org/help/spells.php?str=dispel_good
+ 545. http://www.bat.org/help/spells.php?str=bastardly_balm
+ 546. http://www.bat.org/help/spells.php?str=protection_from_good
+ 547. http://www.bat.org/help/spells.php?str=go
+ 548. http://www.bat.org/help/spells.php?str=new_body
+ 549. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 550. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 551. http://www.bat.org/help/spells.php?str=reanimation
+ 552. http://www.bat.org/help/spells.php?str=protection_from_good
+ 553. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 554. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 555. http://www.bat.org/help/spells.php?str=reanimation
+ 556. http://www.bat.org/help/skills.php?str=dark_meditation
+ 557. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 558. http://www.bat.org/help/spells.php?str=resurrect
+ 559. http://www.bat.org/help/spells.php?str=detect_misery
+ 560. http://www.bat.org/help/spells.php?str=protection_from_good
+ 561. http://www.bat.org/help/spells.php?str=go
+ 562. http://www.bat.org/help/spells.php?str=new_body
+ 563. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 564. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 565. http://www.bat.org/help/spells.php?str=harm_body
+ 566. http://www.bat.org/help/spells.php?str=reanimation
+ 567. http://www.bat.org/help/spells.php?str=protection_from_good
+ 568. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 569. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 570. http://www.bat.org/help/spells.php?str=harm_body
+ 571. http://www.bat.org/help/spells.php?str=reanimation
+ 572. http://www.bat.org/help/skills.php?str=dark_meditation
+ 573. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 574. http://www.bat.org/help/spells.php?str=detect_misery
+ 575. http://www.bat.org/help/spells.php?str=protection_from_good
+ 576. http://www.bat.org/help/spells.php?str=go
+ 577. http://www.bat.org/help/spells.php?str=new_body
+ 578. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 579. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 580. http://www.bat.org/help/spells.php?str=harm_body
+ 581. http://www.bat.org/help/spells.php?str=reanimation
+ 582. http://www.bat.org/help/spells.php?str=paranoia
+ 583. http://www.bat.org/help/spells.php?str=protection_from_good
+ 584. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 585. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 586. http://www.bat.org/help/spells.php?str=harm_body
+ 587. http://www.bat.org/help/spells.php?str=reanimation
+ 588. http://www.bat.org/help/skills.php?str=dark_meditation
+ 589. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 590. http://www.bat.org/help/spells.php?str=detect_misery
+ 591. http://www.bat.org/help/spells.php?str=protection_from_good
+ 592. http://www.bat.org/help/spells.php?str=go
+ 593. http://www.bat.org/help/spells.php?str=new_body
+ 594. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 595. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 596. http://www.bat.org/help/spells.php?str=harm_body
+ 597. http://www.bat.org/help/spells.php?str=reanimation
+ 598. http://www.bat.org/help/spells.php?str=paranoia
+ 599. http://www.bat.org/help/spells.php?str=protection_from_good
+ 600. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 601. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 602. http://www.bat.org/help/spells.php?str=harm_body
+ 603. http://www.bat.org/help/spells.php?str=reanimation
+ 604. http://www.bat.org/help/skills.php?str=dark_meditation
+ 605. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 606. http://www.bat.org/help/spells.php?str=detect_misery
+ 607. http://www.bat.org/help/spells.php?str=protection_from_good
+ 608. http://www.bat.org/help/spells.php?str=go
+ 609. http://www.bat.org/help/spells.php?str=new_body
+ 610. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 611. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 612. http://www.bat.org/help/spells.php?str=harm_body
+ 613. http://www.bat.org/help/spells.php?str=reanimation
+ 614. http://www.bat.org/help/spells.php?str=paranoia
+ 615. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 616. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 617. http://www.bat.org/help/spells.php?str=harm_body
+ 618. http://www.bat.org/help/spells.php?str=reanimation
+ 619. http://www.bat.org/help/skills.php?str=dark_meditation
+ 620. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 621. http://www.bat.org/help/spells.php?str=new_body
+ 622. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 623. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 624. http://www.bat.org/help/spells.php?str=harm_body
+ 625. http://www.bat.org/help/spells.php?str=reanimation
+ 626. http://www.bat.org/help/spells.php?str=paranoia
+ 627. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 628. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 629. http://www.bat.org/help/spells.php?str=harm_body
+ 630. http://www.bat.org/help/spells.php?str=reanimation
+ 631. http://www.bat.org/help/skills.php?str=dark_meditation
+ 632. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 633. http://www.bat.org/help/spells.php?str=new_body
+ 634. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 635. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 636. http://www.bat.org/help/spells.php?str=harm_body
+ 637. http://www.bat.org/help/spells.php?str=reanimation
+ 638. http://www.bat.org/help/spells.php?str=paranoia
+ 639. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 640. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 641. http://www.bat.org/help/spells.php?str=harm_body
+ 642. http://www.bat.org/help/spells.php?str=reanimation
+ 643. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 644. http://www.bat.org/help/spells.php?str=new_body
+ 645. http://www.bat.org/help/skills.php?str=mastery_of_pain
+ 646. http://www.bat.org/help/skills.php?str=spiritual_conduct
+ 647. http://www.bat.org/help/spells.php?str=harm_body
+ 648. http://www.bat.org/help/spells.php?str=reanimation
+ 649. http://www.bat.org/help/spells.php?str=paranoia
+ 650. http://www.bat.org/help/guilds.php
+ 651. mailto:webmaster@bat.org
+
+   Hidden links:
+ 652. http://www.bat.org/bat.php

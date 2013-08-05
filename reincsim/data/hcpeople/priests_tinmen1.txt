@@ -1,0 +1,64 @@
+Tinmen
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Essence eye                   |  51 | 100 |      327 |
+| Cardiac stimulation           |  22 | 100 |       60 |
+| Evil intent                   |  23 | 100 |       65 |
+| Baptize                       |  40 | 100 |      714 |
+| Mana control                  |  80 | 100 |    22467 |
+| Cast control                  |  70 | 100 |    12862 |
+| Cast evil                     |   0 | 100 |       30 |
+| Cast generic                  |  93 | 100 |    93365 |
+| Cast harm                     |  52 | 100 |     2726 |
+| Cast information              |   0 | 100 |       30 |
+| Cast magical                  |   0 | 100 |       30 |
+| Cast protection               |   0 | 100 |       30 |
+| Cast special                  |  60 | 100 |     5433 |
+| Cast teleportation            |  91 | 100 |    78583 |
+| Dark baptism                  |   0 | 100 |       30 |
+| Desecrate ground              |  18 |  80 |      159 |
+| Attack                        | 100 | 100 |    (n/a) |
+| Dark meditation               |   0 | 100 |       37 |
+| Ceremony                      |  71 | 100 |    23580 |
+| Mastery of pain               |   0 | 100 |      107 |
+| Quick chant                   |  74 | 100 |    74771 |
+| Conceal spellcasting          |  12 | 100 |      778 |
+| Location memory               |  51 | 100 |    32391 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Cure light wounds             |  80 |  80 |    (n/a) |
+| Detect alignment              |  40 |  80 |      319 |
+| Cause light wounds            |  40 |  80 |      378 |
+| Damn armament                 |   0 |  80 |       10 |
+| Unholy matrimony              |   0 |  80 |       16 |
+| Bastardly balm                |   0 |  80 |       18 |
+| Make scar                     |  40 |  80 |      635 |
+| Protection from good          |   0 |  80 |       19 |
+| Last rites                    |  80 |  80 |    (n/a) |
+| Energy drain                  |   0 |  60 |       22 |
+| Mana drain                    |   0 |  50 |       22 |
+| Mellon collie                 |  80 |  80 |    (n/a) |
+| Detect misery                 |  30 |  80 |      381 |
+| Cure serious wounds           |   0 |  80 |       33 |
+| Aura of hate                  |  22 |  80 |      251 |
+| Raise dead                    |  46 |  80 |     2055 |
+| Cause serious wounds          |  33 |  80 |      691 |
+| Pestilence                    |   0 |  80 |       42 |
+| Resurrect                     |   0 |  80 |       50 |
+| Cause critical wounds         |  31 |  80 |      828 |
+| Reanimation                   |   0 |  80 |       56 |
+| Hemorrhage                    |  14 |  80 |      320 |
+| Dispel good                   |   0 |  80 |      102 |
+| New body                      |   0 |  80 |      110 |
+| Go                            |  60 |  80 |    23404 |
+| Mobile cannon                 |  45 |  80 |     7678 |
+| Aneurysm                      |   0 |  80 |      190 |
+| Harm body                     |   0 |  80 |      435 |
+`------------------------------------------------------'

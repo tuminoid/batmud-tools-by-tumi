@@ -1,0 +1,27 @@
+,--------------------------------------------------------------------------.
+|                     Ability |       Your % |   Total Cost |      Cost/5% |
+|=============================|==============|==============|==============|
+|          forgotten language |          0 % |        5.00M |        0.25M | 00forgotten
+|       big little black book |          0 % |        5.00M |        0.25M | 03blackbook
+|      war and peace notebook |          0 % |        5.00M |        0.25M | 06notebook
+|       specified tell status |          0 % |        5.00M |        0.25M | 09tellstatus
+|   special movement messages |          0 % |        5.00M |        0.25M | 12movement
+|     personal race adjective |          0 % |        5.00M |        0.25M | 15adjective
+|              bombastic desc |          0 % |        5.00M |        0.25M | 18desc
+|              bombastic plan |          0 % |        8.00M |        0.40M | 21plan
+| enhanced commands & aliases |          0 % |       10.00M |        0.50M | 24commands
+|      smooth pimp appearance |          0 % |       12.00M |        0.60M | 27pimp
+|          divine nourishment |          0 % |       12.50M |        0.62M | 30nourishment
+|           blessed existence |          0 % |       25.00M |        1.25M | 33existence
+|       bombastic tell status |          0 % |       25.00M |        1.25M | 36tellstatus
+|                dragon shout |          0 % |       28.00M |        1.40M | 39shout
+|              demonic vision |          0 % |       30.00M |        1.50M | 42vision
+|                 sixth sense |          0 % |       35.00M |        1.75M | 45sense
+|         magical observation |          0 % |       37.50M |        1.88M | 48observation
+|       memory of an elephant |          0 % |       40.00M |        2.00M | 51memory
+|             kerbholz master |          0 % |       44.40M |        2.22M | 54kerbholz
+|                clairvoyance |          0 % |       50.00M |        2.50M | 57clair
+|       space-time perception |          0 % |       80.00M |        4.00M | 60perception
+|                 gates emote |          0 % |      100.00M |        5.00M | 63gates
+|        tactical observation |          0 % |      150.00M |        7.50M | 66tactical
+`--------------------------------------------------------------------------'

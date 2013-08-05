@@ -1,0 +1,79 @@
+Sprite
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |   7 |  98 |        9 |
+| Essence eye                   |  15 |  59 |       20 |
+| First aid                     |  50 |  95 |      990 |
+| Burial ceremony               |  58 |  98 |     2450 |
+| Plant lore                    |   0 |  75 |       21 |
+| Baptize                       |   0 |  90 |       32 |
+| Bless                         |  39 |  94 |      947 |
+| Mana control                  |  18 |  75 |      153 |
+| Cast dispel                   |  75 |  90 |    28588 |
+| Cast generic                  |  70 | 100 |    18580 |
+| Cast heal                     |  40 |  70 |     1400 |
+| Cast holy                     |  65 |  90 |    12075 |
+| Cast information              |   0 |  75 |       44 |
+| Cast protection               |  75 | 100 |    28588 |
+| Cast special                  |   6 | 100 |       72 |
+| Cast teleportation            |  33 |  90 |      765 |
+| Exorcize                      |  30 |  75 |      620 |
+| Sewing                        |  58 |  98 |     6932 |
+| Attack                        |   0 |  30 |       54 |
+| Ceremony                      |  53 |  95 |     7219 |
+| Candlestick making            |  52 |  90 |     6788 |
+| Vial throwing                 |  42 |  64 |     3207 |
+| Turn undead                   |  50 |  96 |     6917 |
+| Knowledge of dispelling       |   0 |  42 |      154 |
+| Mastery of shielding          |  10 |  52 |      369 |
+| Might of the saints           |   0 |  40 |      154 |
+| Bludgeons                     |   0 |  30 |      170 |
+| Quick chant                   |  32 |  60 |     2892 |
+| Discipline                    |  55 |  68 |    59861 |
+| Mastery of holy vials         |   0 |  50 |      522 |
+| Power of faith                |   0 |  27 |     9870 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |  70 |  70 |    (n/a) |
+| Cure light wounds             |  66 |  95 |     2421 |
+| Detect alignment              |  30 |  95 |      134 |
+| Satiate person                |  59 |  95 |     1643 |
+| Water walking                 |   0 |  95 |        9 |
+| Light                         |  20 |  90 |       66 |
+| Identify relic                |  50 |  74 |     1151 |
+| Protection from evil          |  60 |  72 |     3013 |
+| Resist temptation             |   0 |  -  |    (n/a) |
+| Create food                   |  15 |  95 |       72 |
+| Remove scar                   |  60 |  89 |     3563 |
+| Restore                       |   3 |  95 |       25 |
+| Summon                        |  20 |  44 |      153 |
+| Holy hand                     |  55 |  66 |     3447 |
+| Saintly touch                 |  60 |  95 |     5304 |
+| Cure player                   |   0 |  95 |       33 |
+| Cure serious wounds           |  57 |  95 |     4626 |
+| Guardian angel                |   0 |  95 |       33 |
+| Remove poison                 |  20 |  83 |      190 |
+| Soul shield                   |  40 |  80 |     1069 |
+| Cleanse heathen               |   0 |  52 |       40 |
+| Celestial haven               |  25 |  53 |      417 |
+| Heavy weight                  |  40 |  71 |     1556 |
+| Bless vial                    |  53 |  67 |     5409 |
+| Cure critical wounds          |   0 |  40 |       56 |
+| Aura detection                |   0 |  95 |       72 |
+| Heavenly protection           |   0 |  59 |       76 |
+| Dispel undead                 |  40 |  63 |     2466 |
+| Dispel evil                   |  40 |  70 |     3248 |
+| Mana shield                   |  20 |  95 |      579 |
+| Flames of righteousness       |   7 |  58 |      218 |
+| Holy wind                     |   0 |  71 |      121 |
+| Banish demons                 |  26 |  69 |     1225 |
+| Holy bolt                     |   0 |  61 |      198 |
+| Guardian                      |   0 |  -  |    (n/a) |
+`------------------------------------------------------'

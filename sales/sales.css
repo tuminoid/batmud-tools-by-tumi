@@ -1,0 +1,68 @@
+
+/* sales.css for BSSE */
+
+
+/* searches */
+
+table#searchtable {
+	border: 1px dotted Black;
+	margin-left: auto;
+	margin-right: auto;
+
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+
+
+table#searchtable TR:first-child {
+	font-weight: bold;
+	color: Black;
+	background-color: #eeeeee;
+	text-align: center;
+}
+
+
+
+/* results */
+
+table#resulttable {
+	border: 1px solid Black;
+	font-size: 0.8em;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table#resulttable TR:first-child {
+	font-weight: bold;
+	color: Black;
+	background-color: #dddddd;
+}
+
+table#resulttable TR.footer {
+	font-weight: bold;
+	color: Black;
+	background-color: #dddddd;
+	text-align: right;
+}
+
+table#resulttable TD {
+	border-right: 1px solid Black;
+	border-bottom: 1px solid Black;
+	border-collapse: collapse;
+	margin: 0;
+	padding: 3px;
+}
+
+
+/* colors */
+
+table#resulttable TR.c1 {
+	color: Black;
+	background-color: #ffffff;
+}
+
+table#resulttable TR.c2 {
+	color: Black;
+	background-color: #eeeeee;
+}

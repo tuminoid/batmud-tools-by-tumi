@@ -1,0 +1,47 @@
+Catfolk
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  23 |  92 | 100 |      219 |
+| Push                          |   0 |  92 | 100 |       14 |
+| Alcohol tolerance             |   0 |  92 | 100 |       19 |
+| Compare                       |   0 |  92 |  80 |       19 |
+| First aid                     |  30 |  92 |  80 |      616 |
+| Swim                          |  30 |  92 |  70 |      720 |
+| Lounging                      |   0 |  92 | 100 |       41 |
+| Gloveknock                    |   0 |  92 | 100 |       44 |
+| Switch weapon                 |   0 |  92 | 100 |       48 |
+| Sewing                        |   0 |  92 | 100 |       59 |
+| Attack                        |  64 |  92 | 100 |    18812 |
+| Short blades                  |  47 |  92 | 100 |     7561 |
+| Sabre fence                   |  10 |  92 | 100 |      223 |
+| Negate offhand penalty        |   0 |  92 |  80 |      105 |
+| Rescue                        |   0 |  92 |  80 |      124 |
+| Stun                          |   0 |  92 |  60 |      135 |
+| Throw weight                  |   0 |  92 |  70 |      158 |
+| Discipline                    |   0 |  92 |  70 |      175 |
+| Sabre derobement              |   0 |  92 | 100 |      182 |
+| Sabre lunge                   |   0 |  92 | 100 |      182 |
+| Sabre parry                   |   0 |  92 | 100 |      182 |
+| Enhance criticals             |   0 |  92 |  50 |      184 |
+| Parry                         |   0 |  92 |  85 |      191 |
+| Sabre feint                   |   0 |  92 | 100 |      203 |
+| Sabre remise                  |   0 |  92 | 100 |      203 |
+| Sabre riposte                 |   0 |  92 | 100 |      214 |
+| Sabre trompement              |   0 |  92 | 100 |      214 |
+| Stunned maneuvers             |   0 |  92 |  70 |      214 |
+| Dodge                         |   4 |  92 |  60 |      255 |
+| Sabre invito                  |   0 |  92 | 100 |      223 |
+| Battle cadence                |  42 |  92 | 100 |    15078 |
+| Sabre tension parry           |   0 |  92 | 100 |      242 |
+`-----------------------------------------------------------'
+                               ,----------------------------.
+                               |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Call pigeon                   |   0 |  86 | 100 |       33 |
+| Cantrip                       |   0 |  86 | 100 |       52 |
+`-----------------------------------------------------------'

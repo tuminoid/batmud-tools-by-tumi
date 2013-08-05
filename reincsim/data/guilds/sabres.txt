@@ -1,0 +1,807 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+              [fonter.php?str=The+Order+of+the+Shadow+Sabres]
+
+                       The Order of the Shadow Sabres
+
+   Command: sabres
+   Creator: [22]Shardik
+   Maximum level: 30
+   Description:
+   The Order of the Shadow Sabres was originally found on 9th day
+   of the 9th month, gods' year 642. This was the date when one of
+   the higher archwizards (also known as the Dark One), gave one
+   of the lesser wizards an approval for setting up the Order. The
+   Order had been requested by a mere mortal, Caitline his name.
+   What is this guild about then, you may wonder? Well, one way to
+   see it would be that it is about skills in melee battle. There are,
+   however, guilds that are much stronger in this aspect... however
+   none of those are available for this particular background. This
+   guild is not just a weaker version of the 'real' tank guilds, there
+   is an original flavor or two in it.
+   This guild is civilized, and civilization mean here more than the
+   sole background. Members of the Order of Shadow Sabres (which is a
+   suitably flamboyant name) are dependent on things like fine clothing,
+   good food and other things of same manner; perhaps a glass of refined
+   Shadowkepian wine or high-class pipe tobacco. If you, dear reader, are
+   not interested in 'things of flavor', and have a hard time imagining
+   yourself as a gastronomer and a snappy dresser - perhaps this guild
+   is not for you? That is a decision for you alone to make, of course.
+   Style, grandiloquence and protection of the Realms are important
+   matters for the members of the Order. Many are the terrors and
+   nuisances that bother the dwellers of this world, from demons of many
+   colors to petty orcs that invade the City of Bats occasionally. Also
+   are many the possibilities to demonstrate your supremacy over others;
+   perhaps by catching the hiding mage, being the first to catch a
+   running fox... or uniting a broken statue depicting ancient evil?
+   Of these things the Order of the Shadow Sabres consists of, and of
+   some
+   more. Wear an elegant hat (with a feather), wield shiny sabres and
+   join us to bring some colour in to the Realms.
+   -- GuildeMeister Shardik --
+
+                                New Member
+                 Background must be civilized
+                 Receive the Hat of the Shadow Sabres.
+                 Receive guild bonuses as you advance.
+                 May train skill [23]Sewing to 25%
+                 May train skill [24]Consider to 20%
+                 May train skill [25]Swim to 10%
+                 May train skill [26]Alcohol tolerance to 5%
+                 May train skill [27]Attack to 20%
+                 May train skill [28]Short blades to 10%
+                 May train skill [29]Push to 25%
+                 May train skill [30]Battle cadence to 5%
+
+                                 Level 2
+                 May train skill [31]Sewing to 50%
+                 May train skill [32]Consider to 40%
+                 May train skill [33]Swim to 20%
+                 May train skill [34]Alcohol tolerance to 8%
+                 May train skill [35]Attack to 27%
+                 May train skill [36]Short blades to 22%
+                 May train skill [37]First aid to 15%
+                 May train skill [38]Push to 50%
+                 May train skill [39]Gloveknock to 20%
+                 May train skill [40]Battle cadence to 8%
+
+                                  Level 3
+                 May train skill [41]Sewing to 75%
+                 May train skill [42]Consider to 60%
+                 May train skill [43]Swim to 30%
+                 May train skill [44]Alcohol tolerance to 11%
+                 May train skill [45]Attack to 34%
+                 May train skill [46]Short blades to 35%
+                 May train skill [47]First aid to 25%
+                 May train skill [48]Push to 75%
+                 May train skill [49]Gloveknock to 30%
+                 May train skill [50]Battle cadence to 11%
+                 May train skill [51]Lounging to 20%
+
+                                  Level 4
+                 May train skill [52]Sewing to 100%
+                 May train skill [53]Consider to 80%
+                 May train skill [54]Swim to 40%
+                 May train skill [55]Alcohol tolerance to 14%
+                 May train skill [56]Attack to 41%
+                 May train skill [57]Short blades to 48%
+                 May train skill [58]First aid to 36%
+                 May train skill [59]Push to 100%
+                 May train skill [60]Gloveknock to 40%
+                 May train skill [61]Battle cadence to 14%
+                 May train skill [62]Lounging to 26%
+
+                                  Level 5
+                 May train skill [63]Consider to 100%
+                 May train skill [64]Swim to 50%
+                 May train skill [65]Alcohol tolerance to 18%
+                 May train skill [66]Compare to 10%
+                 May train skill [67]Attack to 49%
+                 May train skill [68]Switch weapon to 20%
+                 May train skill [69]Short blades to 61%
+                 May train skill [70]First aid to 47%
+                 May train skill [71]Gloveknock to 50%
+                 May train skill [72]Battle cadence to 18%
+                 May train skill [73]Lounging to 33%
+                 May study spell [74]Call pigeon to 10%
+
+                                  Level 6
+                 May train skill [75]Swim to 60%
+                 May train skill [76]Alcohol tolerance to 21%
+                 May train skill [77]Compare to 24%
+                 May train skill [78]Attack to 56%
+                 May train skill [79]Switch weapon to 36%
+                 May train skill [80]Short blades to 74%
+                 May train skill [81]First aid to 58%
+                 May train skill [82]Gloveknock to 60%
+                 May train skill [83]Battle cadence to 21%
+                 May train skill [84]Lounging to 39%
+                 May study spell [85]Call pigeon to 19%
+
+                                  Level 7
+                 May train skill [86]Swim to 70%
+                 May train skill [87]Alcohol tolerance to 24%
+                 May train skill [88]Compare to 38%
+                 May train skill [89]Attack to 63%
+                 May train skill [90]Switch weapon to 52%
+                 May train skill [91]Short blades to 87%
+                 May train skill [92]First aid to 69%
+                 May train skill [93]Gloveknock to 70%
+                 May train skill [94]Battle cadence to 24%
+                 May train skill [95]Lounging to 46%
+                 May study spell [96]Call pigeon to 28%
+
+                                  Level 8
+                 May train skill [97]Alcohol tolerance to 27%
+                 May train skill [98]Compare to 52%
+                 May train skill [99]Attack to 70%
+                 May train skill [100]Switch weapon to 68%
+                 May train skill [101]Short blades to 100%
+                 May train skill [102]First aid to 80%
+                 May train skill [103]Gloveknock to 80%
+                 May train skill [104]Battle cadence to 27%
+                 May train skill [105]Lounging to 53%
+                 May study spell [106]Call pigeon to 37%
+
+                                 Level 9
+                May train skill [107]Alcohol tolerance to 31%
+                May train skill [108]Compare to 66%
+                May train skill [109]Attack to 78%
+                May train skill [110]Switch weapon to 84%
+                May train skill [111]Gloveknock to 90%
+                May train skill [112]Battle cadence to 31%
+                May train skill [113]Lounging to 59%
+                May study spell [114]Call pigeon to 46%
+
+                                 Level 10
+              May train skill [115]Alcohol tolerance to 34%
+              May train skill [116]Compare to 80%
+              May train skill [117]Attack to 85%
+              May train skill [118]Throw weight to 10%
+              May train skill [119]Switch weapon to 100%
+              May train skill [120]Negate offhand penalty to 10%
+              May train skill [121]Gloveknock to 100%
+              May train skill [122]Sabre fence to 30%
+              May train skill [123]Battle cadence to 34%
+              May train skill [124]Sabre lunge to 20%
+              May train skill [125]Sabre parry to 20%
+              May train skill [126]Lounging to 66%
+              May study spell [127]Call pigeon to 55%
+
+                                 Level 11
+              May train skill [128]Alcohol tolerance to 37%
+              May train skill [129]Attack to 92%
+              May train skill [130]Throw weight to 16%
+              May train skill [131]Negate offhand penalty to 17%
+              May train skill [132]Sabre fence to 34%
+              May train skill [133]Battle cadence to 37%
+              May train skill [134]Sabre lunge to 36%
+              May train skill [135]Sabre parry to 36%
+              May train skill [136]Lounging to 73%
+              May study spell [137]Call pigeon to 64%
+
+                                 Level 12
+              May train skill [138]Alcohol tolerance to 41%
+              May train skill [139]Attack to 100%
+              May train skill [140]Throw weight to 22%
+              May train skill [141]Negate offhand penalty to 24%
+              May train skill [142]Stun to 10%
+              May train skill [143]Sabre fence to 39%
+              May train skill [144]Battle cadence to 41%
+              May train skill [145]Sabre lunge to 52%
+              May train skill [146]Sabre parry to 52%
+              May train skill [147]Lounging to 79%
+              May study spell [148]Call pigeon to 73%
+
+                                 Level 13
+              May train skill [149]Alcohol tolerance to 44%
+              May train skill [150]Throw weight to 28%
+              May train skill [151]Negate offhand penalty to 31%
+              May train skill [152]Stun to 13%
+              May train skill [153]Sabre fence to 43%
+              May train skill [154]Battle cadence to 44%
+              May train skill [155]Sabre lunge to 68%
+              May train skill [156]Sabre parry to 68%
+              May train skill [157]Lounging to 86%
+              May study spell [158]Call pigeon to 82%
+
+                                 Level 14
+              May train skill [159]Alcohol tolerance to 47%
+              May train skill [160]Throw weight to 34%
+              May train skill [161]Negate offhand penalty to 38%
+              May train skill [162]Stun to 17%
+              May train skill [163]Sabre fence to 48%
+              May train skill [164]Battle cadence to 47%
+              May train skill [165]Sabre lunge to 84%
+              May train skill [166]Sabre parry to 84%
+              May train skill [167]Lounging to 93%
+              May study spell [168]Call pigeon to 91%
+
+                                 Level 15
+              Receive the Bag of Holding.
+              May train skill [169]Alcohol tolerance to 50%
+              May train skill [170]Throw weight to 40%
+              May train skill [171]Negate offhand penalty to 45%
+              May train skill [172]Stun to 21%
+              May train skill [173]Parry to 10%
+              May train skill [174]Sabre fence to 53%
+              May train skill [175]Battle cadence to 50%
+              May train skill [176]Sabre lunge to 100%
+              May train skill [177]Sabre remise to 20%
+              May train skill [178]Sabre parry to 100%
+              May train skill [179]Sabre feint to 20%
+              May train skill [180]Lounging to 100%
+              May study spell [181]Call pigeon to 100%
+
+                                 Level 16
+              May train skill [182]Alcohol tolerance to 54%
+              May train skill [183]Throw weight to 46%
+              May train skill [184]Negate offhand penalty to 52%
+              May train skill [185]Stun to 25%
+              May train skill [186]Parry to 19%
+              May train skill [187]Sabre fence to 57%
+              May train skill [188]Battle cadence to 54%
+              May train skill [189]Sabre remise to 36%
+              May train skill [190]Sabre feint to 36%
+
+                                 Level 17
+              May train skill [191]Alcohol tolerance to 57%
+              May train skill [192]Throw weight to 52%
+              May train skill [193]Negate offhand penalty to 59%
+              May train skill [194]Stun to 29%
+              May train skill [195]Enhance criticals to 10%
+              May train skill [196]Parry to 28%
+              May train skill [197]Sabre fence to 62%
+              May train skill [198]Battle cadence to 57%
+              May train skill [199]Sabre remise to 52%
+              May train skill [200]Sabre feint to 52%
+
+                                 Level 18
+              May train skill [201]Alcohol tolerance to 60%
+              May train skill [202]Throw weight to 58%
+              May train skill [203]Negate offhand penalty to 66%
+              May train skill [204]Stun to 33%
+              May train skill [205]Enhance criticals to 16%
+              May train skill [206]Parry to 38%
+              May train skill [207]Sabre fence to 67%
+              May train skill [208]Battle cadence to 60%
+              May train skill [209]Sabre remise to 68%
+              May train skill [210]Sabre feint to 68%
+
+                                 Level 19
+              May train skill [211]Alcohol tolerance to 63%
+              May train skill [212]Throw weight to 64%
+              May train skill [213]Negate offhand penalty to 73%
+              May train skill [214]Stun to 36%
+              May train skill [215]Enhance criticals to 23%
+              May train skill [216]Parry to 47%
+              May train skill [217]Sabre fence to 71%
+              May train skill [218]Battle cadence to 63%
+              May train skill [219]Sabre remise to 84%
+              May train skill [220]Sabre feint to 84%
+
+                                 Level 20
+              May train skill [221]Alcohol tolerance to 67%
+              May train skill [222]Throw weight to 70%
+              May train skill [223]Negate offhand penalty to 80%
+              May train skill [224]Discipline to 10%
+              May train skill [225]Rescue to 20%
+              May train skill [226]Stun to 40%
+              May train skill [227]Enhance criticals to 29%
+              May train skill [228]Parry to 56%
+              May train skill [229]Dodge to 10%
+              May train skill [230]Sabre fence to 76%
+              May train skill [231]Battle cadence to 67%
+              May train skill [232]Sabre remise to 100%
+              May train skill [233]Sabre trompement to 20%
+              May train skill [234]Sabre feint to 100%
+              May train skill [235]Sabre derobement to 20%
+
+                                 Level 21
+                May train skill [236]Alcohol tolerance to 70%
+                May train skill [237]Discipline to 16%
+                May train skill [238]Rescue to 26%
+                May train skill [239]Stun to 44%
+                May train skill [240]Enhance criticals to 36%
+                May train skill [241]Parry to 66%
+                May train skill [242]Dodge to 18%
+                May train skill [243]Sabre fence to 81%
+                May train skill [244]Battle cadence to 70%
+                May train skill [245]Sabre trompement to 36%
+                May train skill [246]Sabre derobement to 36%
+
+                                 Level 22
+                May train skill [247]Alcohol tolerance to 73%
+                May train skill [248]Discipline to 22%
+                May train skill [249]Rescue to 32%
+                May train skill [250]Stun to 48%
+                May train skill [251]Enhance criticals to 43%
+                May train skill [252]Parry to 75%
+                May train skill [253]Dodge to 26%
+                May train skill [254]Stunned maneuvers to 10%
+                May train skill [255]Sabre fence to 85%
+                May train skill [256]Battle cadence to 73%
+                May train skill [257]Sabre trompement to 52%
+                May train skill [258]Sabre derobement to 52%
+
+                                 Level 23
+                May train skill [259]Alcohol tolerance to 77%
+                May train skill [260]Discipline to 28%
+                May train skill [261]Rescue to 38%
+                May train skill [262]Stun to 52%
+                May train skill [263]Enhance criticals to 50%
+                May train skill [264]Parry to 85%
+                May train skill [265]Dodge to 34%
+                May train skill [266]Stunned maneuvers to 20%
+                May train skill [267]Sabre fence to 90%
+                May train skill [268]Battle cadence to 77%
+                May train skill [269]Sabre trompement to 68%
+                May train skill [270]Sabre derobement to 68%
+
+                                 Level 24
+                May train skill [271]Alcohol tolerance to 80%
+                May train skill [272]Discipline to 34%
+                May train skill [273]Rescue to 44%
+                May train skill [274]Stun to 56%
+                May train skill [275]Dodge to 43%
+                May train skill [276]Stunned maneuvers to 30%
+                May train skill [277]Sabre fence to 95%
+                May train skill [278]Battle cadence to 80%
+                May train skill [279]Sabre trompement to 84%
+                May train skill [280]Sabre derobement to 84%
+
+                                 Level 25
+                May train skill [281]Alcohol tolerance to 83%
+                May train skill [282]Discipline to 40%
+                May train skill [283]Rescue to 50%
+                May train skill [284]Stun to 60%
+                May train skill [285]Dodge to 51%
+                May train skill [286]Stunned maneuvers to 40%
+                May train skill [287]Sabre fence to 100%
+                May train skill [288]Battle cadence to 83%
+                May train skill [289]Sabre trompement to 100%
+                May train skill [290]Sabre riposte to 20%
+                May train skill [291]Sabre derobement to 100%
+                May train skill [292]Sabre invito to 20%
+
+                                 Level 26
+                May train skill [293]Alcohol tolerance to 86%
+                May train skill [294]Discipline to 46%
+                May train skill [295]Rescue to 56%
+                May train skill [296]Dodge to 60%
+                May train skill [297]Stunned maneuvers to 50%
+                May train skill [298]Battle cadence to 86%
+                May train skill [299]Sabre riposte to 36%
+                May train skill [300]Sabre invito to 36%
+
+                                 Level 27
+                May train skill [301]Alcohol tolerance to 90%
+                May train skill [302]Discipline to 52%
+                May train skill [303]Rescue to 62%
+                May train skill [304]Stunned maneuvers to 60%
+                May train skill [305]Battle cadence to 90%
+                May train skill [306]Sabre riposte to 52%
+                May train skill [307]Sabre invito to 52%
+
+                                 Level 28
+                May train skill [308]Alcohol tolerance to 93%
+                May train skill [309]Discipline to 58%
+                May train skill [310]Rescue to 68%
+                May train skill [311]Stunned maneuvers to 70%
+                May train skill [312]Battle cadence to 93%
+                May train skill [313]Sabre riposte to 68%
+                May train skill [314]Sabre invito to 68%
+
+                                 Level 29
+               May study spell [315]Cantrip to 50%
+               May train skill [316]Alcohol tolerance to 96%
+               May train skill [317]Discipline to 64%
+               May train skill [318]Rescue to 74%
+               May train skill [319]Combat sense to 35%
+               May train skill [320]Battle cadence to 96%
+               May train skill [321]Sabre riposte to 84%
+               May train skill [322]Sabre invito to 84%
+               May train skill [323]Sabre tension parry to 50%
+
+                                 Level 30
+               May study spell [324]Cantrip to 100%
+               May train skill [325]Alcohol tolerance to 100%
+               May train skill [326]Discipline to 70%
+               May train skill [327]Rescue to 80%
+               May train skill [328]Combat sense to 70%
+               May train skill [329]Battle cadence to 100%
+               May train skill [330]Sabre riposte to 100%
+               May train skill [331]Sabre invito to 100%
+               May train skill [332]Sabre tension parry to 100%
+
+                   Allows joining to the following guild:
+                     The Order of the Shadow Sabres
+
+   [333]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [334]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Order%20of%20the%20Shadow%20Sabres&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Order%20of%20the%20Shadow%20Sabres&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Order%20of%20the%20Shadow%20Sabres&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=shardik
+  23. http://www.bat.org/help/skills.php?str=sewing
+  24. http://www.bat.org/help/skills.php?str=consider
+  25. http://www.bat.org/help/skills.php?str=swim
+  26. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  27. http://www.bat.org/help/skills.php?str=attack
+  28. http://www.bat.org/help/skills.php?str=short_blades
+  29. http://www.bat.org/help/skills.php?str=push
+  30. http://www.bat.org/help/skills.php?str=battle_cadence
+  31. http://www.bat.org/help/skills.php?str=sewing
+  32. http://www.bat.org/help/skills.php?str=consider
+  33. http://www.bat.org/help/skills.php?str=swim
+  34. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  35. http://www.bat.org/help/skills.php?str=attack
+  36. http://www.bat.org/help/skills.php?str=short_blades
+  37. http://www.bat.org/help/skills.php?str=first_aid
+  38. http://www.bat.org/help/skills.php?str=push
+  39. http://www.bat.org/help/skills.php?str=gloveknock
+  40. http://www.bat.org/help/skills.php?str=battle_cadence
+  41. http://www.bat.org/help/skills.php?str=sewing
+  42. http://www.bat.org/help/skills.php?str=consider
+  43. http://www.bat.org/help/skills.php?str=swim
+  44. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  45. http://www.bat.org/help/skills.php?str=attack
+  46. http://www.bat.org/help/skills.php?str=short_blades
+  47. http://www.bat.org/help/skills.php?str=first_aid
+  48. http://www.bat.org/help/skills.php?str=push
+  49. http://www.bat.org/help/skills.php?str=gloveknock
+  50. http://www.bat.org/help/skills.php?str=battle_cadence
+  51. http://www.bat.org/help/skills.php?str=lounging
+  52. http://www.bat.org/help/skills.php?str=sewing
+  53. http://www.bat.org/help/skills.php?str=consider
+  54. http://www.bat.org/help/skills.php?str=swim
+  55. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  56. http://www.bat.org/help/skills.php?str=attack
+  57. http://www.bat.org/help/skills.php?str=short_blades
+  58. http://www.bat.org/help/skills.php?str=first_aid
+  59. http://www.bat.org/help/skills.php?str=push
+  60. http://www.bat.org/help/skills.php?str=gloveknock
+  61. http://www.bat.org/help/skills.php?str=battle_cadence
+  62. http://www.bat.org/help/skills.php?str=lounging
+  63. http://www.bat.org/help/skills.php?str=consider
+  64. http://www.bat.org/help/skills.php?str=swim
+  65. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  66. http://www.bat.org/help/skills.php?str=compare
+  67. http://www.bat.org/help/skills.php?str=attack
+  68. http://www.bat.org/help/skills.php?str=switch_weapon
+  69. http://www.bat.org/help/skills.php?str=short_blades
+  70. http://www.bat.org/help/skills.php?str=first_aid
+  71. http://www.bat.org/help/skills.php?str=gloveknock
+  72. http://www.bat.org/help/skills.php?str=battle_cadence
+  73. http://www.bat.org/help/skills.php?str=lounging
+  74. http://www.bat.org/help/spells.php?str=call_pigeon
+  75. http://www.bat.org/help/skills.php?str=swim
+  76. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  77. http://www.bat.org/help/skills.php?str=compare
+  78. http://www.bat.org/help/skills.php?str=attack
+  79. http://www.bat.org/help/skills.php?str=switch_weapon
+  80. http://www.bat.org/help/skills.php?str=short_blades
+  81. http://www.bat.org/help/skills.php?str=first_aid
+  82. http://www.bat.org/help/skills.php?str=gloveknock
+  83. http://www.bat.org/help/skills.php?str=battle_cadence
+  84. http://www.bat.org/help/skills.php?str=lounging
+  85. http://www.bat.org/help/spells.php?str=call_pigeon
+  86. http://www.bat.org/help/skills.php?str=swim
+  87. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  88. http://www.bat.org/help/skills.php?str=compare
+  89. http://www.bat.org/help/skills.php?str=attack
+  90. http://www.bat.org/help/skills.php?str=switch_weapon
+  91. http://www.bat.org/help/skills.php?str=short_blades
+  92. http://www.bat.org/help/skills.php?str=first_aid
+  93. http://www.bat.org/help/skills.php?str=gloveknock
+  94. http://www.bat.org/help/skills.php?str=battle_cadence
+  95. http://www.bat.org/help/skills.php?str=lounging
+  96. http://www.bat.org/help/spells.php?str=call_pigeon
+  97. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  98. http://www.bat.org/help/skills.php?str=compare
+  99. http://www.bat.org/help/skills.php?str=attack
+ 100. http://www.bat.org/help/skills.php?str=switch_weapon
+ 101. http://www.bat.org/help/skills.php?str=short_blades
+ 102. http://www.bat.org/help/skills.php?str=first_aid
+ 103. http://www.bat.org/help/skills.php?str=gloveknock
+ 104. http://www.bat.org/help/skills.php?str=battle_cadence
+ 105. http://www.bat.org/help/skills.php?str=lounging
+ 106. http://www.bat.org/help/spells.php?str=call_pigeon
+ 107. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 108. http://www.bat.org/help/skills.php?str=compare
+ 109. http://www.bat.org/help/skills.php?str=attack
+ 110. http://www.bat.org/help/skills.php?str=switch_weapon
+ 111. http://www.bat.org/help/skills.php?str=gloveknock
+ 112. http://www.bat.org/help/skills.php?str=battle_cadence
+ 113. http://www.bat.org/help/skills.php?str=lounging
+ 114. http://www.bat.org/help/spells.php?str=call_pigeon
+ 115. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 116. http://www.bat.org/help/skills.php?str=compare
+ 117. http://www.bat.org/help/skills.php?str=attack
+ 118. http://www.bat.org/help/skills.php?str=throw_weight
+ 119. http://www.bat.org/help/skills.php?str=switch_weapon
+ 120. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 121. http://www.bat.org/help/skills.php?str=gloveknock
+ 122. http://www.bat.org/help/skills.php?str=sabre_fence
+ 123. http://www.bat.org/help/skills.php?str=battle_cadence
+ 124. http://www.bat.org/help/skills.php?str=sabre_lunge
+ 125. http://www.bat.org/help/skills.php?str=sabre_parry
+ 126. http://www.bat.org/help/skills.php?str=lounging
+ 127. http://www.bat.org/help/spells.php?str=call_pigeon
+ 128. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 129. http://www.bat.org/help/skills.php?str=attack
+ 130. http://www.bat.org/help/skills.php?str=throw_weight
+ 131. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 132. http://www.bat.org/help/skills.php?str=sabre_fence
+ 133. http://www.bat.org/help/skills.php?str=battle_cadence
+ 134. http://www.bat.org/help/skills.php?str=sabre_lunge
+ 135. http://www.bat.org/help/skills.php?str=sabre_parry
+ 136. http://www.bat.org/help/skills.php?str=lounging
+ 137. http://www.bat.org/help/spells.php?str=call_pigeon
+ 138. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 139. http://www.bat.org/help/skills.php?str=attack
+ 140. http://www.bat.org/help/skills.php?str=throw_weight
+ 141. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 142. http://www.bat.org/help/skills.php?str=stun
+ 143. http://www.bat.org/help/skills.php?str=sabre_fence
+ 144. http://www.bat.org/help/skills.php?str=battle_cadence
+ 145. http://www.bat.org/help/skills.php?str=sabre_lunge
+ 146. http://www.bat.org/help/skills.php?str=sabre_parry
+ 147. http://www.bat.org/help/skills.php?str=lounging
+ 148. http://www.bat.org/help/spells.php?str=call_pigeon
+ 149. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 150. http://www.bat.org/help/skills.php?str=throw_weight
+ 151. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 152. http://www.bat.org/help/skills.php?str=stun
+ 153. http://www.bat.org/help/skills.php?str=sabre_fence
+ 154. http://www.bat.org/help/skills.php?str=battle_cadence
+ 155. http://www.bat.org/help/skills.php?str=sabre_lunge
+ 156. http://www.bat.org/help/skills.php?str=sabre_parry
+ 157. http://www.bat.org/help/skills.php?str=lounging
+ 158. http://www.bat.org/help/spells.php?str=call_pigeon
+ 159. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 160. http://www.bat.org/help/skills.php?str=throw_weight
+ 161. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 162. http://www.bat.org/help/skills.php?str=stun
+ 163. http://www.bat.org/help/skills.php?str=sabre_fence
+ 164. http://www.bat.org/help/skills.php?str=battle_cadence
+ 165. http://www.bat.org/help/skills.php?str=sabre_lunge
+ 166. http://www.bat.org/help/skills.php?str=sabre_parry
+ 167. http://www.bat.org/help/skills.php?str=lounging
+ 168. http://www.bat.org/help/spells.php?str=call_pigeon
+ 169. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 170. http://www.bat.org/help/skills.php?str=throw_weight
+ 171. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 172. http://www.bat.org/help/skills.php?str=stun
+ 173. http://www.bat.org/help/skills.php?str=parry
+ 174. http://www.bat.org/help/skills.php?str=sabre_fence
+ 175. http://www.bat.org/help/skills.php?str=battle_cadence
+ 176. http://www.bat.org/help/skills.php?str=sabre_lunge
+ 177. http://www.bat.org/help/skills.php?str=sabre_remise
+ 178. http://www.bat.org/help/skills.php?str=sabre_parry
+ 179. http://www.bat.org/help/skills.php?str=sabre_feint
+ 180. http://www.bat.org/help/skills.php?str=lounging
+ 181. http://www.bat.org/help/spells.php?str=call_pigeon
+ 182. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 183. http://www.bat.org/help/skills.php?str=throw_weight
+ 184. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 185. http://www.bat.org/help/skills.php?str=stun
+ 186. http://www.bat.org/help/skills.php?str=parry
+ 187. http://www.bat.org/help/skills.php?str=sabre_fence
+ 188. http://www.bat.org/help/skills.php?str=battle_cadence
+ 189. http://www.bat.org/help/skills.php?str=sabre_remise
+ 190. http://www.bat.org/help/skills.php?str=sabre_feint
+ 191. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 192. http://www.bat.org/help/skills.php?str=throw_weight
+ 193. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 194. http://www.bat.org/help/skills.php?str=stun
+ 195. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 196. http://www.bat.org/help/skills.php?str=parry
+ 197. http://www.bat.org/help/skills.php?str=sabre_fence
+ 198. http://www.bat.org/help/skills.php?str=battle_cadence
+ 199. http://www.bat.org/help/skills.php?str=sabre_remise
+ 200. http://www.bat.org/help/skills.php?str=sabre_feint
+ 201. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 202. http://www.bat.org/help/skills.php?str=throw_weight
+ 203. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 204. http://www.bat.org/help/skills.php?str=stun
+ 205. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 206. http://www.bat.org/help/skills.php?str=parry
+ 207. http://www.bat.org/help/skills.php?str=sabre_fence
+ 208. http://www.bat.org/help/skills.php?str=battle_cadence
+ 209. http://www.bat.org/help/skills.php?str=sabre_remise
+ 210. http://www.bat.org/help/skills.php?str=sabre_feint
+ 211. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 212. http://www.bat.org/help/skills.php?str=throw_weight
+ 213. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 214. http://www.bat.org/help/skills.php?str=stun
+ 215. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 216. http://www.bat.org/help/skills.php?str=parry
+ 217. http://www.bat.org/help/skills.php?str=sabre_fence
+ 218. http://www.bat.org/help/skills.php?str=battle_cadence
+ 219. http://www.bat.org/help/skills.php?str=sabre_remise
+ 220. http://www.bat.org/help/skills.php?str=sabre_feint
+ 221. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 222. http://www.bat.org/help/skills.php?str=throw_weight
+ 223. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 224. http://www.bat.org/help/skills.php?str=discipline
+ 225. http://www.bat.org/help/skills.php?str=rescue
+ 226. http://www.bat.org/help/skills.php?str=stun
+ 227. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 228. http://www.bat.org/help/skills.php?str=parry
+ 229. http://www.bat.org/help/skills.php?str=dodge
+ 230. http://www.bat.org/help/skills.php?str=sabre_fence
+ 231. http://www.bat.org/help/skills.php?str=battle_cadence
+ 232. http://www.bat.org/help/skills.php?str=sabre_remise
+ 233. http://www.bat.org/help/skills.php?str=sabre_trompement
+ 234. http://www.bat.org/help/skills.php?str=sabre_feint
+ 235. http://www.bat.org/help/skills.php?str=sabre_derobement
+ 236. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 237. http://www.bat.org/help/skills.php?str=discipline
+ 238. http://www.bat.org/help/skills.php?str=rescue
+ 239. http://www.bat.org/help/skills.php?str=stun
+ 240. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 241. http://www.bat.org/help/skills.php?str=parry
+ 242. http://www.bat.org/help/skills.php?str=dodge
+ 243. http://www.bat.org/help/skills.php?str=sabre_fence
+ 244. http://www.bat.org/help/skills.php?str=battle_cadence
+ 245. http://www.bat.org/help/skills.php?str=sabre_trompement
+ 246. http://www.bat.org/help/skills.php?str=sabre_derobement
+ 247. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 248. http://www.bat.org/help/skills.php?str=discipline
+ 249. http://www.bat.org/help/skills.php?str=rescue
+ 250. http://www.bat.org/help/skills.php?str=stun
+ 251. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 252. http://www.bat.org/help/skills.php?str=parry
+ 253. http://www.bat.org/help/skills.php?str=dodge
+ 254. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 255. http://www.bat.org/help/skills.php?str=sabre_fence
+ 256. http://www.bat.org/help/skills.php?str=battle_cadence
+ 257. http://www.bat.org/help/skills.php?str=sabre_trompement
+ 258. http://www.bat.org/help/skills.php?str=sabre_derobement
+ 259. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 260. http://www.bat.org/help/skills.php?str=discipline
+ 261. http://www.bat.org/help/skills.php?str=rescue
+ 262. http://www.bat.org/help/skills.php?str=stun
+ 263. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 264. http://www.bat.org/help/skills.php?str=parry
+ 265. http://www.bat.org/help/skills.php?str=dodge
+ 266. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 267. http://www.bat.org/help/skills.php?str=sabre_fence
+ 268. http://www.bat.org/help/skills.php?str=battle_cadence
+ 269. http://www.bat.org/help/skills.php?str=sabre_trompement
+ 270. http://www.bat.org/help/skills.php?str=sabre_derobement
+ 271. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 272. http://www.bat.org/help/skills.php?str=discipline
+ 273. http://www.bat.org/help/skills.php?str=rescue
+ 274. http://www.bat.org/help/skills.php?str=stun
+ 275. http://www.bat.org/help/skills.php?str=dodge
+ 276. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 277. http://www.bat.org/help/skills.php?str=sabre_fence
+ 278. http://www.bat.org/help/skills.php?str=battle_cadence
+ 279. http://www.bat.org/help/skills.php?str=sabre_trompement
+ 280. http://www.bat.org/help/skills.php?str=sabre_derobement
+ 281. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 282. http://www.bat.org/help/skills.php?str=discipline
+ 283. http://www.bat.org/help/skills.php?str=rescue
+ 284. http://www.bat.org/help/skills.php?str=stun
+ 285. http://www.bat.org/help/skills.php?str=dodge
+ 286. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 287. http://www.bat.org/help/skills.php?str=sabre_fence
+ 288. http://www.bat.org/help/skills.php?str=battle_cadence
+ 289. http://www.bat.org/help/skills.php?str=sabre_trompement
+ 290. http://www.bat.org/help/skills.php?str=sabre_riposte
+ 291. http://www.bat.org/help/skills.php?str=sabre_derobement
+ 292. http://www.bat.org/help/skills.php?str=sabre_invito
+ 293. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 294. http://www.bat.org/help/skills.php?str=discipline
+ 295. http://www.bat.org/help/skills.php?str=rescue
+ 296. http://www.bat.org/help/skills.php?str=dodge
+ 297. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 298. http://www.bat.org/help/skills.php?str=battle_cadence
+ 299. http://www.bat.org/help/skills.php?str=sabre_riposte
+ 300. http://www.bat.org/help/skills.php?str=sabre_invito
+ 301. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 302. http://www.bat.org/help/skills.php?str=discipline
+ 303. http://www.bat.org/help/skills.php?str=rescue
+ 304. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 305. http://www.bat.org/help/skills.php?str=battle_cadence
+ 306. http://www.bat.org/help/skills.php?str=sabre_riposte
+ 307. http://www.bat.org/help/skills.php?str=sabre_invito
+ 308. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 309. http://www.bat.org/help/skills.php?str=discipline
+ 310. http://www.bat.org/help/skills.php?str=rescue
+ 311. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 312. http://www.bat.org/help/skills.php?str=battle_cadence
+ 313. http://www.bat.org/help/skills.php?str=sabre_riposte
+ 314. http://www.bat.org/help/skills.php?str=sabre_invito
+ 315. http://www.bat.org/help/spells.php?str=cantrip
+ 316. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 317. http://www.bat.org/help/skills.php?str=discipline
+ 318. http://www.bat.org/help/skills.php?str=rescue
+ 319. http://www.bat.org/help/skills.php?str=combat_sense
+ 320. http://www.bat.org/help/skills.php?str=battle_cadence
+ 321. http://www.bat.org/help/skills.php?str=sabre_riposte
+ 322. http://www.bat.org/help/skills.php?str=sabre_invito
+ 323. http://www.bat.org/help/skills.php?str=sabre_tension_parry
+ 324. http://www.bat.org/help/spells.php?str=cantrip
+ 325. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 326. http://www.bat.org/help/skills.php?str=discipline
+ 327. http://www.bat.org/help/skills.php?str=rescue
+ 328. http://www.bat.org/help/skills.php?str=combat_sense
+ 329. http://www.bat.org/help/skills.php?str=battle_cadence
+ 330. http://www.bat.org/help/skills.php?str=sabre_riposte
+ 331. http://www.bat.org/help/skills.php?str=sabre_invito
+ 332. http://www.bat.org/help/skills.php?str=sabre_tension_parry
+ 333. http://www.bat.org/help/guilds.php
+ 334. mailto:webmaster@bat.org
+
+   Hidden links:
+ 335. http://www.bat.org/bat.php

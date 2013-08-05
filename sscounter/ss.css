@@ -1,0 +1,83 @@
+
+/* ss.css - css for ss counter by Tumi (c) 2006 */
+
+#sscounter {
+	width: 98%;
+	margin-top: 2em;
+	margin-left: auto;
+	margin-right: auto;
+
+	border: 1px solid Black;
+}
+
+#sscounter tr:first-child {
+	font-size: 1.3em;
+	font-weight: bold;
+	letter-spacing: 0.25em;
+	text-align: center;
+
+	border-bottom: 1px solid Black;
+}
+
+#sscounter #header {
+	text-align: center;
+	background-color: #dddddd;
+	font-weight: bold;
+	border-top: 1px solid Black;
+	border-bottom: 1px solid Black;
+}
+
+#sscounter tr.data {
+	margin: 0;
+	padding: 0.5em;
+}
+
+#sscounter tr.data td:first-child {
+	font-weight: bold;
+	text-align: center;
+	width: 2em;
+}
+
+#sscounter tr.data td.middle {
+	border-left: 1px dotted Silver;
+	border-right: 1px dotted Silver;
+	width: 15em;
+	text-align: center;
+}
+
+#sscounter #submit {
+	text-align: right;
+
+	border-top: 1px dotted Black;
+}
+
+.msg {
+	border: 1px solid Silver;
+	background-color: #FFFFCC;
+	letter-spacing: 0.15em;
+	font-size: 0.9em;
+
+	padding: 0.5em;
+	padding-left: 1.5em;
+}
+
+
+select {
+	width: 15em;
+	font-weight: bold;
+}
+
+textarea {
+	font-family: Courier, serif;
+	margin-left: 10%;
+}
+
+input {
+	font-weight: bold;
+}
+
+pre {
+	font-family: Courier, serif;
+	margin: 2em;
+}
+

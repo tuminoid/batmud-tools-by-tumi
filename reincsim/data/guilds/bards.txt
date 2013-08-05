@@ -1,0 +1,1186 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                    [fonter.php?str=The+Bards%27+guild]
+
+                              The Bards' guild
+
+   Command: bard
+   Creators: [22]Amarth, [23]Shardik, [24]Walin
+   Maximum level: 30
+   Description:
+   There isn't a real adventuring-party of the true nature without a
+   ravishing member of the Bards' guild in it. As bards are considered
+   generally musical artists who preserve and describe tales and legends
+   through their songs, are the Shadowkepian bards also developed from
+   this starting point.
+   Generally acknowledged as one of the less power-hungered guilds,
+   getting familiar with a true bard is most likely to be an unique
+   experience. Bards are bound into exploring, facing overpowerful
+   enemies, bitterly learning the lore and universally having a blast
+   of it all. One of the elder sayings go 'there is no merrier than
+   the heart of a bard when death is imminent.'
+   Bards have some fighting skills and a few outrageous songspells.
+   Advancing in the guild often requires some story-writing skills and
+   completion of specific guild quests. As weapons, bards fashion short
+   and long blades; seldomly also bows.
+   Important: Remember to read the guide in the joining room for more
+   exact information about songcasting and bards in general.
+
+                                 New Member
+     Background must be civilized
+     The most notable item for every bard is the newly fashioned ANKH!
+   that
+     has its roots in the Shadowkepian way of life; while being a symbol
+   for
+     healing and goodness it has now gained another meaning that aspires
+   even
+     higher - it is the epithet of divine sound.
+     Bards are granted mainly dexterity, but also wisdom during their
+   career.
+     Bards regain their songcasting points rapidly.
+                May train skill [25]Songcasting to 20%
+                May train skill [26]Songscribing to 20%
+                May train skill [27]Attack to 25%
+                May train skill [28]Swim to 25%
+                May train skill [29]Short blades to 15%
+                May train skill [30]Long blades to 15%
+                May study spell [31]Noituloves dischord to 10%
+
+                                  Level 2
+                May train skill [32]Songcasting to 22%
+                May train skill [33]Songscribing to 24%
+                May train skill [34]Attack to 27%
+                May train skill [35]Swim to 50%
+                May train skill [36]Dodge to 2%
+                May train skill [37]Short blades to 17%
+                May train skill [38]Long blades to 17%
+                May study spell [39]Noituloves dischord to 32%
+                May study spell [40]Catchy singalong to 10%
+
+                                  Level 3
+                May train skill [41]Songcasting to 25%
+                May train skill [42]Songscribing to 29%
+                May train skill [43]Attack to 30%
+                May train skill [44]Swim to 75%
+                May train skill [45]Dodge to 3%
+                May train skill [46]Short blades to 19%
+                May train skill [47]Long blades to 19%
+                May study spell [48]Noituloves dischord to 55%
+                May study spell [49]Catchy singalong to 19%
+                May study spell [50]Musicians alm to 10%
+
+                                  Level 4
+                May train skill [51]Songcasting to 28%
+                May train skill [52]Songscribing to 34%
+                May train skill [53]Attack to 33%
+                May train skill [54]Dodge to 4%
+                May train skill [55]Short blades to 21%
+                May train skill [56]Long blades to 21%
+                May study spell [57]Noituloves dischord to 77%
+                May study spell [58]Catchy singalong to 28%
+                May study spell [59]Campfire tune to 10%
+                May study spell [60]Musicians alm to 25%
+                May study spell [61]Kings feast to 10%
+
+                                  Level 5
+               May train skill [62]Songcasting to 31%
+               May train skill [63]Songscribing to 38%
+               May train skill [64]Attack to 35%
+               May train skill [65]Tumbling attack to 1%
+               May train skill [66]Negate offhand penalty to 1%
+               May train skill [67]Dodge to 5%
+               May train skill [68]Short blades to 23%
+               May train skill [69]Long blades to 23%
+               May study spell [70]Noituloves dischord to 100%
+               May study spell [71]Catchy singalong to 37%
+               May study spell [72]Campfire tune to 15%
+               May study spell [73]Musicians alm to 40%
+               May study spell [74]Kings feast to 18%
+               May study spell [75]Jesters trivia to 20%
+
+                                  Level 6
+               May train skill [76]Songcasting to 33%
+               May train skill [77]Songscribing to 43%
+               May train skill [78]Attack to 38%
+               May train skill [79]Hiking to 1%
+               May train skill [80]Tumbling attack to 3%
+               May train skill [81]Negate offhand penalty to 2%
+               May train skill [82]Enhance criticals to 2%
+               May train skill [83]Dodge to 6%
+               May train skill [84]Short blades to 25%
+               May train skill [85]Long blades to 25%
+               May study spell [86]Catchy singalong to 46%
+               May study spell [87]Campfire tune to 21%
+               May study spell [88]Musicians alm to 55%
+               May study spell [89]Kings feast to 26%
+               May study spell [90]Strength in unity to 30%
+               May study spell [91]Jesters trivia to 36%
+
+                                  Level 7
+               May train skill [92]Songcasting to 36%
+               May train skill [93]Songscribing to 48%
+               May train skill [94]Attack to 41%
+               May train skill [95]Hiking to 9%
+               May train skill [96]Tumbling attack to 5%
+               May train skill [97]Plant lore to 5%
+               May train skill [98]Alcohol tolerance to 1%
+               May train skill [99]Negate offhand penalty to 4%
+               May train skill [100]Dodge to 7%
+               May train skill [101]Short blades to 27%
+               May train skill [102]Long blades to 27%
+               May study spell [103]Melodical embracement to 5%
+               May study spell [104]Catchy singalong to 55%
+               May study spell [105]Campfire tune to 26%
+               May study spell [106]Musicians alm to 70%
+               May study spell [107]Kings feast to 34%
+               May study spell [108]Strength in unity to 35%
+               May study spell [109]Jesters trivia to 52%
+
+                                 Level 8
+              May train skill [110]Songcasting to 39%
+              May train skill [111]Songscribing to 52%
+              May train skill [112]Instrument creation to 10%
+              May train skill [113]Attack to 44%
+              May train skill [114]Hiking to 17%
+              May train skill [115]Tumbling attack to 7%
+              May train skill [116]Plant lore to 8%
+              May train skill [117]Alcohol tolerance to 9%
+              May train skill [118]Negate offhand penalty to 6%
+              May train skill [119]Dodge to 8%
+              May train skill [120]Short blades to 29%
+              May train skill [121]Long blades to 29%
+              May study spell [122]Melodical embracement to 12%
+              May study spell [123]Catchy singalong to 64%
+              May study spell [124]Campfire tune to 32%
+              May study spell [125]Venturers way to 10%
+              May study spell [126]Musicians alm to 85%
+              May study spell [127]Kings feast to 42%
+              May study spell [128]Strength in unity to 41%
+              May study spell [129]Jesters trivia to 68%
+
+                                 Level 9
+              May train skill [130]Songcasting to 42%
+              May train skill [131]Songscribing to 57%
+              May train skill [132]Instrument creation to 19%
+              May train skill [133]Attack to 46%
+              May train skill [134]Hiking to 26%
+              May train skill [135]Tumbling attack to 9%
+              May train skill [136]Plant lore to 12%
+              May train skill [137]Alcohol tolerance to 17%
+              May train skill [138]Negate offhand penalty to 8%
+              May train skill [139]Dodge to 9%
+              May train skill [140]Short blades to 31%
+              May train skill [141]Long blades to 31%
+              May study spell [142]Melodical embracement to 20%
+              May study spell [143]Catchy singalong to 73%
+              May study spell [144]Campfire tune to 38%
+              May study spell [145]Venturers way to 19%
+              May study spell [146]Musicians alm to 100%
+              May study spell [147]Kings feast to 50%
+              May study spell [148]Strength in unity to 47%
+              May study spell [149]Jesters trivia to 84%
+              May study spell [150]Sweet lullaby to 20%
+
+                                 Level 10
+              May train skill [151]Songcasting to 44%
+              May train skill [152]Songscribing to 62%
+              May train skill [153]Instrument creation to 28%
+              May train skill [154]Attack to 49%
+              May train skill [155]Hiking to 34%
+              May train skill [156]Tumbling attack to 11%
+              May train skill [157]Plant lore to 16%
+              May train skill [158]Alcohol tolerance to 25%
+              May train skill [159]Negate offhand penalty to 10%
+              May train skill [160]Dodge to 10%
+              May train skill [161]Short blades to 33%
+              May train skill [162]Long blades to 33%
+              May study spell [163]Clandestine thoughts to 5%
+              May study spell [164]Melodical embracement to 28%
+              May study spell [165]Catchy singalong to 82%
+              May study spell [166]Campfire tune to 43%
+              May study spell [167]Venturers way to 28%
+              May study spell [168]Kings feast to 59%
+              May study spell [169]Strength in unity to 53%
+              May study spell [170]Jesters trivia to 100%
+              May study spell [171]Singing shepherd to 20%
+              May study spell [172]Sweet lullaby to 36%
+
+                                 Level 11
+              May train skill [173]Songcasting to 47%
+              May train skill [174]Songscribing to 67%
+              May train skill [175]Instrument creation to 37%
+              May train skill [176]Attack to 52%
+              May train skill [177]Hiking to 43%
+              May train skill [178]Tumbling attack to 13%
+              May train skill [179]Plant lore to 20%
+              May train skill [180]Alcohol tolerance to 33%
+              May train skill [181]Negate offhand penalty to 12%
+              May train skill [182]Dodge to 11%
+              May train skill [183]Short blades to 35%
+              May train skill [184]Long blades to 35%
+              May study spell [185]Clandestine thoughts to 9%
+              May study spell [186]Melodical embracement to 36%
+              May study spell [187]Catchy singalong to 91%
+              May study spell [188]Campfire tune to 49%
+              May study spell [189]Venturers way to 37%
+              May study spell [190]Kings feast to 67%
+              May study spell [191]Uncontrollable mosh to 10%
+              May study spell [192]Strength in unity to 59%
+              May study spell [193]Singing shepherd to 33%
+              May study spell [194]Sweet lullaby to 52%
+
+                                 Level 12
+              May train skill [195]Songcasting to 50%
+              May train skill [196]Songscribing to 71%
+              May train skill [197]Instrument creation to 46%
+              May train skill [198]Attack to 54%
+              May train skill [199]Hiking to 51%
+              May train skill [200]Tumbling attack to 15%
+              May train skill [201]Plant lore to 24%
+              May train skill [202]Alcohol tolerance to 41%
+              May train skill [203]Negate offhand penalty to 14%
+              May train skill [204]Enhance criticals to 4%
+              May train skill [205]Dodge to 12%
+              May train skill [206]Short blades to 37%
+              May train skill [207]Long blades to 37%
+              May study spell [208]Clandestine thoughts to 14%
+              May study spell [209]Melodical embracement to 44%
+              May study spell [210]Catchy singalong to 100%
+              May study spell [211]Campfire tune to 55%
+              May study spell [212]Venturers way to 46%
+              May study spell [213]Kings feast to 75%
+              May study spell [214]Pathfinder to 5%
+              May study spell [215]Uncontrollable mosh to 20%
+              May study spell [216]Strength in unity to 64%
+              May study spell [217]Singing shepherd to 46%
+              May study spell [218]Sweet lullaby to 68%
+
+                                 Level 13
+              May train skill [219]Songcasting to 53%
+              May train skill [220]Songscribing to 76%
+              May train skill [221]Instrument creation to 55%
+              May train skill [222]Attack to 57%
+              May train skill [223]Hiking to 60%
+              May train skill [224]Tumbling attack to 17%
+              May train skill [225]Plant lore to 28%
+              May train skill [226]Alcohol tolerance to 50%
+              May train skill [227]Negate offhand penalty to 16%
+              May train skill [228]Dodge to 13%
+              May train skill [229]Short blades to 39%
+              May train skill [230]Long blades to 39%
+              May study spell [231]Clandestine thoughts to 19%
+              May study spell [232]Melodical embracement to 52%
+              May study spell [233]Campfire tune to 60%
+              May study spell [234]Venturers way to 55%
+              May study spell [235]War ensemble to 10%
+              May study spell [236]Kings feast to 83%
+              May study spell [237]Pathfinder to 10%
+              May study spell [238]Uncontrollable mosh to 30%
+              May study spell [239]Strength in unity to 70%
+              May study spell [240]Singing shepherd to 59%
+              May study spell [241]Sweet lullaby to 84%
+
+                                 Level 14
+              May train skill [242]Songcasting to 55%
+              May train skill [243]Songscribing to 81%
+              May train skill [244]Instrument creation to 64%
+              May train skill [245]Attack to 60%
+              May train skill [246]Tumbling attack to 19%
+              May train skill [247]Plant lore to 32%
+              May train skill [248]Negate offhand penalty to 18%
+              May train skill [249]Dodge to 14%
+              May train skill [250]Short blades to 41%
+              May train skill [251]Long blades to 41%
+              May study spell [252]Clandestine thoughts to 24%
+              May study spell [253]Melodical embracement to 60%
+              May study spell [254]Campfire tune to 66%
+              May study spell [255]Venturers way to 64%
+              May study spell [256]War ensemble to 21%
+              May study spell [257]Kings feast to 91%
+              May study spell [258]Pathfinder to 15%
+              May study spell [259]Uncontrollable mosh to 40%
+              May study spell [260]Strength in unity to 76%
+              May study spell [261]Singing shepherd to 73%
+              May study spell [262]Sweet lullaby to 100%
+
+                                 Level 15
+              May train skill [263]Songcasting to 58%
+              May train skill [264]Songmastery to 20%
+              May train skill [265]Songscribing to 85%
+              May train skill [266]Instrument creation to 73%
+              May train skill [267]Attack to 63%
+              May train skill [268]Tumbling attack to 21%
+              May train skill [269]Plant lore to 36%
+              May train skill [270]Negate offhand penalty to 20%
+              May train skill [271]Dodge to 15%
+              May train skill [272]Short blades to 43%
+              May train skill [273]Long blades to 43%
+              May study spell [274]Clandestine thoughts to 28%
+              May study spell [275]Melodical embracement to 68%
+              May study spell [276]Campfire tune to 71%
+              May study spell [277]Venturers way to 73%
+              May study spell [278]Soothing sounds to 24%
+              May study spell [279]War ensemble to 32%
+              May study spell [280]Kings feast to 100%
+              May study spell [281]Pathfinder to 20%
+              May study spell [282]Uncontrollable mosh to 50%
+              May study spell [283]Strength in unity to 82%
+              May study spell [284]Singing shepherd to 86%
+
+                                 Level 16
+              May train skill [285]Songcasting to 61%
+              May train skill [286]Songmastery to 25%
+              May train skill [287]Songscribing to 90%
+              May train skill [288]Instrument creation to 82%
+              May train skill [289]Attack to 65%
+              May train skill [290]Tumbling attack to 24%
+              May train skill [291]Plant lore to 40%
+              May train skill [292]Negate offhand penalty to 22%
+              May train skill [293]Dodge to 16%
+              May train skill [294]Short blades to 46%
+              May train skill [295]Long blades to 46%
+              May study spell [296]Clandestine thoughts to 33%
+              May study spell [297]Melodical embracement to 76%
+              May study spell [298]Campfire tune to 77%
+              May study spell [299]Venturers way to 82%
+              May study spell [300]Soothing sounds to 39%
+              May study spell [301]War ensemble to 43%
+              May study spell [302]Pathfinder to 26%
+              May study spell [303]Uncontrollable mosh to 60%
+              May study spell [304]Strength in unity to 88%
+              May study spell [305]Singing shepherd to 100%
+
+                                 Level 17
+              May train skill [306]Songcasting to 64%
+              May train skill [307]Songmastery to 30%
+              May train skill [308]Songscribing to 95%
+              May train skill [309]Instrument creation to 91%
+              May train skill [310]Attack to 68%
+              May train skill [311]Tumbling attack to 26%
+              May train skill [312]Plant lore to 44%
+              May train skill [313]Negate offhand penalty to 24%
+              May train skill [314]Dodge to 17%
+              May train skill [315]Short blades to 48%
+              May train skill [316]Long blades to 48%
+              May study spell [317]Clandestine thoughts to 38%
+              May study spell [318]Melodical embracement to 84%
+              May study spell [319]Campfire tune to 83%
+              May study spell [320]Venturers way to 91%
+              May study spell [321]Soothing sounds to 54%
+              May study spell [322]Vigilant melody to 40%
+              May study spell [323]War ensemble to 55%
+              May study spell [324]Pathfinder to 31%
+              May study spell [325]Uncontrollable mosh to 70%
+              May study spell [326]Strength in unity to 94%
+
+                                 Level 18
+              May train skill [327]Songcasting to 66%
+              May train skill [328]Songmastery to 35%
+              May train skill [329]Songscribing to 100%
+              May train skill [330]Instrument creation to 100%
+              May train skill [331]Attack to 71%
+              May train skill [332]Tumbling attack to 28%
+              May train skill [333]Plant lore to 48%
+              May train skill [334]Negate offhand penalty to 26%
+              May train skill [335]Enhance criticals to 6%
+              May train skill [336]Dodge to 18%
+              May train skill [337]Short blades to 50%
+              May train skill [338]Long blades to 50%
+              May study spell [339]Clandestine thoughts to 43%
+              May study spell [340]Melodical embracement to 92%
+              May study spell [341]Campfire tune to 88%
+              May study spell [342]Venturers way to 100%
+              May study spell [343]Soothing sounds to 69%
+              May study spell [344]Vigilant melody to 52%
+              May study spell [345]War ensemble to 66%
+              May study spell [346]Pathfinder to 36%
+              May study spell [347]Noituloves deathlore to 10%
+              May study spell [348]Uncontrollable mosh to 80%
+              May study spell [349]Strength in unity to 100%
+
+                                 Level 19
+              May train skill [350]Songcasting to 69%
+              May train skill [351]Songmastery to 41%
+              May train skill [352]Attack to 74%
+              May train skill [353]Tumbling attack to 30%
+              May train skill [354]Plant lore to 52%
+              May train skill [355]Negate offhand penalty to 28%
+              May train skill [356]Dodge to 19%
+              May train skill [357]Short blades to 52%
+              May train skill [358]Long blades to 52%
+              May study spell [359]Achromatic eyes to 20%
+              May study spell [360]Clandestine thoughts to 47%
+              May study spell [361]Melodical embracement to 100%
+              May study spell [362]Campfire tune to 94%
+              May study spell [363]Soothing sounds to 84%
+              May study spell [364]Vigilant melody to 64%
+              May study spell [365]War ensemble to 77%
+              May study spell [366]Pathfinder to 41%
+              May study spell [367]Noituloves deathlore to 20%
+              May study spell [368]Uncontrollable mosh to 90%
+
+                                 Level 20
+              May train skill [369]Songcasting to 72%
+              May train skill [370]Songmastery to 46%
+              May train skill [371]Attack to 76%
+              May train skill [372]Tumbling attack to 32%
+              May train skill [373]Plant lore to 56%
+              May train skill [374]Negate offhand penalty to 30%
+              May train skill [375]Dodge to 20%
+              May train skill [376]Short blades to 54%
+              May train skill [377]Long blades to 54%
+              May study spell [378]Achromatic eyes to 30%
+              May study spell [379]Clandestine thoughts to 52%
+              May study spell [380]Campfire tune to 100%
+              May study spell [381]Soothing sounds to 100%
+              May study spell [382]Vigilant melody to 76%
+              May study spell [383]Con fioco to 20%
+              May study spell [384]War ensemble to 88%
+              May study spell [385]Pathfinder to 47%
+              May study spell [386]Noituloves deathlore to 30%
+              May study spell [387]Uncontrollable mosh to 100%
+
+                                 Level 21
+              May train skill [388]Songcasting to 75%
+              May train skill [389]Songmastery to 51%
+              May train skill [390]Attack to 79%
+              May train skill [391]Tumbling attack to 34%
+              May train skill [392]Plant lore to 60%
+              May train skill [393]Negate offhand penalty to 32%
+              May train skill [394]Dodge to 21%
+              May train skill [395]Short blades to 56%
+              May train skill [396]Long blades to 56%
+              May study spell [397]Achromatic eyes to 40%
+              May study spell [398]Clandestine thoughts to 57%
+              May study spell [399]Vigilant melody to 88%
+              May study spell [400]Con fioco to 36%
+              May study spell [401]War ensemble to 100%
+              May study spell [402]Pathfinder to 52%
+              May study spell [403]Noituloves deathlore to 40%
+              May study spell [404]Sounds of silence to 20%
+
+                                 Level 22
+              May train skill [405]Songcasting to 77%
+              May train skill [406]Songmastery to 57%
+              May train skill [407]Attack to 82%
+              May train skill [408]Tumbling attack to 36%
+              May train skill [409]Negate offhand penalty to 34%
+              May train skill [410]Dodge to 22%
+              May train skill [411]Short blades to 58%
+              May train skill [412]Long blades to 58%
+              May study spell [413]Achromatic eyes to 50%
+              May study spell [414]Clandestine thoughts to 62%
+              May study spell [415]Vigilant melody to 100%
+              May study spell [416]Con fioco to 52%
+              May study spell [417]Pathfinder to 57%
+              May study spell [418]Noituloves deathlore to 50%
+              May study spell [419]Sounds of silence to 40%
+
+                                 Level 23
+              May train skill [420]Songcasting to 80%
+              May train skill [421]Songmastery to 62%
+              May train skill [422]Attack to 85%
+              May train skill [423]Tumbling attack to 38%
+              May train skill [424]Negate offhand penalty to 36%
+              May train skill [425]Dodge to 23%
+              May train skill [426]Short blades to 60%
+              May train skill [427]Long blades to 60%
+              May study spell [428]Dancing blades to 25%
+              May study spell [429]Achromatic eyes to 60%
+              May study spell [430]Clandestine thoughts to 66%
+              May study spell [431]Con fioco to 68%
+              May study spell [432]Pathfinder to 63%
+              May study spell [433]Noituloves deathlore to 60%
+              May study spell [434]Sounds of silence to 60%
+
+                                 Level 24
+              May train skill [435]Songcasting to 83%
+              May train skill [436]Songmastery to 67%
+              May train skill [437]Tumbling attack to 40%
+              May train skill [438]Negate offhand penalty to 38%
+              May train skill [439]Enhance criticals to 8%
+              May train skill [440]Dodge to 24%
+              May train skill [441]Short blades to 62%
+              May train skill [442]Long blades to 62%
+              May study spell [443]Dancing blades to 35%
+              May study spell [444]Achromatic eyes to 70%
+              May study spell [445]Clandestine thoughts to 71%
+              May study spell [446]Con fioco to 84%
+              May study spell [447]Pathfinder to 68%
+              May study spell [448]Noituloves deathlore to 70%
+              May study spell [449]Sounds of silence to 80%
+
+                                 Level 25
+           May train skill [450]Songcasting to 86%
+           May train skill [451]Songmastery to 73%
+           May train skill [452]Mana control to 30%
+           May train skill [453]Tumbling attack to 42%
+           May train skill [454]Negate offhand penalty to 40%
+           May train skill [455]Dodge to 25%
+           May train skill [456]Short blades to 64%
+           May train skill [457]Long blades to 64%
+           May study spell [458]Dancing blades to 46%
+           May study spell [459]Achromatic eyes to 80%
+           May study spell [460]Clandestine thoughts to 76%
+           May study spell [461]Con fioco to 100%
+           May study spell [462]Pathfinder to 73%
+           May study spell [463]Noituloves deathlore to 80%
+           May study spell [464]Sounds of silence to 100%
+           May study spell [465]Melody of the misadventurer to 20%
+
+                                 Level 26
+           May train skill [466]Songcasting to 88%
+           May train skill [467]Songmastery to 78%
+           May train skill [468]Mana control to 40%
+           May train skill [469]Tumbling attack to 45%
+           May train skill [470]Negate offhand penalty to 42%
+           May train skill [471]Dodge to 26%
+           May train skill [472]Short blades to 66%
+           May train skill [473]Long blades to 66%
+           May study spell [474]Dancing blades to 57%
+           May study spell [475]Achromatic eyes to 90%
+           May study spell [476]Clandestine thoughts to 81%
+           May study spell [477]Pathfinder to 78%
+           May study spell [478]Noituloves deathlore to 90%
+           May study spell [479]Melody of the misadventurer to 36%
+
+                                 Level 27
+           May train skill [480]Songcasting to 91%
+           May train skill [481]Songmastery to 83%
+           May train skill [482]Mana control to 50%
+           May train skill [483]Negate offhand penalty to 44%
+           May train skill [484]Dodge to 27%
+           May train skill [485]Short blades to 68%
+           May train skill [486]Long blades to 68%
+           May study spell [487]Dancing blades to 67%
+           May study spell [488]Achromatic eyes to 100%
+           May study spell [489]Clandestine thoughts to 85%
+           May study spell [490]Pathfinder to 84%
+           May study spell [491]Noituloves deathlore to 100%
+           May study spell [492]Melody of the misadventurer to 52%
+
+                                 Level 28
+           May train skill [493]Songcasting to 94%
+           May train skill [494]Songmastery to 89%
+           May train skill [495]Mana control to 60%
+           May train skill [496]Negate offhand penalty to 46%
+           May train skill [497]Dodge to 28%
+           May train skill [498]Short blades to 70%
+           May train skill [499]Long blades to 70%
+           May study spell [500]Dancing blades to 78%
+           May study spell [501]Clandestine thoughts to 90%
+           May study spell [502]Pathfinder to 89%
+           May study spell [503]Melody of the misadventurer to 68%
+
+                                 Level 29
+           May train skill [504]Songcasting to 97%
+           May train skill [505]Songmastery to 94%
+           May train skill [506]Mana control to 70%
+           May train skill [507]Negate offhand penalty to 48%
+           May train skill [508]Dodge to 29%
+           May train skill [509]Short blades to 72%
+           May train skill [510]Long blades to 72%
+           May study spell [511]Dancing blades to 89%
+           May study spell [512]Clandestine thoughts to 95%
+           May study spell [513]Pathfinder to 94%
+           May study spell [514]Melody of the misadventurer to 84%
+
+                                 Level 30
+           May train skill [515]Songcasting to 100%
+           May train skill [516]Songmastery to 100%
+           May train skill [517]Negate offhand penalty to 50%
+           May train skill [518]Enhance criticals to 10%
+           May train skill [519]Dodge to 30%
+           May train skill [520]Short blades to 75%
+           May train skill [521]Long blades to 75%
+           May study spell [522]Dancing blades to 100%
+           May study spell [523]Clandestine thoughts to 100%
+           May study spell [524]Pathfinder to 100%
+           May study spell [525]Melody of the misadventurer to 100%
+           May train skill [526]Quick chant to 1%
+
+                   Allows joining to the following guild:
+                     The Bards' guild
+
+   [527]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [528]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Bards%5C%27%20guild&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Bards%5C%27%20guild&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Bards%5C%27%20guild&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=amarth
+  23. http://www.bat.org/help/finger.php?str=shardik
+  24. http://www.bat.org/help/finger.php?str=walin
+  25. http://www.bat.org/help/skills.php?str=songcasting
+  26. http://www.bat.org/help/skills.php?str=songscribing
+  27. http://www.bat.org/help/skills.php?str=attack
+  28. http://www.bat.org/help/skills.php?str=swim
+  29. http://www.bat.org/help/skills.php?str=short_blades
+  30. http://www.bat.org/help/skills.php?str=long_blades
+  31. http://www.bat.org/help/spells.php?str=noituloves_dischord
+  32. http://www.bat.org/help/skills.php?str=songcasting
+  33. http://www.bat.org/help/skills.php?str=songscribing
+  34. http://www.bat.org/help/skills.php?str=attack
+  35. http://www.bat.org/help/skills.php?str=swim
+  36. http://www.bat.org/help/skills.php?str=dodge
+  37. http://www.bat.org/help/skills.php?str=short_blades
+  38. http://www.bat.org/help/skills.php?str=long_blades
+  39. http://www.bat.org/help/spells.php?str=noituloves_dischord
+  40. http://www.bat.org/help/spells.php?str=catchy_singalong
+  41. http://www.bat.org/help/skills.php?str=songcasting
+  42. http://www.bat.org/help/skills.php?str=songscribing
+  43. http://www.bat.org/help/skills.php?str=attack
+  44. http://www.bat.org/help/skills.php?str=swim
+  45. http://www.bat.org/help/skills.php?str=dodge
+  46. http://www.bat.org/help/skills.php?str=short_blades
+  47. http://www.bat.org/help/skills.php?str=long_blades
+  48. http://www.bat.org/help/spells.php?str=noituloves_dischord
+  49. http://www.bat.org/help/spells.php?str=catchy_singalong
+  50. http://www.bat.org/help/spells.php?str=musicians_alm
+  51. http://www.bat.org/help/skills.php?str=songcasting
+  52. http://www.bat.org/help/skills.php?str=songscribing
+  53. http://www.bat.org/help/skills.php?str=attack
+  54. http://www.bat.org/help/skills.php?str=dodge
+  55. http://www.bat.org/help/skills.php?str=short_blades
+  56. http://www.bat.org/help/skills.php?str=long_blades
+  57. http://www.bat.org/help/spells.php?str=noituloves_dischord
+  58. http://www.bat.org/help/spells.php?str=catchy_singalong
+  59. http://www.bat.org/help/spells.php?str=campfire_tune
+  60. http://www.bat.org/help/spells.php?str=musicians_alm
+  61. http://www.bat.org/help/spells.php?str=kings_feast
+  62. http://www.bat.org/help/skills.php?str=songcasting
+  63. http://www.bat.org/help/skills.php?str=songscribing
+  64. http://www.bat.org/help/skills.php?str=attack
+  65. http://www.bat.org/help/skills.php?str=tumbling_attack
+  66. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+  67. http://www.bat.org/help/skills.php?str=dodge
+  68. http://www.bat.org/help/skills.php?str=short_blades
+  69. http://www.bat.org/help/skills.php?str=long_blades
+  70. http://www.bat.org/help/spells.php?str=noituloves_dischord
+  71. http://www.bat.org/help/spells.php?str=catchy_singalong
+  72. http://www.bat.org/help/spells.php?str=campfire_tune
+  73. http://www.bat.org/help/spells.php?str=musicians_alm
+  74. http://www.bat.org/help/spells.php?str=kings_feast
+  75. http://www.bat.org/help/spells.php?str=jesters_trivia
+  76. http://www.bat.org/help/skills.php?str=songcasting
+  77. http://www.bat.org/help/skills.php?str=songscribing
+  78. http://www.bat.org/help/skills.php?str=attack
+  79. http://www.bat.org/help/skills.php?str=hiking
+  80. http://www.bat.org/help/skills.php?str=tumbling_attack
+  81. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+  82. http://www.bat.org/help/skills.php?str=enhance_criticals
+  83. http://www.bat.org/help/skills.php?str=dodge
+  84. http://www.bat.org/help/skills.php?str=short_blades
+  85. http://www.bat.org/help/skills.php?str=long_blades
+  86. http://www.bat.org/help/spells.php?str=catchy_singalong
+  87. http://www.bat.org/help/spells.php?str=campfire_tune
+  88. http://www.bat.org/help/spells.php?str=musicians_alm
+  89. http://www.bat.org/help/spells.php?str=kings_feast
+  90. http://www.bat.org/help/spells.php?str=strength_in_unity
+  91. http://www.bat.org/help/spells.php?str=jesters_trivia
+  92. http://www.bat.org/help/skills.php?str=songcasting
+  93. http://www.bat.org/help/skills.php?str=songscribing
+  94. http://www.bat.org/help/skills.php?str=attack
+  95. http://www.bat.org/help/skills.php?str=hiking
+  96. http://www.bat.org/help/skills.php?str=tumbling_attack
+  97. http://www.bat.org/help/skills.php?str=plant_lore
+  98. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  99. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 100. http://www.bat.org/help/skills.php?str=dodge
+ 101. http://www.bat.org/help/skills.php?str=short_blades
+ 102. http://www.bat.org/help/skills.php?str=long_blades
+ 103. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 104. http://www.bat.org/help/spells.php?str=catchy_singalong
+ 105. http://www.bat.org/help/spells.php?str=campfire_tune
+ 106. http://www.bat.org/help/spells.php?str=musicians_alm
+ 107. http://www.bat.org/help/spells.php?str=kings_feast
+ 108. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 109. http://www.bat.org/help/spells.php?str=jesters_trivia
+ 110. http://www.bat.org/help/skills.php?str=songcasting
+ 111. http://www.bat.org/help/skills.php?str=songscribing
+ 112. http://www.bat.org/help/skills.php?str=instrument_creation
+ 113. http://www.bat.org/help/skills.php?str=attack
+ 114. http://www.bat.org/help/skills.php?str=hiking
+ 115. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 116. http://www.bat.org/help/skills.php?str=plant_lore
+ 117. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 118. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 119. http://www.bat.org/help/skills.php?str=dodge
+ 120. http://www.bat.org/help/skills.php?str=short_blades
+ 121. http://www.bat.org/help/skills.php?str=long_blades
+ 122. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 123. http://www.bat.org/help/spells.php?str=catchy_singalong
+ 124. http://www.bat.org/help/spells.php?str=campfire_tune
+ 125. http://www.bat.org/help/spells.php?str=venturers_way
+ 126. http://www.bat.org/help/spells.php?str=musicians_alm
+ 127. http://www.bat.org/help/spells.php?str=kings_feast
+ 128. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 129. http://www.bat.org/help/spells.php?str=jesters_trivia
+ 130. http://www.bat.org/help/skills.php?str=songcasting
+ 131. http://www.bat.org/help/skills.php?str=songscribing
+ 132. http://www.bat.org/help/skills.php?str=instrument_creation
+ 133. http://www.bat.org/help/skills.php?str=attack
+ 134. http://www.bat.org/help/skills.php?str=hiking
+ 135. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 136. http://www.bat.org/help/skills.php?str=plant_lore
+ 137. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 138. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 139. http://www.bat.org/help/skills.php?str=dodge
+ 140. http://www.bat.org/help/skills.php?str=short_blades
+ 141. http://www.bat.org/help/skills.php?str=long_blades
+ 142. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 143. http://www.bat.org/help/spells.php?str=catchy_singalong
+ 144. http://www.bat.org/help/spells.php?str=campfire_tune
+ 145. http://www.bat.org/help/spells.php?str=venturers_way
+ 146. http://www.bat.org/help/spells.php?str=musicians_alm
+ 147. http://www.bat.org/help/spells.php?str=kings_feast
+ 148. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 149. http://www.bat.org/help/spells.php?str=jesters_trivia
+ 150. http://www.bat.org/help/spells.php?str=sweet_lullaby
+ 151. http://www.bat.org/help/skills.php?str=songcasting
+ 152. http://www.bat.org/help/skills.php?str=songscribing
+ 153. http://www.bat.org/help/skills.php?str=instrument_creation
+ 154. http://www.bat.org/help/skills.php?str=attack
+ 155. http://www.bat.org/help/skills.php?str=hiking
+ 156. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 157. http://www.bat.org/help/skills.php?str=plant_lore
+ 158. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 159. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 160. http://www.bat.org/help/skills.php?str=dodge
+ 161. http://www.bat.org/help/skills.php?str=short_blades
+ 162. http://www.bat.org/help/skills.php?str=long_blades
+ 163. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 164. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 165. http://www.bat.org/help/spells.php?str=catchy_singalong
+ 166. http://www.bat.org/help/spells.php?str=campfire_tune
+ 167. http://www.bat.org/help/spells.php?str=venturers_way
+ 168. http://www.bat.org/help/spells.php?str=kings_feast
+ 169. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 170. http://www.bat.org/help/spells.php?str=jesters_trivia
+ 171. http://www.bat.org/help/spells.php?str=singing_shepherd
+ 172. http://www.bat.org/help/spells.php?str=sweet_lullaby
+ 173. http://www.bat.org/help/skills.php?str=songcasting
+ 174. http://www.bat.org/help/skills.php?str=songscribing
+ 175. http://www.bat.org/help/skills.php?str=instrument_creation
+ 176. http://www.bat.org/help/skills.php?str=attack
+ 177. http://www.bat.org/help/skills.php?str=hiking
+ 178. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 179. http://www.bat.org/help/skills.php?str=plant_lore
+ 180. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 181. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 182. http://www.bat.org/help/skills.php?str=dodge
+ 183. http://www.bat.org/help/skills.php?str=short_blades
+ 184. http://www.bat.org/help/skills.php?str=long_blades
+ 185. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 186. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 187. http://www.bat.org/help/spells.php?str=catchy_singalong
+ 188. http://www.bat.org/help/spells.php?str=campfire_tune
+ 189. http://www.bat.org/help/spells.php?str=venturers_way
+ 190. http://www.bat.org/help/spells.php?str=kings_feast
+ 191. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 192. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 193. http://www.bat.org/help/spells.php?str=singing_shepherd
+ 194. http://www.bat.org/help/spells.php?str=sweet_lullaby
+ 195. http://www.bat.org/help/skills.php?str=songcasting
+ 196. http://www.bat.org/help/skills.php?str=songscribing
+ 197. http://www.bat.org/help/skills.php?str=instrument_creation
+ 198. http://www.bat.org/help/skills.php?str=attack
+ 199. http://www.bat.org/help/skills.php?str=hiking
+ 200. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 201. http://www.bat.org/help/skills.php?str=plant_lore
+ 202. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 203. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 204. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 205. http://www.bat.org/help/skills.php?str=dodge
+ 206. http://www.bat.org/help/skills.php?str=short_blades
+ 207. http://www.bat.org/help/skills.php?str=long_blades
+ 208. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 209. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 210. http://www.bat.org/help/spells.php?str=catchy_singalong
+ 211. http://www.bat.org/help/spells.php?str=campfire_tune
+ 212. http://www.bat.org/help/spells.php?str=venturers_way
+ 213. http://www.bat.org/help/spells.php?str=kings_feast
+ 214. http://www.bat.org/help/spells.php?str=pathfinder
+ 215. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 216. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 217. http://www.bat.org/help/spells.php?str=singing_shepherd
+ 218. http://www.bat.org/help/spells.php?str=sweet_lullaby
+ 219. http://www.bat.org/help/skills.php?str=songcasting
+ 220. http://www.bat.org/help/skills.php?str=songscribing
+ 221. http://www.bat.org/help/skills.php?str=instrument_creation
+ 222. http://www.bat.org/help/skills.php?str=attack
+ 223. http://www.bat.org/help/skills.php?str=hiking
+ 224. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 225. http://www.bat.org/help/skills.php?str=plant_lore
+ 226. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 227. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 228. http://www.bat.org/help/skills.php?str=dodge
+ 229. http://www.bat.org/help/skills.php?str=short_blades
+ 230. http://www.bat.org/help/skills.php?str=long_blades
+ 231. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 232. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 233. http://www.bat.org/help/spells.php?str=campfire_tune
+ 234. http://www.bat.org/help/spells.php?str=venturers_way
+ 235. http://www.bat.org/help/spells.php?str=war_ensemble
+ 236. http://www.bat.org/help/spells.php?str=kings_feast
+ 237. http://www.bat.org/help/spells.php?str=pathfinder
+ 238. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 239. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 240. http://www.bat.org/help/spells.php?str=singing_shepherd
+ 241. http://www.bat.org/help/spells.php?str=sweet_lullaby
+ 242. http://www.bat.org/help/skills.php?str=songcasting
+ 243. http://www.bat.org/help/skills.php?str=songscribing
+ 244. http://www.bat.org/help/skills.php?str=instrument_creation
+ 245. http://www.bat.org/help/skills.php?str=attack
+ 246. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 247. http://www.bat.org/help/skills.php?str=plant_lore
+ 248. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 249. http://www.bat.org/help/skills.php?str=dodge
+ 250. http://www.bat.org/help/skills.php?str=short_blades
+ 251. http://www.bat.org/help/skills.php?str=long_blades
+ 252. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 253. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 254. http://www.bat.org/help/spells.php?str=campfire_tune
+ 255. http://www.bat.org/help/spells.php?str=venturers_way
+ 256. http://www.bat.org/help/spells.php?str=war_ensemble
+ 257. http://www.bat.org/help/spells.php?str=kings_feast
+ 258. http://www.bat.org/help/spells.php?str=pathfinder
+ 259. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 260. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 261. http://www.bat.org/help/spells.php?str=singing_shepherd
+ 262. http://www.bat.org/help/spells.php?str=sweet_lullaby
+ 263. http://www.bat.org/help/skills.php?str=songcasting
+ 264. http://www.bat.org/help/skills.php?str=songmastery
+ 265. http://www.bat.org/help/skills.php?str=songscribing
+ 266. http://www.bat.org/help/skills.php?str=instrument_creation
+ 267. http://www.bat.org/help/skills.php?str=attack
+ 268. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 269. http://www.bat.org/help/skills.php?str=plant_lore
+ 270. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 271. http://www.bat.org/help/skills.php?str=dodge
+ 272. http://www.bat.org/help/skills.php?str=short_blades
+ 273. http://www.bat.org/help/skills.php?str=long_blades
+ 274. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 275. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 276. http://www.bat.org/help/spells.php?str=campfire_tune
+ 277. http://www.bat.org/help/spells.php?str=venturers_way
+ 278. http://www.bat.org/help/spells.php?str=soothing_sounds
+ 279. http://www.bat.org/help/spells.php?str=war_ensemble
+ 280. http://www.bat.org/help/spells.php?str=kings_feast
+ 281. http://www.bat.org/help/spells.php?str=pathfinder
+ 282. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 283. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 284. http://www.bat.org/help/spells.php?str=singing_shepherd
+ 285. http://www.bat.org/help/skills.php?str=songcasting
+ 286. http://www.bat.org/help/skills.php?str=songmastery
+ 287. http://www.bat.org/help/skills.php?str=songscribing
+ 288. http://www.bat.org/help/skills.php?str=instrument_creation
+ 289. http://www.bat.org/help/skills.php?str=attack
+ 290. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 291. http://www.bat.org/help/skills.php?str=plant_lore
+ 292. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 293. http://www.bat.org/help/skills.php?str=dodge
+ 294. http://www.bat.org/help/skills.php?str=short_blades
+ 295. http://www.bat.org/help/skills.php?str=long_blades
+ 296. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 297. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 298. http://www.bat.org/help/spells.php?str=campfire_tune
+ 299. http://www.bat.org/help/spells.php?str=venturers_way
+ 300. http://www.bat.org/help/spells.php?str=soothing_sounds
+ 301. http://www.bat.org/help/spells.php?str=war_ensemble
+ 302. http://www.bat.org/help/spells.php?str=pathfinder
+ 303. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 304. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 305. http://www.bat.org/help/spells.php?str=singing_shepherd
+ 306. http://www.bat.org/help/skills.php?str=songcasting
+ 307. http://www.bat.org/help/skills.php?str=songmastery
+ 308. http://www.bat.org/help/skills.php?str=songscribing
+ 309. http://www.bat.org/help/skills.php?str=instrument_creation
+ 310. http://www.bat.org/help/skills.php?str=attack
+ 311. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 312. http://www.bat.org/help/skills.php?str=plant_lore
+ 313. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 314. http://www.bat.org/help/skills.php?str=dodge
+ 315. http://www.bat.org/help/skills.php?str=short_blades
+ 316. http://www.bat.org/help/skills.php?str=long_blades
+ 317. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 318. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 319. http://www.bat.org/help/spells.php?str=campfire_tune
+ 320. http://www.bat.org/help/spells.php?str=venturers_way
+ 321. http://www.bat.org/help/spells.php?str=soothing_sounds
+ 322. http://www.bat.org/help/spells.php?str=vigilant_melody
+ 323. http://www.bat.org/help/spells.php?str=war_ensemble
+ 324. http://www.bat.org/help/spells.php?str=pathfinder
+ 325. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 326. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 327. http://www.bat.org/help/skills.php?str=songcasting
+ 328. http://www.bat.org/help/skills.php?str=songmastery
+ 329. http://www.bat.org/help/skills.php?str=songscribing
+ 330. http://www.bat.org/help/skills.php?str=instrument_creation
+ 331. http://www.bat.org/help/skills.php?str=attack
+ 332. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 333. http://www.bat.org/help/skills.php?str=plant_lore
+ 334. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 335. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 336. http://www.bat.org/help/skills.php?str=dodge
+ 337. http://www.bat.org/help/skills.php?str=short_blades
+ 338. http://www.bat.org/help/skills.php?str=long_blades
+ 339. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 340. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 341. http://www.bat.org/help/spells.php?str=campfire_tune
+ 342. http://www.bat.org/help/spells.php?str=venturers_way
+ 343. http://www.bat.org/help/spells.php?str=soothing_sounds
+ 344. http://www.bat.org/help/spells.php?str=vigilant_melody
+ 345. http://www.bat.org/help/spells.php?str=war_ensemble
+ 346. http://www.bat.org/help/spells.php?str=pathfinder
+ 347. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 348. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 349. http://www.bat.org/help/spells.php?str=strength_in_unity
+ 350. http://www.bat.org/help/skills.php?str=songcasting
+ 351. http://www.bat.org/help/skills.php?str=songmastery
+ 352. http://www.bat.org/help/skills.php?str=attack
+ 353. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 354. http://www.bat.org/help/skills.php?str=plant_lore
+ 355. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 356. http://www.bat.org/help/skills.php?str=dodge
+ 357. http://www.bat.org/help/skills.php?str=short_blades
+ 358. http://www.bat.org/help/skills.php?str=long_blades
+ 359. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 360. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 361. http://www.bat.org/help/spells.php?str=melodical_embracement
+ 362. http://www.bat.org/help/spells.php?str=campfire_tune
+ 363. http://www.bat.org/help/spells.php?str=soothing_sounds
+ 364. http://www.bat.org/help/spells.php?str=vigilant_melody
+ 365. http://www.bat.org/help/spells.php?str=war_ensemble
+ 366. http://www.bat.org/help/spells.php?str=pathfinder
+ 367. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 368. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 369. http://www.bat.org/help/skills.php?str=songcasting
+ 370. http://www.bat.org/help/skills.php?str=songmastery
+ 371. http://www.bat.org/help/skills.php?str=attack
+ 372. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 373. http://www.bat.org/help/skills.php?str=plant_lore
+ 374. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 375. http://www.bat.org/help/skills.php?str=dodge
+ 376. http://www.bat.org/help/skills.php?str=short_blades
+ 377. http://www.bat.org/help/skills.php?str=long_blades
+ 378. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 379. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 380. http://www.bat.org/help/spells.php?str=campfire_tune
+ 381. http://www.bat.org/help/spells.php?str=soothing_sounds
+ 382. http://www.bat.org/help/spells.php?str=vigilant_melody
+ 383. http://www.bat.org/help/spells.php?str=con_fioco
+ 384. http://www.bat.org/help/spells.php?str=war_ensemble
+ 385. http://www.bat.org/help/spells.php?str=pathfinder
+ 386. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 387. http://www.bat.org/help/spells.php?str=uncontrollable_mosh
+ 388. http://www.bat.org/help/skills.php?str=songcasting
+ 389. http://www.bat.org/help/skills.php?str=songmastery
+ 390. http://www.bat.org/help/skills.php?str=attack
+ 391. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 392. http://www.bat.org/help/skills.php?str=plant_lore
+ 393. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 394. http://www.bat.org/help/skills.php?str=dodge
+ 395. http://www.bat.org/help/skills.php?str=short_blades
+ 396. http://www.bat.org/help/skills.php?str=long_blades
+ 397. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 398. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 399. http://www.bat.org/help/spells.php?str=vigilant_melody
+ 400. http://www.bat.org/help/spells.php?str=con_fioco
+ 401. http://www.bat.org/help/spells.php?str=war_ensemble
+ 402. http://www.bat.org/help/spells.php?str=pathfinder
+ 403. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 404. http://www.bat.org/help/spells.php?str=sounds_of_silence
+ 405. http://www.bat.org/help/skills.php?str=songcasting
+ 406. http://www.bat.org/help/skills.php?str=songmastery
+ 407. http://www.bat.org/help/skills.php?str=attack
+ 408. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 409. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 410. http://www.bat.org/help/skills.php?str=dodge
+ 411. http://www.bat.org/help/skills.php?str=short_blades
+ 412. http://www.bat.org/help/skills.php?str=long_blades
+ 413. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 414. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 415. http://www.bat.org/help/spells.php?str=vigilant_melody
+ 416. http://www.bat.org/help/spells.php?str=con_fioco
+ 417. http://www.bat.org/help/spells.php?str=pathfinder
+ 418. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 419. http://www.bat.org/help/spells.php?str=sounds_of_silence
+ 420. http://www.bat.org/help/skills.php?str=songcasting
+ 421. http://www.bat.org/help/skills.php?str=songmastery
+ 422. http://www.bat.org/help/skills.php?str=attack
+ 423. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 424. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 425. http://www.bat.org/help/skills.php?str=dodge
+ 426. http://www.bat.org/help/skills.php?str=short_blades
+ 427. http://www.bat.org/help/skills.php?str=long_blades
+ 428. http://www.bat.org/help/spells.php?str=dancing_blades
+ 429. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 430. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 431. http://www.bat.org/help/spells.php?str=con_fioco
+ 432. http://www.bat.org/help/spells.php?str=pathfinder
+ 433. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 434. http://www.bat.org/help/spells.php?str=sounds_of_silence
+ 435. http://www.bat.org/help/skills.php?str=songcasting
+ 436. http://www.bat.org/help/skills.php?str=songmastery
+ 437. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 438. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 439. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 440. http://www.bat.org/help/skills.php?str=dodge
+ 441. http://www.bat.org/help/skills.php?str=short_blades
+ 442. http://www.bat.org/help/skills.php?str=long_blades
+ 443. http://www.bat.org/help/spells.php?str=dancing_blades
+ 444. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 445. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 446. http://www.bat.org/help/spells.php?str=con_fioco
+ 447. http://www.bat.org/help/spells.php?str=pathfinder
+ 448. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 449. http://www.bat.org/help/spells.php?str=sounds_of_silence
+ 450. http://www.bat.org/help/skills.php?str=songcasting
+ 451. http://www.bat.org/help/skills.php?str=songmastery
+ 452. http://www.bat.org/help/skills.php?str=mana_control
+ 453. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 454. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 455. http://www.bat.org/help/skills.php?str=dodge
+ 456. http://www.bat.org/help/skills.php?str=short_blades
+ 457. http://www.bat.org/help/skills.php?str=long_blades
+ 458. http://www.bat.org/help/spells.php?str=dancing_blades
+ 459. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 460. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 461. http://www.bat.org/help/spells.php?str=con_fioco
+ 462. http://www.bat.org/help/spells.php?str=pathfinder
+ 463. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 464. http://www.bat.org/help/spells.php?str=sounds_of_silence
+ 465. http://www.bat.org/help/spells.php?str=melody_of_the_misadventurer
+ 466. http://www.bat.org/help/skills.php?str=songcasting
+ 467. http://www.bat.org/help/skills.php?str=songmastery
+ 468. http://www.bat.org/help/skills.php?str=mana_control
+ 469. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 470. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 471. http://www.bat.org/help/skills.php?str=dodge
+ 472. http://www.bat.org/help/skills.php?str=short_blades
+ 473. http://www.bat.org/help/skills.php?str=long_blades
+ 474. http://www.bat.org/help/spells.php?str=dancing_blades
+ 475. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 476. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 477. http://www.bat.org/help/spells.php?str=pathfinder
+ 478. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 479. http://www.bat.org/help/spells.php?str=melody_of_the_misadventurer
+ 480. http://www.bat.org/help/skills.php?str=songcasting
+ 481. http://www.bat.org/help/skills.php?str=songmastery
+ 482. http://www.bat.org/help/skills.php?str=mana_control
+ 483. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 484. http://www.bat.org/help/skills.php?str=dodge
+ 485. http://www.bat.org/help/skills.php?str=short_blades
+ 486. http://www.bat.org/help/skills.php?str=long_blades
+ 487. http://www.bat.org/help/spells.php?str=dancing_blades
+ 488. http://www.bat.org/help/spells.php?str=achromatic_eyes
+ 489. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 490. http://www.bat.org/help/spells.php?str=pathfinder
+ 491. http://www.bat.org/help/spells.php?str=noituloves_deathlore
+ 492. http://www.bat.org/help/spells.php?str=melody_of_the_misadventurer
+ 493. http://www.bat.org/help/skills.php?str=songcasting
+ 494. http://www.bat.org/help/skills.php?str=songmastery
+ 495. http://www.bat.org/help/skills.php?str=mana_control
+ 496. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 497. http://www.bat.org/help/skills.php?str=dodge
+ 498. http://www.bat.org/help/skills.php?str=short_blades
+ 499. http://www.bat.org/help/skills.php?str=long_blades
+ 500. http://www.bat.org/help/spells.php?str=dancing_blades
+ 501. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 502. http://www.bat.org/help/spells.php?str=pathfinder
+ 503. http://www.bat.org/help/spells.php?str=melody_of_the_misadventurer
+ 504. http://www.bat.org/help/skills.php?str=songcasting
+ 505. http://www.bat.org/help/skills.php?str=songmastery
+ 506. http://www.bat.org/help/skills.php?str=mana_control
+ 507. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 508. http://www.bat.org/help/skills.php?str=dodge
+ 509. http://www.bat.org/help/skills.php?str=short_blades
+ 510. http://www.bat.org/help/skills.php?str=long_blades
+ 511. http://www.bat.org/help/spells.php?str=dancing_blades
+ 512. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 513. http://www.bat.org/help/spells.php?str=pathfinder
+ 514. http://www.bat.org/help/spells.php?str=melody_of_the_misadventurer
+ 515. http://www.bat.org/help/skills.php?str=songcasting
+ 516. http://www.bat.org/help/skills.php?str=songmastery
+ 517. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 518. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 519. http://www.bat.org/help/skills.php?str=dodge
+ 520. http://www.bat.org/help/skills.php?str=short_blades
+ 521. http://www.bat.org/help/skills.php?str=long_blades
+ 522. http://www.bat.org/help/spells.php?str=dancing_blades
+ 523. http://www.bat.org/help/spells.php?str=clandestine_thoughts
+ 524. http://www.bat.org/help/spells.php?str=pathfinder
+ 525. http://www.bat.org/help/spells.php?str=melody_of_the_misadventurer
+ 526. http://www.bat.org/help/skills.php?str=quick_chant
+ 527. http://www.bat.org/help/guilds.php
+ 528. mailto:webmaster@bat.org
+
+   Hidden links:
+ 529. http://www.bat.org/bat.php

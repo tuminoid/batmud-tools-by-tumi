@@ -1,0 +1,45 @@
+
+/* list.css (c) Tumi 2003-2004 */
+
+table#reincsim-list {
+	font-family: Verdana, Tahoma, Arial, "Times New Roman", serif;
+	font-size: 0.7em;
+	letter-spacing: 0;
+	
+	border: 1px solid Black;
+	padding: 0;
+	margin: 10px;
+}
+
+table#reincsim-list tr#reincsim-list-header {
+	font-weight: bold;
+	font-size: 1.1em;
+	text-decoration: underline;
+	
+	text-align: center;
+}
+
+table#reincsim-list tr {
+	border: 1px slashed Black;
+	text-align: right;
+}
+
+table#reincsim-list tr.reincsim-list-item:hover {
+	background-color: #eeeeee;
+	color: Navy;
+	text-decoration: underline;
+}
+
+table#reincsim-list tr.reincsim-list-item td a:hover {
+	color: Red;
+	background-color: inherit;
+	/*display: none;*/
+}
+
+
+table#reincsim-list td {
+	padding-left: 0.2em;
+	padding-rigt: 0.4em;
+	padding-top: 0.2em;
+	padding-botton: 0.2em;
+}

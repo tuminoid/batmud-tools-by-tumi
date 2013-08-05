@@ -1,0 +1,67 @@
+Elf
+                               ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  61 |  95 |      863 |
+| Essence eye                   |  75 |  95 |     2884 |
+| Mana control                  |  72 |  95 |    12528 |
+| Cast control                  |   0 | 100 |       34 |
+| Cast generic                  |  80 | 100 |    33837 |
+| Cast heal                     |  50 |  60 |     2549 |
+| Cast information              |   0 | 100 |       34 |
+| Cast protection               |  72 | 100 |    16981 |
+| Cast psionic                  | 100 | 100 |    (n/a) |
+| Attack                        |   0 |  75 |       42 |
+| Meditation                    |  70 |  95 |    19049 |
+| Short blades                  |   0 |  70 |       57 |
+| Theory of mental power        |  95 | 100 |   229999 |
+| Quick chant                   |  95 | 100 |   229999 |
+| Conceal spellcasting          |  56 |  95 |    22839 |
+| Knowledge of mental defence   |   5 | 100 |      434 |
+| Damage criticality            |  75 | 100 |   229999 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Floating letters              |  60 | 100 |     1443 |
+| Mental watch                  |  50 | 100 |      609 |
+| Mind store                    |  60 | 100 |     1443 |
+| Darkness                      |  48 | 100 |      752 |
+| Field of fear                 |  63 | 100 |     2743 |
+| Light                         |  43 | 100 |      489 |
+| Terror                        |  63 | 100 |     2743 |
+| There not there               |  50 | 100 |      894 |
+| Levitation                    |  70 | 100 |     6455 |
+| Force dome                    |  81 | 100 |    18414 |
+| Feather weight                |  50 | 100 |     1504 |
+| Mental glance                 |  50 | 100 |     2039 |
+| Mirror image                  |  60 | 100 |     5068 |
+| Heal self                     |  60 | 100 |     5993 |
+| Mind blast                    |  60 | 100 |     5993 |
+| Forget                        |  70 | 100 |    16772 |
+| Psionic shield                |  73 | 100 |    24903 |
+| Unstable mutation             |   0 | 100 |       45 |
+| Spellteaching                 |  63 | 100 |    11041 |
+| Mind development              |  50 | 100 |     3684 |
+| Force shield                  |  80 | 100 |    56488 |
+| Psibolt                       |  63 | 100 |    13052 |
+| Mindseize                     |  93 | 100 |   204735 |
+| Phaze shift                   |  70 | 100 |    28207 |
+| Transmute self                |  50 | 100 |     5032 |
+| Aura detection                |  51 | 100 |     5972 |
+| Psi blast                     |  63 | 100 |    17691 |
+| Invisibility                  |  66 | 100 |    23481 |
+| Iron will                     |  70 | 100 |    38233 |
+| Psychic shout                 |  63 | 100 |    21745 |
+| Mind disruption               |  63 | 100 |    21951 |
+| Paralyze                      |  90 | 100 |   229999 |
+| Psychic storm                 |  70 | 100 |    47084 |
+| Psychic crush                 |  95 | 100 |   229999 |
+| Psychic purge                 |  71 | 100 |    51710 |
+| Psychic sanctuary             |  60 | 100 |    20038 |
+| Psionic phalanx               |  50 | 100 |    11473 |
+`------------------------------------------------------'

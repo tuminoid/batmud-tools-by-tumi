@@ -1,0 +1,67 @@
+Elf
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |   0 |  95 | 100 |       16 |
+| Essence eye                   |   0 |  95 | 100 |       16 |
+| Burial ceremony               |   0 |  95 | 100 |       27 |
+| First aid                     |   0 |  95 | 100 |       27 |
+| Tempt                         |   0 |  95 | 100 |       45 |
+| Baptize                       |   0 |  95 | 100 |       49 |
+| Bless                         |   0 |  95 | 100 |       49 |
+| Mana control                  |   0 |  95 | 100 |       49 |
+| Cast generic                  |   0 |  95 | 100 |       62 |
+| Cast heal                     |   8 |  95 | 100 |      124 |
+| Cast help                     |   0 |  95 | 100 |       62 |
+| Cast special                  |   0 |  95 | 100 |       62 |
+| Cast teleportation            |   0 |  95 | 100 |       62 |
+| Attack                        |  10 |  95 |  30 |      184 |
+| Ceremony                      |   0 |  95 | 100 |       90 |
+| Mastery of assistance         |   0 |  95 | 100 |      132 |
+| Mastery of medicine           |   0 |  95 | 100 |      132 |
+| Bludgeons                     |   6 |  95 |  30 |      191 |
+| Quick chant                   |   0 |  95 | 100 |      141 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Sex change                    |   0 | 100 | 100 |       13 |
+| Word of recall                |   0 | 100 | 100 |       18 |
+| Blessing of tarmalen          |   0 | 100 | 100 |       22 |
+| Cure light wounds             |   0 | 100 | 100 |       22 |
+| Curse of tarmalen             |   0 | 100 | 100 |       22 |
+| Detect alignment              |   0 | 100 | 100 |       22 |
+| Life link                     |   0 | 100 | 100 |       22 |
+| Satiate person                |   0 | 100 | 100 |       22 |
+| Water walking                 |   0 | 100 | 100 |       22 |
+| Light                         |   0 | 100 | 100 |       26 |
+| Minor party heal              |   0 | 100 | 100 |       30 |
+| Create food                   |   0 | 100 | 100 |       41 |
+| Remove scar                   |   0 | 100 | 100 |       41 |
+| Restore                       |   0 | 100 | 100 |       41 |
+| See the light                 |   0 | 100 | 100 |       44 |
+| Moon sense                    |   0 | 100 | 100 |       48 |
+| Deaths door                   |   0 | 100 | 100 |       51 |
+| Summon                        |   0 | 100 | 100 |       51 |
+| Detect misery                 |   0 | 100 | 100 |       54 |
+| Cure player                   |   0 | 100 | 100 |       60 |
+| Cure serious wounds           |   0 | 100 | 100 |       60 |
+| Guardian angel                |   0 | 100 | 100 |       60 |
+| Soul hold                     |   0 | 100 | 100 |       60 |
+| Raise dead                    |   0 | 100 | 100 |       66 |
+| Heal all                      |   0 | 100 | 100 |       78 |
+| Unstun                        |   0 | 100 | 100 |       78 |
+| Cure critical wounds          |   0 | 100 |  25 |       86 |
+| True party heal               |  85 | 100 | 100 |    57748 |
+| Minor heal                    |   0 | 100 |  40 |       86 |
+| Major heal                    |   0 | 100 |  25 |       94 |
+| Holy way                      |   0 | 100 | 100 |       97 |
+| Lessen poison                 |   0 | 100 | 100 |       99 |
+| True heal                     |   0 | 100 |  55 |       99 |
+| Unpain                        |   0 | 100 | 100 |       99 |
+| Enhanced vitality             |   0 | 100 | 100 |      112 |
+`-----------------------------------------------------------'

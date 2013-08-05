@@ -1,0 +1,23 @@
+name: Guild of the Green Knights
+gms: Ewige, Steelheart, Oak and Szilard
+maxlvl: 20
+1: con,skillmax,wis,spellmax
+2: con,skillmax,int,spellmax
+3: con,skillmax,int,wis
+4: con,str,int,skillmax
+5: con,dex,int,skillmax
+6: con,skillmax,spellmax,wis
+7: con,spellmax,wis,dex
+8: con,str,int,skillmax
+9: str,con,skillmax,int
+10: skillmax,int,spellmax,con
+11: dex,con,spellmax,wis
+12: con,dex,spellmax,wis
+13: dex,int,str
+14: dex,wis,skillmax,con
+15: skillmax,wis,str
+16: con,spellmax,int
+17: dex,str,wis
+18: con,int,dex
+19: dex,int,con
+20: skillmax,wis,con

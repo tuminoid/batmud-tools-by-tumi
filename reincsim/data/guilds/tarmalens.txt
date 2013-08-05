@@ -1,0 +1,1478 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                 [fonter.php?str=The+Followers+of+Tarmalen]
+
+                         The Followers of Tarmalen
+
+   Command: tarmalen
+   Creator: [22]Dragoness
+   Maximum level: 30
+   Description:
+   All followers of Tarmalen's teachings are healers. Even the youngest
+   novice
+   can ease the pain of the hurt and the priests can even raise the dead.
+   During
+   the War of the Gods Tarmalen and his wife Trilleon were captured and
+   tortured
+   by Mordian and his undead legions. He was rescued by Faerwon who
+   killed
+   Mordian and many of his most powerful undead servants. The grief of
+   the Gods
+   of Light was great when they learned that Trilleon, Tarmalen's
+   beloved, the
+   Goddess of Mercy, had perished under Mordian's torture. Tarmalen's
+   grief and
+   anger almost drove him to madness but finally something cleared his
+   head and
+   he continued to do his duty even though he is still stricken from
+   grief. He
+   does not like to heal evil people.
+
+                                 New Member
+         Alignment must be good
+         Background must be good_religious
+         May train skill [23]Attack to 5%
+         May train skill [24]Bludgeons to 5%
+         May train skill [25]Burial ceremony to 25%
+         May train skill [26]Cast generic to 25%
+         May train skill [27]Cast heal to 25%
+         May train skill [28]Cast help to 25%
+         May train skill [29]Cast special to 25%
+         May train skill [30]Ceremony to 5%
+         May train skill [31]Consider to 10%
+         May train skill [32]First aid to 10%
+         May train skill [33]Mana control to 25%
+         May study spell [34]Cure light wounds to 10%
+         May study spell [35]Create food to 25%
+         Receive the symbol of Tarmalen
+         Receive the Blessing of Tarmalen for continuing your studies
+
+                                  Level 2
+              Has trained skill [36]Cast generic to at least 20%
+              Has trained skill [37]Cast heal to at least 20%
+              May train skill [38]Attack to 10%
+              May train skill [39]Bludgeons to 10%
+              May train skill [40]Burial ceremony to 40%
+              May train skill [41]Cast generic to 40%
+              May train skill [42]Cast heal to 40%
+              May train skill [43]Cast help to 40%
+              May train skill [44]Cast special to 40%
+              May train skill [45]Ceremony to 10%
+              May train skill [46]Consider to 20%
+              May train skill [47]First aid to 20%
+              May train skill [48]Mana control to 30%
+              May study spell [49]Cure light wounds to 25%
+              May study spell [50]Create food to 33%
+
+                                 Level 3
+           Has studied spell [51]Cure light wounds to at least 20%
+           May train skill [52]Attack to 15%
+           May train skill [53]Bludgeons to 15%
+           May train skill [54]Burial ceremony to 55%
+           May train skill [55]Cast generic to 55%
+           May train skill [56]Cast heal to 55%
+           May train skill [57]Cast help to 55%
+           May train skill [58]Cast special to 55%
+           May train skill [59]Ceremony to 15%
+           May train skill [60]Consider to 30%
+           May train skill [61]First aid to 30%
+           May train skill [62]Mana control to 35%
+           May study spell [63]Cure light wounds to 40%
+           May study spell [64]Detect alignment to 25%
+           May study spell [65]Create food to 41%
+
+                                  Level 4
+                 May train skill [66]Attack to 20%
+                 May train skill [67]Bludgeons to 20%
+                 May train skill [68]Burial ceremony to 70%
+                 May train skill [69]Cast generic to 70%
+                 May train skill [70]Cast heal to 70%
+                 May train skill [71]Cast help to 70%
+                 May train skill [72]Cast special to 70%
+                 May train skill [73]Ceremony to 20%
+                 May train skill [74]Consider to 40%
+                 May train skill [75]First aid to 40%
+                 May train skill [76]Mana control to 40%
+                 May study spell [77]Cure light wounds to 55%
+                 May study spell [78]Detect alignment to 35%
+                 May study spell [79]Create food to 49%
+                 May study spell [80]Lessen poison to 25%
+
+                                  Level 5
+              Has trained skill [81]Cast generic to at least 50%
+              Has trained skill [82]Cast heal to at least 50%
+              May train skill [83]Attack to 25%
+              May train skill [84]Bludgeons to 25%
+              May train skill [85]Burial ceremony to 85%
+              May train skill [86]Cast generic to 85%
+              May train skill [87]Cast heal to 85%
+              May train skill [88]Cast help to 85%
+              May train skill [89]Cast special to 85%
+              May train skill [90]Ceremony to 25%
+              May train skill [91]Consider to 50%
+              May train skill [92]Essence eye to 5%
+              May train skill [93]First aid to 50%
+              May train skill [94]Mana control to 45%
+              May study spell [95]Cure light wounds to 70%
+              May study spell [96]Detect alignment to 45%
+              May study spell [97]See the light to 25%
+              May study spell [98]Create food to 57%
+              May study spell [99]Lessen poison to 37%
+
+                                  Level 6
+           Has studied spell [100]Cure light wounds to at least 50%
+           May train skill [101]Attack to 30%
+           May train skill [102]Baptize to 20%
+           May train skill [103]Bless to 10%
+           May train skill [104]Bludgeons to 30%
+           May train skill [105]Burial ceremony to 100%
+           May train skill [106]Cast generic to 100%
+           May train skill [107]Cast heal to 100%
+           May train skill [108]Cast help to 100%
+           May train skill [109]Cast special to 100%
+           May train skill [110]Ceremony to 30%
+           May train skill [111]Consider to 60%
+           May train skill [112]Essence eye to 10%
+           May train skill [113]First aid to 60%
+           May train skill [114]Mana control to 50%
+           May study spell [115]Cure light wounds to 85%
+           May study spell [116]Cure serious wounds to 10%
+           May study spell [117]Detect alignment to 55%
+           May study spell [118]Satiate person to 25%
+           May study spell [119]See the light to 34%
+           May study spell [120]Unstun to 20%
+           May study spell [121]Create food to 65%
+           May study spell [122]Lessen poison to 49%
+
+                                  Level 7
+           Has trained skill [123]Cast generic to at least 65%
+           Has trained skill [124]Cast heal to at least 65%
+           Has studied spell [125]Cure light wounds to at least 65%
+           May train skill [126]Baptize to 40%
+           May train skill [127]Bless to 25%
+           May train skill [128]Ceremony to 35%
+           May train skill [129]Consider to 70%
+           May train skill [130]Essence eye to 15%
+           May train skill [131]First aid to 70%
+           May train skill [132]Mana control to 55%
+           May study spell [133]Cure light wounds to 100%
+           May study spell [134]Cure serious wounds to 25%
+           May study spell [135]Detect alignment to 65%
+           May study spell [136]Raise dead to 10%
+           May study spell [137]Satiate person to 33%
+           May study spell [138]See the light to 43%
+           May study spell [139]Remove scar to 20%
+           May study spell [140]Unstun to 30%
+           May study spell [141]Create food to 73%
+           May study spell [142]Lessen poison to 61%
+
+                                  Level 8
+          Has trained skill [143]Baptize to at least 25%
+          Has studied spell [144]Cure serious wounds to at least 20%
+          May train skill [145]Baptize to 60%
+          May train skill [146]Bless to 40%
+          May train skill [147]Ceremony to 40%
+          May train skill [148]Consider to 80%
+          May train skill [149]Essence eye to 20%
+          May train skill [150]First aid to 80%
+          May train skill [151]Mana control to 60%
+          May study spell [152]Cure serious wounds to 40%
+          May study spell [153]Detect alignment to 75%
+          May study spell [154]Light to 25%
+          May study spell [155]Raise dead to 20%
+          May study spell [156]Satiate person to 41%
+          May study spell [157]See the light to 52%
+          May study spell [158]Remove scar to 30%
+          May study spell [159]Unstun to 40%
+          May study spell [160]Create food to 81%
+          May study spell [161]Lessen poison to 73%
+
+                                 Level 9
+               May train skill [162]Baptize to 80%
+               May train skill [163]Bless to 55%
+               May train skill [164]Ceremony to 45%
+               May train skill [165]Consider to 90%
+               May train skill [166]Essence eye to 25%
+               May train skill [167]First aid to 90%
+               May train skill [168]Mana control to 65%
+               May study spell [169]Cure serious wounds to 55%
+               May study spell [170]Minor party heal to 10%
+               May study spell [171]Detect alignment to 85%
+               May study spell [172]Light to 35%
+               May study spell [173]Raise dead to 30%
+               May study spell [174]Satiate person to 49%
+               May study spell [175]See the light to 61%
+               May study spell [176]Remove scar to 40%
+               May study spell [177]Unstun to 50%
+               May study spell [178]Create food to 89%
+               May study spell [179]Lessen poison to 85%
+
+                                 Level 10
+               May train skill [180]Baptize to 100%
+               May train skill [181]Bless to 70%
+               May train skill [182]Ceremony to 50%
+               May train skill [183]Consider to 100%
+               May train skill [184]Essence eye to 30%
+               May train skill [185]First aid to 100%
+               May train skill [186]Mana control to 70%
+               May study spell [187]Cure serious wounds to 70%
+               May study spell [188]Minor party heal to 25%
+               May study spell [189]Detect alignment to 100%
+               May study spell [190]Light to 45%
+               May study spell [191]Raise dead to 40%
+               May study spell [192]Satiate person to 57%
+               May study spell [193]See the light to 70%
+               May study spell [194]Remove scar to 50%
+               May study spell [195]Unstun to 60%
+               May study spell [196]Create food to 100%
+               May study spell [197]Lessen poison to 100%
+
+                                    Level 11
+          Has trained skill [198]Baptize to at least 50%
+          Has trained skill [199]Bless to at least 30%
+          Has studied spell [200]Cure serious wounds to at least 50%
+          May train skill [201]Bless to 85%
+          May train skill [202]Ceremony to 55%
+          May train skill [203]Essence eye to 35%
+          May train skill [204]Mana control to 75%
+          May study spell [205]Cure serious wounds to 85%
+          May study spell [206]Cure critical wounds to 10%
+          May study spell [207]Minor party heal to 40%
+          May study spell [208]Life link to 25%
+          May study spell [209]Light to 55%
+          May study spell [210]Moon sense to 25%
+          May study spell [211]Raise dead to 50%
+     May study spell [212]Remove poison to 25%, special requirements:
+       * Has studied spell [213]Lessen poison to at least 50%
+          May study spell [214]Satiate person to 65%
+          May study spell [215]See the light to 79%
+          May study spell [216]Remove scar to 60%
+          May study spell [217]Unstun to 70%
+          May study spell [218]Water walking to 25%
+          May study spell [219]Cure player to 25%
+
+                                    Level 12
+          Has studied spell [220]Cure serious wounds to at least 65%
+          Has studied spell [221]Lessen poison to at least 50%
+          Has studied spell [222]Remove poison to at least 12%
+          Has studied spell [223]Cure player to at least 12%
+          May train skill [224]Bless to 100%
+          May train skill [225]Ceremony to 60%
+          May train skill [226]Essence eye to 40%
+          May train skill [227]Mastery of assistance to 10%
+          May train skill [228]Mastery of medicine to 10%
+          May train skill [229]Mana control to 80%
+          May study spell [230]Cure serious wounds to 100%
+          May study spell [231]Cure critical wounds to 25%
+          May study spell [232]Minor party heal to 55%
+          May study spell [233]Life link to 37%
+          May study spell [234]Light to 65%
+          May study spell [235]Moon sense to 33%
+          May study spell [236]Raise dead to 60%
+     May study spell [237]Remove poison to 40%, special requirements:
+       * Has studied spell [238]Lessen poison to at least 50%
+          May study spell [239]Satiate person to 73%
+          May study spell [240]See the light to 88%
+          May study spell [241]Remove scar to 70%
+          May study spell [242]Unstun to 80%
+          May study spell [243]Water walking to 35%
+          May study spell [244]Word of recall to 25%
+          May study spell [245]Cure player to 40%
+
+                                   Level 13
+         Has trained skill [246]Mastery of medicine to at least 5%
+         Has studied spell [247]Cure critical wounds to at least 20%
+         Has studied spell [248]Remove poison to at least 20%
+         Has studied spell [249]Cure player to at least 20%
+         May train skill [250]Cast teleportation to 25%
+         May train skill [251]Ceremony to 65%
+         May train skill [252]Essence eye to 45%
+         May train skill [253]Mastery of assistance to 14%
+         May train skill [254]Mastery of medicine to 14%
+         May train skill [255]Mana control to 85%
+     May study spell [256]Cure critical wounds to 40%, special
+   requirements:
+       * Has studied spell [257]Cure serious wounds to at least 80%
+         May study spell [258]Minor party heal to 70%
+         May study spell [259]Life link to 49%
+         May study spell [260]Light to 75%
+         May study spell [261]Moon sense to 41%
+         May study spell [262]Raise dead to 70%
+     May study spell [263]Remove poison to 55%, special requirements:
+       * Has studied spell [264]Lessen poison to at least 50%
+         May study spell [265]Satiate person to 81%
+         May study spell [266]See the light to 100%
+         May study spell [267]Remove scar to 80%
+         May study spell [268]Unstun to 90%
+         May study spell [269]Water walking to 45%
+         May study spell [270]Word of recall to 34%
+         May study spell [271]Cure player to 55%
+
+                                    Level 14
+          Has trained skill [272]Mastery of medicine to at least 7%
+          Has studied spell [273]Remove poison to at least 27%
+          Has studied spell [274]Cure player to at least 27%
+          May train skill [275]Cast teleportation to 40%
+          May train skill [276]Ceremony to 70%
+          May train skill [277]Essence eye to 50%
+          May train skill [278]Mastery of assistance to 18%
+          May train skill [279]Mastery of medicine to 18%
+          May train skill [280]Mana control to 90%
+     May study spell [281]Cure critical wounds to 55%, special
+   requirements:
+       * Has studied spell [282]Cure serious wounds to at least 80%
+          May study spell [283]Minor party heal to 85%
+          May study spell [284]Life link to 61%
+          May study spell [285]Light to 85%
+          May study spell [286]Moon sense to 49%
+          May study spell [287]Raise dead to 100%
+     May study spell [288]Remove poison to 70%, special requirements:
+       * Has studied spell [289]Lessen poison to at least 50%
+          May study spell [290]Satiate person to 89%
+          May study spell [291]Remove scar to 90%
+          May study spell [292]Unstun to 100%
+          May study spell [293]Water walking to 55%
+          May study spell [294]Word of recall to 43%
+          May study spell [295]Cure player to 70%
+
+                                    Level 15
+          Has trained skill [296]Mastery of medicine to at least 9%
+          Has studied spell [297]Remove poison to at least 35%
+          Has studied spell [298]Cure player to at least 35%
+          May train skill [299]Cast teleportation to 55%
+          May train skill [300]Ceremony to 75%
+          May train skill [301]Essence eye to 55%
+          May train skill [302]Mastery of assistance to 22%
+          May train skill [303]Mastery of medicine to 22%
+          May train skill [304]Quick chant to 25%
+          May train skill [305]Mana control to 95%
+     May study spell [306]Cure critical wounds to 70%, special
+   requirements:
+       * Has studied spell [307]Cure serious wounds to at least 80%
+          May study spell [308]Minor heal to 10%
+          May study spell [309]Minor party heal to 100%
+          May study spell [310]Heal all to 25%
+          May study spell [311]Life link to 73%
+          May study spell [312]Light to 100%
+          May study spell [313]Moon sense to 57%
+     May study spell [314]Remove poison to 85%, special requirements:
+       * Has studied spell [315]Lessen poison to at least 50%
+     May study spell [316]Resurrect to 10%, special requirements:
+       * Has studied spell [317]Raise dead to at least 50%
+          May study spell [318]Satiate person to 100%
+          May study spell [319]Remove scar to 100%
+          May study spell [320]Water walking to 65%
+          May study spell [321]Word of recall to 52%
+          May study spell [322]Blessing of tarmalen to 25%
+          May study spell [323]Cure player to 85%
+
+                                     Level 16
+         Has trained skill [324]Mastery of medicine to at least 11%
+         Has studied spell [325]Cure serious wounds to at least 80%
+         Has studied spell [326]Cure critical wounds to at least 50%
+         Has studied spell [327]Remove poison to at least 42%
+         Has studied spell [328]Cure player to at least 42%
+         May train skill [329]Cast teleportation to 70%
+         May train skill [330]Ceremony to 80%
+         May train skill [331]Essence eye to 60%
+         May train skill [332]Mastery of assistance to 26%
+         May train skill [333]Mastery of medicine to 26%
+         May train skill [334]Quick chant to 30%
+         May train skill [335]Mana control to 100%
+     May study spell [336]Cure critical wounds to 85%, special
+   requirements:
+       * Has studied spell [337]Cure serious wounds to at least 80%
+         May study spell [338]Minor heal to 25%
+     May study spell [339]Major party heal to 10%, special requirements:
+       * Has studied spell [340]Minor party heal to at least 50%
+         May study spell [341]Heal all to 40%
+         May study spell [342]Life link to 85%
+         May study spell [343]Moon sense to 65%
+     May study spell [344]Remove poison to 100%, special requirements:
+       * Has studied spell [345]Lessen poison to at least 50%
+         May study spell [346]Restore to 25%
+     May study spell [347]Resurrect to 20%, special requirements:
+       * Has studied spell [348]Raise dead to at least 50%
+         May study spell [349]Summon to 20%
+         May study spell [350]Water walking to 75%
+         May study spell [351]Word of recall to 61%
+         May study spell [352]Blessing of tarmalen to 40%
+         May study spell [353]Cure player to 100%
+         May study spell [354]Enhanced vitality to 20%
+
+                                     Level 17
+         Has trained skill [355]Mastery of medicine to at least 13%
+         Has studied spell [356]Cure critical wounds to at least 65%
+         Has studied spell [357]Minor heal to at least 20%
+         Has studied spell [358]Remove poison to at least 50%
+         Has studied spell [359]Cure player to at least 50%
+         May train skill [360]Cast teleportation to 85%
+         May train skill [361]Ceremony to 85%
+         May train skill [362]Essence eye to 65%
+         May train skill [363]Mastery of assistance to 30%
+         May train skill [364]Mastery of medicine to 30%
+         May train skill [365]Quick chant to 35%
+     May study spell [366]Cure critical wounds to 100%, special
+   requirements:
+       * Has studied spell [367]Cure serious wounds to at least 80%
+         May study spell [368]Minor heal to 40%
+     May study spell [369]Major party heal to 25%, special requirements:
+       * Has studied spell [370]Minor party heal to at least 50%
+         May study spell [371]Heal all to 55%
+         May study spell [372]Life link to 100%
+         May study spell [373]Moon sense to 73%
+         May study spell [374]Restore to 40%
+     May study spell [375]Resurrect to 30%, special requirements:
+       * Has studied spell [376]Raise dead to at least 50%
+         May study spell [377]Summon to 30%
+         May study spell [378]Water walking to 85%
+         May study spell [379]Word of recall to 70%
+         May study spell [380]Blessing of tarmalen to 55%
+         May study spell [381]Enhanced vitality to 40%
+
+                                      Level 18
+          Has trained skill [382]Mastery of medicine to at least 15%
+          May train skill [383]Cast teleportation to 100%
+          May train skill [384]Ceremony to 90%
+          May train skill [385]Essence eye to 70%
+          May train skill [386]Mastery of assistance to 34%
+          May train skill [387]Mastery of medicine to 34%
+          May train skill [388]Quick chant to 40%
+     May study spell [389]Minor heal to 55%, special requirements:
+       * Has studied spell [390]Cure critical wounds to at least 80%
+     May study spell [391]Major party heal to 40%, special requirements:
+       * Has studied spell [392]Minor party heal to at least 50%
+          May study spell [393]Curse of tarmalen to 25%
+          May study spell [394]Heal all to 70%
+          May study spell [395]Moon sense to 81%
+          May study spell [396]Restore to 55%
+     May study spell [397]Resurrect to 40%, special requirements:
+       * Has studied spell [398]Raise dead to at least 50%
+          May study spell [399]Summon to 40%
+          May study spell [400]Water walking to 100%
+          May study spell [401]Word of recall to 79%
+          May study spell [402]Blessing of tarmalen to 70%
+          May study spell [403]Enhanced vitality to 60%
+
+                                      Level 19
+          Has trained skill [404]Mastery of medicine to at least 17%
+          May train skill [405]Ceremony to 95%
+          May train skill [406]Essence eye to 75%
+          May train skill [407]Mastery of assistance to 38%
+          May train skill [408]Mastery of medicine to 38%
+          May train skill [409]Quick chant to 45%
+     May study spell [410]Minor heal to 70%, special requirements:
+       * Has studied spell [411]Cure critical wounds to at least 80%
+     May study spell [412]Major party heal to 55%, special requirements:
+       * Has studied spell [413]Minor party heal to at least 50%
+          May study spell [414]Curse of tarmalen to 35%
+          May study spell [415]Deaths door to 25%
+          May study spell [416]Heal all to 85%
+          May study spell [417]Moon sense to 89%
+          May study spell [418]Restore to 70%
+     May study spell [419]Resurrect to 50%, special requirements:
+       * Has studied spell [420]Raise dead to at least 50%
+          May study spell [421]Summon to 50%
+          May study spell [422]Unpain to 20%
+          May study spell [423]Word of recall to 88%
+          May study spell [424]Blessing of tarmalen to 85%
+
+                                     Level 20
+         Has trained skill [425]Mastery of medicine to at least 19%
+         Has studied spell [426]Cure critical wounds to at least 80%
+         Has studied spell [427]Minor heal to at least 50%
+         May train skill [428]Ceremony to 100%
+         May train skill [429]Essence eye to 80%
+         May train skill [430]Mastery of assistance to 42%
+         May train skill [431]Mastery of medicine to 42%
+         May train skill [432]Quick chant to 50%
+     May study spell [433]Minor heal to 85%, special requirements:
+       * Has studied spell [434]Cure critical wounds to at least 80%
+         May study spell [435]Major heal to 10%
+     May study spell [436]Major party heal to 70%, special requirements:
+       * Has studied spell [437]Minor party heal to at least 50%
+         May study spell [438]Curse of tarmalen to 45%
+         May study spell [439]Detect misery to 45%
+         May study spell [440]Deaths door to 35%
+         May study spell [441]Guardian angel to 25%
+         May study spell [442]Heal all to 100%
+         May study spell [443]Moon sense to 100%
+         May study spell [444]Restore to 85%
+     May study spell [445]Resurrect to 60%, special requirements:
+       * Has studied spell [446]Raise dead to at least 50%
+         May study spell [447]Summon to 60%
+         May study spell [448]Unpain to 30%
+         May study spell [449]Word of recall to 100%
+         May study spell [450]Blessing of tarmalen to 100%
+         May study spell [451]Enhanced vitality to 70%
+
+                                      Level 21
+          Has trained skill [452]Mastery of medicine to at least 21%
+          Has studied spell [453]Minor heal to at least 65%
+          Has studied spell [454]Guardian angel to at least 12%
+          May train skill [455]Essence eye to 85%
+          May train skill [456]Mastery of assistance to 46%
+          May train skill [457]Mastery of medicine to 46%
+          May train skill [458]Quick chant to 55%
+     May study spell [459]Minor heal to 100%, special requirements:
+       * Has studied spell [460]Cure critical wounds to at least 80%
+          May study spell [461]Major heal to 25%
+     May study spell [462]Major party heal to 85%, special requirements:
+       * Has studied spell [463]Minor party heal to at least 50%
+          May study spell [464]Curse of tarmalen to 55%
+          May study spell [465]Deaths door to 45%
+          May study spell [466]Guardian angel to 32%
+          May study spell [467]Restore to 100%
+     May study spell [468]Resurrect to 70%, special requirements:
+       * Has studied spell [469]Raise dead to at least 50%
+          May study spell [470]Summon to 70%
+          May study spell [471]Unpain to 40%
+          May study spell [472]Sex change to 25%
+          May study spell [473]Enhanced vitality to 80%
+
+                                      Level 22
+          Has trained skill [474]Mastery of medicine to at least 23%
+          Has studied spell [475]Major heal to at least 20%
+          Has studied spell [476]Guardian angel to at least 16%
+          May train skill [477]Essence eye to 90%
+          May train skill [478]Mastery of assistance to 50%
+          May train skill [479]Mastery of medicine to 50%
+          May train skill [480]Quick chant to 60%
+     May study spell [481]Major heal to 40%, special requirements:
+       * Has studied spell [482]Minor heal to at least 80%
+     May study spell [483]Major party heal to 100%, special requirements:
+       * Has studied spell [484]Minor party heal to at least 50%
+          May study spell [485]Curse of tarmalen to 65%
+          May study spell [486]Deaths door to 55%
+          May study spell [487]Guardian angel to 39%
+          May study spell [488]Holy way to 25%
+     May study spell [489]Resurrect to 100%, special requirements:
+       * Has studied spell [490]Raise dead to at least 50%
+          May study spell [491]Summon to 80%
+          May study spell [492]Unpain to 50%
+          May study spell [493]Sex change to 33%
+          May study spell [494]Enhanced vitality to 90%
+
+                                     Level 23
+          Has trained skill [495]Mastery of medicine to at least 25%
+          Has studied spell [496]Guardian angel to at least 19%
+          Has studied spell [497]Holy way to at least 12%
+          May train skill [498]Essence eye to 95%
+          May train skill [499]Mastery of assistance to 54%
+          May train skill [500]Mastery of medicine to 54%
+          May train skill [501]Quick chant to 65%
+          May train skill [502]Tempt to 10%
+     May study spell [503]Major heal to 55%, special requirements:
+       * Has studied spell [504]Minor heal to at least 80%
+     May study spell [505]True party heal to 10%, special requirements:
+       * Has studied spell [506]Major party heal to at least 50%
+          May study spell [507]Curse of tarmalen to 75%
+          May study spell [508]Deaths door to 65%
+          May study spell [509]Guardian angel to 46%
+          May study spell [510]Detect misery to 75%
+          May study spell [511]Holy way to 34%
+     May study spell [512]New body to 10%, special requirements:
+       * Has studied spell [513]Resurrect to at least 50%
+          May study spell [514]Summon to 90%
+          May study spell [515]Unpain to 60%
+          May study spell [516]Sex change to 41%
+
+                                     Level 24
+          Has trained skill [517]Mastery of medicine to at least 27%
+          Has studied spell [518]Guardian angel to at least 23%
+          Has studied spell [519]Holy way to at least 17%
+          May train skill [520]Essence eye to 100%
+          May train skill [521]Mastery of assistance to 58%
+          May train skill [522]Mastery of medicine to 58%
+          May train skill [523]Quick chant to 70%
+          May train skill [524]Tempt to 20%
+     May study spell [525]Major heal to 70%, special requirements:
+       * Has studied spell [526]Minor heal to at least 80%
+          May study spell [527]True heal to 10%
+     May study spell [528]True party heal to 25%, special requirements:
+       * Has studied spell [529]Major party heal to at least 50%
+          May study spell [530]Curse of tarmalen to 85%
+          May study spell [531]Deaths door to 75%
+          May study spell [532]Guardian angel to 53%
+          May study spell [533]Holy way to 43%
+     May study spell [534]New body to 20%, special requirements:
+       * Has studied spell [535]Resurrect to at least 50%
+          May study spell [536]Summon to 100%
+          May study spell [537]Unpain to 70%
+          May study spell [538]Sex change to 49%
+
+                                     Level 25
+          Has trained skill [539]Mastery of medicine to at least 29%
+          Has studied spell [540]Minor heal to at least 80%
+          Has studied spell [541]Major heal to at least 50%
+          Has studied spell [542]Guardian angel to at least 26%
+          Has studied spell [543]Holy way to at least 21%
+          May train skill [544]Mastery of assistance to 62%
+          May train skill [545]Mastery of medicine to 62%
+          May train skill [546]Quick chant to 75%
+          May train skill [547]Tempt to 30%
+     May study spell [548]Major heal to 85%, special requirements:
+       * Has studied spell [549]Minor heal to at least 80%
+          May study spell [550]True heal to 25%
+     May study spell [551]True party heal to 40%, special requirements:
+       * Has studied spell [552]Major party heal to at least 50%
+          May study spell [553]Curse of tarmalen to 100%
+          May study spell [554]Deaths door to 85%
+          May study spell [555]Guardian angel to 60%
+          May study spell [556]Holy way to 52%
+     May study spell [557]Natural renewal to 25%, special requirements:
+       * Has studied spell [558]Restore to at least 50%
+     May study spell [559]New body to 30%, special requirements:
+       * Has studied spell [560]Resurrect to at least 50%
+          May study spell [561]Soul hold to 25%
+          May study spell [562]Unpain to 80%
+          May study spell [563]Sex change to 57%
+
+                                     Level 26
+          Has trained skill [564]Mastery of medicine to at least 31%
+          Has studied spell [565]Major heal to at least 65%
+          Has studied spell [566]True heal to at least 20%
+          Has studied spell [567]Guardian angel to at least 30%
+          Has studied spell [568]Holy way to at least 26%
+          Has studied spell [569]Soul hold to at least 12%
+          May train skill [570]Mastery of assistance to 65%
+          May train skill [571]Mastery of medicine to 65%
+          May train skill [572]Quick chant to 80%
+          May train skill [573]Tempt to 40%
+     May study spell [574]Major heal to 100%, special requirements:
+       * Has studied spell [575]Minor heal to at least 80%
+          May study spell [576]True heal to 40%
+     May study spell [577]True party heal to 55%, special requirements:
+       * Has studied spell [578]Major party heal to at least 50%
+          May study spell [579]Deaths door to 100%
+          May study spell [580]Guardian angel to 67%
+          May study spell [581]Holy way to 61%
+     May study spell [582]Natural renewal to 40%, special requirements:
+       * Has studied spell [583]Restore to at least 50%
+     May study spell [584]New body to 40%, special requirements:
+       * Has studied spell [585]Resurrect to at least 50%
+          May study spell [586]Soul hold to 40%
+          May study spell [587]Unpain to 90%
+          May study spell [588]Sex change to 65%
+
+                                     Level 27
+          Has trained skill [589]Mastery of medicine to at least 33%
+          Has studied spell [590]Guardian angel to at least 33%
+          Has studied spell [591]Holy way to at least 30%
+          Has studied spell [592]Soul hold to at least 20%
+          May train skill [593]Mastery of assistance to 67%
+          May train skill [594]Mastery of medicine to 67%
+          May train skill [595]Quick chant to 85%
+          May train skill [596]Tempt to 50%
+          May study spell [597]True heal to 55%
+     May study spell [598]True party heal to 70%, special requirements:
+       * Has studied spell [599]Major party heal to at least 50%
+          May study spell [600]Guardian angel to 74%
+          May study spell [601]Holy way to 70%
+     May study spell [602]Natural renewal to 55%, special requirements:
+       * Has studied spell [603]Restore to at least 50%
+     May study spell [604]New body to 50%, special requirements:
+       * Has studied spell [605]Resurrect to at least 50%
+          May study spell [606]Soul hold to 55%
+          May study spell [607]Unpain to 100%
+          May study spell [608]Sex change to 73%
+          May study spell [609]Detect misery to 100%
+
+                                     Level 28
+          Has trained skill [610]Mastery of medicine to at least 35%
+          Has studied spell [611]Guardian angel to at least 37%
+          Has studied spell [612]Holy way to at least 35%
+          Has studied spell [613]Soul hold to at least 27%
+          May train skill [614]Mastery of assistance to 69%
+          May train skill [615]Mastery of medicine to 69%
+          May train skill [616]Quick chant to 90%
+          May train skill [617]Tempt to 60%
+     May study spell [618]True heal to 70%, special requirements:
+       * Has studied spell [619]Major heal to at least 80%
+     May study spell [620]True party heal to 85%, special requirements:
+       * Has studied spell [621]Major party heal to at least 50%
+          May study spell [622]Guardian angel to 81%
+          May study spell [623]Holy way to 79%
+     May study spell [624]Natural renewal to 70%, special requirements:
+       * Has studied spell [625]Restore to at least 50%
+     May study spell [626]New body to 60%, special requirements:
+       * Has studied spell [627]Resurrect to at least 50%
+          May study spell [628]Soul hold to 70%
+          May study spell [629]Sex change to 81%
+
+                                       Level 29
+            Has studied spell [630]True heal to at least 50%
+            Has studied spell [631]Guardian angel to at least 40%
+            Has studied spell [632]Holy way to at least 39%
+            Has studied spell [633]Soul hold to at least 35%
+            May train skill [634]Mastery of assistance to 70%
+            May train skill [635]Mastery of medicine to 70%
+            May train skill [636]Quick chant to 95%
+            May train skill [637]Tempt to 70%
+     May study spell [638]True heal to 85%, special requirements:
+       * Has studied spell [639]Major heal to at least 80%
+     May study spell [640]True party heal to 90%, special requirements:
+       * Has studied spell [641]Major party heal to at least 50%
+            May study spell [642]Guardian angel to 88%
+            May study spell [643]Holy way to 88%
+     May study spell [644]Natural renewal to 85%, special requirements:
+       * Has studied spell [645]Restore to at least 50%
+     May study spell [646]New body to 70%, special requirements:
+       * Has studied spell [647]Resurrect to at least 50%
+            May study spell [648]Soul hold to 85%
+            May study spell [649]Sex change to 89%
+            May study spell [650]Enhanced vitality to 100%
+
+                                        Level 30
+            Has studied spell [651]Major heal to at least 80%
+            Has studied spell [652]True heal to at least 65%
+            Has studied spell [653]Guardian angel to at least 44%
+            Has studied spell [654]Holy way to at least 44%
+            Has studied spell [655]Soul hold to at least 44%
+            May train skill [656]Mastery of assistance to 100%
+            May train skill [657]Mastery of medicine to 100%
+            May train skill [658]Quick chant to 100%
+            May train skill [659]Tempt to 100%
+     May study spell [660]True heal to 100%, special requirements:
+       * Has studied spell [661]Major heal to at least 80%
+     May study spell [662]True party heal to 100%, special requirements:
+       * Has studied spell [663]Major party heal to at least 50%
+            May study spell [664]Guardian angel to 100%
+            May study spell [665]Holy way to 100%
+     May study spell [666]Natural renewal to 100%, special requirements:
+       * Has studied spell [667]Restore to at least 50%
+     May study spell [668]New body to 100%, special requirements:
+       * Has studied spell [669]Resurrect to at least 50%
+            May study spell [670]Soul hold to 100%
+            May study spell [671]Sex change to 100%
+
+                   Allows joining to the following guild:
+                     The Followers of Tarmalen
+
+   [672]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [673]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Followers%20of%20Tarmalen&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Followers%20of%20Tarmalen&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Followers%20of%20Tarmalen&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=dragoness
+  23. http://www.bat.org/help/skills.php?str=attack
+  24. http://www.bat.org/help/skills.php?str=bludgeons
+  25. http://www.bat.org/help/skills.php?str=burial_ceremony
+  26. http://www.bat.org/help/skills.php?str=cast_generic
+  27. http://www.bat.org/help/skills.php?str=cast_heal
+  28. http://www.bat.org/help/skills.php?str=cast_help
+  29. http://www.bat.org/help/skills.php?str=cast_special
+  30. http://www.bat.org/help/skills.php?str=ceremony
+  31. http://www.bat.org/help/skills.php?str=consider
+  32. http://www.bat.org/help/skills.php?str=first_aid
+  33. http://www.bat.org/help/skills.php?str=mana_control
+  34. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  35. http://www.bat.org/help/spells.php?str=create_food
+  36. http://www.bat.org/help/skills.php?str=cast_generic
+  37. http://www.bat.org/help/skills.php?str=cast_heal
+  38. http://www.bat.org/help/skills.php?str=attack
+  39. http://www.bat.org/help/skills.php?str=bludgeons
+  40. http://www.bat.org/help/skills.php?str=burial_ceremony
+  41. http://www.bat.org/help/skills.php?str=cast_generic
+  42. http://www.bat.org/help/skills.php?str=cast_heal
+  43. http://www.bat.org/help/skills.php?str=cast_help
+  44. http://www.bat.org/help/skills.php?str=cast_special
+  45. http://www.bat.org/help/skills.php?str=ceremony
+  46. http://www.bat.org/help/skills.php?str=consider
+  47. http://www.bat.org/help/skills.php?str=first_aid
+  48. http://www.bat.org/help/skills.php?str=mana_control
+  49. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  50. http://www.bat.org/help/spells.php?str=create_food
+  51. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  52. http://www.bat.org/help/skills.php?str=attack
+  53. http://www.bat.org/help/skills.php?str=bludgeons
+  54. http://www.bat.org/help/skills.php?str=burial_ceremony
+  55. http://www.bat.org/help/skills.php?str=cast_generic
+  56. http://www.bat.org/help/skills.php?str=cast_heal
+  57. http://www.bat.org/help/skills.php?str=cast_help
+  58. http://www.bat.org/help/skills.php?str=cast_special
+  59. http://www.bat.org/help/skills.php?str=ceremony
+  60. http://www.bat.org/help/skills.php?str=consider
+  61. http://www.bat.org/help/skills.php?str=first_aid
+  62. http://www.bat.org/help/skills.php?str=mana_control
+  63. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  64. http://www.bat.org/help/spells.php?str=detect_alignment
+  65. http://www.bat.org/help/spells.php?str=create_food
+  66. http://www.bat.org/help/skills.php?str=attack
+  67. http://www.bat.org/help/skills.php?str=bludgeons
+  68. http://www.bat.org/help/skills.php?str=burial_ceremony
+  69. http://www.bat.org/help/skills.php?str=cast_generic
+  70. http://www.bat.org/help/skills.php?str=cast_heal
+  71. http://www.bat.org/help/skills.php?str=cast_help
+  72. http://www.bat.org/help/skills.php?str=cast_special
+  73. http://www.bat.org/help/skills.php?str=ceremony
+  74. http://www.bat.org/help/skills.php?str=consider
+  75. http://www.bat.org/help/skills.php?str=first_aid
+  76. http://www.bat.org/help/skills.php?str=mana_control
+  77. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  78. http://www.bat.org/help/spells.php?str=detect_alignment
+  79. http://www.bat.org/help/spells.php?str=create_food
+  80. http://www.bat.org/help/spells.php?str=lessen_poison
+  81. http://www.bat.org/help/skills.php?str=cast_generic
+  82. http://www.bat.org/help/skills.php?str=cast_heal
+  83. http://www.bat.org/help/skills.php?str=attack
+  84. http://www.bat.org/help/skills.php?str=bludgeons
+  85. http://www.bat.org/help/skills.php?str=burial_ceremony
+  86. http://www.bat.org/help/skills.php?str=cast_generic
+  87. http://www.bat.org/help/skills.php?str=cast_heal
+  88. http://www.bat.org/help/skills.php?str=cast_help
+  89. http://www.bat.org/help/skills.php?str=cast_special
+  90. http://www.bat.org/help/skills.php?str=ceremony
+  91. http://www.bat.org/help/skills.php?str=consider
+  92. http://www.bat.org/help/skills.php?str=essence_eye
+  93. http://www.bat.org/help/skills.php?str=first_aid
+  94. http://www.bat.org/help/skills.php?str=mana_control
+  95. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  96. http://www.bat.org/help/spells.php?str=detect_alignment
+  97. http://www.bat.org/help/spells.php?str=see_the_light
+  98. http://www.bat.org/help/spells.php?str=create_food
+  99. http://www.bat.org/help/spells.php?str=lessen_poison
+ 100. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 101. http://www.bat.org/help/skills.php?str=attack
+ 102. http://www.bat.org/help/skills.php?str=baptize
+ 103. http://www.bat.org/help/skills.php?str=bless
+ 104. http://www.bat.org/help/skills.php?str=bludgeons
+ 105. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 106. http://www.bat.org/help/skills.php?str=cast_generic
+ 107. http://www.bat.org/help/skills.php?str=cast_heal
+ 108. http://www.bat.org/help/skills.php?str=cast_help
+ 109. http://www.bat.org/help/skills.php?str=cast_special
+ 110. http://www.bat.org/help/skills.php?str=ceremony
+ 111. http://www.bat.org/help/skills.php?str=consider
+ 112. http://www.bat.org/help/skills.php?str=essence_eye
+ 113. http://www.bat.org/help/skills.php?str=first_aid
+ 114. http://www.bat.org/help/skills.php?str=mana_control
+ 115. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 116. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 117. http://www.bat.org/help/spells.php?str=detect_alignment
+ 118. http://www.bat.org/help/spells.php?str=satiate_person
+ 119. http://www.bat.org/help/spells.php?str=see_the_light
+ 120. http://www.bat.org/help/spells.php?str=unstun
+ 121. http://www.bat.org/help/spells.php?str=create_food
+ 122. http://www.bat.org/help/spells.php?str=lessen_poison
+ 123. http://www.bat.org/help/skills.php?str=cast_generic
+ 124. http://www.bat.org/help/skills.php?str=cast_heal
+ 125. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 126. http://www.bat.org/help/skills.php?str=baptize
+ 127. http://www.bat.org/help/skills.php?str=bless
+ 128. http://www.bat.org/help/skills.php?str=ceremony
+ 129. http://www.bat.org/help/skills.php?str=consider
+ 130. http://www.bat.org/help/skills.php?str=essence_eye
+ 131. http://www.bat.org/help/skills.php?str=first_aid
+ 132. http://www.bat.org/help/skills.php?str=mana_control
+ 133. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 134. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 135. http://www.bat.org/help/spells.php?str=detect_alignment
+ 136. http://www.bat.org/help/spells.php?str=raise_dead
+ 137. http://www.bat.org/help/spells.php?str=satiate_person
+ 138. http://www.bat.org/help/spells.php?str=see_the_light
+ 139. http://www.bat.org/help/spells.php?str=remove_scar
+ 140. http://www.bat.org/help/spells.php?str=unstun
+ 141. http://www.bat.org/help/spells.php?str=create_food
+ 142. http://www.bat.org/help/spells.php?str=lessen_poison
+ 143. http://www.bat.org/help/skills.php?str=baptize
+ 144. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 145. http://www.bat.org/help/skills.php?str=baptize
+ 146. http://www.bat.org/help/skills.php?str=bless
+ 147. http://www.bat.org/help/skills.php?str=ceremony
+ 148. http://www.bat.org/help/skills.php?str=consider
+ 149. http://www.bat.org/help/skills.php?str=essence_eye
+ 150. http://www.bat.org/help/skills.php?str=first_aid
+ 151. http://www.bat.org/help/skills.php?str=mana_control
+ 152. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 153. http://www.bat.org/help/spells.php?str=detect_alignment
+ 154. http://www.bat.org/help/spells.php?str=light
+ 155. http://www.bat.org/help/spells.php?str=raise_dead
+ 156. http://www.bat.org/help/spells.php?str=satiate_person
+ 157. http://www.bat.org/help/spells.php?str=see_the_light
+ 158. http://www.bat.org/help/spells.php?str=remove_scar
+ 159. http://www.bat.org/help/spells.php?str=unstun
+ 160. http://www.bat.org/help/spells.php?str=create_food
+ 161. http://www.bat.org/help/spells.php?str=lessen_poison
+ 162. http://www.bat.org/help/skills.php?str=baptize
+ 163. http://www.bat.org/help/skills.php?str=bless
+ 164. http://www.bat.org/help/skills.php?str=ceremony
+ 165. http://www.bat.org/help/skills.php?str=consider
+ 166. http://www.bat.org/help/skills.php?str=essence_eye
+ 167. http://www.bat.org/help/skills.php?str=first_aid
+ 168. http://www.bat.org/help/skills.php?str=mana_control
+ 169. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 170. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 171. http://www.bat.org/help/spells.php?str=detect_alignment
+ 172. http://www.bat.org/help/spells.php?str=light
+ 173. http://www.bat.org/help/spells.php?str=raise_dead
+ 174. http://www.bat.org/help/spells.php?str=satiate_person
+ 175. http://www.bat.org/help/spells.php?str=see_the_light
+ 176. http://www.bat.org/help/spells.php?str=remove_scar
+ 177. http://www.bat.org/help/spells.php?str=unstun
+ 178. http://www.bat.org/help/spells.php?str=create_food
+ 179. http://www.bat.org/help/spells.php?str=lessen_poison
+ 180. http://www.bat.org/help/skills.php?str=baptize
+ 181. http://www.bat.org/help/skills.php?str=bless
+ 182. http://www.bat.org/help/skills.php?str=ceremony
+ 183. http://www.bat.org/help/skills.php?str=consider
+ 184. http://www.bat.org/help/skills.php?str=essence_eye
+ 185. http://www.bat.org/help/skills.php?str=first_aid
+ 186. http://www.bat.org/help/skills.php?str=mana_control
+ 187. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 188. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 189. http://www.bat.org/help/spells.php?str=detect_alignment
+ 190. http://www.bat.org/help/spells.php?str=light
+ 191. http://www.bat.org/help/spells.php?str=raise_dead
+ 192. http://www.bat.org/help/spells.php?str=satiate_person
+ 193. http://www.bat.org/help/spells.php?str=see_the_light
+ 194. http://www.bat.org/help/spells.php?str=remove_scar
+ 195. http://www.bat.org/help/spells.php?str=unstun
+ 196. http://www.bat.org/help/spells.php?str=create_food
+ 197. http://www.bat.org/help/spells.php?str=lessen_poison
+ 198. http://www.bat.org/help/skills.php?str=baptize
+ 199. http://www.bat.org/help/skills.php?str=bless
+ 200. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 201. http://www.bat.org/help/skills.php?str=bless
+ 202. http://www.bat.org/help/skills.php?str=ceremony
+ 203. http://www.bat.org/help/skills.php?str=essence_eye
+ 204. http://www.bat.org/help/skills.php?str=mana_control
+ 205. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 206. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 207. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 208. http://www.bat.org/help/spells.php?str=life_link
+ 209. http://www.bat.org/help/spells.php?str=light
+ 210. http://www.bat.org/help/spells.php?str=moon_sense
+ 211. http://www.bat.org/help/spells.php?str=raise_dead
+ 212. http://www.bat.org/help/spells.php?str=remove_poison
+ 213. http://www.bat.org/help/spells.php?str=lessen_poison
+ 214. http://www.bat.org/help/spells.php?str=satiate_person
+ 215. http://www.bat.org/help/spells.php?str=see_the_light
+ 216. http://www.bat.org/help/spells.php?str=remove_scar
+ 217. http://www.bat.org/help/spells.php?str=unstun
+ 218. http://www.bat.org/help/spells.php?str=water_walking
+ 219. http://www.bat.org/help/spells.php?str=cure_player
+ 220. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 221. http://www.bat.org/help/spells.php?str=lessen_poison
+ 222. http://www.bat.org/help/spells.php?str=remove_poison
+ 223. http://www.bat.org/help/spells.php?str=cure_player
+ 224. http://www.bat.org/help/skills.php?str=bless
+ 225. http://www.bat.org/help/skills.php?str=ceremony
+ 226. http://www.bat.org/help/skills.php?str=essence_eye
+ 227. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 228. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 229. http://www.bat.org/help/skills.php?str=mana_control
+ 230. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 231. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 232. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 233. http://www.bat.org/help/spells.php?str=life_link
+ 234. http://www.bat.org/help/spells.php?str=light
+ 235. http://www.bat.org/help/spells.php?str=moon_sense
+ 236. http://www.bat.org/help/spells.php?str=raise_dead
+ 237. http://www.bat.org/help/spells.php?str=remove_poison
+ 238. http://www.bat.org/help/spells.php?str=lessen_poison
+ 239. http://www.bat.org/help/spells.php?str=satiate_person
+ 240. http://www.bat.org/help/spells.php?str=see_the_light
+ 241. http://www.bat.org/help/spells.php?str=remove_scar
+ 242. http://www.bat.org/help/spells.php?str=unstun
+ 243. http://www.bat.org/help/spells.php?str=water_walking
+ 244. http://www.bat.org/help/spells.php?str=word_of_recall
+ 245. http://www.bat.org/help/spells.php?str=cure_player
+ 246. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 247. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 248. http://www.bat.org/help/spells.php?str=remove_poison
+ 249. http://www.bat.org/help/spells.php?str=cure_player
+ 250. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 251. http://www.bat.org/help/skills.php?str=ceremony
+ 252. http://www.bat.org/help/skills.php?str=essence_eye
+ 253. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 254. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 255. http://www.bat.org/help/skills.php?str=mana_control
+ 256. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 257. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 258. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 259. http://www.bat.org/help/spells.php?str=life_link
+ 260. http://www.bat.org/help/spells.php?str=light
+ 261. http://www.bat.org/help/spells.php?str=moon_sense
+ 262. http://www.bat.org/help/spells.php?str=raise_dead
+ 263. http://www.bat.org/help/spells.php?str=remove_poison
+ 264. http://www.bat.org/help/spells.php?str=lessen_poison
+ 265. http://www.bat.org/help/spells.php?str=satiate_person
+ 266. http://www.bat.org/help/spells.php?str=see_the_light
+ 267. http://www.bat.org/help/spells.php?str=remove_scar
+ 268. http://www.bat.org/help/spells.php?str=unstun
+ 269. http://www.bat.org/help/spells.php?str=water_walking
+ 270. http://www.bat.org/help/spells.php?str=word_of_recall
+ 271. http://www.bat.org/help/spells.php?str=cure_player
+ 272. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 273. http://www.bat.org/help/spells.php?str=remove_poison
+ 274. http://www.bat.org/help/spells.php?str=cure_player
+ 275. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 276. http://www.bat.org/help/skills.php?str=ceremony
+ 277. http://www.bat.org/help/skills.php?str=essence_eye
+ 278. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 279. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 280. http://www.bat.org/help/skills.php?str=mana_control
+ 281. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 282. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 283. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 284. http://www.bat.org/help/spells.php?str=life_link
+ 285. http://www.bat.org/help/spells.php?str=light
+ 286. http://www.bat.org/help/spells.php?str=moon_sense
+ 287. http://www.bat.org/help/spells.php?str=raise_dead
+ 288. http://www.bat.org/help/spells.php?str=remove_poison
+ 289. http://www.bat.org/help/spells.php?str=lessen_poison
+ 290. http://www.bat.org/help/spells.php?str=satiate_person
+ 291. http://www.bat.org/help/spells.php?str=remove_scar
+ 292. http://www.bat.org/help/spells.php?str=unstun
+ 293. http://www.bat.org/help/spells.php?str=water_walking
+ 294. http://www.bat.org/help/spells.php?str=word_of_recall
+ 295. http://www.bat.org/help/spells.php?str=cure_player
+ 296. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 297. http://www.bat.org/help/spells.php?str=remove_poison
+ 298. http://www.bat.org/help/spells.php?str=cure_player
+ 299. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 300. http://www.bat.org/help/skills.php?str=ceremony
+ 301. http://www.bat.org/help/skills.php?str=essence_eye
+ 302. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 303. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 304. http://www.bat.org/help/skills.php?str=quick_chant
+ 305. http://www.bat.org/help/skills.php?str=mana_control
+ 306. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 307. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 308. http://www.bat.org/help/spells.php?str=minor_heal
+ 309. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 310. http://www.bat.org/help/spells.php?str=heal_all
+ 311. http://www.bat.org/help/spells.php?str=life_link
+ 312. http://www.bat.org/help/spells.php?str=light
+ 313. http://www.bat.org/help/spells.php?str=moon_sense
+ 314. http://www.bat.org/help/spells.php?str=remove_poison
+ 315. http://www.bat.org/help/spells.php?str=lessen_poison
+ 316. http://www.bat.org/help/spells.php?str=resurrect
+ 317. http://www.bat.org/help/spells.php?str=raise_dead
+ 318. http://www.bat.org/help/spells.php?str=satiate_person
+ 319. http://www.bat.org/help/spells.php?str=remove_scar
+ 320. http://www.bat.org/help/spells.php?str=water_walking
+ 321. http://www.bat.org/help/spells.php?str=word_of_recall
+ 322. http://www.bat.org/help/spells.php?str=blessing_of_tarmalen
+ 323. http://www.bat.org/help/spells.php?str=cure_player
+ 324. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 325. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 326. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 327. http://www.bat.org/help/spells.php?str=remove_poison
+ 328. http://www.bat.org/help/spells.php?str=cure_player
+ 329. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 330. http://www.bat.org/help/skills.php?str=ceremony
+ 331. http://www.bat.org/help/skills.php?str=essence_eye
+ 332. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 333. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 334. http://www.bat.org/help/skills.php?str=quick_chant
+ 335. http://www.bat.org/help/skills.php?str=mana_control
+ 336. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 337. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 338. http://www.bat.org/help/spells.php?str=minor_heal
+ 339. http://www.bat.org/help/spells.php?str=major_party_heal
+ 340. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 341. http://www.bat.org/help/spells.php?str=heal_all
+ 342. http://www.bat.org/help/spells.php?str=life_link
+ 343. http://www.bat.org/help/spells.php?str=moon_sense
+ 344. http://www.bat.org/help/spells.php?str=remove_poison
+ 345. http://www.bat.org/help/spells.php?str=lessen_poison
+ 346. http://www.bat.org/help/spells.php?str=restore
+ 347. http://www.bat.org/help/spells.php?str=resurrect
+ 348. http://www.bat.org/help/spells.php?str=raise_dead
+ 349. http://www.bat.org/help/spells.php?str=summon
+ 350. http://www.bat.org/help/spells.php?str=water_walking
+ 351. http://www.bat.org/help/spells.php?str=word_of_recall
+ 352. http://www.bat.org/help/spells.php?str=blessing_of_tarmalen
+ 353. http://www.bat.org/help/spells.php?str=cure_player
+ 354. http://www.bat.org/help/spells.php?str=enhanced_vitality
+ 355. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 356. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 357. http://www.bat.org/help/spells.php?str=minor_heal
+ 358. http://www.bat.org/help/spells.php?str=remove_poison
+ 359. http://www.bat.org/help/spells.php?str=cure_player
+ 360. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 361. http://www.bat.org/help/skills.php?str=ceremony
+ 362. http://www.bat.org/help/skills.php?str=essence_eye
+ 363. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 364. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 365. http://www.bat.org/help/skills.php?str=quick_chant
+ 366. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 367. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 368. http://www.bat.org/help/spells.php?str=minor_heal
+ 369. http://www.bat.org/help/spells.php?str=major_party_heal
+ 370. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 371. http://www.bat.org/help/spells.php?str=heal_all
+ 372. http://www.bat.org/help/spells.php?str=life_link
+ 373. http://www.bat.org/help/spells.php?str=moon_sense
+ 374. http://www.bat.org/help/spells.php?str=restore
+ 375. http://www.bat.org/help/spells.php?str=resurrect
+ 376. http://www.bat.org/help/spells.php?str=raise_dead
+ 377. http://www.bat.org/help/spells.php?str=summon
+ 378. http://www.bat.org/help/spells.php?str=water_walking
+ 379. http://www.bat.org/help/spells.php?str=word_of_recall
+ 380. http://www.bat.org/help/spells.php?str=blessing_of_tarmalen
+ 381. http://www.bat.org/help/spells.php?str=enhanced_vitality
+ 382. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 383. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 384. http://www.bat.org/help/skills.php?str=ceremony
+ 385. http://www.bat.org/help/skills.php?str=essence_eye
+ 386. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 387. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 388. http://www.bat.org/help/skills.php?str=quick_chant
+ 389. http://www.bat.org/help/spells.php?str=minor_heal
+ 390. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 391. http://www.bat.org/help/spells.php?str=major_party_heal
+ 392. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 393. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 394. http://www.bat.org/help/spells.php?str=heal_all
+ 395. http://www.bat.org/help/spells.php?str=moon_sense
+ 396. http://www.bat.org/help/spells.php?str=restore
+ 397. http://www.bat.org/help/spells.php?str=resurrect
+ 398. http://www.bat.org/help/spells.php?str=raise_dead
+ 399. http://www.bat.org/help/spells.php?str=summon
+ 400. http://www.bat.org/help/spells.php?str=water_walking
+ 401. http://www.bat.org/help/spells.php?str=word_of_recall
+ 402. http://www.bat.org/help/spells.php?str=blessing_of_tarmalen
+ 403. http://www.bat.org/help/spells.php?str=enhanced_vitality
+ 404. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 405. http://www.bat.org/help/skills.php?str=ceremony
+ 406. http://www.bat.org/help/skills.php?str=essence_eye
+ 407. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 408. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 409. http://www.bat.org/help/skills.php?str=quick_chant
+ 410. http://www.bat.org/help/spells.php?str=minor_heal
+ 411. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 412. http://www.bat.org/help/spells.php?str=major_party_heal
+ 413. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 414. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 415. http://www.bat.org/help/spells.php?str=deaths_door
+ 416. http://www.bat.org/help/spells.php?str=heal_all
+ 417. http://www.bat.org/help/spells.php?str=moon_sense
+ 418. http://www.bat.org/help/spells.php?str=restore
+ 419. http://www.bat.org/help/spells.php?str=resurrect
+ 420. http://www.bat.org/help/spells.php?str=raise_dead
+ 421. http://www.bat.org/help/spells.php?str=summon
+ 422. http://www.bat.org/help/spells.php?str=unpain
+ 423. http://www.bat.org/help/spells.php?str=word_of_recall
+ 424. http://www.bat.org/help/spells.php?str=blessing_of_tarmalen
+ 425. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 426. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 427. http://www.bat.org/help/spells.php?str=minor_heal
+ 428. http://www.bat.org/help/skills.php?str=ceremony
+ 429. http://www.bat.org/help/skills.php?str=essence_eye
+ 430. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 431. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 432. http://www.bat.org/help/skills.php?str=quick_chant
+ 433. http://www.bat.org/help/spells.php?str=minor_heal
+ 434. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 435. http://www.bat.org/help/spells.php?str=major_heal
+ 436. http://www.bat.org/help/spells.php?str=major_party_heal
+ 437. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 438. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 439. http://www.bat.org/help/spells.php?str=detect_misery
+ 440. http://www.bat.org/help/spells.php?str=deaths_door
+ 441. http://www.bat.org/help/spells.php?str=guardian_angel
+ 442. http://www.bat.org/help/spells.php?str=heal_all
+ 443. http://www.bat.org/help/spells.php?str=moon_sense
+ 444. http://www.bat.org/help/spells.php?str=restore
+ 445. http://www.bat.org/help/spells.php?str=resurrect
+ 446. http://www.bat.org/help/spells.php?str=raise_dead
+ 447. http://www.bat.org/help/spells.php?str=summon
+ 448. http://www.bat.org/help/spells.php?str=unpain
+ 449. http://www.bat.org/help/spells.php?str=word_of_recall
+ 450. http://www.bat.org/help/spells.php?str=blessing_of_tarmalen
+ 451. http://www.bat.org/help/spells.php?str=enhanced_vitality
+ 452. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 453. http://www.bat.org/help/spells.php?str=minor_heal
+ 454. http://www.bat.org/help/spells.php?str=guardian_angel
+ 455. http://www.bat.org/help/skills.php?str=essence_eye
+ 456. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 457. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 458. http://www.bat.org/help/skills.php?str=quick_chant
+ 459. http://www.bat.org/help/spells.php?str=minor_heal
+ 460. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 461. http://www.bat.org/help/spells.php?str=major_heal
+ 462. http://www.bat.org/help/spells.php?str=major_party_heal
+ 463. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 464. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 465. http://www.bat.org/help/spells.php?str=deaths_door
+ 466. http://www.bat.org/help/spells.php?str=guardian_angel
+ 467. http://www.bat.org/help/spells.php?str=restore
+ 468. http://www.bat.org/help/spells.php?str=resurrect
+ 469. http://www.bat.org/help/spells.php?str=raise_dead
+ 470. http://www.bat.org/help/spells.php?str=summon
+ 471. http://www.bat.org/help/spells.php?str=unpain
+ 472. http://www.bat.org/help/spells.php?str=sex_change
+ 473. http://www.bat.org/help/spells.php?str=enhanced_vitality
+ 474. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 475. http://www.bat.org/help/spells.php?str=major_heal
+ 476. http://www.bat.org/help/spells.php?str=guardian_angel
+ 477. http://www.bat.org/help/skills.php?str=essence_eye
+ 478. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 479. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 480. http://www.bat.org/help/skills.php?str=quick_chant
+ 481. http://www.bat.org/help/spells.php?str=major_heal
+ 482. http://www.bat.org/help/spells.php?str=minor_heal
+ 483. http://www.bat.org/help/spells.php?str=major_party_heal
+ 484. http://www.bat.org/help/spells.php?str=minor_party_heal
+ 485. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 486. http://www.bat.org/help/spells.php?str=deaths_door
+ 487. http://www.bat.org/help/spells.php?str=guardian_angel
+ 488. http://www.bat.org/help/spells.php?str=holy_way
+ 489. http://www.bat.org/help/spells.php?str=resurrect
+ 490. http://www.bat.org/help/spells.php?str=raise_dead
+ 491. http://www.bat.org/help/spells.php?str=summon
+ 492. http://www.bat.org/help/spells.php?str=unpain
+ 493. http://www.bat.org/help/spells.php?str=sex_change
+ 494. http://www.bat.org/help/spells.php?str=enhanced_vitality
+ 495. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 496. http://www.bat.org/help/spells.php?str=guardian_angel
+ 497. http://www.bat.org/help/spells.php?str=holy_way
+ 498. http://www.bat.org/help/skills.php?str=essence_eye
+ 499. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 500. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 501. http://www.bat.org/help/skills.php?str=quick_chant
+ 502. http://www.bat.org/help/skills.php?str=tempt
+ 503. http://www.bat.org/help/spells.php?str=major_heal
+ 504. http://www.bat.org/help/spells.php?str=minor_heal
+ 505. http://www.bat.org/help/spells.php?str=true_party_heal
+ 506. http://www.bat.org/help/spells.php?str=major_party_heal
+ 507. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 508. http://www.bat.org/help/spells.php?str=deaths_door
+ 509. http://www.bat.org/help/spells.php?str=guardian_angel
+ 510. http://www.bat.org/help/spells.php?str=detect_misery
+ 511. http://www.bat.org/help/spells.php?str=holy_way
+ 512. http://www.bat.org/help/spells.php?str=new_body
+ 513. http://www.bat.org/help/spells.php?str=resurrect
+ 514. http://www.bat.org/help/spells.php?str=summon
+ 515. http://www.bat.org/help/spells.php?str=unpain
+ 516. http://www.bat.org/help/spells.php?str=sex_change
+ 517. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 518. http://www.bat.org/help/spells.php?str=guardian_angel
+ 519. http://www.bat.org/help/spells.php?str=holy_way
+ 520. http://www.bat.org/help/skills.php?str=essence_eye
+ 521. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 522. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 523. http://www.bat.org/help/skills.php?str=quick_chant
+ 524. http://www.bat.org/help/skills.php?str=tempt
+ 525. http://www.bat.org/help/spells.php?str=major_heal
+ 526. http://www.bat.org/help/spells.php?str=minor_heal
+ 527. http://www.bat.org/help/spells.php?str=true_heal
+ 528. http://www.bat.org/help/spells.php?str=true_party_heal
+ 529. http://www.bat.org/help/spells.php?str=major_party_heal
+ 530. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 531. http://www.bat.org/help/spells.php?str=deaths_door
+ 532. http://www.bat.org/help/spells.php?str=guardian_angel
+ 533. http://www.bat.org/help/spells.php?str=holy_way
+ 534. http://www.bat.org/help/spells.php?str=new_body
+ 535. http://www.bat.org/help/spells.php?str=resurrect
+ 536. http://www.bat.org/help/spells.php?str=summon
+ 537. http://www.bat.org/help/spells.php?str=unpain
+ 538. http://www.bat.org/help/spells.php?str=sex_change
+ 539. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 540. http://www.bat.org/help/spells.php?str=minor_heal
+ 541. http://www.bat.org/help/spells.php?str=major_heal
+ 542. http://www.bat.org/help/spells.php?str=guardian_angel
+ 543. http://www.bat.org/help/spells.php?str=holy_way
+ 544. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 545. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 546. http://www.bat.org/help/skills.php?str=quick_chant
+ 547. http://www.bat.org/help/skills.php?str=tempt
+ 548. http://www.bat.org/help/spells.php?str=major_heal
+ 549. http://www.bat.org/help/spells.php?str=minor_heal
+ 550. http://www.bat.org/help/spells.php?str=true_heal
+ 551. http://www.bat.org/help/spells.php?str=true_party_heal
+ 552. http://www.bat.org/help/spells.php?str=major_party_heal
+ 553. http://www.bat.org/help/spells.php?str=curse_of_tarmalen
+ 554. http://www.bat.org/help/spells.php?str=deaths_door
+ 555. http://www.bat.org/help/spells.php?str=guardian_angel
+ 556. http://www.bat.org/help/spells.php?str=holy_way
+ 557. http://www.bat.org/help/spells.php?str=natural_renewal
+ 558. http://www.bat.org/help/spells.php?str=restore
+ 559. http://www.bat.org/help/spells.php?str=new_body
+ 560. http://www.bat.org/help/spells.php?str=resurrect
+ 561. http://www.bat.org/help/spells.php?str=soul_hold
+ 562. http://www.bat.org/help/spells.php?str=unpain
+ 563. http://www.bat.org/help/spells.php?str=sex_change
+ 564. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 565. http://www.bat.org/help/spells.php?str=major_heal
+ 566. http://www.bat.org/help/spells.php?str=true_heal
+ 567. http://www.bat.org/help/spells.php?str=guardian_angel
+ 568. http://www.bat.org/help/spells.php?str=holy_way
+ 569. http://www.bat.org/help/spells.php?str=soul_hold
+ 570. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 571. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 572. http://www.bat.org/help/skills.php?str=quick_chant
+ 573. http://www.bat.org/help/skills.php?str=tempt
+ 574. http://www.bat.org/help/spells.php?str=major_heal
+ 575. http://www.bat.org/help/spells.php?str=minor_heal
+ 576. http://www.bat.org/help/spells.php?str=true_heal
+ 577. http://www.bat.org/help/spells.php?str=true_party_heal
+ 578. http://www.bat.org/help/spells.php?str=major_party_heal
+ 579. http://www.bat.org/help/spells.php?str=deaths_door
+ 580. http://www.bat.org/help/spells.php?str=guardian_angel
+ 581. http://www.bat.org/help/spells.php?str=holy_way
+ 582. http://www.bat.org/help/spells.php?str=natural_renewal
+ 583. http://www.bat.org/help/spells.php?str=restore
+ 584. http://www.bat.org/help/spells.php?str=new_body
+ 585. http://www.bat.org/help/spells.php?str=resurrect
+ 586. http://www.bat.org/help/spells.php?str=soul_hold
+ 587. http://www.bat.org/help/spells.php?str=unpain
+ 588. http://www.bat.org/help/spells.php?str=sex_change
+ 589. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 590. http://www.bat.org/help/spells.php?str=guardian_angel
+ 591. http://www.bat.org/help/spells.php?str=holy_way
+ 592. http://www.bat.org/help/spells.php?str=soul_hold
+ 593. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 594. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 595. http://www.bat.org/help/skills.php?str=quick_chant
+ 596. http://www.bat.org/help/skills.php?str=tempt
+ 597. http://www.bat.org/help/spells.php?str=true_heal
+ 598. http://www.bat.org/help/spells.php?str=true_party_heal
+ 599. http://www.bat.org/help/spells.php?str=major_party_heal
+ 600. http://www.bat.org/help/spells.php?str=guardian_angel
+ 601. http://www.bat.org/help/spells.php?str=holy_way
+ 602. http://www.bat.org/help/spells.php?str=natural_renewal
+ 603. http://www.bat.org/help/spells.php?str=restore
+ 604. http://www.bat.org/help/spells.php?str=new_body
+ 605. http://www.bat.org/help/spells.php?str=resurrect
+ 606. http://www.bat.org/help/spells.php?str=soul_hold
+ 607. http://www.bat.org/help/spells.php?str=unpain
+ 608. http://www.bat.org/help/spells.php?str=sex_change
+ 609. http://www.bat.org/help/spells.php?str=detect_misery
+ 610. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 611. http://www.bat.org/help/spells.php?str=guardian_angel
+ 612. http://www.bat.org/help/spells.php?str=holy_way
+ 613. http://www.bat.org/help/spells.php?str=soul_hold
+ 614. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 615. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 616. http://www.bat.org/help/skills.php?str=quick_chant
+ 617. http://www.bat.org/help/skills.php?str=tempt
+ 618. http://www.bat.org/help/spells.php?str=true_heal
+ 619. http://www.bat.org/help/spells.php?str=major_heal
+ 620. http://www.bat.org/help/spells.php?str=true_party_heal
+ 621. http://www.bat.org/help/spells.php?str=major_party_heal
+ 622. http://www.bat.org/help/spells.php?str=guardian_angel
+ 623. http://www.bat.org/help/spells.php?str=holy_way
+ 624. http://www.bat.org/help/spells.php?str=natural_renewal
+ 625. http://www.bat.org/help/spells.php?str=restore
+ 626. http://www.bat.org/help/spells.php?str=new_body
+ 627. http://www.bat.org/help/spells.php?str=resurrect
+ 628. http://www.bat.org/help/spells.php?str=soul_hold
+ 629. http://www.bat.org/help/spells.php?str=sex_change
+ 630. http://www.bat.org/help/spells.php?str=true_heal
+ 631. http://www.bat.org/help/spells.php?str=guardian_angel
+ 632. http://www.bat.org/help/spells.php?str=holy_way
+ 633. http://www.bat.org/help/spells.php?str=soul_hold
+ 634. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 635. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 636. http://www.bat.org/help/skills.php?str=quick_chant
+ 637. http://www.bat.org/help/skills.php?str=tempt
+ 638. http://www.bat.org/help/spells.php?str=true_heal
+ 639. http://www.bat.org/help/spells.php?str=major_heal
+ 640. http://www.bat.org/help/spells.php?str=true_party_heal
+ 641. http://www.bat.org/help/spells.php?str=major_party_heal
+ 642. http://www.bat.org/help/spells.php?str=guardian_angel
+ 643. http://www.bat.org/help/spells.php?str=holy_way
+ 644. http://www.bat.org/help/spells.php?str=natural_renewal
+ 645. http://www.bat.org/help/spells.php?str=restore
+ 646. http://www.bat.org/help/spells.php?str=new_body
+ 647. http://www.bat.org/help/spells.php?str=resurrect
+ 648. http://www.bat.org/help/spells.php?str=soul_hold
+ 649. http://www.bat.org/help/spells.php?str=sex_change
+ 650. http://www.bat.org/help/spells.php?str=enhanced_vitality
+ 651. http://www.bat.org/help/spells.php?str=major_heal
+ 652. http://www.bat.org/help/spells.php?str=true_heal
+ 653. http://www.bat.org/help/spells.php?str=guardian_angel
+ 654. http://www.bat.org/help/spells.php?str=holy_way
+ 655. http://www.bat.org/help/spells.php?str=soul_hold
+ 656. http://www.bat.org/help/skills.php?str=mastery_of_assistance
+ 657. http://www.bat.org/help/skills.php?str=mastery_of_medicine
+ 658. http://www.bat.org/help/skills.php?str=quick_chant
+ 659. http://www.bat.org/help/skills.php?str=tempt
+ 660. http://www.bat.org/help/spells.php?str=true_heal
+ 661. http://www.bat.org/help/spells.php?str=major_heal
+ 662. http://www.bat.org/help/spells.php?str=true_party_heal
+ 663. http://www.bat.org/help/spells.php?str=major_party_heal
+ 664. http://www.bat.org/help/spells.php?str=guardian_angel
+ 665. http://www.bat.org/help/spells.php?str=holy_way
+ 666. http://www.bat.org/help/spells.php?str=natural_renewal
+ 667. http://www.bat.org/help/spells.php?str=restore
+ 668. http://www.bat.org/help/spells.php?str=new_body
+ 669. http://www.bat.org/help/spells.php?str=resurrect
+ 670. http://www.bat.org/help/spells.php?str=soul_hold
+ 671. http://www.bat.org/help/spells.php?str=sex_change
+ 672. http://www.bat.org/help/guilds.php
+ 673. mailto:webmaster@bat.org
+
+   Hidden links:
+ 674. http://www.bat.org/bat.php

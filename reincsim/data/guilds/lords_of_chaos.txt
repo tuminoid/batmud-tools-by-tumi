@@ -1,0 +1,1841 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]150 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                      [fonter.php?str=Lords+of+Chaos]
+
+                               Lords of Chaos
+
+   Command: lord_chaos
+   Creator: [22]ikar
+   Maximum level: 30
+   Description:
+   Dedicated to the study of blades to the exclusion of all else, the
+   Lords of
+   Chaos become a formidable foe. Members of this order grow in power as
+   they
+   learn to communicate and rely on their chosen blade, which has a
+   decided
+   thirst for blood.
+
+                                New Member
+                 Alignment must be evil
+                 Background must be evil_religious
+                 Prevents wielding
+                 Chaotic magic strengthens you.
+                 May train skill [23]Attack to 10%
+                 May train skill [24]Short blades to 10%
+                 May train skill [25]Long blades to 10%
+                 May train skill [26]Overbear to 10%
+                 May train skill [27]Cast generic to 50%
+                 May train skill [28]Cast special to 10%
+                 May train skill [29]Consider to 10%
+                 May train skill [30]Swim to 10%
+                 May study spell [31]Detect alignment to 30%
+                 May study spell [32]Infravision to 10%
+                 May study spell [33]Darkness to 10%
+                 May study spell [34]Summon blade to 40%
+
+                                  Level 2
+              Has trained skill [35]Attack to at least 8%
+              Has trained skill [36]Short blades to at least 9%
+              Has trained skill [37]Long blades to at least 9%
+              Has trained skill [38]Overbear to at least 9%
+              Has trained skill [39]Consider to at least 7%
+              Has studied spell [40]Summon blade to at least 16%
+              May train skill [41]Attack to 16%
+              May train skill [42]Short blades to 15%
+              May train skill [43]Long blades to 15%
+              May train skill [44]Overbear to 13%
+              May train skill [45]Cast generic to 55%
+              May train skill [46]Cast special to 30%
+              May train skill [47]Consider to 20%
+              May train skill [48]Swim to 14%
+              May study spell [49]Detect alignment to 35%
+              May study spell [50]Infravision to 16%
+              May study spell [51]Darkness to 16%
+              May study spell [52]Summon blade to 44%
+
+                                  Level 3
+              Has trained skill [53]Attack to at least 10%
+              Has trained skill [54]Short blades to at least 10%
+              Has trained skill [55]Long blades to at least 10%
+              Has trained skill [56]Overbear to at least 10%
+              Has trained skill [57]Consider to at least 10%
+              Has studied spell [58]Summon blade to at least 17%
+              May train skill [59]Attack to 23%
+              May train skill [60]Parry to 5%
+              May train skill [61]Shield bash to 5%
+              May train skill [62]Short blades to 20%
+              May train skill [63]Long blades to 20%
+              May train skill [64]Overbear to 17%
+              May train skill [65]Cast generic to 61%
+              May train skill [66]Cast special to 50%
+              May train skill [67]Cast transformation to 5%
+              May train skill [68]Consider to 30%
+              May train skill [69]Swim to 19%
+              May study spell [70]Detect alignment to 40%
+              May study spell [71]Infravision to 23%
+              May study spell [72]Darkness to 22%
+              May study spell [73]Summon blade to 48%
+              May study spell [74]Chaotic warp to 5%
+
+                                  Level 4
+              Has trained skill [75]Attack to at least 12%
+              Has trained skill [76]Parry to at least 4%
+              Has trained skill [77]Shield bash to at least 4%
+              Has trained skill [78]Short blades to at least 11%
+              Has trained skill [79]Long blades to at least 11%
+              Has trained skill [80]Overbear to at least 11%
+              Has trained skill [81]Consider to at least 13%
+              Has studied spell [82]Summon blade to at least 19%
+              Has studied spell [83]Chaotic warp to at least 2%
+              May train skill [84]Attack to 30%
+              May train skill [85]Parry to 8%
+              May train skill [86]Shield bash to 10%
+              May train skill [87]Short blades to 25%
+              May train skill [88]Long blades to 25%
+              May train skill [89]Overbear to 21%
+              May train skill [90]Bloodlust to 15%
+              May train skill [91]Cast generic to 66%
+              May train skill [92]Cast transformation to 8%
+              May train skill [93]Consider to 40%
+              May train skill [94]Swim to 24%
+              May study spell [95]Detect alignment to 45%
+              May study spell [96]Infravision to 30%
+              May study spell [97]Darkness to 29%
+              May study spell [98]Summon blade to 52%
+              May study spell [99]Blade of fire to 10%
+              May study spell [100]Chaotic warp to 11%
+
+                                 Level 5
+             Has trained skill [101]Attack to at least 14%
+             Has trained skill [102]Parry to at least 5%
+             Has trained skill [103]Shield bash to at least 5%
+             Has trained skill [104]Short blades to at least 13%
+             Has trained skill [105]Long blades to at least 13%
+             Has trained skill [106]Overbear to at least 12%
+             Has trained skill [107]Bloodlust to at least 13%
+             Has trained skill [108]Consider to at least 16%
+             Has studied spell [109]Summon blade to at least 20%
+             Has studied spell [110]Blade of fire to at least 4%
+             Has studied spell [111]Chaotic warp to at least 4%
+             May train skill [112]Attack to 37%
+             May train skill [113]Parry to 11%
+             May train skill [114]Shield bash to 16%
+             May train skill [115]Dodge to 5%
+             May train skill [116]Short blades to 31%
+             May train skill [117]Long blades to 31%
+             May train skill [118]Overbear to 25%
+             May train skill [119]Bloodlust to 22%
+             May train skill [120]Cast generic to 72%
+             May train skill [121]Cast transformation to 11%
+             May train skill [122]Consider to 50%
+             May train skill [123]Swim to 28%
+             May study spell [124]Detect alignment to 50%
+             May study spell [125]Infravision to 37%
+             May study spell [126]Darkness to 35%
+             May study spell [127]Summon blade to 57%
+             May study spell [128]Blade of fire to 15%
+             May study spell [129]Chaotic warp to 17%
+
+                                 Level 6
+             Has trained skill [130]Attack to at least 16%
+             Has trained skill [131]Parry to at least 6%
+             Has trained skill [132]Shield bash to at least 6%
+             Has trained skill [133]Dodge to at least 5%
+             Has trained skill [134]Short blades to at least 15%
+             Has trained skill [135]Long blades to at least 15%
+             Has trained skill [136]Overbear to at least 13%
+             Has trained skill [137]Bloodlust to at least 15%
+             Has trained skill [138]Consider to at least 20%
+             Has studied spell [139]Summon blade to at least 22%
+             Has studied spell [140]Blade of fire to at least 6%
+             Has studied spell [141]Chaotic warp to at least 6%
+             May train skill [142]Attack to 44%
+             May train skill [143]Parry to 14%
+             May train skill [144]Shield bash to 21%
+             May train skill [145]Dodge to 7%
+             May train skill [146]Short blades to 36%
+             May train skill [147]Long blades to 36%
+             May train skill [148]Overbear to 28%
+             May train skill [149]Bloodlust to 30%
+             May train skill [150]Cast generic to 77%
+             May train skill [151]Cast transformation to 14%
+             May train skill [152]Consider to 60%
+             May train skill [153]Swim to 33%
+             May study spell [154]Detect alignment to 55%
+             May study spell [155]Infravision to 44%
+             May study spell [156]Darkness to 42%
+             May study spell [157]Summon blade to 61%
+             May study spell [158]Blade of fire to 21%
+             May study spell [159]Chaotic warp to 23%
+
+                                 Level 7
+             Has trained skill [160]Attack to at least 19%
+             Has trained skill [161]Parry to at least 7%
+             Has trained skill [162]Shield bash to at least 8%
+             Has trained skill [163]Dodge to at least 5%
+             Has trained skill [164]Short blades to at least 17%
+             Has trained skill [165]Long blades to at least 17%
+             Has trained skill [166]Overbear to at least 15%
+             Has trained skill [167]Bloodlust to at least 17%
+             Has trained skill [168]Consider to at least 23%
+             Has studied spell [169]Summon blade to at least 24%
+             Has studied spell [170]Blade of fire to at least 8%
+             Has studied spell [171]Chaotic warp to at least 9%
+             May train skill [172]Attack to 51%
+             May train skill [173]Parry to 17%
+             May train skill [174]Shield bash to 27%
+             May train skill [175]Dodge to 9%
+             May train skill [176]Short blades to 41%
+             May train skill [177]Long blades to 41%
+             May train skill [178]Overbear to 32%
+             May train skill [179]Bloodlust to 38%
+             May train skill [180]Cast generic to 83%
+             May train skill [181]Cast transformation to 17%
+             May train skill [182]Consider to 70%
+             May train skill [183]Swim to 38%
+             May study spell [184]Detect alignment to 60%
+             May study spell [185]Infravision to 51%
+             May study spell [186]Darkness to 48%
+             May study spell [187]Summon blade to 65%
+             May study spell [188]Blade of fire to 26%
+             May study spell [189]Chaotic warp to 30%
+
+                                  Level 8
+             Has trained skill [190]Attack to at least 21%
+             Has trained skill [191]Parry to at least 8%
+             Has trained skill [192]Shield bash to at least 10%
+             Has trained skill [193]Dodge to at least 5%
+             Has trained skill [194]Short blades to at least 18%
+             Has trained skill [195]Long blades to at least 18%
+             Has trained skill [196]Overbear to at least 16%
+             Has trained skill [197]Bloodlust to at least 20%
+             Has trained skill [198]Consider to at least 26%
+             Has studied spell [199]Summon blade to at least 26%
+             Has studied spell [200]Blade of fire to at least 10%
+             Has studied spell [201]Chaotic warp to at least 12%
+             May train skill [202]Attack to 58%
+             May train skill [203]Parry to 20%
+             May train skill [204]Throw weight to 5%
+             May train skill [205]Shield bash to 32%
+             May train skill [206]Dodge to 11%
+             May train skill [207]Short blades to 47%
+             May train skill [208]Long blades to 47%
+             May train skill [209]Overbear to 36%
+             May train skill [210]Bloodlust to 45%
+             May train skill [211]Cast generic to 88%
+             May train skill [212]Cast transformation to 20%
+             May train skill [213]Consider to 80%
+             May train skill [214]Swim to 43%
+             May study spell [215]Detect alignment to 65%
+             May study spell [216]Infravision to 58%
+             May study spell [217]Darkness to 54%
+             May study spell [218]Summon blade to 69%
+             May study spell [219]Blade of fire to 32%
+             May study spell [220]Chaotic warp to 36%
+
+                                  Level 9
+             Has trained skill [221]Attack to at least 23%
+             Has trained skill [222]Parry to at least 9%
+             Has trained skill [223]Throw weight to at least 4%
+             Has trained skill [224]Shield bash to at least 12%
+             Has trained skill [225]Dodge to at least 6%
+             Has trained skill [226]Short blades to at least 20%
+             Has trained skill [227]Long blades to at least 20%
+             Has trained skill [228]Overbear to at least 17%
+             Has trained skill [229]Bloodlust to at least 22%
+             Has trained skill [230]Consider to at least 30%
+             Has studied spell [231]Summon blade to at least 27%
+             Has studied spell [232]Blade of fire to at least 12%
+             Has studied spell [233]Chaotic warp to at least 14%
+             May train skill [234]Attack to 65%
+             May train skill [235]Parry to 23%
+             May train skill [236]Throw weight to 9%
+             May train skill [237]Shield bash to 38%
+             May train skill [238]Dodge to 13%
+             May train skill [239]Short blades to 52%
+             May train skill [240]Long blades to 52%
+             May train skill [241]Overbear to 40%
+             May train skill [242]Bloodlust to 53%
+             May train skill [243]Cast generic to 94%
+             May train skill [244]Cast transformation to 23%
+             May train skill [245]Consider to 90%
+             May train skill [246]Swim to 47%
+             May study spell [247]Detect alignment to 70%
+             May study spell [248]Infravision to 65%
+             May study spell [249]Darkness to 61%
+             May study spell [250]Summon blade to 74%
+             May study spell [251]Blade of fire to 38%
+             May study spell [252]Chaotic warp to 42%
+
+                                 Level 10
+             Has trained skill [253]Attack to at least 26%
+             Has trained skill [254]Parry to at least 10%
+             Has trained skill [255]Throw weight to at least 5%
+             Has trained skill [256]Shield bash to at least 14%
+             Has trained skill [257]Dodge to at least 7%
+             Has trained skill [258]Short blades to at least 22%
+             Has trained skill [259]Long blades to at least 22%
+             Has trained skill [260]Overbear to at least 18%
+             Has trained skill [261]Bloodlust to at least 25%
+             Has trained skill [262]Consider to at least 33%
+             Has studied spell [263]Summon blade to at least 29%
+             Has studied spell [264]Blade of fire to at least 15%
+             Has studied spell [265]Chaotic warp to at least 16%
+             May train skill [266]Attack to 72%
+             May train skill [267]Parry to 27%
+             May train skill [268]Throw weight to 13%
+             May train skill [269]Shield bash to 44%
+             May train skill [270]Dodge to 15%
+             May train skill [271]Alertness to 5%
+             May train skill [272]Short blades to 57%
+             May train skill [273]Long blades to 57%
+             May train skill [274]Overbear to 43%
+             May train skill [275]Bloodlust to 61%
+             May train skill [276]Cast generic to 100%
+             May train skill [277]Cast transformation to 26%
+             May train skill [278]Consider to 100%
+             May train skill [279]Swim to 52%
+             May study spell [280]Detect alignment to 75%
+             May study spell [281]Infravision to 72%
+             May study spell [282]Darkness to 67%
+             May study spell [283]Summon blade to 78%
+             May study spell [284]Blade of fire to 43%
+             May study spell [285]Chaotic warp to 49%
+
+                                 Level 11
+             Has trained skill [286]Attack to at least 28%
+             Has trained skill [287]Parry to at least 11%
+             Has trained skill [288]Throw weight to at least 6%
+             Has trained skill [289]Shield bash to at least 16%
+             Has trained skill [290]Dodge to at least 7%
+             Has trained skill [291]Short blades to at least 24%
+             Has trained skill [292]Long blades to at least 24%
+             Has trained skill [293]Overbear to at least 20%
+             Has trained skill [294]Bloodlust to at least 27%
+             Has studied spell [295]Summon blade to at least 31%
+             Has studied spell [296]Blade of fire to at least 17%
+             Has studied spell [297]Chaotic warp to at least 19%
+             May train skill [298]Attack to 79%
+             May train skill [299]Parry to 30%
+             May train skill [300]Throw weight to 17%
+             May train skill [301]Shield bash to 49%
+             May train skill [302]Dodge to 18%
+             May train skill [303]Alertness to 9%
+             May train skill [304]Short blades to 62%
+             May train skill [305]Long blades to 62%
+             May train skill [306]Overbear to 47%
+             May train skill [307]Bloodlust to 69%
+             May train skill [308]Cast transformation to 29%
+             May train skill [309]Swim to 57%
+             May study spell [310]Detect alignment to 80%
+             May study spell [311]Infravision to 79%
+             May study spell [312]Darkness to 74%
+             May study spell [313]Summon blade to 82%
+             May study spell [314]Blade of fire to 49%
+             May study spell [315]Chaotic warp to 55%
+
+                                 Level 12
+             Has trained skill [316]Attack to at least 30%
+             Has trained skill [317]Parry to at least 12%
+             Has trained skill [318]Throw weight to at least 7%
+             Has trained skill [319]Shield bash to at least 18%
+             Has trained skill [320]Dodge to at least 8%
+             Has trained skill [321]Short blades to at least 25%
+             Has trained skill [322]Long blades to at least 25%
+             Has trained skill [323]Overbear to at least 21%
+             Has trained skill [324]Bloodlust to at least 30%
+             Has studied spell [325]Summon blade to at least 32%
+             Has studied spell [326]Blade of fire to at least 19%
+             Has studied spell [327]Chaotic warp to at least 22%
+             May train skill [328]Attack to 86%
+             May train skill [329]Parry to 33%
+             May train skill [330]Throw weight to 22%
+             May train skill [331]Shield bash to 55%
+             May train skill [332]Dodge to 20%
+             May train skill [333]Alertness to 13%
+             May train skill [334]Short blades to 68%
+             May train skill [335]Long blades to 68%
+             May train skill [336]Overbear to 51%
+             May train skill [337]Bloodlust to 76%
+             May train skill [338]Cast transformation to 32%
+             May train skill [339]Swim to 62%
+             May train skill [340]Tempt to 10%
+             May study spell [341]Detect alignment to 85%
+             May study spell [342]Infravision to 86%
+             May study spell [343]Darkness to 80%
+             May study spell [344]Summon blade to 87%
+             May study spell [345]Blade of fire to 55%
+             May study spell [346]Chaotic warp to 61%
+             May train skill [347]Destructive rage to 5%
+
+                                 Level 13
+            Has trained skill [348]Attack to at least 33%
+            Has trained skill [349]Parry to at least 13%
+            Has trained skill [350]Throw weight to at least 9%
+            Has trained skill [351]Shield bash to at least 19%
+            Has trained skill [352]Dodge to at least 9%
+            Has trained skill [353]Short blades to at least 27%
+            Has trained skill [354]Long blades to at least 27%
+            Has trained skill [355]Overbear to at least 22%
+            Has trained skill [356]Bloodlust to at least 33%
+            Has studied spell [357]Summon blade to at least 34%
+            Has studied spell [358]Blade of fire to at least 22%
+            Has studied spell [359]Chaotic warp to at least 24%
+            Has trained skill [360]Destructive rage to at least 3%
+            May train skill [361]Attack to 93%
+            May train skill [362]Parry to 36%
+            May train skill [363]Throw weight to 26%
+            May train skill [364]Shield bash to 60%
+            May train skill [365]Enhance criticals to 10%
+            May train skill [366]Riposte to 10%
+            May train skill [367]Dodge to 22%
+            May train skill [368]Alertness to 17%
+            May train skill [369]Short blades to 73%
+            May train skill [370]Long blades to 73%
+            May train skill [371]Overbear to 55%
+            May train skill [372]Bloodlust to 84%
+            May train skill [373]Cast transformation to 35%
+            May train skill [374]Swim to 66%
+            May train skill [375]Tempt to 15%
+            May study spell [376]Detect alignment to 90%
+            May study spell [377]Infravision to 93%
+            May study spell [378]Darkness to 87%
+            May study spell [379]Summon blade to 91%
+            May study spell [380]Blade of fire to 60%
+            May study spell [381]Chaotic warp to 68%
+            May train skill [382]Destructive rage to 12%
+
+                                 Level 14
+           Has trained skill [383]Attack to at least 35%
+           Has trained skill [384]Parry to at least 14%
+           Has trained skill [385]Throw weight to at least 10%
+           Has trained skill [386]Shield bash to at least 21%
+           Has trained skill [387]Enhance criticals to at least 9%
+           Has trained skill [388]Dodge to at least 10%
+           Has trained skill [389]Short blades to at least 29%
+           Has trained skill [390]Long blades to at least 29%
+           Has trained skill [391]Overbear to at least 23%
+           Has trained skill [392]Bloodlust to at least 35%
+           Has studied spell [393]Summon blade to at least 36%
+           Has studied spell [394]Blade of fire to at least 24%
+           Has studied spell [395]Chaotic warp to at least 27%
+           Has trained skill [396]Destructive rage to at least 5%
+           May train skill [397]Attack to 100%
+           May train skill [398]Parry to 39%
+           May train skill [399]Throw weight to 30%
+           May train skill [400]Shield bash to 66%
+           May train skill [401]Enhance criticals to 14%
+           May train skill [402]Riposte to 14%
+           May train skill [403]Dodge to 24%
+           May train skill [404]Negate offhand penalty to 10%
+           May train skill [405]Alertness to 22%
+           May train skill [406]Short blades to 78%
+           May train skill [407]Long blades to 78%
+           May train skill [408]Overbear to 58%
+           May train skill [409]Bloodlust to 92%
+           May train skill [410]Cast transformation to 38%
+           May train skill [411]Swim to 71%
+           May train skill [412]Tempt to 20%
+           May study spell [413]Detect alignment to 95%
+           May study spell [414]Infravision to 100%
+           May study spell [415]Darkness to 93%
+           May study spell [416]Summon blade to 95%
+           May study spell [417]Blade of fire to 66%
+           May study spell [418]Chaotic warp to 74%
+           May train skill [419]Destructive rage to 19%
+           May train skill [420]Force of chaos to 10%
+
+                                 Level 15
+           Has trained skill [421]Parry to at least 15%
+           Has trained skill [422]Throw weight to at least 12%
+           Has trained skill [423]Shield bash to at least 23%
+           Has trained skill [424]Enhance criticals to at least 10%
+           Has trained skill [425]Dodge to at least 10%
+           Has trained skill [426]Short blades to at least 31%
+           Has trained skill [427]Long blades to at least 31%
+           Has trained skill [428]Overbear to at least 25%
+           Has trained skill [429]Bloodlust to at least 38%
+           Has studied spell [430]Summon blade to at least 38%
+           Has studied spell [431]Blade of fire to at least 26%
+           Has studied spell [432]Chaotic warp to at least 29%
+           Has trained skill [433]Destructive rage to at least 7%
+           May train skill [434]Parry to 42%
+           May train skill [435]Throw weight to 35%
+           May train skill [436]Shield bash to 72%
+           May train skill [437]Enhance criticals to 18%
+           May train skill [438]Riposte to 18%
+           May train skill [439]Dodge to 26%
+           May train skill [440]Negate offhand penalty to 12%
+           May train skill [441]Tumbling attack to 5%
+           May train skill [442]Combat damage analysis to 10%
+           May train skill [443]Alertness to 26%
+           May train skill [444]Short blades to 84%
+           May train skill [445]Long blades to 84%
+           May train skill [446]Overbear to 62%
+           May train skill [447]Bloodlust to 100%
+           May train skill [448]Vampiric blow to 10%
+           May train skill [449]Cast transformation to 41%
+           May train skill [450]Swim to 76%
+           May train skill [451]Tempt to 25%
+           May study spell [452]Detect alignment to 100%
+           May study spell [453]Darkness to 100%
+           May study spell [454]Summon blade to 100%
+           May study spell [455]Blade of fire to 71%
+           May study spell [456]Chaotic warp to 80%
+           May train skill [457]Destructive rage to 26%
+           May train skill [458]Force of chaos to 15%
+
+                                 Level 16
+           Has trained skill [459]Parry to at least 16%
+           Has trained skill [460]Throw weight to at least 13%
+           Has trained skill [461]Shield bash to at least 25%
+           Has trained skill [462]Enhance criticals to at least 11%
+           Has trained skill [463]Dodge to at least 11%
+           Has trained skill [464]Short blades to at least 32%
+           Has trained skill [465]Long blades to at least 32%
+           Has trained skill [466]Overbear to at least 26%
+           Has trained skill [467]Vampiric blow to at least 8%
+           Has studied spell [468]Blade of fire to at least 28%
+           Has studied spell [469]Chaotic warp to at least 32%
+           Has trained skill [470]Destructive rage to at least 9%
+           May train skill [471]Parry to 45%
+           May train skill [472]Throw weight to 39%
+           May train skill [473]Shield bash to 77%
+           May train skill [474]Enhance criticals to 23%
+           May train skill [475]Riposte to 22%
+           May train skill [476]Dodge to 29%
+           May train skill [477]Negate offhand penalty to 15%
+           May train skill [478]Stunned maneuvers to 5%
+           May train skill [479]Stun to 5%
+           May train skill [480]Tumbling attack to 7%
+           May train skill [481]Combat damage analysis to 15%
+           May train skill [482]Alertness to 30%
+           May train skill [483]Short blades to 89%
+           May train skill [484]Long blades to 89%
+           May train skill [485]Overbear to 66%
+           May train skill [486]Vampiric blow to 16%
+           May train skill [487]Cast transformation to 44%
+           May train skill [488]Swim to 81%
+           May train skill [489]Tempt to 30%
+           May study spell [490]Blade of fire to 77%
+           May study spell [491]Chaotic warp to 87%
+           May train skill [492]Destructive rage to 34%
+           May train skill [493]Force of chaos to 21%
+
+                                 Level 17
+           Has trained skill [494]Parry to at least 17%
+           Has trained skill [495]Throw weight to at least 15%
+           Has trained skill [496]Shield bash to at least 27%
+           Has trained skill [497]Enhance criticals to at least 12%
+           Has trained skill [498]Dodge to at least 12%
+           Has trained skill [499]Stunned maneuvers to at least 4%
+           Has trained skill [500]Short blades to at least 34%
+           Has trained skill [501]Long blades to at least 34%
+           Has trained skill [502]Overbear to at least 27%
+           Has trained skill [503]Vampiric blow to at least 10%
+           Has studied spell [504]Blade of fire to at least 30%
+           Has studied spell [505]Chaotic warp to at least 34%
+           Has trained skill [506]Destructive rage to at least 12%
+           May train skill [507]Parry to 49%
+           May train skill [508]Throw weight to 43%
+           May train skill [509]Shield bash to 83%
+           May train skill [510]Enhance criticals to 27%
+           May train skill [511]Riposte to 26%
+           May train skill [512]Dodge to 31%
+           May train skill [513]Negate offhand penalty to 17%
+           May train skill [514]Stunned maneuvers to 8%
+           May train skill [515]Stun to 7%
+           May train skill [516]Tumbling attack to 9%
+           May train skill [517]Combat damage analysis to 20%
+           May train skill [518]Alertness to 35%
+           May train skill [519]Short blades to 94%
+           May train skill [520]Long blades to 94%
+           May train skill [521]Overbear to 70%
+           May train skill [522]Vampiric blow to 22%
+           May train skill [523]Cast transformation to 47%
+           May train skill [524]Swim to 85%
+           May train skill [525]Tempt to 35%
+           May study spell [526]Blade of fire to 83%
+           May study spell [527]Chaotic warp to 93%
+           May train skill [528]Destructive rage to 41%
+           May train skill [529]Force of chaos to 26%
+
+                                 Level 18
+           Has trained skill [530]Parry to at least 18%
+           Has trained skill [531]Throw weight to at least 16%
+           Has trained skill [532]Shield bash to at least 29%
+           Has trained skill [533]Enhance criticals to at least 14%
+           Has trained skill [534]Dodge to at least 13%
+           Has trained skill [535]Stunned maneuvers to at least 5%
+           Has trained skill [536]Short blades to at least 36%
+           Has trained skill [537]Long blades to at least 36%
+           Has trained skill [538]Overbear to at least 28%
+           Has trained skill [539]Vampiric blow to at least 12%
+           Has studied spell [540]Blade of fire to at least 33%
+           Has studied spell [541]Chaotic warp to at least 37%
+           Has trained skill [542]Destructive rage to at least 14%
+           May train skill [543]Parry to 52%
+           May train skill [544]Throw weight to 48%
+           May train skill [545]Shield bash to 88%
+           May train skill [546]Enhance criticals to 32%
+           May train skill [547]Riposte to 30%
+           May train skill [548]Dodge to 33%
+           May train skill [549]Negate offhand penalty to 20%
+           May train skill [550]Stunned maneuvers to 12%
+           May train skill [551]Stun to 9%
+           May train skill [552]Tumbling attack to 11%
+           May train skill [553]Combat damage analysis to 25%
+           May train skill [554]Alertness to 39%
+           May train skill [555]Short blades to 100%
+           May train skill [556]Long blades to 100%
+           May train skill [557]Overbear to 73%
+           May train skill [558]Vampiric blow to 28%
+           May train skill [559]Cast transformation to 50%
+           May train skill [560]Swim to 90%
+           May train skill [561]Tempt to 40%
+           May study spell [562]Blade of fire to 88%
+           May study spell [563]Chaotic warp to 100%
+           May train skill [564]Destructive rage to 48%
+           May train skill [565]Force of chaos to 32%
+
+                                 Level 19
+           Has trained skill [566]Parry to at least 19%
+           Has trained skill [567]Throw weight to at least 17%
+           Has trained skill [568]Shield bash to at least 31%
+           Has trained skill [569]Enhance criticals to at least 15%
+           Has trained skill [570]Dodge to at least 13%
+           Has trained skill [571]Stunned maneuvers to at least 6%
+           Has trained skill [572]Overbear to at least 30%
+           Has trained skill [573]Vampiric blow to at least 14%
+           Has studied spell [574]Blade of fire to at least 35%
+           Has trained skill [575]Destructive rage to at least 17%
+           May train skill [576]Parry to 55%
+           May train skill [577]Throw weight to 52%
+           May train skill [578]Shield bash to 94%
+           May train skill [579]Enhance criticals to 36%
+           May train skill [580]Riposte to 34%
+           May train skill [581]Dodge to 35%
+           May train skill [582]Negate offhand penalty to 22%
+           May train skill [583]Stunned maneuvers to 16%
+           May train skill [584]Stun to 11%
+           May train skill [585]Tumbling attack to 14%
+           May train skill [586]Combat damage analysis to 30%
+           May train skill [587]Alertness to 43%
+           May train skill [588]Overbear to 77%
+           May train skill [589]Vampiric blow to 34%
+           May train skill [590]Swim to 95%
+           May train skill [591]Tempt to 45%
+           May study spell [592]Blade of fire to 94%
+           May train skill [593]Destructive rage to 56%
+           May train skill [594]Force of chaos to 38%
+
+                                 Level 20
+           Has trained skill [595]Parry to at least 20%
+           Has trained skill [596]Throw weight to at least 19%
+           Has trained skill [597]Shield bash to at least 32%
+           Has trained skill [598]Enhance criticals to at least 17%
+           Has trained skill [599]Dodge to at least 14%
+           Has trained skill [600]Stunned maneuvers to at least 7%
+           Has trained skill [601]Overbear to at least 31%
+           Has trained skill [602]Vampiric blow to at least 16%
+           Has studied spell [603]Blade of fire to at least 37%
+           Has trained skill [604]Destructive rage to at least 19%
+           May train skill [605]Parry to 58%
+           May train skill [606]Throw weight to 56%
+           May train skill [607]Shield bash to 100%
+           May train skill [608]Enhance criticals to 40%
+           May train skill [609]Riposte to 38%
+           May train skill [610]Dodge to 37%
+           May train skill [611]Negate offhand penalty to 25%
+           May train skill [612]Stunned maneuvers to 20%
+           May train skill [613]Combat sense to 5%
+           May train skill [614]Stun to 13%
+           May train skill [615]Tumbling attack to 16%
+           May train skill [616]Combat damage analysis to 35%
+           May train skill [617]Alertness to 48%
+           May train skill [618]Overbear to 81%
+           May train skill [619]Vampiric blow to 40%
+           May train skill [620]Swim to 100%
+           May train skill [621]Tempt to 50%
+           May study spell [622]Blade of fire to 100%
+           May train skill [623]Destructive rage to 63%
+           May train skill [624]Force of chaos to 43%
+
+                                 Level 21
+           Has trained skill [625]Parry to at least 21%
+           Has trained skill [626]Throw weight to at least 20%
+           Has trained skill [627]Enhance criticals to at least 18%
+           Has trained skill [628]Dodge to at least 15%
+           Has trained skill [629]Stunned maneuvers to at least 8%
+           Has trained skill [630]Overbear to at least 32%
+           Has trained skill [631]Vampiric blow to at least 18%
+           Has trained skill [632]Destructive rage to at least 22%
+           May train skill [633]Parry to 61%
+           May train skill [634]Throw weight to 61%
+           May train skill [635]Enhance criticals to 45%
+           May train skill [636]Riposte to 42%
+           May train skill [637]Dodge to 40%
+           May train skill [638]Negate offhand penalty to 27%
+           May train skill [639]Stunned maneuvers to 24%
+           May train skill [640]Combat sense to 11%
+           May train skill [641]Stun to 15%
+           May train skill [642]Tumbling attack to 18%
+           May train skill [643]Combat damage analysis to 40%
+           May train skill [644]Alertness to 52%
+           May train skill [645]Overbear to 85%
+           May train skill [646]Vampiric blow to 46%
+           May train skill [647]Tempt to 55%
+           May train skill [648]Destructive rage to 70%
+           May train skill [649]Force of chaos to 49%
+
+                                 Level 22
+           Has trained skill [650]Parry to at least 22%
+           Has trained skill [651]Throw weight to at least 22%
+           Has trained skill [652]Enhance criticals to at least 20%
+           Has trained skill [653]Dodge to at least 15%
+           Has trained skill [654]Stunned maneuvers to at least 10%
+           Has trained skill [655]Overbear to at least 33%
+           Has trained skill [656]Vampiric blow to at least 20%
+           Has trained skill [657]Destructive rage to at least 24%
+           May train skill [658]Parry to 64%
+           May train skill [659]Throw weight to 65%
+           May train skill [660]Enhance criticals to 49%
+           May train skill [661]Riposte to 47%
+           May train skill [662]Dodge to 42%
+           May train skill [663]Negate offhand penalty to 30%
+           May train skill [664]Stunned maneuvers to 28%
+           May train skill [665]Combat sense to 17%
+           May train skill [666]Stun to 17%
+           May train skill [667]Tumbling attack to 21%
+           May train skill [668]Combat damage analysis to 45%
+           May train skill [669]Alertness to 56%
+           May train skill [670]Overbear to 88%
+           May train skill [671]Vampiric blow to 52%
+           May train skill [672]Tempt to 60%
+           May train skill [673]Destructive rage to 78%
+           May train skill [674]Force of chaos to 55%
+
+                                 Level 23
+           Has trained skill [675]Parry to at least 23%
+           Has trained skill [676]Throw weight to at least 23%
+           Has trained skill [677]Enhance criticals to at least 21%
+           Has trained skill [678]Dodge to at least 16%
+           Has trained skill [679]Stunned maneuvers to at least 11%
+           Has trained skill [680]Overbear to at least 35%
+           Has trained skill [681]Vampiric blow to at least 22%
+           Has trained skill [682]Destructive rage to at least 26%
+           May train skill [683]Parry to 67%
+           May train skill [684]Throw weight to 69%
+           May train skill [685]Enhance criticals to 54%
+           May train skill [686]Riposte to 51%
+           May train skill [687]Dodge to 44%
+           May train skill [688]Negate offhand penalty to 32%
+           May train skill [689]Stunned maneuvers to 32%
+           May train skill [690]Combat sense to 23%
+           May train skill [691]Stun to 19%
+           May train skill [692]Tumbling attack to 23%
+           May train skill [693]Combat damage analysis to 50%
+           May train skill [694]Alertness to 61%
+           May train skill [695]Overbear to 92%
+           May train skill [696]Vampiric blow to 58%
+           May train skill [697]Tempt to 65%
+           May train skill [698]Destructive rage to 85%
+           May train skill [699]Force of chaos to 60%
+
+                                 Level 24
+           Has trained skill [700]Parry to at least 24%
+           Has trained skill [701]Throw weight to at least 25%
+           Has trained skill [702]Enhance criticals to at least 23%
+           Has trained skill [703]Dodge to at least 17%
+           Has trained skill [704]Stunned maneuvers to at least 12%
+           Has trained skill [705]Overbear to at least 36%
+           Has trained skill [706]Vampiric blow to at least 24%
+           Has trained skill [707]Destructive rage to at least 29%
+           May train skill [708]Parry to 71%
+           May train skill [709]Throw weight to 74%
+           May train skill [710]Enhance criticals to 58%
+           May train skill [711]Riposte to 55%
+           May train skill [712]Dodge to 46%
+           May train skill [713]Negate offhand penalty to 35%
+           May train skill [714]Stunned maneuvers to 36%
+           May train skill [715]Combat sense to 29%
+           May train skill [716]Stun to 22%
+           May train skill [717]Tumbling attack to 25%
+           May train skill [718]Combat damage analysis to 55%
+           May train skill [719]Alertness to 65%
+           May train skill [720]Overbear to 96%
+           May train skill [721]Vampiric blow to 64%
+           May train skill [722]Tempt to 70%
+           May train skill [723]Destructive rage to 92%
+           May train skill [724]Force of chaos to 66%
+
+                                 Level 25
+           Has trained skill [725]Parry to at least 25%
+           Has trained skill [726]Throw weight to at least 26%
+           Has trained skill [727]Enhance criticals to at least 24%
+           Has trained skill [728]Dodge to at least 18%
+           Has trained skill [729]Stunned maneuvers to at least 14%
+           Has trained skill [730]Overbear to at least 37%
+           Has trained skill [731]Vampiric blow to at least 26%
+           Has trained skill [732]Destructive rage to at least 31%
+           May train skill [733]Parry to 74%
+           May train skill [734]Throw weight to 78%
+           May train skill [735]Enhance criticals to 62%
+           May train skill [736]Riposte to 59%
+           May train skill [737]Dodge to 48%
+           May train skill [738]Negate offhand penalty to 37%
+           May train skill [739]Stunned maneuvers to 40%
+           May train skill [740]Combat sense to 35%
+           May train skill [741]Stun to 24%
+           May train skill [742]Find weakness to 5%
+           May train skill [743]Tumbling attack to 28%
+           May train skill [744]Discipline to 5%
+           May train skill [745]Combat damage analysis to 60%
+           May train skill [746]Alertness to 70%
+           May train skill [747]Overbear to 100%
+           May train skill [748]Vampiric blow to 70%
+           May train skill [749]Tempt to 75%
+           May train skill [750]Destructive rage to 100%
+           May train skill [751]Force of chaos to 71%
+
+                                 Level 26
+           Has trained skill [752]Parry to at least 27%
+           Has trained skill [753]Throw weight to at least 28%
+           Has trained skill [754]Enhance criticals to at least 26%
+           Has trained skill [755]Dodge to at least 18%
+           Has trained skill [756]Stunned maneuvers to at least 15%
+           Has trained skill [757]Vampiric blow to at least 28%
+           May train skill [758]Parry to 77%
+           May train skill [759]Throw weight to 82%
+           May train skill [760]Enhance criticals to 67%
+           May train skill [761]Riposte to 63%
+           May train skill [762]Dodge to 51%
+           May train skill [763]Negate offhand penalty to 40%
+           May train skill [764]Stunned maneuvers to 44%
+           May train skill [765]Combat sense to 41%
+           May train skill [766]Stun to 26%
+           May train skill [767]Find weakness to 11%
+           May train skill [768]Tumbling attack to 30%
+           May train skill [769]Discipline to 12%
+           May train skill [770]Combat damage analysis to 65%
+           May train skill [771]Vampiric blow to 76%
+           May train skill [772]Tempt to 80%
+           May train skill [773]Force of chaos to 77%
+
+                                 Level 27
+           Has trained skill [774]Parry to at least 28%
+           Has trained skill [775]Throw weight to at least 29%
+           Has trained skill [776]Enhance criticals to at least 27%
+           Has trained skill [777]Dodge to at least 19%
+           Has trained skill [778]Stunned maneuvers to at least 16%
+           Has trained skill [779]Vampiric blow to at least 30%
+           May train skill [780]Parry to 80%
+           May train skill [781]Throw weight to 87%
+           May train skill [782]Enhance criticals to 71%
+           May train skill [783]Riposte to 67%
+           May train skill [784]Dodge to 53%
+           May train skill [785]Negate offhand penalty to 42%
+           May train skill [786]Stunned maneuvers to 48%
+           May train skill [787]Combat sense to 47%
+           May train skill [788]Stun to 28%
+           May train skill [789]Find weakness to 17%
+           May train skill [790]Tumbling attack to 32%
+           May train skill [791]Discipline to 19%
+           May train skill [792]Combat damage analysis to 70%
+           May train skill [793]Vampiric blow to 82%
+           May train skill [794]Tempt to 85%
+           May train skill [795]Force of chaos to 83%
+
+                                 Level 28
+           Has trained skill [796]Parry to at least 29%
+           Has trained skill [797]Throw weight to at least 30%
+           Has trained skill [798]Enhance criticals to at least 29%
+           Has trained skill [799]Dodge to at least 20%
+           Has trained skill [800]Stunned maneuvers to at least 18%
+           Has trained skill [801]Vampiric blow to at least 32%
+           May train skill [802]Parry to 83%
+           May train skill [803]Throw weight to 91%
+           May train skill [804]Enhance criticals to 76%
+           May train skill [805]Riposte to 71%
+           May train skill [806]Dodge to 55%
+           May train skill [807]Negate offhand penalty to 45%
+           May train skill [808]Stunned maneuvers to 52%
+           May train skill [809]Combat sense to 53%
+           May train skill [810]Stun to 30%
+           May train skill [811]Find weakness to 23%
+           May train skill [812]Tumbling attack to 35%
+           May train skill [813]Discipline to 26%
+           May train skill [814]Combat damage analysis to 75%
+           May train skill [815]Vampiric blow to 88%
+           May train skill [816]Tempt to 90%
+           May train skill [817]Force of chaos to 88%
+
+                                 Level 29
+           Has trained skill [818]Parry to at least 30%
+           Has trained skill [819]Throw weight to at least 32%
+           Has trained skill [820]Enhance criticals to at least 30%
+           Has trained skill [821]Dodge to at least 21%
+           Has trained skill [822]Stunned maneuvers to at least 19%
+           Has trained skill [823]Vampiric blow to at least 34%
+           May train skill [824]Parry to 86%
+           May train skill [825]Throw weight to 95%
+           May train skill [826]Enhance criticals to 80%
+           May train skill [827]Riposte to 75%
+           May train skill [828]Dodge to 57%
+           May train skill [829]Negate offhand penalty to 47%
+           May train skill [830]Stunned maneuvers to 56%
+           May train skill [831]Combat sense to 59%
+           May train skill [832]Stun to 32%
+           May train skill [833]Find weakness to 29%
+           May train skill [834]Tumbling attack to 37%
+           May train skill [835]Discipline to 33%
+           May train skill [836]Combat damage analysis to 80%
+           May train skill [837]Vampiric blow to 94%
+           May train skill [838]Tempt to 95%
+           May train skill [839]Force of chaos to 94%
+
+                                 Level 30
+           Has trained skill [840]Parry to at least 31%
+           Has trained skill [841]Throw weight to at least 33%
+           Has trained skill [842]Enhance criticals to at least 32%
+           Has trained skill [843]Dodge to at least 21%
+           Has trained skill [844]Stunned maneuvers to at least 20%
+           Has trained skill [845]Vampiric blow to at least 36%
+           May train skill [846]Parry to 90%
+           May train skill [847]Throw weight to 100%
+           May train skill [848]Enhance criticals to 85%
+           May train skill [849]Riposte to 80%
+           May train skill [850]Dodge to 60%
+           May train skill [851]Negate offhand penalty to 50%
+           May train skill [852]Stunned maneuvers to 60%
+           May train skill [853]Combat sense to 65%
+           May train skill [854]Stun to 35%
+           May train skill [855]Find weakness to 35%
+           May train skill [856]Tumbling attack to 40%
+           May train skill [857]Discipline to 40%
+           May train skill [858]Combat damage analysis to 85%
+           May train skill [859]Vampiric blow to 100%
+           May train skill [860]Tempt to 100%
+           May train skill [861]Force of chaos to 100%
+
+                   Allows joining to the following guild:
+                     Lords of Chaos
+
+   [862]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [863]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=Lords%20of%20Chaos&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=Lords%20of%20Chaos&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=Lords%20of%20Chaos&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=ikar
+  23. http://www.bat.org/help/skills.php?str=attack
+  24. http://www.bat.org/help/skills.php?str=short_blades
+  25. http://www.bat.org/help/skills.php?str=long_blades
+  26. http://www.bat.org/help/skills.php?str=overbear
+  27. http://www.bat.org/help/skills.php?str=cast_generic
+  28. http://www.bat.org/help/skills.php?str=cast_special
+  29. http://www.bat.org/help/skills.php?str=consider
+  30. http://www.bat.org/help/skills.php?str=swim
+  31. http://www.bat.org/help/spells.php?str=detect_alignment
+  32. http://www.bat.org/help/spells.php?str=infravision
+  33. http://www.bat.org/help/spells.php?str=darkness
+  34. http://www.bat.org/help/spells.php?str=summon_blade
+  35. http://www.bat.org/help/skills.php?str=attack
+  36. http://www.bat.org/help/skills.php?str=short_blades
+  37. http://www.bat.org/help/skills.php?str=long_blades
+  38. http://www.bat.org/help/skills.php?str=overbear
+  39. http://www.bat.org/help/skills.php?str=consider
+  40. http://www.bat.org/help/spells.php?str=summon_blade
+  41. http://www.bat.org/help/skills.php?str=attack
+  42. http://www.bat.org/help/skills.php?str=short_blades
+  43. http://www.bat.org/help/skills.php?str=long_blades
+  44. http://www.bat.org/help/skills.php?str=overbear
+  45. http://www.bat.org/help/skills.php?str=cast_generic
+  46. http://www.bat.org/help/skills.php?str=cast_special
+  47. http://www.bat.org/help/skills.php?str=consider
+  48. http://www.bat.org/help/skills.php?str=swim
+  49. http://www.bat.org/help/spells.php?str=detect_alignment
+  50. http://www.bat.org/help/spells.php?str=infravision
+  51. http://www.bat.org/help/spells.php?str=darkness
+  52. http://www.bat.org/help/spells.php?str=summon_blade
+  53. http://www.bat.org/help/skills.php?str=attack
+  54. http://www.bat.org/help/skills.php?str=short_blades
+  55. http://www.bat.org/help/skills.php?str=long_blades
+  56. http://www.bat.org/help/skills.php?str=overbear
+  57. http://www.bat.org/help/skills.php?str=consider
+  58. http://www.bat.org/help/spells.php?str=summon_blade
+  59. http://www.bat.org/help/skills.php?str=attack
+  60. http://www.bat.org/help/skills.php?str=parry
+  61. http://www.bat.org/help/skills.php?str=shield_bash
+  62. http://www.bat.org/help/skills.php?str=short_blades
+  63. http://www.bat.org/help/skills.php?str=long_blades
+  64. http://www.bat.org/help/skills.php?str=overbear
+  65. http://www.bat.org/help/skills.php?str=cast_generic
+  66. http://www.bat.org/help/skills.php?str=cast_special
+  67. http://www.bat.org/help/skills.php?str=cast_transformation
+  68. http://www.bat.org/help/skills.php?str=consider
+  69. http://www.bat.org/help/skills.php?str=swim
+  70. http://www.bat.org/help/spells.php?str=detect_alignment
+  71. http://www.bat.org/help/spells.php?str=infravision
+  72. http://www.bat.org/help/spells.php?str=darkness
+  73. http://www.bat.org/help/spells.php?str=summon_blade
+  74. http://www.bat.org/help/spells.php?str=chaotic_warp
+  75. http://www.bat.org/help/skills.php?str=attack
+  76. http://www.bat.org/help/skills.php?str=parry
+  77. http://www.bat.org/help/skills.php?str=shield_bash
+  78. http://www.bat.org/help/skills.php?str=short_blades
+  79. http://www.bat.org/help/skills.php?str=long_blades
+  80. http://www.bat.org/help/skills.php?str=overbear
+  81. http://www.bat.org/help/skills.php?str=consider
+  82. http://www.bat.org/help/spells.php?str=summon_blade
+  83. http://www.bat.org/help/spells.php?str=chaotic_warp
+  84. http://www.bat.org/help/skills.php?str=attack
+  85. http://www.bat.org/help/skills.php?str=parry
+  86. http://www.bat.org/help/skills.php?str=shield_bash
+  87. http://www.bat.org/help/skills.php?str=short_blades
+  88. http://www.bat.org/help/skills.php?str=long_blades
+  89. http://www.bat.org/help/skills.php?str=overbear
+  90. http://www.bat.org/help/skills.php?str=bloodlust
+  91. http://www.bat.org/help/skills.php?str=cast_generic
+  92. http://www.bat.org/help/skills.php?str=cast_transformation
+  93. http://www.bat.org/help/skills.php?str=consider
+  94. http://www.bat.org/help/skills.php?str=swim
+  95. http://www.bat.org/help/spells.php?str=detect_alignment
+  96. http://www.bat.org/help/spells.php?str=infravision
+  97. http://www.bat.org/help/spells.php?str=darkness
+  98. http://www.bat.org/help/spells.php?str=summon_blade
+  99. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 100. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 101. http://www.bat.org/help/skills.php?str=attack
+ 102. http://www.bat.org/help/skills.php?str=parry
+ 103. http://www.bat.org/help/skills.php?str=shield_bash
+ 104. http://www.bat.org/help/skills.php?str=short_blades
+ 105. http://www.bat.org/help/skills.php?str=long_blades
+ 106. http://www.bat.org/help/skills.php?str=overbear
+ 107. http://www.bat.org/help/skills.php?str=bloodlust
+ 108. http://www.bat.org/help/skills.php?str=consider
+ 109. http://www.bat.org/help/spells.php?str=summon_blade
+ 110. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 111. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 112. http://www.bat.org/help/skills.php?str=attack
+ 113. http://www.bat.org/help/skills.php?str=parry
+ 114. http://www.bat.org/help/skills.php?str=shield_bash
+ 115. http://www.bat.org/help/skills.php?str=dodge
+ 116. http://www.bat.org/help/skills.php?str=short_blades
+ 117. http://www.bat.org/help/skills.php?str=long_blades
+ 118. http://www.bat.org/help/skills.php?str=overbear
+ 119. http://www.bat.org/help/skills.php?str=bloodlust
+ 120. http://www.bat.org/help/skills.php?str=cast_generic
+ 121. http://www.bat.org/help/skills.php?str=cast_transformation
+ 122. http://www.bat.org/help/skills.php?str=consider
+ 123. http://www.bat.org/help/skills.php?str=swim
+ 124. http://www.bat.org/help/spells.php?str=detect_alignment
+ 125. http://www.bat.org/help/spells.php?str=infravision
+ 126. http://www.bat.org/help/spells.php?str=darkness
+ 127. http://www.bat.org/help/spells.php?str=summon_blade
+ 128. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 129. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 130. http://www.bat.org/help/skills.php?str=attack
+ 131. http://www.bat.org/help/skills.php?str=parry
+ 132. http://www.bat.org/help/skills.php?str=shield_bash
+ 133. http://www.bat.org/help/skills.php?str=dodge
+ 134. http://www.bat.org/help/skills.php?str=short_blades
+ 135. http://www.bat.org/help/skills.php?str=long_blades
+ 136. http://www.bat.org/help/skills.php?str=overbear
+ 137. http://www.bat.org/help/skills.php?str=bloodlust
+ 138. http://www.bat.org/help/skills.php?str=consider
+ 139. http://www.bat.org/help/spells.php?str=summon_blade
+ 140. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 141. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 142. http://www.bat.org/help/skills.php?str=attack
+ 143. http://www.bat.org/help/skills.php?str=parry
+ 144. http://www.bat.org/help/skills.php?str=shield_bash
+ 145. http://www.bat.org/help/skills.php?str=dodge
+ 146. http://www.bat.org/help/skills.php?str=short_blades
+ 147. http://www.bat.org/help/skills.php?str=long_blades
+ 148. http://www.bat.org/help/skills.php?str=overbear
+ 149. http://www.bat.org/help/skills.php?str=bloodlust
+ 150. http://www.bat.org/help/skills.php?str=cast_generic
+ 151. http://www.bat.org/help/skills.php?str=cast_transformation
+ 152. http://www.bat.org/help/skills.php?str=consider
+ 153. http://www.bat.org/help/skills.php?str=swim
+ 154. http://www.bat.org/help/spells.php?str=detect_alignment
+ 155. http://www.bat.org/help/spells.php?str=infravision
+ 156. http://www.bat.org/help/spells.php?str=darkness
+ 157. http://www.bat.org/help/spells.php?str=summon_blade
+ 158. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 159. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 160. http://www.bat.org/help/skills.php?str=attack
+ 161. http://www.bat.org/help/skills.php?str=parry
+ 162. http://www.bat.org/help/skills.php?str=shield_bash
+ 163. http://www.bat.org/help/skills.php?str=dodge
+ 164. http://www.bat.org/help/skills.php?str=short_blades
+ 165. http://www.bat.org/help/skills.php?str=long_blades
+ 166. http://www.bat.org/help/skills.php?str=overbear
+ 167. http://www.bat.org/help/skills.php?str=bloodlust
+ 168. http://www.bat.org/help/skills.php?str=consider
+ 169. http://www.bat.org/help/spells.php?str=summon_blade
+ 170. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 171. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 172. http://www.bat.org/help/skills.php?str=attack
+ 173. http://www.bat.org/help/skills.php?str=parry
+ 174. http://www.bat.org/help/skills.php?str=shield_bash
+ 175. http://www.bat.org/help/skills.php?str=dodge
+ 176. http://www.bat.org/help/skills.php?str=short_blades
+ 177. http://www.bat.org/help/skills.php?str=long_blades
+ 178. http://www.bat.org/help/skills.php?str=overbear
+ 179. http://www.bat.org/help/skills.php?str=bloodlust
+ 180. http://www.bat.org/help/skills.php?str=cast_generic
+ 181. http://www.bat.org/help/skills.php?str=cast_transformation
+ 182. http://www.bat.org/help/skills.php?str=consider
+ 183. http://www.bat.org/help/skills.php?str=swim
+ 184. http://www.bat.org/help/spells.php?str=detect_alignment
+ 185. http://www.bat.org/help/spells.php?str=infravision
+ 186. http://www.bat.org/help/spells.php?str=darkness
+ 187. http://www.bat.org/help/spells.php?str=summon_blade
+ 188. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 189. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 190. http://www.bat.org/help/skills.php?str=attack
+ 191. http://www.bat.org/help/skills.php?str=parry
+ 192. http://www.bat.org/help/skills.php?str=shield_bash
+ 193. http://www.bat.org/help/skills.php?str=dodge
+ 194. http://www.bat.org/help/skills.php?str=short_blades
+ 195. http://www.bat.org/help/skills.php?str=long_blades
+ 196. http://www.bat.org/help/skills.php?str=overbear
+ 197. http://www.bat.org/help/skills.php?str=bloodlust
+ 198. http://www.bat.org/help/skills.php?str=consider
+ 199. http://www.bat.org/help/spells.php?str=summon_blade
+ 200. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 201. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 202. http://www.bat.org/help/skills.php?str=attack
+ 203. http://www.bat.org/help/skills.php?str=parry
+ 204. http://www.bat.org/help/skills.php?str=throw_weight
+ 205. http://www.bat.org/help/skills.php?str=shield_bash
+ 206. http://www.bat.org/help/skills.php?str=dodge
+ 207. http://www.bat.org/help/skills.php?str=short_blades
+ 208. http://www.bat.org/help/skills.php?str=long_blades
+ 209. http://www.bat.org/help/skills.php?str=overbear
+ 210. http://www.bat.org/help/skills.php?str=bloodlust
+ 211. http://www.bat.org/help/skills.php?str=cast_generic
+ 212. http://www.bat.org/help/skills.php?str=cast_transformation
+ 213. http://www.bat.org/help/skills.php?str=consider
+ 214. http://www.bat.org/help/skills.php?str=swim
+ 215. http://www.bat.org/help/spells.php?str=detect_alignment
+ 216. http://www.bat.org/help/spells.php?str=infravision
+ 217. http://www.bat.org/help/spells.php?str=darkness
+ 218. http://www.bat.org/help/spells.php?str=summon_blade
+ 219. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 220. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 221. http://www.bat.org/help/skills.php?str=attack
+ 222. http://www.bat.org/help/skills.php?str=parry
+ 223. http://www.bat.org/help/skills.php?str=throw_weight
+ 224. http://www.bat.org/help/skills.php?str=shield_bash
+ 225. http://www.bat.org/help/skills.php?str=dodge
+ 226. http://www.bat.org/help/skills.php?str=short_blades
+ 227. http://www.bat.org/help/skills.php?str=long_blades
+ 228. http://www.bat.org/help/skills.php?str=overbear
+ 229. http://www.bat.org/help/skills.php?str=bloodlust
+ 230. http://www.bat.org/help/skills.php?str=consider
+ 231. http://www.bat.org/help/spells.php?str=summon_blade
+ 232. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 233. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 234. http://www.bat.org/help/skills.php?str=attack
+ 235. http://www.bat.org/help/skills.php?str=parry
+ 236. http://www.bat.org/help/skills.php?str=throw_weight
+ 237. http://www.bat.org/help/skills.php?str=shield_bash
+ 238. http://www.bat.org/help/skills.php?str=dodge
+ 239. http://www.bat.org/help/skills.php?str=short_blades
+ 240. http://www.bat.org/help/skills.php?str=long_blades
+ 241. http://www.bat.org/help/skills.php?str=overbear
+ 242. http://www.bat.org/help/skills.php?str=bloodlust
+ 243. http://www.bat.org/help/skills.php?str=cast_generic
+ 244. http://www.bat.org/help/skills.php?str=cast_transformation
+ 245. http://www.bat.org/help/skills.php?str=consider
+ 246. http://www.bat.org/help/skills.php?str=swim
+ 247. http://www.bat.org/help/spells.php?str=detect_alignment
+ 248. http://www.bat.org/help/spells.php?str=infravision
+ 249. http://www.bat.org/help/spells.php?str=darkness
+ 250. http://www.bat.org/help/spells.php?str=summon_blade
+ 251. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 252. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 253. http://www.bat.org/help/skills.php?str=attack
+ 254. http://www.bat.org/help/skills.php?str=parry
+ 255. http://www.bat.org/help/skills.php?str=throw_weight
+ 256. http://www.bat.org/help/skills.php?str=shield_bash
+ 257. http://www.bat.org/help/skills.php?str=dodge
+ 258. http://www.bat.org/help/skills.php?str=short_blades
+ 259. http://www.bat.org/help/skills.php?str=long_blades
+ 260. http://www.bat.org/help/skills.php?str=overbear
+ 261. http://www.bat.org/help/skills.php?str=bloodlust
+ 262. http://www.bat.org/help/skills.php?str=consider
+ 263. http://www.bat.org/help/spells.php?str=summon_blade
+ 264. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 265. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 266. http://www.bat.org/help/skills.php?str=attack
+ 267. http://www.bat.org/help/skills.php?str=parry
+ 268. http://www.bat.org/help/skills.php?str=throw_weight
+ 269. http://www.bat.org/help/skills.php?str=shield_bash
+ 270. http://www.bat.org/help/skills.php?str=dodge
+ 271. http://www.bat.org/help/skills.php?str=alertness
+ 272. http://www.bat.org/help/skills.php?str=short_blades
+ 273. http://www.bat.org/help/skills.php?str=long_blades
+ 274. http://www.bat.org/help/skills.php?str=overbear
+ 275. http://www.bat.org/help/skills.php?str=bloodlust
+ 276. http://www.bat.org/help/skills.php?str=cast_generic
+ 277. http://www.bat.org/help/skills.php?str=cast_transformation
+ 278. http://www.bat.org/help/skills.php?str=consider
+ 279. http://www.bat.org/help/skills.php?str=swim
+ 280. http://www.bat.org/help/spells.php?str=detect_alignment
+ 281. http://www.bat.org/help/spells.php?str=infravision
+ 282. http://www.bat.org/help/spells.php?str=darkness
+ 283. http://www.bat.org/help/spells.php?str=summon_blade
+ 284. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 285. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 286. http://www.bat.org/help/skills.php?str=attack
+ 287. http://www.bat.org/help/skills.php?str=parry
+ 288. http://www.bat.org/help/skills.php?str=throw_weight
+ 289. http://www.bat.org/help/skills.php?str=shield_bash
+ 290. http://www.bat.org/help/skills.php?str=dodge
+ 291. http://www.bat.org/help/skills.php?str=short_blades
+ 292. http://www.bat.org/help/skills.php?str=long_blades
+ 293. http://www.bat.org/help/skills.php?str=overbear
+ 294. http://www.bat.org/help/skills.php?str=bloodlust
+ 295. http://www.bat.org/help/spells.php?str=summon_blade
+ 296. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 297. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 298. http://www.bat.org/help/skills.php?str=attack
+ 299. http://www.bat.org/help/skills.php?str=parry
+ 300. http://www.bat.org/help/skills.php?str=throw_weight
+ 301. http://www.bat.org/help/skills.php?str=shield_bash
+ 302. http://www.bat.org/help/skills.php?str=dodge
+ 303. http://www.bat.org/help/skills.php?str=alertness
+ 304. http://www.bat.org/help/skills.php?str=short_blades
+ 305. http://www.bat.org/help/skills.php?str=long_blades
+ 306. http://www.bat.org/help/skills.php?str=overbear
+ 307. http://www.bat.org/help/skills.php?str=bloodlust
+ 308. http://www.bat.org/help/skills.php?str=cast_transformation
+ 309. http://www.bat.org/help/skills.php?str=swim
+ 310. http://www.bat.org/help/spells.php?str=detect_alignment
+ 311. http://www.bat.org/help/spells.php?str=infravision
+ 312. http://www.bat.org/help/spells.php?str=darkness
+ 313. http://www.bat.org/help/spells.php?str=summon_blade
+ 314. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 315. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 316. http://www.bat.org/help/skills.php?str=attack
+ 317. http://www.bat.org/help/skills.php?str=parry
+ 318. http://www.bat.org/help/skills.php?str=throw_weight
+ 319. http://www.bat.org/help/skills.php?str=shield_bash
+ 320. http://www.bat.org/help/skills.php?str=dodge
+ 321. http://www.bat.org/help/skills.php?str=short_blades
+ 322. http://www.bat.org/help/skills.php?str=long_blades
+ 323. http://www.bat.org/help/skills.php?str=overbear
+ 324. http://www.bat.org/help/skills.php?str=bloodlust
+ 325. http://www.bat.org/help/spells.php?str=summon_blade
+ 326. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 327. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 328. http://www.bat.org/help/skills.php?str=attack
+ 329. http://www.bat.org/help/skills.php?str=parry
+ 330. http://www.bat.org/help/skills.php?str=throw_weight
+ 331. http://www.bat.org/help/skills.php?str=shield_bash
+ 332. http://www.bat.org/help/skills.php?str=dodge
+ 333. http://www.bat.org/help/skills.php?str=alertness
+ 334. http://www.bat.org/help/skills.php?str=short_blades
+ 335. http://www.bat.org/help/skills.php?str=long_blades
+ 336. http://www.bat.org/help/skills.php?str=overbear
+ 337. http://www.bat.org/help/skills.php?str=bloodlust
+ 338. http://www.bat.org/help/skills.php?str=cast_transformation
+ 339. http://www.bat.org/help/skills.php?str=swim
+ 340. http://www.bat.org/help/skills.php?str=tempt
+ 341. http://www.bat.org/help/spells.php?str=detect_alignment
+ 342. http://www.bat.org/help/spells.php?str=infravision
+ 343. http://www.bat.org/help/spells.php?str=darkness
+ 344. http://www.bat.org/help/spells.php?str=summon_blade
+ 345. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 346. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 347. http://www.bat.org/help/skills.php?str=destructive_rage
+ 348. http://www.bat.org/help/skills.php?str=attack
+ 349. http://www.bat.org/help/skills.php?str=parry
+ 350. http://www.bat.org/help/skills.php?str=throw_weight
+ 351. http://www.bat.org/help/skills.php?str=shield_bash
+ 352. http://www.bat.org/help/skills.php?str=dodge
+ 353. http://www.bat.org/help/skills.php?str=short_blades
+ 354. http://www.bat.org/help/skills.php?str=long_blades
+ 355. http://www.bat.org/help/skills.php?str=overbear
+ 356. http://www.bat.org/help/skills.php?str=bloodlust
+ 357. http://www.bat.org/help/spells.php?str=summon_blade
+ 358. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 359. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 360. http://www.bat.org/help/skills.php?str=destructive_rage
+ 361. http://www.bat.org/help/skills.php?str=attack
+ 362. http://www.bat.org/help/skills.php?str=parry
+ 363. http://www.bat.org/help/skills.php?str=throw_weight
+ 364. http://www.bat.org/help/skills.php?str=shield_bash
+ 365. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 366. http://www.bat.org/help/skills.php?str=riposte
+ 367. http://www.bat.org/help/skills.php?str=dodge
+ 368. http://www.bat.org/help/skills.php?str=alertness
+ 369. http://www.bat.org/help/skills.php?str=short_blades
+ 370. http://www.bat.org/help/skills.php?str=long_blades
+ 371. http://www.bat.org/help/skills.php?str=overbear
+ 372. http://www.bat.org/help/skills.php?str=bloodlust
+ 373. http://www.bat.org/help/skills.php?str=cast_transformation
+ 374. http://www.bat.org/help/skills.php?str=swim
+ 375. http://www.bat.org/help/skills.php?str=tempt
+ 376. http://www.bat.org/help/spells.php?str=detect_alignment
+ 377. http://www.bat.org/help/spells.php?str=infravision
+ 378. http://www.bat.org/help/spells.php?str=darkness
+ 379. http://www.bat.org/help/spells.php?str=summon_blade
+ 380. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 381. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 382. http://www.bat.org/help/skills.php?str=destructive_rage
+ 383. http://www.bat.org/help/skills.php?str=attack
+ 384. http://www.bat.org/help/skills.php?str=parry
+ 385. http://www.bat.org/help/skills.php?str=throw_weight
+ 386. http://www.bat.org/help/skills.php?str=shield_bash
+ 387. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 388. http://www.bat.org/help/skills.php?str=dodge
+ 389. http://www.bat.org/help/skills.php?str=short_blades
+ 390. http://www.bat.org/help/skills.php?str=long_blades
+ 391. http://www.bat.org/help/skills.php?str=overbear
+ 392. http://www.bat.org/help/skills.php?str=bloodlust
+ 393. http://www.bat.org/help/spells.php?str=summon_blade
+ 394. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 395. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 396. http://www.bat.org/help/skills.php?str=destructive_rage
+ 397. http://www.bat.org/help/skills.php?str=attack
+ 398. http://www.bat.org/help/skills.php?str=parry
+ 399. http://www.bat.org/help/skills.php?str=throw_weight
+ 400. http://www.bat.org/help/skills.php?str=shield_bash
+ 401. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 402. http://www.bat.org/help/skills.php?str=riposte
+ 403. http://www.bat.org/help/skills.php?str=dodge
+ 404. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 405. http://www.bat.org/help/skills.php?str=alertness
+ 406. http://www.bat.org/help/skills.php?str=short_blades
+ 407. http://www.bat.org/help/skills.php?str=long_blades
+ 408. http://www.bat.org/help/skills.php?str=overbear
+ 409. http://www.bat.org/help/skills.php?str=bloodlust
+ 410. http://www.bat.org/help/skills.php?str=cast_transformation
+ 411. http://www.bat.org/help/skills.php?str=swim
+ 412. http://www.bat.org/help/skills.php?str=tempt
+ 413. http://www.bat.org/help/spells.php?str=detect_alignment
+ 414. http://www.bat.org/help/spells.php?str=infravision
+ 415. http://www.bat.org/help/spells.php?str=darkness
+ 416. http://www.bat.org/help/spells.php?str=summon_blade
+ 417. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 418. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 419. http://www.bat.org/help/skills.php?str=destructive_rage
+ 420. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 421. http://www.bat.org/help/skills.php?str=parry
+ 422. http://www.bat.org/help/skills.php?str=throw_weight
+ 423. http://www.bat.org/help/skills.php?str=shield_bash
+ 424. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 425. http://www.bat.org/help/skills.php?str=dodge
+ 426. http://www.bat.org/help/skills.php?str=short_blades
+ 427. http://www.bat.org/help/skills.php?str=long_blades
+ 428. http://www.bat.org/help/skills.php?str=overbear
+ 429. http://www.bat.org/help/skills.php?str=bloodlust
+ 430. http://www.bat.org/help/spells.php?str=summon_blade
+ 431. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 432. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 433. http://www.bat.org/help/skills.php?str=destructive_rage
+ 434. http://www.bat.org/help/skills.php?str=parry
+ 435. http://www.bat.org/help/skills.php?str=throw_weight
+ 436. http://www.bat.org/help/skills.php?str=shield_bash
+ 437. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 438. http://www.bat.org/help/skills.php?str=riposte
+ 439. http://www.bat.org/help/skills.php?str=dodge
+ 440. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 441. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 442. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 443. http://www.bat.org/help/skills.php?str=alertness
+ 444. http://www.bat.org/help/skills.php?str=short_blades
+ 445. http://www.bat.org/help/skills.php?str=long_blades
+ 446. http://www.bat.org/help/skills.php?str=overbear
+ 447. http://www.bat.org/help/skills.php?str=bloodlust
+ 448. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 449. http://www.bat.org/help/skills.php?str=cast_transformation
+ 450. http://www.bat.org/help/skills.php?str=swim
+ 451. http://www.bat.org/help/skills.php?str=tempt
+ 452. http://www.bat.org/help/spells.php?str=detect_alignment
+ 453. http://www.bat.org/help/spells.php?str=darkness
+ 454. http://www.bat.org/help/spells.php?str=summon_blade
+ 455. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 456. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 457. http://www.bat.org/help/skills.php?str=destructive_rage
+ 458. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 459. http://www.bat.org/help/skills.php?str=parry
+ 460. http://www.bat.org/help/skills.php?str=throw_weight
+ 461. http://www.bat.org/help/skills.php?str=shield_bash
+ 462. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 463. http://www.bat.org/help/skills.php?str=dodge
+ 464. http://www.bat.org/help/skills.php?str=short_blades
+ 465. http://www.bat.org/help/skills.php?str=long_blades
+ 466. http://www.bat.org/help/skills.php?str=overbear
+ 467. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 468. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 469. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 470. http://www.bat.org/help/skills.php?str=destructive_rage
+ 471. http://www.bat.org/help/skills.php?str=parry
+ 472. http://www.bat.org/help/skills.php?str=throw_weight
+ 473. http://www.bat.org/help/skills.php?str=shield_bash
+ 474. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 475. http://www.bat.org/help/skills.php?str=riposte
+ 476. http://www.bat.org/help/skills.php?str=dodge
+ 477. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 478. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 479. http://www.bat.org/help/skills.php?str=stun
+ 480. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 481. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 482. http://www.bat.org/help/skills.php?str=alertness
+ 483. http://www.bat.org/help/skills.php?str=short_blades
+ 484. http://www.bat.org/help/skills.php?str=long_blades
+ 485. http://www.bat.org/help/skills.php?str=overbear
+ 486. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 487. http://www.bat.org/help/skills.php?str=cast_transformation
+ 488. http://www.bat.org/help/skills.php?str=swim
+ 489. http://www.bat.org/help/skills.php?str=tempt
+ 490. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 491. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 492. http://www.bat.org/help/skills.php?str=destructive_rage
+ 493. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 494. http://www.bat.org/help/skills.php?str=parry
+ 495. http://www.bat.org/help/skills.php?str=throw_weight
+ 496. http://www.bat.org/help/skills.php?str=shield_bash
+ 497. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 498. http://www.bat.org/help/skills.php?str=dodge
+ 499. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 500. http://www.bat.org/help/skills.php?str=short_blades
+ 501. http://www.bat.org/help/skills.php?str=long_blades
+ 502. http://www.bat.org/help/skills.php?str=overbear
+ 503. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 504. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 505. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 506. http://www.bat.org/help/skills.php?str=destructive_rage
+ 507. http://www.bat.org/help/skills.php?str=parry
+ 508. http://www.bat.org/help/skills.php?str=throw_weight
+ 509. http://www.bat.org/help/skills.php?str=shield_bash
+ 510. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 511. http://www.bat.org/help/skills.php?str=riposte
+ 512. http://www.bat.org/help/skills.php?str=dodge
+ 513. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 514. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 515. http://www.bat.org/help/skills.php?str=stun
+ 516. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 517. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 518. http://www.bat.org/help/skills.php?str=alertness
+ 519. http://www.bat.org/help/skills.php?str=short_blades
+ 520. http://www.bat.org/help/skills.php?str=long_blades
+ 521. http://www.bat.org/help/skills.php?str=overbear
+ 522. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 523. http://www.bat.org/help/skills.php?str=cast_transformation
+ 524. http://www.bat.org/help/skills.php?str=swim
+ 525. http://www.bat.org/help/skills.php?str=tempt
+ 526. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 527. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 528. http://www.bat.org/help/skills.php?str=destructive_rage
+ 529. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 530. http://www.bat.org/help/skills.php?str=parry
+ 531. http://www.bat.org/help/skills.php?str=throw_weight
+ 532. http://www.bat.org/help/skills.php?str=shield_bash
+ 533. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 534. http://www.bat.org/help/skills.php?str=dodge
+ 535. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 536. http://www.bat.org/help/skills.php?str=short_blades
+ 537. http://www.bat.org/help/skills.php?str=long_blades
+ 538. http://www.bat.org/help/skills.php?str=overbear
+ 539. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 540. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 541. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 542. http://www.bat.org/help/skills.php?str=destructive_rage
+ 543. http://www.bat.org/help/skills.php?str=parry
+ 544. http://www.bat.org/help/skills.php?str=throw_weight
+ 545. http://www.bat.org/help/skills.php?str=shield_bash
+ 546. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 547. http://www.bat.org/help/skills.php?str=riposte
+ 548. http://www.bat.org/help/skills.php?str=dodge
+ 549. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 550. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 551. http://www.bat.org/help/skills.php?str=stun
+ 552. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 553. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 554. http://www.bat.org/help/skills.php?str=alertness
+ 555. http://www.bat.org/help/skills.php?str=short_blades
+ 556. http://www.bat.org/help/skills.php?str=long_blades
+ 557. http://www.bat.org/help/skills.php?str=overbear
+ 558. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 559. http://www.bat.org/help/skills.php?str=cast_transformation
+ 560. http://www.bat.org/help/skills.php?str=swim
+ 561. http://www.bat.org/help/skills.php?str=tempt
+ 562. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 563. http://www.bat.org/help/spells.php?str=chaotic_warp
+ 564. http://www.bat.org/help/skills.php?str=destructive_rage
+ 565. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 566. http://www.bat.org/help/skills.php?str=parry
+ 567. http://www.bat.org/help/skills.php?str=throw_weight
+ 568. http://www.bat.org/help/skills.php?str=shield_bash
+ 569. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 570. http://www.bat.org/help/skills.php?str=dodge
+ 571. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 572. http://www.bat.org/help/skills.php?str=overbear
+ 573. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 574. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 575. http://www.bat.org/help/skills.php?str=destructive_rage
+ 576. http://www.bat.org/help/skills.php?str=parry
+ 577. http://www.bat.org/help/skills.php?str=throw_weight
+ 578. http://www.bat.org/help/skills.php?str=shield_bash
+ 579. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 580. http://www.bat.org/help/skills.php?str=riposte
+ 581. http://www.bat.org/help/skills.php?str=dodge
+ 582. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 583. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 584. http://www.bat.org/help/skills.php?str=stun
+ 585. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 586. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 587. http://www.bat.org/help/skills.php?str=alertness
+ 588. http://www.bat.org/help/skills.php?str=overbear
+ 589. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 590. http://www.bat.org/help/skills.php?str=swim
+ 591. http://www.bat.org/help/skills.php?str=tempt
+ 592. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 593. http://www.bat.org/help/skills.php?str=destructive_rage
+ 594. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 595. http://www.bat.org/help/skills.php?str=parry
+ 596. http://www.bat.org/help/skills.php?str=throw_weight
+ 597. http://www.bat.org/help/skills.php?str=shield_bash
+ 598. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 599. http://www.bat.org/help/skills.php?str=dodge
+ 600. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 601. http://www.bat.org/help/skills.php?str=overbear
+ 602. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 603. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 604. http://www.bat.org/help/skills.php?str=destructive_rage
+ 605. http://www.bat.org/help/skills.php?str=parry
+ 606. http://www.bat.org/help/skills.php?str=throw_weight
+ 607. http://www.bat.org/help/skills.php?str=shield_bash
+ 608. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 609. http://www.bat.org/help/skills.php?str=riposte
+ 610. http://www.bat.org/help/skills.php?str=dodge
+ 611. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 612. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 613. http://www.bat.org/help/skills.php?str=combat_sense
+ 614. http://www.bat.org/help/skills.php?str=stun
+ 615. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 616. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 617. http://www.bat.org/help/skills.php?str=alertness
+ 618. http://www.bat.org/help/skills.php?str=overbear
+ 619. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 620. http://www.bat.org/help/skills.php?str=swim
+ 621. http://www.bat.org/help/skills.php?str=tempt
+ 622. http://www.bat.org/help/spells.php?str=blade_of_fire
+ 623. http://www.bat.org/help/skills.php?str=destructive_rage
+ 624. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 625. http://www.bat.org/help/skills.php?str=parry
+ 626. http://www.bat.org/help/skills.php?str=throw_weight
+ 627. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 628. http://www.bat.org/help/skills.php?str=dodge
+ 629. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 630. http://www.bat.org/help/skills.php?str=overbear
+ 631. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 632. http://www.bat.org/help/skills.php?str=destructive_rage
+ 633. http://www.bat.org/help/skills.php?str=parry
+ 634. http://www.bat.org/help/skills.php?str=throw_weight
+ 635. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 636. http://www.bat.org/help/skills.php?str=riposte
+ 637. http://www.bat.org/help/skills.php?str=dodge
+ 638. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 639. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 640. http://www.bat.org/help/skills.php?str=combat_sense
+ 641. http://www.bat.org/help/skills.php?str=stun
+ 642. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 643. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 644. http://www.bat.org/help/skills.php?str=alertness
+ 645. http://www.bat.org/help/skills.php?str=overbear
+ 646. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 647. http://www.bat.org/help/skills.php?str=tempt
+ 648. http://www.bat.org/help/skills.php?str=destructive_rage
+ 649. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 650. http://www.bat.org/help/skills.php?str=parry
+ 651. http://www.bat.org/help/skills.php?str=throw_weight
+ 652. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 653. http://www.bat.org/help/skills.php?str=dodge
+ 654. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 655. http://www.bat.org/help/skills.php?str=overbear
+ 656. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 657. http://www.bat.org/help/skills.php?str=destructive_rage
+ 658. http://www.bat.org/help/skills.php?str=parry
+ 659. http://www.bat.org/help/skills.php?str=throw_weight
+ 660. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 661. http://www.bat.org/help/skills.php?str=riposte
+ 662. http://www.bat.org/help/skills.php?str=dodge
+ 663. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 664. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 665. http://www.bat.org/help/skills.php?str=combat_sense
+ 666. http://www.bat.org/help/skills.php?str=stun
+ 667. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 668. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 669. http://www.bat.org/help/skills.php?str=alertness
+ 670. http://www.bat.org/help/skills.php?str=overbear
+ 671. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 672. http://www.bat.org/help/skills.php?str=tempt
+ 673. http://www.bat.org/help/skills.php?str=destructive_rage
+ 674. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 675. http://www.bat.org/help/skills.php?str=parry
+ 676. http://www.bat.org/help/skills.php?str=throw_weight
+ 677. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 678. http://www.bat.org/help/skills.php?str=dodge
+ 679. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 680. http://www.bat.org/help/skills.php?str=overbear
+ 681. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 682. http://www.bat.org/help/skills.php?str=destructive_rage
+ 683. http://www.bat.org/help/skills.php?str=parry
+ 684. http://www.bat.org/help/skills.php?str=throw_weight
+ 685. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 686. http://www.bat.org/help/skills.php?str=riposte
+ 687. http://www.bat.org/help/skills.php?str=dodge
+ 688. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 689. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 690. http://www.bat.org/help/skills.php?str=combat_sense
+ 691. http://www.bat.org/help/skills.php?str=stun
+ 692. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 693. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 694. http://www.bat.org/help/skills.php?str=alertness
+ 695. http://www.bat.org/help/skills.php?str=overbear
+ 696. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 697. http://www.bat.org/help/skills.php?str=tempt
+ 698. http://www.bat.org/help/skills.php?str=destructive_rage
+ 699. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 700. http://www.bat.org/help/skills.php?str=parry
+ 701. http://www.bat.org/help/skills.php?str=throw_weight
+ 702. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 703. http://www.bat.org/help/skills.php?str=dodge
+ 704. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 705. http://www.bat.org/help/skills.php?str=overbear
+ 706. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 707. http://www.bat.org/help/skills.php?str=destructive_rage
+ 708. http://www.bat.org/help/skills.php?str=parry
+ 709. http://www.bat.org/help/skills.php?str=throw_weight
+ 710. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 711. http://www.bat.org/help/skills.php?str=riposte
+ 712. http://www.bat.org/help/skills.php?str=dodge
+ 713. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 714. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 715. http://www.bat.org/help/skills.php?str=combat_sense
+ 716. http://www.bat.org/help/skills.php?str=stun
+ 717. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 718. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 719. http://www.bat.org/help/skills.php?str=alertness
+ 720. http://www.bat.org/help/skills.php?str=overbear
+ 721. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 722. http://www.bat.org/help/skills.php?str=tempt
+ 723. http://www.bat.org/help/skills.php?str=destructive_rage
+ 724. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 725. http://www.bat.org/help/skills.php?str=parry
+ 726. http://www.bat.org/help/skills.php?str=throw_weight
+ 727. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 728. http://www.bat.org/help/skills.php?str=dodge
+ 729. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 730. http://www.bat.org/help/skills.php?str=overbear
+ 731. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 732. http://www.bat.org/help/skills.php?str=destructive_rage
+ 733. http://www.bat.org/help/skills.php?str=parry
+ 734. http://www.bat.org/help/skills.php?str=throw_weight
+ 735. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 736. http://www.bat.org/help/skills.php?str=riposte
+ 737. http://www.bat.org/help/skills.php?str=dodge
+ 738. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 739. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 740. http://www.bat.org/help/skills.php?str=combat_sense
+ 741. http://www.bat.org/help/skills.php?str=stun
+ 742. http://www.bat.org/help/skills.php?str=find_weakness
+ 743. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 744. http://www.bat.org/help/skills.php?str=discipline
+ 745. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 746. http://www.bat.org/help/skills.php?str=alertness
+ 747. http://www.bat.org/help/skills.php?str=overbear
+ 748. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 749. http://www.bat.org/help/skills.php?str=tempt
+ 750. http://www.bat.org/help/skills.php?str=destructive_rage
+ 751. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 752. http://www.bat.org/help/skills.php?str=parry
+ 753. http://www.bat.org/help/skills.php?str=throw_weight
+ 754. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 755. http://www.bat.org/help/skills.php?str=dodge
+ 756. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 757. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 758. http://www.bat.org/help/skills.php?str=parry
+ 759. http://www.bat.org/help/skills.php?str=throw_weight
+ 760. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 761. http://www.bat.org/help/skills.php?str=riposte
+ 762. http://www.bat.org/help/skills.php?str=dodge
+ 763. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 764. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 765. http://www.bat.org/help/skills.php?str=combat_sense
+ 766. http://www.bat.org/help/skills.php?str=stun
+ 767. http://www.bat.org/help/skills.php?str=find_weakness
+ 768. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 769. http://www.bat.org/help/skills.php?str=discipline
+ 770. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 771. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 772. http://www.bat.org/help/skills.php?str=tempt
+ 773. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 774. http://www.bat.org/help/skills.php?str=parry
+ 775. http://www.bat.org/help/skills.php?str=throw_weight
+ 776. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 777. http://www.bat.org/help/skills.php?str=dodge
+ 778. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 779. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 780. http://www.bat.org/help/skills.php?str=parry
+ 781. http://www.bat.org/help/skills.php?str=throw_weight
+ 782. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 783. http://www.bat.org/help/skills.php?str=riposte
+ 784. http://www.bat.org/help/skills.php?str=dodge
+ 785. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 786. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 787. http://www.bat.org/help/skills.php?str=combat_sense
+ 788. http://www.bat.org/help/skills.php?str=stun
+ 789. http://www.bat.org/help/skills.php?str=find_weakness
+ 790. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 791. http://www.bat.org/help/skills.php?str=discipline
+ 792. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 793. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 794. http://www.bat.org/help/skills.php?str=tempt
+ 795. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 796. http://www.bat.org/help/skills.php?str=parry
+ 797. http://www.bat.org/help/skills.php?str=throw_weight
+ 798. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 799. http://www.bat.org/help/skills.php?str=dodge
+ 800. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 801. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 802. http://www.bat.org/help/skills.php?str=parry
+ 803. http://www.bat.org/help/skills.php?str=throw_weight
+ 804. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 805. http://www.bat.org/help/skills.php?str=riposte
+ 806. http://www.bat.org/help/skills.php?str=dodge
+ 807. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 808. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 809. http://www.bat.org/help/skills.php?str=combat_sense
+ 810. http://www.bat.org/help/skills.php?str=stun
+ 811. http://www.bat.org/help/skills.php?str=find_weakness
+ 812. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 813. http://www.bat.org/help/skills.php?str=discipline
+ 814. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 815. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 816. http://www.bat.org/help/skills.php?str=tempt
+ 817. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 818. http://www.bat.org/help/skills.php?str=parry
+ 819. http://www.bat.org/help/skills.php?str=throw_weight
+ 820. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 821. http://www.bat.org/help/skills.php?str=dodge
+ 822. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 823. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 824. http://www.bat.org/help/skills.php?str=parry
+ 825. http://www.bat.org/help/skills.php?str=throw_weight
+ 826. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 827. http://www.bat.org/help/skills.php?str=riposte
+ 828. http://www.bat.org/help/skills.php?str=dodge
+ 829. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 830. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 831. http://www.bat.org/help/skills.php?str=combat_sense
+ 832. http://www.bat.org/help/skills.php?str=stun
+ 833. http://www.bat.org/help/skills.php?str=find_weakness
+ 834. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 835. http://www.bat.org/help/skills.php?str=discipline
+ 836. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 837. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 838. http://www.bat.org/help/skills.php?str=tempt
+ 839. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 840. http://www.bat.org/help/skills.php?str=parry
+ 841. http://www.bat.org/help/skills.php?str=throw_weight
+ 842. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 843. http://www.bat.org/help/skills.php?str=dodge
+ 844. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 845. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 846. http://www.bat.org/help/skills.php?str=parry
+ 847. http://www.bat.org/help/skills.php?str=throw_weight
+ 848. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 849. http://www.bat.org/help/skills.php?str=riposte
+ 850. http://www.bat.org/help/skills.php?str=dodge
+ 851. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 852. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 853. http://www.bat.org/help/skills.php?str=combat_sense
+ 854. http://www.bat.org/help/skills.php?str=stun
+ 855. http://www.bat.org/help/skills.php?str=find_weakness
+ 856. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 857. http://www.bat.org/help/skills.php?str=discipline
+ 858. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 859. http://www.bat.org/help/skills.php?str=vampiric_blow
+ 860. http://www.bat.org/help/skills.php?str=tempt
+ 861. http://www.bat.org/help/skills.php?str=force_of_chaos
+ 862. http://www.bat.org/help/guilds.php
+ 863. mailto:webmaster@bat.org
+
+   Hidden links:
+ 864. http://www.bat.org/bat.php

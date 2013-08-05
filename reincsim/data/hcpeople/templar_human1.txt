@@ -1,0 +1,64 @@
+Human
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |   0 | 100 |        3 |
+| Controlled panic              |   0 |  60 |        5 |
+| First aid                     |  28 |  90 |       96 |
+| Burial ceremony               |  18 | 100 |       50 |
+| Alertness                     |   0 |  50 |       11 |
+| Bash                          |   0 | 100 |       11 |
+| Swim                          |   0 |  90 |       11 |
+| Hiking                        |   4 |  30 |       27 |
+| Tempt                         |  25 | 100 |      171 |
+| Baptize                       |  41 | 100 |      735 |
+| Bless                         |  22 | 100 |      142 |
+| Kick                          |   0 |  90 |       20 |
+| Throw weight                  |   0 |  60 |       20 |
+| Cast generic                  |  18 | 100 |      136 |
+| Cast heal                     |  26 |  50 |      273 |
+| Cast information              |   0 |  50 |       28 |
+| Cast protection               |  18 | 100 |      136 |
+| Cast special                  |  11 |  50 |       74 |
+| Attack                        |  51 | 100 |     2931 |
+| Shield bash                   |   0 |  90 |       76 |
+| Stance of the righteous       |   0 | 100 |       96 |
+| Prayer                        |   7 | 100 |      180 |
+| Mastery of shielding          |  20 | 100 |      572 |
+| Bludgeons                     |  42 | 100 |     4170 |
+| Rescue                        |  26 | 100 |     1050 |
+| Find weakness                 |   0 |  30 |      120 |
+| Endurance                     |   4 |  30 |      194 |
+| Pound                         |   0 | 100 |      137 |
+| Stun                          |   0 |  60 |      137 |
+| Holy strike                   |   0 | 100 |      146 |
+| Riposte                       |   0 |  90 |      154 |
+| Combat damage analysis        |   0 | 100 |      217 |
+| Holy blaze                    |   0 | 100 |      239 |
+| Leadership                    |   0 |  40 |      275 |
+| Discipline                    |  20 |  90 |     1917 |
+| Holy warfare                  |   0 | 100 |      356 |
+| Enhance criticals             |   0 |  40 |      432 |
+| Pulverize                     |   0 |  75 |      432 |
+| Holy smite                    |   0 | 100 |      491 |
+| Parry                         |  25 |  90 |     4583 |
+| Stunned maneuvers             |   0 |  90 |      921 |
+| Combat sense                  |   4 |  80 |     1491 |
+| Dodge                         |   7 |  50 |     2090 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Detect alignment              |   0 |  95 |        9 |
+| Bless armament                |  24 |  95 |      100 |
+| Light                         |   0 |  95 |       11 |
+| Remove poison                 |   0 |  95 |       35 |
+| Divine enhancement            |   0 |  95 |       87 |
+| Laying on hands               |   0 |  95 |      129 |
+| Blessing of faerwon           |   0 |  95 |      211 |
+| Shield of faith               |   4 |  95 |      309 |
+`------------------------------------------------------'

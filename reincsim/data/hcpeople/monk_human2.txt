@@ -1,0 +1,44 @@
+Human
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      | 100 | 100 |    (n/a) |
+| Punch                         |   0 | 100 |        3 |
+| Alertness                     |  85 |  85 |    (n/a) |
+| Bash                          |   0 | 100 |       11 |
+| Kiai-cry                      |   0 |  90 |       11 |
+| Mind over body                |   0 | 100 |       11 |
+| Swim                          |  80 | 100 |    12617 |
+| Fresh pants                   |   0 |  90 |       18 |
+| Hiking                        |  90 |  90 |    (n/a) |
+| Leather craft                 |   0 |  80 |       18 |
+| Baptize                       |  81 |  75 |    (n/a) |
+| Bless                         |  80 |  80 |    (n/a) |
+| Kick                          |  51 | 100 |     1742 |
+| Throw weight                  | 100 | 100 |    (n/a) |
+| Sewing                        |   0 |  80 |       29 |
+| Acupuncture                   |  90 | 100 |    84486 |
+| Attack                        |  75 | 100 |    23194 |
+| Meditation                    | 100 | 100 |    (n/a) |
+| Sculpture                     |   0 |  80 |       41 |
+| Kata                          |  60 | 100 |     8630 |
+| Ki                            |  55 | 100 |     8227 |
+| Iron palm                     | 100 | 100 |    (n/a) |
+| Contact reflexes              | 100 | 100 |    (n/a) |
+| Joint lock                    |  80 | 100 |   117534 |
+| Find weakness                 |  69 |  90 |    46243 |
+| Controlled motion             |  75 |  75 |    (n/a) |
+| Stun                          |  80 |  80 |    (n/a) |
+| Defence sense                 |  95 | 100 |   229999 |
+| Discipline                    |  50 | 100 |    25438 |
+| Enhance criticals             |  71 |  80 |   197325 |
+| Tumbling attack               |  60 | 100 |   119734 |
+| Stunned maneuvers             |  60 | 100 |   162288 |
+| Combat sense                  |  45 |  45 |    (n/a) |
+| Martial arts                  | 100 | 100 |    (n/a) |
+| Dodge                         |  80 |  80 |    (n/a) |
+| Unarmed parry                 |  16 | 100 |     5448 |
+| Vital points                  |   2 |  90 |     7641 |
+`------------------------------------------------------'

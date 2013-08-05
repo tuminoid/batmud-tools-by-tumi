@@ -1,0 +1,65 @@
+Lich
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  35 |  95 | 100 |      720 |
+| Alertness                     |  63 |  95 |  70 |     8576 |
+| Swim                          |   0 |  95 | 100 |       38 |
+| Pick locks                    |  52 |  95 |  70 |     5933 |
+| Hiking                        |  52 |  95 |  80 |     6647 |
+| Track                         |   0 |  95 |  60 |       54 |
+| Kick                          |  69 |  95 | 100 |    21132 |
+| Sneak                         |  49 |  95 |  80 |     6022 |
+| Throw weight                  |  80 |  95 |  80 |    (n/a) |
+| Cast control                  |  55 |  95 |  88 |    11467 |
+| Cast fire                     |  35 |  95 |  66 |     2691 |
+| Cast generic                  |  63 |  95 | 100 |    19181 |
+| Cast harm                     |  35 |  95 |  66 |     2691 |
+| Cast heal                     |  44 |  95 |  50 |     5362 |
+| Cast information              |  60 |  95 |  88 |    15864 |
+| Cast protection               |  45 |  95 |  88 |     5764 |
+| Cast special                  |  37 |  95 |  70 |     3158 |
+| Cast teleportation            |  45 |  95 |  66 |     5764 |
+| Cast transformation           |  42 |  95 |  66 |     4629 |
+| Attack                        |  75 |  95 | 100 |    49593 |
+| Tiger spirit                  |  66 |  95 | 100 |    28471 |
+| Meditation                    |  67 |  95 | 100 |    32210 |
+| Detect trap                   |   0 |  95 |  70 |      109 |
+| Iron palm                     |  75 |  95 | 100 |    98024 |
+| Mastery of pain               |   0 |  95 |  55 |      158 |
+| Find weakness                 |  39 |  95 |  80 |     8502 |
+| Stun                          |  70 |  95 | 100 |    90959 |
+| Defence sense                 |  49 |  95 |  80 |    23647 |
+| Discipline                    |  53 |  95 |  80 |    36755 |
+| Enhance criticals             |  44 |  95 |  50 |    18969 |
+| Dim mak                       |  76 |  95 | 100 |   230783 |
+| Tumbling attack               |  33 |  95 |  80 |     7798 |
+| Stunned maneuvers             |  40 |  95 |  80 |    15705 |
+| Combat sense                  |  41 |  95 |  55 |    17687 |
+| Martial arts                  |  77 |  95 | 100 |   276168 |
+| Dodge                         |  75 |  95 |  90 |   243752 |
+| Unarmed parry                 |   0 |  95 |  65 |      306 |
+| Dark nerves                   |   0 |  95 | 100 |      365 |
+| Vital points                  |   0 |  95 | 100 |      365 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Cure light wounds             |  44 | 100 |  50 |     2043 |
+| Infravision                   |   0 | 100 | 100 |       30 |
+| Water walking                 |  68 | 100 | 100 |     8445 |
+| Darkness                      |  68 | 100 | 100 |    10440 |
+| Shadow leap                   |  68 | 100 | 100 |    20168 |
+| Tiger claw                    |   0 | 100 | 100 |       59 |
+| All-seeing eye                |   0 | 100 | 100 |      103 |
+| Flame fists                   |  48 | 100 | 100 |    10760 |
+| Invisibility                  |  45 | 100 |  45 |    (n/a) |
+| Shadow trick                  |   0 | 100 | 100 |      135 |
+| Quicksilver                   |  48 | 100 | 100 |    16112 |
+| Haste                         |  48 | 100 | 100 |    18986 |
+| Tiger mask                    |   0 | 100 | 100 |      193 |
+`-----------------------------------------------------------'

@@ -1,0 +1,47 @@
+
+/* colors.css (c) Tumi 2006 */
+
+/* common things */
+
+body {
+	padding: 0;
+	margin: 0;
+	max-width: 72em;
+
+	background-color: White;
+	color: Black;
+
+	font-family: Tahoma, Arial, "Times New Roman", serif;
+}
+
+
+h1, h2, h3, h4 {
+	padding: 0;
+	margin: 0;
+
+	letter-spacing: 0.2em;
+	white-space: no-wrap;
+}
+
+
+div.textcolors {
+	background-color: #eeeeee;
+	color: Black;
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
+div.borderright {
+	border-top: 2px solid #dddddd;
+	border-right: 2px solid #dddddd;
+	border-bottom: 2px solid #dddddd;
+}
+
+div.borderleft {
+	border-top: 2px solid #dddddd;
+	border-left: 2px solid #dddddd;
+	border-bottom: 2px solid #dddddd;
+}
+
+
+/* end of css */

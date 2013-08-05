@@ -1,0 +1,71 @@
+CATFOLK                                
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  80 |  92 | 100 |     6449 |
+| Essence eye                   |   0 |  92 | 100 |       14 |
+| First aid                     |  80 |  92 |  80 |    (n/a) |
+| Tempt                         |   0 |  92 | 100 |       41 |
+| Hiding                        |   0 |  92 |  80 |       44 |
+| Mana control                  |  78 |  92 | 100 |    26703 |
+| Switch weapon                 |  60 |  92 | 100 |    10102 |
+| Cast demonology               |   0 |  92 | 100 |       55 |
+| Cast generic                  |  40 |  92 | 100 |     2987 |
+| Cast harm                     |   0 |  92 |  60 |       55 |
+| Cast heal                     |   0 |  92 |  60 |       55 |
+| Cast information              |   0 |  92 |  90 |       55 |
+| Cast poison                   |   0 |  92 | 100 |       55 |
+| Cast protection               |   0 |  92 |  60 |       55 |
+| Cast special                  |   0 |  92 |  80 |       55 |
+| Cast teleportation            |  40 |  92 |  60 |     2987 |
+| Cast transformation           |   0 |  92 |  60 |       55 |
+| Attack                        |  80 |  92 | 100 |    50169 |
+| Ceremony                      |   0 |  92 | 100 |       81 |
+| Short blades                  |  90 |  92 | 100 |   125986 |
+| Negate offhand penalty        |  61 |  92 | 100 |    27259 |
+| Stab                          |   0 |  92 |  90 |      108 |
+| Knowledge of infernal entities|   0 |  92 | 100 |      119 |
+| Knowledge of toxicology       |   0 |  92 | 100 |      119 |
+| Mastery of spider servants    |   0 |  92 | 100 |      119 |
+| Quick chant                   |  22 |  92 |  50 |     1234 |
+| Stun                          |  60 |  92 |  60 |    (n/a) |
+| Throw weight                  |  70 |  92 |  50 |    (n/a) |
+| Discipline                    |  79 |  92 |  60 |    (n/a) |
+| Pierce                        |   0 |  92 |  75 |      175 |
+| Parry                         |  85 |  92 |  60 |    (n/a) |
+| Stunned maneuvers             |  70 |  92 |  60 |    (n/a) |
+| Combat sense                  |  80 |  92 |  60 |    (n/a) |
+| Dodge                         |  60 |  92 |  60 |    (n/a) |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Spider eye                    |   0 |  86 | 100 |       19 |
+| Spider gaze                   |   0 |  86 | 100 |       19 |
+| Spider servant                |   0 |  86 | 100 |       19 |
+| Infravision                   |   0 |  86 | 100 |       24 |
+| Spider walk                   |   0 |  86 | 100 |       24 |
+| Spider web                    |   0 |  86 | 100 |       33 |
+| Spider touch                  |   0 |  86 | 100 |       37 |
+| Hunger of the spider          |   0 |  86 | 100 |       44 |
+| Spider gate                   |   0 |  86 | 100 |       44 |
+| Spider demon sacrifice        |   0 |  86 | 100 |       48 |
+| Spider demon conjuration      |   0 |  86 | 100 |       52 |
+| Spider demon control          |   0 |  86 | 100 |       52 |
+| Spider demon channeling       |   0 |  86 | 100 |       62 |
+| Poison                        |   0 |  86 | 100 |       65 |
+| Remove poison                 |   0 |  86 | 100 |       65 |
+| Spider demon inquiry          |   0 |  86 | 100 |       65 |
+| Spider demon banishment       |   0 |  86 | 100 |       69 |
+| Heavy weight                  |  40 |  86 | 100 |     4589 |
+| Poison cloud                  |   0 |  86 | 100 |       87 |
+| Venom blade                   |   0 |  86 | 100 |       99 |
+| Spider wrath                  |   0 |  86 | 100 |      105 |
+| Toxic dilution                |   0 |  86 | 100 |      127 |
+| Spider demon mass sacrifice   |   0 |  86 | 100 |      203 |
+| Prayer to the spider queen    |   0 |  86 | 100 |      223 |
+`-----------------------------------------------------------'

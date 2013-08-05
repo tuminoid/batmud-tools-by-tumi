@@ -1,0 +1,29 @@
+Tinmen
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Stargazing                    |  40 | 100 |      424 |
+| Cast generic                  |  93 | 100 |    93365 |
+| Cast teleportation            |  91 | 100 |    78583 |
+| Mastery of locating           |  50 | 100 |     8055 |
+| Location memory               |  51 | 100 |    32391 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |   0 |  80 |        5 |
+| Dimension door                |  60 |  80 |     4085 |
+| Summon                        |  60 |  80 |     4829 |
+| Teleport with error           |  30 |  80 |      363 |
+| Teleport without error        |  60 |  60 |    (n/a) |
+| Wizard eye                    |  60 |  80 |     5993 |
+| Heavy weight                  |  60 |  80 |     8724 |
+| Banish                        |  60 |  80 |    10454 |
+| Relocate                      |  60 |  80 |    12798 |
+| Go                            |  60 |  80 |    23404 |
+| Mobile cannon                 |  45 |  80 |     7678 |
+`------------------------------------------------------'

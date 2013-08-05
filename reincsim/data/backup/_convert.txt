@@ -1,0 +1,2 @@
+How to convert html -> txt
+perl -e '@f=`ls -l`; shift @f; @f=grep {s/^.{56}//g; s/\.html$//g;} @f; for (@f) {chomp;$s="lynx --dump $_.html >$_.txt"; print "$s\n"; `$s`;}'

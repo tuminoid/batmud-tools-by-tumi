@@ -1,0 +1,44 @@
+Gnoll
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |   0 |  80 |        4 |
+| Punch                         |   0 |  80 |        4 |
+| Alertness                     |  35 |  80 |      337 |
+| Bash                          |   0 |  80 |       15 |
+| Kiai-cry                      |   0 |  80 |       15 |
+| Mind over body                |   0 |  80 |       15 |
+| Swim                          |  50 |  80 |     1230 |
+| Fresh pants                   |   0 |  80 |       24 |
+| Hiking                        |  34 |  80 |      480 |
+| Leather craft                 |   0 |  80 |       24 |
+| Baptize                       |  25 |  75 |      239 |
+| Bless                         |   0 |  80 |       27 |
+| Kick                          |   0 |  80 |       27 |
+| Throw weight                  |   0 |  80 |       27 |
+| Sewing                        |   0 |  80 |       37 |
+| Acupuncture                   |   0 |  80 |       45 |
+| Attack                        |  50 |  80 |     3480 |
+| Meditation                    |   0 |  80 |       49 |
+| Sculpture                     |   0 |  80 |       54 |
+| Kata                          |   0 |  80 |       63 |
+| Ki                            |   0 |  80 |       92 |
+| Iron palm                     |   0 |  80 |      112 |
+| Contact reflexes              |   0 |  80 |      131 |
+| Joint lock                    |   0 |  80 |      153 |
+| Find weakness                 |   0 |  80 |      155 |
+| Controlled motion             |   0 |  75 |      166 |
+| Stun                          |   0 |  80 |      179 |
+| Defence sense                 |   0 |  80 |      291 |
+| Discipline                    |   0 |  80 |      441 |
+| Enhance criticals             |   0 |  80 |      560 |
+| Tumbling attack               |   0 |  80 |      879 |
+| Stunned maneuvers             |   0 |  80 |     1192 |
+| Combat sense                  |   0 |  45 |     1367 |
+| Martial arts                  |  27 |  80 |    14593 |
+| Dodge                         |   5 |  80 |     2277 |
+| Unarmed parry                 |   0 |  80 |     1775 |
+| Vital points                  |   0 |  80 |     8323 |
+`------------------------------------------------------'

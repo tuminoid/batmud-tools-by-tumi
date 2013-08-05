@@ -1,0 +1,47 @@
+Minotaur
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  40 |  83 | 100 |      749 |
+| Alertness                     |  26 |  83 |  70 |      514 |
+| Swim                          |   0 |  83 | 100 |       29 |
+| Tempt                         |   0 |  83 | 100 |       41 |
+| Overbear                      |  25 |  83 | 100 |      741 |
+| Bloodlust                     |  65 |  83 | 100 |    16298 |
+| Cast generic                  |  42 |  83 | 100 |     3472 |
+| Cast special                  |  25 |  83 |  50 |      835 |
+| Cast transformation           |  10 |  83 |  50 |      146 |
+| Attack                        |  72 |  83 | 100 |    30991 |
+| Destructive rage              |  14 |  83 | 100 |      281 |
+| Short blades                  |  31 |  83 | 100 |     2065 |
+| Vampiric blow                 |   0 |  83 | 100 |       93 |
+| Negate offhand penalty        |  12 |  83 |  50 |      310 |
+| Shield bash                   |  23 |  83 | 100 |     1175 |
+| Find weakness                 |   0 |  83 |  35 |      127 |
+| Long blades                   |  75 |  83 | 100 |    90368 |
+| Stun                          |   0 |  83 |  35 |      135 |
+| Riposte                       |  18 |  83 |  80 |      835 |
+| Combat damage analysis        |   1 |  83 |  85 |      158 |
+| Discipline                    |   0 |  83 |  40 |      175 |
+| Enhance criticals             |  18 |  83 |  85 |     1041 |
+| Parry                         |  42 |  83 |  90 |    12493 |
+| Tumbling attack               |   5 |  83 |  40 |      247 |
+| Force of chaos                |  15 |  83 | 100 |      800 |
+| Stunned maneuvers             |   0 |  83 |  60 |      214 |
+| Combat sense                  |   0 |  83 |  65 |      221 |
+| Dodge                         |  26 |  83 |  60 |     3108 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Detect alignment              |  27 |  64 | 100 |      805 |
+| Infravision                   |   0 |  64 | 100 |       40 |
+| Darkness                      |   0 |  64 | 100 |       48 |
+| Chaotic warp                  |  29 |  64 | 100 |     1658 |
+| Summon blade                  |  60 |  64 | 100 |    15318 |
+| Blade of fire                 |  26 |  64 | 100 |     1532 |
+`-----------------------------------------------------------'

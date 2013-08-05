@@ -1,0 +1,52 @@
+Elf
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Alcohol tolerance             |  50 |  50 |    (n/a) |
+| Swim                          |  75 |  75 |    (n/a) |
+| Plant lore                    |  95 |  60 |    (n/a) |
+| Hiking                        |  60 |  60 |    (n/a) |
+| Mana control                  |  60 |  70 |     4454 |
+| Attack                        |  85 |  85 |    (n/a) |
+| Short blades                  |  64 |  75 |    14333 |
+| Negate offhand penalty        |  40 |  50 |     2853 |
+| Quick chant                   |  61 |   1 |    (n/a) |
+| Long blades                   |  70 |  75 |    63695 |
+| Songcasting                   |  86 | 100 |   229999 |
+| Songscribing                  |  75 | 100 |   229999 |
+| Songmastery                   |  73 | 100 |   229999 |
+| Enhance criticals             |   8 |  10 |     1017 |
+| Tumbling attack               |  42 |  45 |    29862 |
+| Dodge                         |  25 |  30 |    11604 |
+| Instrument creation           |   0 | 100 |     1345 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Catchy singalong              |  40 | 100 |     1729 |
+| Singing shepherd              |  30 | 100 |      730 |
+| Musicians alm                 |   0 | 100 |       61 |
+| Noituloves dischord           |  60 | 100 |    11915 |
+| Sweet lullaby                 |  70 | 100 |    28207 |
+| Kings feast                   |  70 | 100 |    30298 |
+| Campfire tune                 |  90 | 100 |   203474 |
+| Strength in unity             |  70 | 100 |    36306 |
+| Venturers way                 |  80 | 100 |    85949 |
+| War ensemble                  |  90 | 100 |   229999 |
+| Uncontrollable mosh           |  90 | 100 |   229999 |
+| Clandestine thoughts          |  50 | 100 |     8400 |
+| Vigilant melody               |  60 | 100 |    20038 |
+| Con fioco                     |  90 | 100 |   229999 |
+| Jesters trivia                |  50 | 100 |     9704 |
+| Melodical embracement         |  60 | 100 |    22975 |
+| Sounds of silence             |  60 | 100 |    25791 |
+| Noituloves deathlore          |  70 | 100 |    64301 |
+| Achromatic eyes               |  60 | 100 |    29834 |
+| Pathfinder                    |  70 | 100 |    72182 |
+| Soothing sounds               |  70 | 100 |    73724 |
+| Dancing blades                |   0 | 100 |      180 |
+`------------------------------------------------------'

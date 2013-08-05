@@ -1,0 +1,10 @@
+name: Capula
+gms: Capula and Malicat
+maxlvl: 7
+1: wis,int
+2: wis,int
+3: wis
+4: wis
+5: wis
+6: wis
+7: wis

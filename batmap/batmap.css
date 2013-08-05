@@ -1,0 +1,215 @@
+
+/* batmap.css by Tumi for Batmap-in-color project (c) 2002-2006 */
+
+
+#batmap {
+	background-color: Black;
+	color: White;
+	margin-bottom: 2em;
+	letter-spacing: 0;
+}
+
+
+div.text {
+	margin-left: 2em;
+	background-color: #eeeeee;
+	color: Black;
+	font-size: 0.9em;
+}
+
+pre {
+	/*font-family: "Courier New", Courier, monospace, serif;*/
+	font-family: monospace, serif;
+	/*line-height: 80%;*/
+	background-color: Black !important;
+}
+
+code {
+	font-size: 0.85em;
+	background-color: Black !important;
+}
+
+.name {
+	Color: White;
+	background-color: inherit;
+}
+
+.unknown {
+	Color: Black;
+	background-color: inherit;
+}
+
+.peak {
+	color: #bbbbbb;
+	background-color: inherit;
+}
+
+.ruins {
+	color: #777777;
+	background-color: inherit;
+}
+
+.speciallocation {
+	color: White;
+	background-color: inherit;
+}
+
+.crossing {
+	color: #999999;
+	background-color: inherit;
+}
+
+.eastwestroad {
+	color: #777777;
+	background-color: inherit;
+}
+
+.swneroad {
+	color: #777777;
+	background-color: inherit;
+}
+
+.bridge {
+	color: #777777;
+	background-color: inherit;
+}
+
+.sceniclocation {
+	color: White;
+	background-color: inherit;
+}
+
+.playercity {
+	color: #999999;
+	background-color: inherit;
+}
+
+.deepforest {
+	color: Green;
+	background-color: inherit;
+}
+
+.deepriver {
+	color: Blue;
+	background-color: inherit;
+}
+
+.shallow {
+	color: #00ffff;
+	background-color: inherit;
+}
+
+.volcano {
+	color: Red;
+	background-color: inherit;
+}
+
+.nwseroad {
+	color: #777777;
+	background-color: inherit;
+}
+
+.mountain {
+	color: #ff00ff;
+	background-color: inherit;
+}
+
+.beach {
+	color: Yellow;
+	background-color: inherit;
+}
+
+.city {
+	color: #999999;
+	background-color: inherit;
+}
+
+.desert {
+	color: Yellow;
+	background-color: inherit;
+}
+
+.forest {
+	color: Lime;
+	background-color: inherit;
+}
+
+.hills {
+	color: #ff00ff;
+	background-color: inherit;
+}
+
+.highlands {
+	color: #ff00ff;
+	background-color: inherit;
+}
+
+.jungle {
+	color: Green;
+	background-color: inherit;
+}
+
+.lake {
+	color: Blue;
+	background-color: inherit;
+}
+
+.plain {
+	color: Lime;
+	background-color: inherit;
+}
+
+.river {
+	color: Blue;
+	background-color: inherit;
+}
+
+.swamp {
+	color: Red;
+	background-color: inherit;
+}
+
+.tundra {
+	color: White;
+	background-color: inherit;
+}
+
+.valley {
+	color: Lime;
+	background-color: inherit;
+}
+
+.waterfall {
+	color: #00ffff;
+	background-color: inherit;
+}
+
+.badlands {
+	color: #FF4500;
+	background-color: inherit;
+}
+
+.field {
+	color: Olive;
+	background-color: inherit;
+}
+
+.shore {
+	color: #F0E68C;
+	background-color: inherit;
+}
+
+.northsouthroad {
+	color: #777777;
+	background-color: inherit;
+}
+
+.sea {
+	color: Blue;
+	background-color: inherit;
+}
+
+/* the end */
+
+
+

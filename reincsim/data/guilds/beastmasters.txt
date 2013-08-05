@@ -1,0 +1,838 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                 [fonter.php?str=The+Herd+of+Beastmasters]
+
+                          The Herd of Beastmasters
+
+   Command: beastmaster
+   Creators: [22]Shinarae, [23]Elwood
+   Maximum level: 15
+   Description:
+   Some would argue that what makes humans, elves, orcs, and other races
+   more
+   than mere animals is not fire, or steel, or even magic, but their
+   ability to
+   enslave animals and train them for service. The Beastmasters are
+   throwbacks to
+   those ancient times when hunting and capturing wild beasts was a
+   necessity of
+   life. They yoke the fiercest of beasts to harness their strength, and
+   can even
+   use their power in combat if need be.
+
+                                New Member
+                 Background must be nomad
+                 Must be maximum level in Squire
+                 You receive a pair of nasty barbed spurs.
+                 May train skill [24]Short blades to 10%
+                 May train skill [25]Bludgeons to 10%
+                 May train skill [26]Whips to 10%
+                 May train skill [27]Kick to 20%
+                 May train skill [28]Hiking to 10%
+                 May train skill [29]Alertness to 5%
+                 May train skill [30]Plant lore to 10%
+                 May train skill [31]Riding to 10%
+                 May train skill [32]Butchering to 20%
+                 May train skill [33]Rebuke to 20%
+                 May train skill [34]Refit mount gear to 20%
+                 May train skill [35]Tame mount to 10%
+                 May train skill [36]Evaluate mount to 30%
+                 May train skill [37]Combat riding to 5%
+
+                                 Level 2
+                 May train skill [38]Attack to 5%
+                 May train skill [39]Short blades to 20%
+                 May train skill [40]Bludgeons to 20%
+                 May train skill [41]Whips to 20%
+                 May train skill [42]Kick to 30%
+                 May train skill [43]Hiking to 20%
+                 May train skill [44]Alertness to 10%
+                 May train skill [45]Plant lore to 20%
+                 May train skill [46]Riding to 20%
+                 May train skill [47]Butchering to 30%
+                 May train skill [48]Rebuke to 30%
+                 May train skill [49]Refit mount gear to 25%
+                 May train skill [50]Tame mount to 20%
+                 May train skill [51]Evaluate mount to 40%
+                 May train skill [52]Combat riding to 10%
+
+                                 Level 3
+                May train skill [53]Attack to 10%
+                May train skill [54]Parry to 5%
+                May train skill [55]Dodge to 5%
+                May train skill [56]Stunned maneuvers to 10%
+                May train skill [57]Short blades to 30%
+                May train skill [58]Bludgeons to 30%
+                May train skill [59]Whips to 30%
+                May train skill [60]Kick to 40%
+                May train skill [61]Hiking to 30%
+                May train skill [62]Alertness to 15%
+                May train skill [63]Plant lore to 30%
+                May train skill [64]Riding to 30%
+                May train skill [65]Butchering to 40%
+                May train skill [66]Rebuke to 40%
+                May train skill [67]Refit mount gear to 30%
+                May train skill [68]Tame mount to 30%
+                May train skill [69]Evaluate mount to 50%
+                May train skill [70]Make mount feed to 10%
+                May train skill [71]Combat riding to 15%
+                May train skill [72]Heel to 30%
+                May train skill [73]Stay to 30%
+                May train skill [74]Ride through flame to 10%
+                May train skill [75]Ride through frost to 10%
+                May train skill [76]Ride through pain to 10%
+
+                                 Level 4
+                May train skill [77]Attack to 15%
+                May train skill [78]Parry to 5%
+                May train skill [79]Dodge to 5%
+                May train skill [80]Stunned maneuvers to 10%
+                May train skill [81]Short blades to 40%
+                May train skill [82]Bludgeons to 40%
+                May train skill [83]Whips to 40%
+                May train skill [84]Kick to 50%
+                May train skill [85]Hiking to 40%
+                May train skill [86]Alertness to 20%
+                May train skill [87]Plant lore to 40%
+                May train skill [88]Riding to 40%
+                May train skill [89]Butchering to 50%
+                May train skill [90]Rebuke to 50%
+                May train skill [91]Refit mount gear to 35%
+                May train skill [92]Tame mount to 40%
+                May train skill [93]Evaluate mount to 60%
+                May train skill [94]Make mount feed to 20%
+                May train skill [95]Combat riding to 20%
+                May train skill [96]Heel to 40%
+                May train skill [97]Stay to 40%
+                May train skill [98]Ride through flame to 20%
+                May train skill [99]Ride through frost to 20%
+                May train skill [100]Ride through pain to 20%
+
+                                 Level 5
+            Has trained skill [101]Evaluate mount to at least 30%
+            Has trained skill [102]Riding to at least 30%
+            Has trained skill [103]Tame mount to at least 30%
+            May train skill [104]Attack to 20%
+            May train skill [105]Parry to 5%
+            May train skill [106]Dodge to 5%
+            May train skill [107]Stunned maneuvers to 10%
+            May train skill [108]Short blades to 50%
+            May train skill [109]Bludgeons to 50%
+            May train skill [110]Whips to 50%
+            May train skill [111]Kick to 60%
+            May train skill [112]Hiking to 50%
+            May train skill [113]Alertness to 25%
+            May train skill [114]Plant lore to 50%
+            May train skill [115]Riding to 50%
+            May train skill [116]Butchering to 60%
+            May train skill [117]Rebuke to 60%
+            May train skill [118]Refit mount gear to 40%
+            May train skill [119]Tame mount to 50%
+            May train skill [120]Evaluate mount to 70%
+            May train skill [121]Make mount feed to 30%
+            May train skill [122]Combat riding to 25%
+            May train skill [123]Heel to 50%
+            May train skill [124]Stay to 50%
+            May train skill [125]Ride through flame to 30%
+            May train skill [126]Ride through frost to 30%
+            May train skill [127]Ride through pain to 30%
+
+                                  Level 6
+                May train skill [128]Attack to 25%
+                May train skill [129]Parry to 10%
+                May train skill [130]Dodge to 10%
+                May train skill [131]Stunned maneuvers to 20%
+                May train skill [132]Throw weight to 10%
+                May train skill [133]Short blades to 60%
+                May train skill [134]Stab to 5%
+                May train skill [135]Bludgeons to 60%
+                May train skill [136]Whips to 60%
+                May train skill [137]Pound to 5%
+                May train skill [138]Kick to 70%
+                May train skill [139]Alertness to 30%
+                May train skill [140]Riding to 60%
+                May train skill [141]Butchering to 70%
+                May train skill [142]Rebuke to 70%
+                May train skill [143]Refit mount gear to 45%
+                May train skill [144]Tame mount to 60%
+                May train skill [145]Evaluate mount to 80%
+                May train skill [146]Make mount feed to 40%
+                May train skill [147]Combat riding to 30%
+                May train skill [148]Heel to 60%
+                May train skill [149]Stay to 60%
+                May train skill [150]Ride through flame to 40%
+                May train skill [151]Ride through frost to 40%
+                May train skill [152]Ride through pain to 40%
+                May train skill [153]Trample to 10%
+
+                                  Level 7
+                May train skill [154]Attack to 30%
+                May train skill [155]Parry to 10%
+                May train skill [156]Dodge to 10%
+                May train skill [157]Stunned maneuvers to 20%
+                May train skill [158]Throw weight to 10%
+                May train skill [159]Short blades to 70%
+                May train skill [160]Stab to 10%
+                May train skill [161]Bludgeons to 70%
+                May train skill [162]Whips to 70%
+                May train skill [163]Pound to 10%
+                May train skill [164]Kick to 80%
+                May train skill [165]Alertness to 35%
+                May train skill [166]Riding to 70%
+                May train skill [167]Butchering to 80%
+                May train skill [168]Rebuke to 80%
+                May train skill [169]Refit mount gear to 50%
+                May train skill [170]Tame mount to 70%
+                May train skill [171]Evaluate mount to 90%
+                May train skill [172]Make mount feed to 50%
+                May train skill [173]Combat riding to 35%
+                May train skill [174]Heel to 70%
+                May train skill [175]Stay to 70%
+                May train skill [176]Ride through flame to 50%
+                May train skill [177]Ride through frost to 50%
+                May train skill [178]Ride through pain to 50%
+                May train skill [179]Trample to 20%
+
+                                 Level 8
+            May train skill [180]Attack to 35%
+            May train skill [181]Parry to 10%
+            May train skill [182]Dodge to 10%
+            May train skill [183]Stunned maneuvers to 20%
+            May train skill [184]Throw weight to 10%
+            May train skill [185]Short blades to 80%
+            May train skill [186]Stab to 15%
+            May train skill [187]Bludgeons to 80%
+            May train skill [188]Whips to 80%
+            May train skill [189]Pound to 15%
+            May train skill [190]Alertness to 40%
+            May train skill [191]Riding to 80%
+            May train skill [192]Butchering to 90%
+            May train skill [193]Rebuke to 90%
+            May train skill [194]Refit mount gear to 55%
+            May train skill [195]Tame mount to 80%
+            May train skill [196]Evaluate mount to racial maximum
+            May train skill [197]Make mount feed to 60%
+            May train skill [198]Combat riding to 40%
+            May train skill [199]Heel to 80%
+            May train skill [200]Stay to 80%
+            May train skill [201]Ride through flame to 60%
+            May train skill [202]Ride through frost to 60%
+            May train skill [203]Ride through pain to 60%
+            May train skill [204]Trample to 30%
+
+                                         Level 9
+              May train skill [205]Attack to 40%
+              May train skill [206]Parry to 15%
+              May train skill [207]Dodge to 15%
+              May train skill [208]Stunned maneuvers to 30%
+              May train skill [209]Throw weight to 20%
+              May train skill [210]Short blades to 90%
+              May train skill [211]Stab to 20%
+              May train skill [212]Bludgeons to 90%
+              May train skill [213]Whips to 90%
+              May train skill [214]Pound to 20%
+              May train skill [215]Combat sense to 5%
+              May train skill [216]Alertness to 45%
+              May train skill [217]Riding to 90%
+              May train skill [218]Butchering to racial maximum
+              May train skill [219]Rebuke to racial maximum
+              May train skill [220]Refit mount gear to 60%
+              May train skill [221]Tame mount to 90%
+              May train skill [222]Make mount feed to 70%
+              May train skill [223]Combat riding to 45%
+              May train skill [224]Heel to 90%
+              May train skill [225]Stay to 90%
+              May train skill [226]Ride through flame to 70%
+              May train skill [227]Ride through frost to 70%
+              May train skill [228]Ride through pain to 70%
+              May train skill [229]Trample to 40%
+     May train skill [230]Guided strike to 40%, special requirements:
+       * Has trained skill [231]Combat riding to at least 40%
+       * Has trained skill [232]Rebuke to at least 40%
+       * Has trained skill [233]Trample to at least 40%
+
+                                        Level 10
+              Has trained skill [234]Heel to at least 60%
+              Has trained skill [235]Stay to at least 60%
+              Has trained skill [236]Riding to at least 60%
+              May train skill [237]Attack to 45%
+              May train skill [238]Parry to 15%
+              May train skill [239]Dodge to 15%
+              May train skill [240]Stunned maneuvers to 30%
+              May train skill [241]Throw weight to 20%
+              May train skill [242]Stab to 25%
+              May train skill [243]Pound to 25%
+              May train skill [244]Combat sense to 10%
+              May train skill [245]Alertness to 50%
+              May train skill [246]Riding to racial maximum
+              May train skill [247]Refit mount gear to 65%
+              May train skill [248]Tame mount to racial maximum
+              May train skill [249]Make mount feed to 80%
+              May train skill [250]Combat riding to 50%
+              May train skill [251]Heel to racial maximum
+              May train skill [252]Stay to racial maximum
+              May train skill [253]Ride through flame to 80%
+              May train skill [254]Ride through frost to 80%
+              May train skill [255]Ride through pain to 80%
+              May train skill [256]Trample to 50%
+     May train skill [257]Guided strike to 45%, special requirements:
+       * Has trained skill [258]Combat riding to at least 45%
+       * Has trained skill [259]Rebuke to at least 45%
+       * Has trained skill [260]Trample to at least 45%
+
+                                          Level 11
+                May train skill [261]Attack to 50%
+                May train skill [262]Parry to 15%
+                May train skill [263]Dodge to 15%
+                May train skill [264]Stunned maneuvers to 30%
+                May train skill [265]Throw weight to 20%
+                May train skill [266]Stab to 30%
+                May train skill [267]Pound to 30%
+                May train skill [268]Combat sense to 15%
+                May train skill [269]Alertness to 55%
+                May train skill [270]Refit mount gear to 70%
+                May train skill [271]Make mount feed to 90%
+                May train skill [272]Combat riding to 55%
+                May train skill [273]Ride through flame to 90%
+                May train skill [274]Ride through frost to 90%
+                May train skill [275]Ride through pain to 90%
+                May train skill [276]Trample to 60%
+     May train skill [277]Guided strike to 50%, special requirements:
+       * Has trained skill [278]Combat riding to at least 50%
+       * Has trained skill [279]Rebuke to at least 50%
+       * Has trained skill [280]Trample to at least 50%
+
+                                      Level 12
+          May train skill [281]Attack to 55%
+          May train skill [282]Parry to 20%
+          May train skill [283]Dodge to 20%
+          May train skill [284]Stunned maneuvers to 40%
+          May train skill [285]Throw weight to 30%
+          May train skill [286]Stab to 35%
+          May train skill [287]Pound to 35%
+          May train skill [288]Combat sense to 20%
+          May train skill [289]Alertness to 60%
+          May train skill [290]Refit mount gear to 75%
+          May train skill [291]Make mount feed to racial maximum
+          May train skill [292]Combat riding to 60%
+          May train skill [293]Ride through flame to racial maximum
+          May train skill [294]Ride through frost to racial maximum
+          May train skill [295]Ride through pain to racial maximum
+          May train skill [296]Trample to 70%
+     May train skill [297]Guided strike to 70%, special requirements:
+       * Has trained skill [298]Combat riding to at least 55%
+       * Has trained skill [299]Rebuke to at least 55%
+       * Has trained skill [300]Trample to at least 55%
+          May train skill [301]Calm animal to 25%
+     May train skill [302]Ride underground to 25%, special requirements:
+       * Has trained skill [303]Ride through flame to at least 25%
+       * Has trained skill [304]Ride through frost to at least 25%
+       * Has trained skill [305]Ride through pain to at least 25%
+       * Has trained skill [306]Rebuke to at least 25%
+
+                                            Level 13
+                May train skill [307]Attack to 60%
+                May train skill [308]Parry to 20%
+                May train skill [309]Dodge to 20%
+                May train skill [310]Stunned maneuvers to 40%
+                May train skill [311]Throw weight to 30%
+                May train skill [312]Stab to 40%
+                May train skill [313]Pound to 40%
+                May train skill [314]Combat sense to 25%
+                May train skill [315]Alertness to 65%
+                May train skill [316]Refit mount gear to 80%
+                May train skill [317]Combat riding to 65%
+                May train skill [318]Trample to 80%
+     May train skill [319]Guided strike to 75%, special requirements:
+       * Has trained skill [320]Combat riding to at least 60%
+       * Has trained skill [321]Rebuke to at least 60%
+       * Has trained skill [322]Trample to at least 60%
+                May train skill [323]Calm animal to 50%
+     May train skill [324]Ride underground to 50%, special requirements:
+       * Has trained skill [325]Ride through flame to at least 50%
+       * Has trained skill [326]Ride through frost to at least 50%
+       * Has trained skill [327]Ride through pain to at least 50%
+       * Has trained skill [328]Rebuke to at least 50%
+
+                                            Level 14
+                May train skill [329]Attack to 65%
+                May train skill [330]Parry to 20%
+                May train skill [331]Dodge to 20%
+                May train skill [332]Stunned maneuvers to 40%
+                May train skill [333]Throw weight to 30%
+                May train skill [334]Stab to 45%
+                May train skill [335]Pound to 45%
+                May train skill [336]Combat sense to 30%
+                May train skill [337]Alertness to 70%
+                May train skill [338]Refit mount gear to 85%
+                May train skill [339]Combat riding to 70%
+                May train skill [340]Trample to 90%
+     May train skill [341]Guided strike to 80%, special requirements:
+       * Has trained skill [342]Combat riding to at least 65%
+       * Has trained skill [343]Rebuke to at least 65%
+       * Has trained skill [344]Trample to at least 65%
+                May train skill [345]Calm animal to 75%
+     May train skill [346]Ride underground to 75%, special requirements:
+       * Has trained skill [347]Ride through flame to at least 75%
+       * Has trained skill [348]Ride through frost to at least 75%
+       * Has trained skill [349]Ride through pain to at least 75%
+       * Has trained skill [350]Rebuke to at least 75%
+
+                                     Level 15
+           Has trained skill [351]Combat riding to at least 50%
+           Has trained skill [352]Trample to at least 50%
+           May train skill [353]Attack to 70%
+           May train skill [354]Parry to 25%
+           May train skill [355]Dodge to 25%
+           May train skill [356]Stunned maneuvers to 50%
+           May train skill [357]Throw weight to 40%
+           May train skill [358]Combat sense to 35%
+           May train skill [359]Alertness to 75%
+           May train skill [360]Refit mount gear to racial maximum
+           May train skill [361]Combat riding to 75%
+           May train skill [362]Trample to racial maximum
+     May train skill [363]Guided strike to racial maximum, special
+   requirements:
+       * Has trained skill [364]Combat riding to at least 70%
+       * Has trained skill [365]Rebuke to at least 70%
+       * Has trained skill [366]Trample to at least 70%
+           May train skill [367]Calm animal to racial maximum
+     May train skill [368]Ride underground to racial maximum, special
+   requirements:
+       * Has trained skill [369]Ride through flame to at least 80%
+       * Has trained skill [370]Ride through frost to at least 80%
+       * Has trained skill [371]Ride through pain to at least 80%
+       * Has trained skill [372]Rebuke to at least 80%
+
+                     Allows joining to the following guild:
+     The Herd of Beastmasters, special requirements:
+       * Must be maximum level in Squire
+
+   [373]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [374]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Herd%20of%20Beastmasters&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Herd%20of%20Beastmasters&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Herd%20of%20Beastmasters&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=shinarae
+  23. http://www.bat.org/help/finger.php?str=elwood
+  24. http://www.bat.org/help/skills.php?str=short_blades
+  25. http://www.bat.org/help/skills.php?str=bludgeons
+  26. http://www.bat.org/help/skills.php?str=whips
+  27. http://www.bat.org/help/skills.php?str=kick
+  28. http://www.bat.org/help/skills.php?str=hiking
+  29. http://www.bat.org/help/skills.php?str=alertness
+  30. http://www.bat.org/help/skills.php?str=plant_lore
+  31. http://www.bat.org/help/skills.php?str=riding
+  32. http://www.bat.org/help/skills.php?str=butchering
+  33. http://www.bat.org/help/skills.php?str=rebuke
+  34. http://www.bat.org/help/skills.php?str=refit_mount_gear
+  35. http://www.bat.org/help/skills.php?str=tame_mount
+  36. http://www.bat.org/help/skills.php?str=evaluate_mount
+  37. http://www.bat.org/help/skills.php?str=combat_riding
+  38. http://www.bat.org/help/skills.php?str=attack
+  39. http://www.bat.org/help/skills.php?str=short_blades
+  40. http://www.bat.org/help/skills.php?str=bludgeons
+  41. http://www.bat.org/help/skills.php?str=whips
+  42. http://www.bat.org/help/skills.php?str=kick
+  43. http://www.bat.org/help/skills.php?str=hiking
+  44. http://www.bat.org/help/skills.php?str=alertness
+  45. http://www.bat.org/help/skills.php?str=plant_lore
+  46. http://www.bat.org/help/skills.php?str=riding
+  47. http://www.bat.org/help/skills.php?str=butchering
+  48. http://www.bat.org/help/skills.php?str=rebuke
+  49. http://www.bat.org/help/skills.php?str=refit_mount_gear
+  50. http://www.bat.org/help/skills.php?str=tame_mount
+  51. http://www.bat.org/help/skills.php?str=evaluate_mount
+  52. http://www.bat.org/help/skills.php?str=combat_riding
+  53. http://www.bat.org/help/skills.php?str=attack
+  54. http://www.bat.org/help/skills.php?str=parry
+  55. http://www.bat.org/help/skills.php?str=dodge
+  56. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+  57. http://www.bat.org/help/skills.php?str=short_blades
+  58. http://www.bat.org/help/skills.php?str=bludgeons
+  59. http://www.bat.org/help/skills.php?str=whips
+  60. http://www.bat.org/help/skills.php?str=kick
+  61. http://www.bat.org/help/skills.php?str=hiking
+  62. http://www.bat.org/help/skills.php?str=alertness
+  63. http://www.bat.org/help/skills.php?str=plant_lore
+  64. http://www.bat.org/help/skills.php?str=riding
+  65. http://www.bat.org/help/skills.php?str=butchering
+  66. http://www.bat.org/help/skills.php?str=rebuke
+  67. http://www.bat.org/help/skills.php?str=refit_mount_gear
+  68. http://www.bat.org/help/skills.php?str=tame_mount
+  69. http://www.bat.org/help/skills.php?str=evaluate_mount
+  70. http://www.bat.org/help/skills.php?str=make_mount_feed
+  71. http://www.bat.org/help/skills.php?str=combat_riding
+  72. http://www.bat.org/help/skills.php?str=heel
+  73. http://www.bat.org/help/skills.php?str=stay
+  74. http://www.bat.org/help/skills.php?str=ride_through_flame
+  75. http://www.bat.org/help/skills.php?str=ride_through_frost
+  76. http://www.bat.org/help/skills.php?str=ride_through_pain
+  77. http://www.bat.org/help/skills.php?str=attack
+  78. http://www.bat.org/help/skills.php?str=parry
+  79. http://www.bat.org/help/skills.php?str=dodge
+  80. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+  81. http://www.bat.org/help/skills.php?str=short_blades
+  82. http://www.bat.org/help/skills.php?str=bludgeons
+  83. http://www.bat.org/help/skills.php?str=whips
+  84. http://www.bat.org/help/skills.php?str=kick
+  85. http://www.bat.org/help/skills.php?str=hiking
+  86. http://www.bat.org/help/skills.php?str=alertness
+  87. http://www.bat.org/help/skills.php?str=plant_lore
+  88. http://www.bat.org/help/skills.php?str=riding
+  89. http://www.bat.org/help/skills.php?str=butchering
+  90. http://www.bat.org/help/skills.php?str=rebuke
+  91. http://www.bat.org/help/skills.php?str=refit_mount_gear
+  92. http://www.bat.org/help/skills.php?str=tame_mount
+  93. http://www.bat.org/help/skills.php?str=evaluate_mount
+  94. http://www.bat.org/help/skills.php?str=make_mount_feed
+  95. http://www.bat.org/help/skills.php?str=combat_riding
+  96. http://www.bat.org/help/skills.php?str=heel
+  97. http://www.bat.org/help/skills.php?str=stay
+  98. http://www.bat.org/help/skills.php?str=ride_through_flame
+  99. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 100. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 101. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 102. http://www.bat.org/help/skills.php?str=riding
+ 103. http://www.bat.org/help/skills.php?str=tame_mount
+ 104. http://www.bat.org/help/skills.php?str=attack
+ 105. http://www.bat.org/help/skills.php?str=parry
+ 106. http://www.bat.org/help/skills.php?str=dodge
+ 107. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 108. http://www.bat.org/help/skills.php?str=short_blades
+ 109. http://www.bat.org/help/skills.php?str=bludgeons
+ 110. http://www.bat.org/help/skills.php?str=whips
+ 111. http://www.bat.org/help/skills.php?str=kick
+ 112. http://www.bat.org/help/skills.php?str=hiking
+ 113. http://www.bat.org/help/skills.php?str=alertness
+ 114. http://www.bat.org/help/skills.php?str=plant_lore
+ 115. http://www.bat.org/help/skills.php?str=riding
+ 116. http://www.bat.org/help/skills.php?str=butchering
+ 117. http://www.bat.org/help/skills.php?str=rebuke
+ 118. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 119. http://www.bat.org/help/skills.php?str=tame_mount
+ 120. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 121. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 122. http://www.bat.org/help/skills.php?str=combat_riding
+ 123. http://www.bat.org/help/skills.php?str=heel
+ 124. http://www.bat.org/help/skills.php?str=stay
+ 125. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 126. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 127. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 128. http://www.bat.org/help/skills.php?str=attack
+ 129. http://www.bat.org/help/skills.php?str=parry
+ 130. http://www.bat.org/help/skills.php?str=dodge
+ 131. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 132. http://www.bat.org/help/skills.php?str=throw_weight
+ 133. http://www.bat.org/help/skills.php?str=short_blades
+ 134. http://www.bat.org/help/skills.php?str=stab
+ 135. http://www.bat.org/help/skills.php?str=bludgeons
+ 136. http://www.bat.org/help/skills.php?str=whips
+ 137. http://www.bat.org/help/skills.php?str=pound
+ 138. http://www.bat.org/help/skills.php?str=kick
+ 139. http://www.bat.org/help/skills.php?str=alertness
+ 140. http://www.bat.org/help/skills.php?str=riding
+ 141. http://www.bat.org/help/skills.php?str=butchering
+ 142. http://www.bat.org/help/skills.php?str=rebuke
+ 143. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 144. http://www.bat.org/help/skills.php?str=tame_mount
+ 145. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 146. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 147. http://www.bat.org/help/skills.php?str=combat_riding
+ 148. http://www.bat.org/help/skills.php?str=heel
+ 149. http://www.bat.org/help/skills.php?str=stay
+ 150. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 151. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 152. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 153. http://www.bat.org/help/skills.php?str=trample
+ 154. http://www.bat.org/help/skills.php?str=attack
+ 155. http://www.bat.org/help/skills.php?str=parry
+ 156. http://www.bat.org/help/skills.php?str=dodge
+ 157. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 158. http://www.bat.org/help/skills.php?str=throw_weight
+ 159. http://www.bat.org/help/skills.php?str=short_blades
+ 160. http://www.bat.org/help/skills.php?str=stab
+ 161. http://www.bat.org/help/skills.php?str=bludgeons
+ 162. http://www.bat.org/help/skills.php?str=whips
+ 163. http://www.bat.org/help/skills.php?str=pound
+ 164. http://www.bat.org/help/skills.php?str=kick
+ 165. http://www.bat.org/help/skills.php?str=alertness
+ 166. http://www.bat.org/help/skills.php?str=riding
+ 167. http://www.bat.org/help/skills.php?str=butchering
+ 168. http://www.bat.org/help/skills.php?str=rebuke
+ 169. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 170. http://www.bat.org/help/skills.php?str=tame_mount
+ 171. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 172. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 173. http://www.bat.org/help/skills.php?str=combat_riding
+ 174. http://www.bat.org/help/skills.php?str=heel
+ 175. http://www.bat.org/help/skills.php?str=stay
+ 176. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 177. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 178. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 179. http://www.bat.org/help/skills.php?str=trample
+ 180. http://www.bat.org/help/skills.php?str=attack
+ 181. http://www.bat.org/help/skills.php?str=parry
+ 182. http://www.bat.org/help/skills.php?str=dodge
+ 183. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 184. http://www.bat.org/help/skills.php?str=throw_weight
+ 185. http://www.bat.org/help/skills.php?str=short_blades
+ 186. http://www.bat.org/help/skills.php?str=stab
+ 187. http://www.bat.org/help/skills.php?str=bludgeons
+ 188. http://www.bat.org/help/skills.php?str=whips
+ 189. http://www.bat.org/help/skills.php?str=pound
+ 190. http://www.bat.org/help/skills.php?str=alertness
+ 191. http://www.bat.org/help/skills.php?str=riding
+ 192. http://www.bat.org/help/skills.php?str=butchering
+ 193. http://www.bat.org/help/skills.php?str=rebuke
+ 194. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 195. http://www.bat.org/help/skills.php?str=tame_mount
+ 196. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 197. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 198. http://www.bat.org/help/skills.php?str=combat_riding
+ 199. http://www.bat.org/help/skills.php?str=heel
+ 200. http://www.bat.org/help/skills.php?str=stay
+ 201. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 202. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 203. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 204. http://www.bat.org/help/skills.php?str=trample
+ 205. http://www.bat.org/help/skills.php?str=attack
+ 206. http://www.bat.org/help/skills.php?str=parry
+ 207. http://www.bat.org/help/skills.php?str=dodge
+ 208. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 209. http://www.bat.org/help/skills.php?str=throw_weight
+ 210. http://www.bat.org/help/skills.php?str=short_blades
+ 211. http://www.bat.org/help/skills.php?str=stab
+ 212. http://www.bat.org/help/skills.php?str=bludgeons
+ 213. http://www.bat.org/help/skills.php?str=whips
+ 214. http://www.bat.org/help/skills.php?str=pound
+ 215. http://www.bat.org/help/skills.php?str=combat_sense
+ 216. http://www.bat.org/help/skills.php?str=alertness
+ 217. http://www.bat.org/help/skills.php?str=riding
+ 218. http://www.bat.org/help/skills.php?str=butchering
+ 219. http://www.bat.org/help/skills.php?str=rebuke
+ 220. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 221. http://www.bat.org/help/skills.php?str=tame_mount
+ 222. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 223. http://www.bat.org/help/skills.php?str=combat_riding
+ 224. http://www.bat.org/help/skills.php?str=heel
+ 225. http://www.bat.org/help/skills.php?str=stay
+ 226. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 227. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 228. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 229. http://www.bat.org/help/skills.php?str=trample
+ 230. http://www.bat.org/help/skills.php?str=guided_strike
+ 231. http://www.bat.org/help/skills.php?str=combat_riding
+ 232. http://www.bat.org/help/skills.php?str=rebuke
+ 233. http://www.bat.org/help/skills.php?str=trample
+ 234. http://www.bat.org/help/skills.php?str=heel
+ 235. http://www.bat.org/help/skills.php?str=stay
+ 236. http://www.bat.org/help/skills.php?str=riding
+ 237. http://www.bat.org/help/skills.php?str=attack
+ 238. http://www.bat.org/help/skills.php?str=parry
+ 239. http://www.bat.org/help/skills.php?str=dodge
+ 240. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 241. http://www.bat.org/help/skills.php?str=throw_weight
+ 242. http://www.bat.org/help/skills.php?str=stab
+ 243. http://www.bat.org/help/skills.php?str=pound
+ 244. http://www.bat.org/help/skills.php?str=combat_sense
+ 245. http://www.bat.org/help/skills.php?str=alertness
+ 246. http://www.bat.org/help/skills.php?str=riding
+ 247. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 248. http://www.bat.org/help/skills.php?str=tame_mount
+ 249. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 250. http://www.bat.org/help/skills.php?str=combat_riding
+ 251. http://www.bat.org/help/skills.php?str=heel
+ 252. http://www.bat.org/help/skills.php?str=stay
+ 253. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 254. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 255. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 256. http://www.bat.org/help/skills.php?str=trample
+ 257. http://www.bat.org/help/skills.php?str=guided_strike
+ 258. http://www.bat.org/help/skills.php?str=combat_riding
+ 259. http://www.bat.org/help/skills.php?str=rebuke
+ 260. http://www.bat.org/help/skills.php?str=trample
+ 261. http://www.bat.org/help/skills.php?str=attack
+ 262. http://www.bat.org/help/skills.php?str=parry
+ 263. http://www.bat.org/help/skills.php?str=dodge
+ 264. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 265. http://www.bat.org/help/skills.php?str=throw_weight
+ 266. http://www.bat.org/help/skills.php?str=stab
+ 267. http://www.bat.org/help/skills.php?str=pound
+ 268. http://www.bat.org/help/skills.php?str=combat_sense
+ 269. http://www.bat.org/help/skills.php?str=alertness
+ 270. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 271. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 272. http://www.bat.org/help/skills.php?str=combat_riding
+ 273. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 274. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 275. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 276. http://www.bat.org/help/skills.php?str=trample
+ 277. http://www.bat.org/help/skills.php?str=guided_strike
+ 278. http://www.bat.org/help/skills.php?str=combat_riding
+ 279. http://www.bat.org/help/skills.php?str=rebuke
+ 280. http://www.bat.org/help/skills.php?str=trample
+ 281. http://www.bat.org/help/skills.php?str=attack
+ 282. http://www.bat.org/help/skills.php?str=parry
+ 283. http://www.bat.org/help/skills.php?str=dodge
+ 284. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 285. http://www.bat.org/help/skills.php?str=throw_weight
+ 286. http://www.bat.org/help/skills.php?str=stab
+ 287. http://www.bat.org/help/skills.php?str=pound
+ 288. http://www.bat.org/help/skills.php?str=combat_sense
+ 289. http://www.bat.org/help/skills.php?str=alertness
+ 290. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 291. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 292. http://www.bat.org/help/skills.php?str=combat_riding
+ 293. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 294. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 295. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 296. http://www.bat.org/help/skills.php?str=trample
+ 297. http://www.bat.org/help/skills.php?str=guided_strike
+ 298. http://www.bat.org/help/skills.php?str=combat_riding
+ 299. http://www.bat.org/help/skills.php?str=rebuke
+ 300. http://www.bat.org/help/skills.php?str=trample
+ 301. http://www.bat.org/help/skills.php?str=calm_animal
+ 302. http://www.bat.org/help/skills.php?str=ride_underground
+ 303. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 304. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 305. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 306. http://www.bat.org/help/skills.php?str=rebuke
+ 307. http://www.bat.org/help/skills.php?str=attack
+ 308. http://www.bat.org/help/skills.php?str=parry
+ 309. http://www.bat.org/help/skills.php?str=dodge
+ 310. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 311. http://www.bat.org/help/skills.php?str=throw_weight
+ 312. http://www.bat.org/help/skills.php?str=stab
+ 313. http://www.bat.org/help/skills.php?str=pound
+ 314. http://www.bat.org/help/skills.php?str=combat_sense
+ 315. http://www.bat.org/help/skills.php?str=alertness
+ 316. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 317. http://www.bat.org/help/skills.php?str=combat_riding
+ 318. http://www.bat.org/help/skills.php?str=trample
+ 319. http://www.bat.org/help/skills.php?str=guided_strike
+ 320. http://www.bat.org/help/skills.php?str=combat_riding
+ 321. http://www.bat.org/help/skills.php?str=rebuke
+ 322. http://www.bat.org/help/skills.php?str=trample
+ 323. http://www.bat.org/help/skills.php?str=calm_animal
+ 324. http://www.bat.org/help/skills.php?str=ride_underground
+ 325. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 326. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 327. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 328. http://www.bat.org/help/skills.php?str=rebuke
+ 329. http://www.bat.org/help/skills.php?str=attack
+ 330. http://www.bat.org/help/skills.php?str=parry
+ 331. http://www.bat.org/help/skills.php?str=dodge
+ 332. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 333. http://www.bat.org/help/skills.php?str=throw_weight
+ 334. http://www.bat.org/help/skills.php?str=stab
+ 335. http://www.bat.org/help/skills.php?str=pound
+ 336. http://www.bat.org/help/skills.php?str=combat_sense
+ 337. http://www.bat.org/help/skills.php?str=alertness
+ 338. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 339. http://www.bat.org/help/skills.php?str=combat_riding
+ 340. http://www.bat.org/help/skills.php?str=trample
+ 341. http://www.bat.org/help/skills.php?str=guided_strike
+ 342. http://www.bat.org/help/skills.php?str=combat_riding
+ 343. http://www.bat.org/help/skills.php?str=rebuke
+ 344. http://www.bat.org/help/skills.php?str=trample
+ 345. http://www.bat.org/help/skills.php?str=calm_animal
+ 346. http://www.bat.org/help/skills.php?str=ride_underground
+ 347. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 348. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 349. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 350. http://www.bat.org/help/skills.php?str=rebuke
+ 351. http://www.bat.org/help/skills.php?str=combat_riding
+ 352. http://www.bat.org/help/skills.php?str=trample
+ 353. http://www.bat.org/help/skills.php?str=attack
+ 354. http://www.bat.org/help/skills.php?str=parry
+ 355. http://www.bat.org/help/skills.php?str=dodge
+ 356. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 357. http://www.bat.org/help/skills.php?str=throw_weight
+ 358. http://www.bat.org/help/skills.php?str=combat_sense
+ 359. http://www.bat.org/help/skills.php?str=alertness
+ 360. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 361. http://www.bat.org/help/skills.php?str=combat_riding
+ 362. http://www.bat.org/help/skills.php?str=trample
+ 363. http://www.bat.org/help/skills.php?str=guided_strike
+ 364. http://www.bat.org/help/skills.php?str=combat_riding
+ 365. http://www.bat.org/help/skills.php?str=rebuke
+ 366. http://www.bat.org/help/skills.php?str=trample
+ 367. http://www.bat.org/help/skills.php?str=calm_animal
+ 368. http://www.bat.org/help/skills.php?str=ride_underground
+ 369. http://www.bat.org/help/skills.php?str=ride_through_flame
+ 370. http://www.bat.org/help/skills.php?str=ride_through_frost
+ 371. http://www.bat.org/help/skills.php?str=ride_through_pain
+ 372. http://www.bat.org/help/skills.php?str=rebuke
+ 373. http://www.bat.org/help/guilds.php
+ 374. mailto:webmaster@bat.org
+
+   Hidden links:
+ 375. http://www.bat.org/bat.php

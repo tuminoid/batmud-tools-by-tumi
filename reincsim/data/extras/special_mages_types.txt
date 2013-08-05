@@ -1,0 +1,119 @@
+# Type costs single blast 1->100
+# @Murrough | Exp cost from 1% to 100%  =  24356310           |
+# @Murrough | Exp cost from 1% to 100%  =  30445348           |
+# @Murrough | Exp cost from 1% to 100%  =  36534442           |
+# @Murrough | Exp cost from 1% to 100%  =  42623507           |
+# @Murrough | Exp cost from 1% to 100%  =  48712620           |
+# @Murrough | Exp cost from 1% to 100%  =  54801658           |
+# @Murrough | Exp cost from 1% to 100%  =  60890752           |
+
+# Type costs single blast 1->90
+# @Murrough | Exp cost from 1% to  90%  =   7464337           |
+# @Murrough | Exp cost from 1% to  90%  =   9330386           |
+# @Murrough | Exp cost from 1% to  90%  =  11196484           |
+# @Murrough | Exp cost from 1% to  90%  =  13062558           |
+# @Murrough | Exp cost from 1% to  90%  =  14928674           |
+# @Murrough | Exp cost from 1% to  90%  =  16794723           |
+# @Murrough | Exp cost from 1% to  90%  =  18660821           |
+
+
+# ACID
+disruption=acid
+acid_wind=acid
+acid_arrow=acid
+acid_ray=acid
+acid_blast=acid
+
+acid_rain=acid
+acid_storm=acid
+
+cast_acid=acid
+theory_of_corrosion=acid
+
+
+#ASPHYXIATION
+vacuumbolt=asphyx
+suffocation=asphyx
+chaos_bolt=asphyx
+strangulation=asphyx
+blast_vacuum=asphyx
+
+vacuum_ball=asphyx
+vacuum_globe=asphyx
+
+cast_asphyxiation=asphyx
+knowledge_of_asphyxiation=asphyx
+
+
+#COLD
+chill touch=cold
+flaming ice=cold
+darkfire=cold
+icebolt=cold
+cold_ray=cold
+
+cone_of_cold=cold
+hailstorm=cold
+
+cast_cold=cold
+mastery_of_arctic_powers=cold
+
+
+#ELEC
+shocking_grasp=elec
+lightning_bolt=elec
+blast_lightning=elec
+forked_lightning=elec
+electrocution=elec
+
+chain_lightning=elec
+lightning_storm=elec
+
+cast_electricity=elec
+theory_of_electrical_engineering=elec
+
+
+#FIRE
+flame_arrow=fire
+firebolt=fire
+fire_blast=fire
+meteor_blast=fire
+lava_blast=fire
+
+meteor_swarm=fire
+lava_storm=fire
+
+cast_fire=fire
+theory_of_pyromania=fire
+
+
+#MANA
+magic_missile=mana
+summon_lesser_spores=mana
+levin_bolt=mana
+summon_greater_spores=mana
+golden_arrow=mana
+
+magic_wave=mana
+magic_eruption=mana
+
+cast_magical=mana
+knowledge_of_magic_lore=mana
+
+
+#POISON
+thorn_spray=poison
+poison_blast=poison
+venom_strike=poison
+power_blast=poison
+summon_carnal_spores=poison
+
+poison_spray=poison
+killing_cloud=poison
+
+cast_poison=poison
+knowledge_of_toxicology=poison
+
+
+
+

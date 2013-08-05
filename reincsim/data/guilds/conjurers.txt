@@ -1,0 +1,1073 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                       [fonter.php?str=The+Conjurers]
+
+                               The Conjurers
+
+   Command: conjurer
+   Creator: [22]Quadra
+   Maximum level: 25
+   Description:
+   Conjurers are the masters of the protection. They have masteried the
+   art of
+   creating magical protections and are often requested to party with the
+   best
+   adventurers.
+
+                                New Member
+               Background must be magical
+               Receive the amulet of protection of the Circle.
+               May train skill [23]Cast generic to 30%
+               May train skill [24]Cast protection to 20%
+               May train skill [25]Attack to 20%
+               May train skill [26]Essence eye to 20%
+               May study spell [27]Mirror image to 50%
+               May study spell [28]Magic missile to 40%
+               May study spell [29]Floating letters to 40%
+               May study spell [30]Infravision to 30%
+               May study spell [31]Water walking to 40%
+
+                                 Level 2
+                 May train skill [32]Cast generic to 45%
+                 May train skill [33]Cast protection to 31%
+                 May train skill [34]Cast magical to 40%
+                 May train skill [35]Attack to 24%
+                 May train skill [36]Essence eye to 28%
+                 May train skill [37]Ceremony to 20%
+                 May study spell [38]Mirror image to 66%
+                 May study spell [39]Magic missile to 48%
+                 May study spell [40]Floating letters to 50%
+                 May study spell [41]Infravision to 47%
+                 May study spell [42]Water walking to 60%
+                 May study spell [43]Blurred image to 40%
+                 May study spell [44]See magic to 20%
+
+                                 Level 3
+             Has studied spell [45]Blurred image to at least 40%
+             May train skill [46]Cast generic to 60%
+             May train skill [47]Cast protection to 42%
+             May train skill [48]Cast magical to 70%
+             May train skill [49]Cast information to 40%
+             May train skill [50]Attack to 28%
+             May train skill [51]Essence eye to 37%
+             May train skill [52]Ceremony to 36%
+             May study spell [53]Mirror image to 83%
+             May study spell [54]Magic missile to 57%
+             May study spell [55]Floating letters to 60%
+             May study spell [56]Infravision to 65%
+             May study spell [57]Water walking to 80%
+             May study spell [58]Blurred image to 55%
+             May study spell [59]See magic to 33%
+             May study spell [60]See invisible to 20%
+             May study spell [61]Suppress magic to 20%
+             May study spell [62]Displacement to 40%
+
+                                 Level 4
+             Has studied spell [63]Blurred image to at least 55%
+             Has studied spell [64]Displacement to at least 40%
+             May train skill [65]Cast protection to 54%
+             May train skill [66]Cast generic to 70%
+             May train skill [67]Cast magical to 100%
+             May train skill [68]Cast information to 70%
+             May train skill [69]Cast control to 40%
+             May train skill [70]Attack to 32%
+             May train skill [71]Essence eye to 46%
+             May train skill [72]Ceremony to 52%
+             May train skill [73]Mana control to 20%
+             May study spell [74]Mirror image to 100%
+             May study spell [75]Magic missile to 65%
+             May study spell [76]Floating letters to 70%
+             May study spell [77]Infravision to 82%
+             May study spell [78]Water walking to 100%
+             May study spell [79]Blurred image to 70%
+             May study spell [80]See magic to 46%
+             May study spell [81]See invisible to 33%
+             May study spell [82]Suppress magic to 31%
+             May study spell [83]Displacement to 52%
+             May study spell [84]Feather weight to 20%
+             May study spell [85]Floating disc to 20%
+
+                                 Level 5
+             Has trained skill [86]Cast generic to at least 68%
+             Has studied spell [87]Blurred image to at least 70%
+             Has studied spell [88]Displacement to at least 52%
+             May train skill [89]Cast protection to 65%
+             May train skill [90]Cast generic to 77%
+             May train skill [91]Cast information to 100%
+             May train skill [92]Cast control to 70%
+             May train skill [93]Cast transformation to 40%
+             May train skill [94]Attack to 37%
+             May train skill [95]Essence eye to 55%
+             May train skill [96]Ceremony to 68%
+             May train skill [97]Mana control to 33%
+             May study spell [98]Magic missile to 74%
+             May study spell [99]Floating letters to 80%
+             May study spell [100]Infravision to 100%
+             May study spell [101]Blurred image to 85%
+             May study spell [102]See magic to 59%
+             May study spell [103]See invisible to 46%
+             May study spell [104]Suppress magic to 42%
+             May study spell [105]Displacement to 64%
+             May study spell [106]Feather weight to 36%
+             May study spell [107]Floating disc to 33%
+             May study spell [108]Shield of protection to 40%
+
+                                 Level 6
+         Has trained skill [109]Cast generic to at least 70%
+         Has studied spell [110]Blurred image to at least 85%
+         Has studied spell [111]Displacement to at least 64%
+         Has studied spell [112]Shield of protection to at least 40%
+         May train skill [113]Cast protection to 77%
+         May train skill [114]Cast generic to 85%
+         May train skill [115]Cast control to 100%
+         May train skill [116]Cast transformation to 70%
+         May train skill [117]Cast teleportation to 40%
+         May train skill [118]Attack to 41%
+         May train skill [119]Essence eye to 64%
+         May train skill [120]Ceremony to 84%
+         May train skill [121]Mana control to 46%
+         May study spell [122]Magic missile to 82%
+         May study spell [123]Blurred image to 100%
+         May study spell [124]See magic to 73%
+         May study spell [125]See invisible to 59%
+         May study spell [126]Suppress magic to 54%
+         May study spell [127]Displacement to 76%
+         May study spell [128]Feather weight to 52%
+         May study spell [129]Floating disc to 46%
+         May study spell [130]Shield of protection to 50%
+         May study spell [131]Aura detection to 20%
+
+                                 Level 7
+         Has trained skill [132]Cast generic to at least 72%
+         Has studied spell [133]Displacement to at least 76%
+         Has studied spell [134]Shield of protection to at least 50%
+         May train skill [135]Cast protection to 88%
+         May train skill [136]Cast generic to 92%
+         May train skill [137]Cast transformation to 100%
+         May train skill [138]Cast teleportation to 70%
+         May train skill [139]Cast help to 40%
+         May train skill [140]Attack to 45%
+         May train skill [141]Essence eye to 73%
+         May train skill [142]Ceremony to 100%
+         May train skill [143]Mana control to 59%
+         May study spell [144]Magic missile to 91%
+         May study spell [145]See magic to 86%
+         May study spell [146]See invisible to 73%
+         May study spell [147]Suppress magic to 65%
+         May study spell [148]Displacement to 88%
+         May study spell [149]Feather weight to 68%
+         May study spell [150]Floating disc to 59%
+         May study spell [151]Shield of protection to 60%
+         May study spell [152]Aura detection to 33%
+         May study spell [153]Invisibility to 30%
+
+                                 Level 8
+         Has trained skill [154]Cast generic to at least 75%
+         Has studied spell [155]Displacement to at least 88%
+         Has studied spell [156]Shield of protection to at least 60%
+         May train skill [157]Cast protection to 100%
+         May train skill [158]Cast generic to 100%
+         May train skill [159]Cast teleportation to 100%
+         May train skill [160]Cast help to 70%
+         May train skill [161]Cast heal to 40%
+         May train skill [162]Attack to 50%
+         May train skill [163]Essence eye to 82%
+         May train skill [164]Mana control to 73%
+         May study spell [165]Magic missile to 100%
+         May study spell [166]See magic to 100%
+         May study spell [167]See invisible to 86%
+         May study spell [168]Suppress magic to 77%
+         May study spell [169]Displacement to 100%
+         May study spell [170]Feather weight to 84%
+         May study spell [171]Floating disc to 73%
+         May study spell [172]Shield of protection to 70%
+         May study spell [173]Aura detection to 46%
+         May study spell [174]Invisibility to 40%
+
+                                 Level 9
+         Has studied spell [175]Shield of protection to at least 70%
+         May train skill [176]Cast help to 100%
+         May train skill [177]Cast heal to 70%
+         May train skill [178]Cast special to 40%
+         May train skill [179]Essence eye to 91%
+         May train skill [180]Mana control to 86%
+         May study spell [181]See invisible to 100%
+         May study spell [182]Suppress magic to 88%
+         May study spell [183]Feather weight to 100%
+         May study spell [184]Floating disc to 86%
+         May study spell [185]Shield of protection to 80%
+         May study spell [186]Aura detection to 59%
+         May study spell [187]Invisibility to 50%
+         May study spell [188]Heal self to 40%
+
+                                 Level 10
+         Has studied spell [189]Shield of protection to at least 80%
+         May train skill [190]Cast heal to 100%
+         May train skill [191]Cast special to 70%
+         May train skill [192]Essence eye to 100%
+         May train skill [193]Mana control to 100%
+         May study spell [194]Suppress magic to 100%
+         May study spell [195]Floating disc to 100%
+         May study spell [196]Shield of protection to 90%
+         May study spell [197]Aura detection to 73%
+         May study spell [198]Invisibility to 60%
+         May study spell [199]Heal self to 46%
+         May study spell [200]Restore to 30%
+         May study spell [201]Force absorption to 40%
+         May study spell [202]Magic dispersion to 40%
+         May study spell [203]Heat reduction to 40%
+         May study spell [204]Frost insulation to 40%
+         May study spell [205]Toxic dilution to 40%
+         May study spell [206]Energy channeling to 40%
+         May study spell [207]Ether boundary to 40%
+         May study spell [208]Psychic sanctuary to 40%
+         May study spell [209]Corrosion shield to 40%
+
+                                 Level 11
+         Has studied spell [210]Shield of protection to at least 90%
+         May train skill [211]Cast special to 100%
+         May study spell [212]Shield of protection to 100%
+         May study spell [213]Aura detection to 86%
+         May study spell [214]Invisibility to 70%
+         May study spell [215]Heal self to 53%
+         May study spell [216]Restore to 40%
+         May study spell [217]Quicksilver to 30%
+         May study spell [218]Force absorption to 47%
+         May study spell [219]Magic dispersion to 47%
+         May study spell [220]Heat reduction to 47%
+         May study spell [221]Frost insulation to 47%
+         May study spell [222]Toxic dilution to 47%
+         May study spell [223]Energy channeling to 47%
+         May study spell [224]Ether boundary to 47%
+         May study spell [225]Psychic sanctuary to 47%
+         May study spell [226]Corrosion shield to 47%
+
+                                 Level 12
+               May train skill [227]Mastery of shielding to 20%
+               May study spell [228]Aura detection to 100%
+               May study spell [229]Invisibility to 80%
+               May study spell [230]Heal self to 59%
+               May study spell [231]Restore to 50%
+               May study spell [232]Quicksilver to 40%
+               May study spell [233]Iron will to 40%
+               May study spell [234]Force absorption to 55%
+               May study spell [235]Magic dispersion to 55%
+               May study spell [236]Heat reduction to 55%
+               May study spell [237]Frost insulation to 55%
+               May study spell [238]Toxic dilution to 55%
+               May study spell [239]Energy channeling to 55%
+               May study spell [240]Ether boundary to 55%
+               May study spell [241]Psychic sanctuary to 55%
+               May study spell [242]Corrosion shield to 55%
+
+                                 Level 13
+         Has trained skill [243]Mastery of shielding to at least 18%
+         Has studied spell [244]Iron will to at least 40%
+         May train skill [245]Mastery of shielding to 26%
+         May study spell [246]Invisibility to 90%
+         May study spell [247]Heal self to 66%
+         May study spell [248]Restore to 60%
+         May study spell [249]Quicksilver to 50%
+         May study spell [250]Iron will to 48%
+         May study spell [251]Create food to 30%
+         May study spell [252]Force absorption to 62%
+         May study spell [253]Magic dispersion to 62%
+         May study spell [254]Heat reduction to 62%
+         May study spell [255]Frost insulation to 62%
+         May study spell [256]Toxic dilution to 62%
+         May study spell [257]Energy channeling to 62%
+         May study spell [258]Ether boundary to 62%
+         May study spell [259]Psychic sanctuary to 62%
+         May study spell [260]Corrosion shield to 62%
+
+                                 Level 14
+         Has trained skill [261]Mastery of shielding to at least 20%
+         Has studied spell [262]Iron will to at least 48%
+         May train skill [263]Mastery of shielding to 32%
+         May study spell [264]Heal self to 73%
+         May study spell [265]Restore to 70%
+         May study spell [266]Quicksilver to 60%
+         May study spell [267]Iron will to 57%
+         May study spell [268]Create food to 47%
+         May study spell [269]Shelter to 40%
+         May study spell [270]Force absorption to 70%
+         May study spell [271]Magic dispersion to 70%
+         May study spell [272]Heat reduction to 70%
+         May study spell [273]Frost insulation to 70%
+         May study spell [274]Toxic dilution to 70%
+         May study spell [275]Energy channeling to 70%
+         May study spell [276]Ether boundary to 70%
+         May study spell [277]Psychic sanctuary to 70%
+         May study spell [278]Corrosion shield to 70%
+
+                                 Level 15
+         Has trained skill [279]Mastery of shielding to at least 22%
+         Has studied spell [280]Iron will to at least 57%
+         Has studied spell [281]Shelter to at least 40%
+         May train skill [282]Mastery of shielding to 38%
+         May train skill [283]Quick chant to 20%
+         May study spell [284]Heal self to 80%
+         May study spell [285]Restore to 80%
+         May study spell [286]Quicksilver to 70%
+         May study spell [287]Iron will to 65%
+         May study spell [288]Create food to 65%
+         May study spell [289]Shelter to 50%
+         May study spell [290]Neutralize field to 40%
+         May study spell [291]Force absorption to 77%
+         May study spell [292]Magic dispersion to 77%
+         May study spell [293]Heat reduction to 77%
+         May study spell [294]Frost insulation to 77%
+         May study spell [295]Toxic dilution to 77%
+         May study spell [296]Energy channeling to 77%
+         May study spell [297]Ether boundary to 77%
+         May study spell [298]Psychic sanctuary to 77%
+         May study spell [299]Corrosion shield to 77%
+
+                                 Level 16
+         Has trained skill [300]Mastery of shielding to at least 24%
+         Has trained skill [301]Quick chant to at least 18%
+         Has studied spell [302]Iron will to at least 65%
+         Has studied spell [303]Shelter to at least 50%
+         Has studied spell [304]Neutralize field to at least 40%
+         May train skill [305]Mastery of shielding to 44%
+         May train skill [306]Quick chant to 26%
+         May study spell [307]Restore to 90%
+         May study spell [308]Quicksilver to 80%
+         May study spell [309]Iron will to 74%
+         May study spell [310]Create food to 82%
+         May study spell [311]Shelter to 60%
+         May study spell [312]Neutralize field to 52%
+         May study spell [313]Identify to 20%
+         May study spell [314]Force absorption to 85%
+         May study spell [315]Magic dispersion to 85%
+         May study spell [316]Heat reduction to 85%
+         May study spell [317]Frost insulation to 85%
+         May study spell [318]Toxic dilution to 85%
+         May study spell [319]Energy channeling to 85%
+         May study spell [320]Ether boundary to 85%
+         May study spell [321]Psychic sanctuary to 85%
+         May study spell [322]Corrosion shield to 85%
+
+                                 Level 17
+         Has trained skill [323]Mastery of shielding to at least 26%
+         Has trained skill [324]Quick chant to at least 20%
+         Has studied spell [325]Iron will to at least 74%
+         Has studied spell [326]Shelter to at least 60%
+         Has studied spell [327]Neutralize field to at least 52%
+         May train skill [328]Mastery of shielding to 50%
+         May train skill [329]Quick chant to 32%
+         May study spell [330]Restore to 100%
+         May study spell [331]Quicksilver to 90%
+         May study spell [332]Iron will to 82%
+         May study spell [333]Create food to 100%
+         May study spell [334]Shelter to 70%
+         May study spell [335]Neutralize field to 64%
+         May study spell [336]Identify to 36%
+         May study spell [337]Word of recall to 50%
+         May study spell [338]Force absorption to 92%
+         May study spell [339]Magic dispersion to 92%
+         May study spell [340]Heat reduction to 92%
+         May study spell [341]Frost insulation to 92%
+         May study spell [342]Toxic dilution to 92%
+         May study spell [343]Energy channeling to 92%
+         May study spell [344]Ether boundary to 92%
+         May study spell [345]Psychic sanctuary to 92%
+         May study spell [346]Corrosion shield to 92%
+
+                                 Level 18
+         Has trained skill [347]Mastery of shielding to at least 28%
+         Has trained skill [348]Quick chant to at least 22%
+         Has studied spell [349]Iron will to at least 82%
+         Has studied spell [350]Shelter to at least 70%
+         Has studied spell [351]Neutralize field to at least 64%
+         May train skill [352]Mastery of shielding to 56%
+         May train skill [353]Quick chant to 38%
+         May study spell [354]Quicksilver to 100%
+         May study spell [355]Iron will to 91%
+         May study spell [356]Shelter to 80%
+         May study spell [357]Neutralize field to 76%
+         May study spell [358]Identify to 52%
+         May study spell [359]Word of recall to 57%
+         May study spell [360]Resist disintegrate to 50%
+         May study spell [361]Force absorption to 100%
+         May study spell [362]Magic dispersion to 100%
+         May study spell [363]Heat reduction to 100%
+         May study spell [364]Frost insulation to 100%
+         May study spell [365]Toxic dilution to 100%
+         May study spell [366]Energy channeling to 100%
+         May study spell [367]Ether boundary to 100%
+         May study spell [368]Psychic sanctuary to 100%
+         May study spell [369]Corrosion shield to 100%
+
+                                 Level 19
+         Has trained skill [370]Mastery of shielding to at least 30%
+         Has trained skill [371]Quick chant to at least 24%
+         Has studied spell [372]Iron will to at least 91%
+         Has studied spell [373]Shelter to at least 80%
+         Has studied spell [374]Neutralize field to at least 76%
+         May train skill [375]Mastery of shielding to 63%
+         May train skill [376]Quick chant to 44%
+         May study spell [377]Iron will to 100%
+         May study spell [378]Shelter to 90%
+         May study spell [379]Neutralize field to 88%
+         May study spell [380]Identify to 68%
+         May study spell [381]Word of recall to 65%
+         May study spell [382]Resist disintegrate to 62%
+         May study spell [383]Resist entropy to 30%
+
+                                 Level 20
+         Has trained skill [384]Mastery of shielding to at least 32%
+         Has trained skill [385]Quick chant to at least 26%
+         Has studied spell [386]Shelter to at least 90%
+         Has studied spell [387]Neutralize field to at least 88%
+         May train skill [388]Mastery of shielding to 69%
+         May train skill [389]Quick chant to 50%
+         May study spell [390]Shelter to 100%
+         May study spell [391]Neutralize field to 100%
+         May study spell [392]Identify to 84%
+         May study spell [393]Word of recall to 72%
+         May study spell [394]Resist disintegrate to 75%
+         May study spell [395]Resist entropy to 47%
+         May study spell [396]Resist gaseous form to 20%
+
+                                 Level 21
+         Has trained skill [397]Mastery of shielding to at least 34%
+         Has trained skill [398]Quick chant to at least 28%
+         May train skill [399]Mastery of shielding to 75%
+         May train skill [400]Quick chant to 56%
+         May study spell [401]Identify to 100%
+         May study spell [402]Word of recall to 80%
+         May study spell [403]Resist disintegrate to 87%
+         May study spell [404]Resist entropy to 65%
+         May study spell [405]Resist gaseous form to 46%
+         May study spell [406]Create air armour to 20%
+         May study spell [407]Armour of aether to 20%
+         May study spell [408]Repulsor aura to 20%
+         May study spell [409]Flame shield to 20%
+         May study spell [410]Frost shield to 20%
+         May study spell [411]Shield of detoxification to 20%
+         May study spell [412]Lightning shield to 20%
+         May study spell [413]Aura of wind to 20%
+         May study spell [414]Psionic phalanx to 20%
+         May study spell [415]Acid shield to 20%
+
+                                 Level 22
+         Has trained skill [416]Mastery of shielding to at least 36%
+         Has trained skill [417]Quick chant to at least 30%
+         May train skill [418]Mastery of shielding to 81%
+         May train skill [419]Quick chant to 62%
+         May study spell [420]Resist disintegrate to 100%
+         May study spell [421]Resist entropy to 82%
+         May study spell [422]Resist gaseous form to 73%
+         May study spell [423]Create air armour to 46%
+         May study spell [424]Anti magic field to 40%
+         May study spell [425]Armour of aether to 40%
+         May study spell [426]Repulsor aura to 40%
+         May study spell [427]Flame shield to 40%
+         May study spell [428]Frost shield to 40%
+         May study spell [429]Shield of detoxification to 40%
+         May study spell [430]Lightning shield to 40%
+         May study spell [431]Aura of wind to 40%
+         May study spell [432]Psionic phalanx to 40%
+         May study spell [433]Acid shield to 40%
+
+                                 Level 23
+         Has trained skill [434]Mastery of shielding to at least 38%
+         Has trained skill [435]Quick chant to at least 32%
+         May train skill [436]Mastery of shielding to 87%
+         May train skill [437]Quick chant to 68%
+         May study spell [438]Resist entropy to 100%
+         May study spell [439]Resist gaseous form to 100%
+         May study spell [440]Create air armour to 73%
+         May study spell [441]Anti magic field to 70%
+         May study spell [442]Dispel magical protection to 40%
+         May study spell [443]Armour of aether to 60%
+         May study spell [444]Repulsor aura to 60%
+         May study spell [445]Flame shield to 60%
+         May study spell [446]Frost shield to 60%
+         May study spell [447]Shield of detoxification to 60%
+         May study spell [448]Lightning shield to 60%
+         May study spell [449]Aura of wind to 60%
+         May study spell [450]Psionic phalanx to 60%
+         May study spell [451]Acid shield to 60%
+
+                                 Level 24
+         Has trained skill [452]Mastery of shielding to at least 40%
+         Has trained skill [453]Quick chant to at least 34%
+         May train skill [454]Mastery of shielding to 93%
+         May train skill [455]Quick chant to 74%
+         May study spell [456]Create air armour to 100%
+         May study spell [457]Anti magic field to 100%
+         May study spell [458]Dispel magical protection to 70%
+         May study spell [459]Resist dispel to 40%
+         May study spell [460]Armour of aether to 80%
+         May study spell [461]Repulsor aura to 80%
+         May study spell [462]Flame shield to 80%
+         May study spell [463]Frost shield to 80%
+         May study spell [464]Shield of detoxification to 80%
+         May study spell [465]Lightning shield to 80%
+         May study spell [466]Aura of wind to 80%
+         May study spell [467]Psionic phalanx to 80%
+         May study spell [468]Acid shield to 80%
+
+                                 Level 25
+         Has trained skill [469]Mastery of shielding to at least 42%
+         Has trained skill [470]Quick chant to at least 36%
+         Has studied spell [471]Resist dispel to at least 40%
+         May train skill [472]Mastery of shielding to 100%
+         May train skill [473]Quick chant to 80%
+         May study spell [474]Dispel magical protection to 100%
+         May study spell [475]Resist dispel to 100%
+         May study spell [476]Armour of aether to 100%
+         May study spell [477]Repulsor aura to 100%
+         May study spell [478]Flame shield to 100%
+         May study spell [479]Frost shield to 100%
+         May study spell [480]Shield of detoxification to 100%
+         May study spell [481]Lightning shield to 100%
+         May study spell [482]Aura of wind to 100%
+         May study spell [483]Psionic phalanx to 100%
+         May study spell [484]Acid shield to 100%
+
+                   Allows joining to the following guild:
+                     The Conjurers
+
+   [485]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [486]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Conjurers&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Conjurers&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Conjurers&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=quadra
+  23. http://www.bat.org/help/skills.php?str=cast_generic
+  24. http://www.bat.org/help/skills.php?str=cast_protection
+  25. http://www.bat.org/help/skills.php?str=attack
+  26. http://www.bat.org/help/skills.php?str=essence_eye
+  27. http://www.bat.org/help/spells.php?str=mirror_image
+  28. http://www.bat.org/help/spells.php?str=magic_missile
+  29. http://www.bat.org/help/spells.php?str=floating_letters
+  30. http://www.bat.org/help/spells.php?str=infravision
+  31. http://www.bat.org/help/spells.php?str=water_walking
+  32. http://www.bat.org/help/skills.php?str=cast_generic
+  33. http://www.bat.org/help/skills.php?str=cast_protection
+  34. http://www.bat.org/help/skills.php?str=cast_magical
+  35. http://www.bat.org/help/skills.php?str=attack
+  36. http://www.bat.org/help/skills.php?str=essence_eye
+  37. http://www.bat.org/help/skills.php?str=ceremony
+  38. http://www.bat.org/help/spells.php?str=mirror_image
+  39. http://www.bat.org/help/spells.php?str=magic_missile
+  40. http://www.bat.org/help/spells.php?str=floating_letters
+  41. http://www.bat.org/help/spells.php?str=infravision
+  42. http://www.bat.org/help/spells.php?str=water_walking
+  43. http://www.bat.org/help/spells.php?str=blurred_image
+  44. http://www.bat.org/help/spells.php?str=see_magic
+  45. http://www.bat.org/help/spells.php?str=blurred_image
+  46. http://www.bat.org/help/skills.php?str=cast_generic
+  47. http://www.bat.org/help/skills.php?str=cast_protection
+  48. http://www.bat.org/help/skills.php?str=cast_magical
+  49. http://www.bat.org/help/skills.php?str=cast_information
+  50. http://www.bat.org/help/skills.php?str=attack
+  51. http://www.bat.org/help/skills.php?str=essence_eye
+  52. http://www.bat.org/help/skills.php?str=ceremony
+  53. http://www.bat.org/help/spells.php?str=mirror_image
+  54. http://www.bat.org/help/spells.php?str=magic_missile
+  55. http://www.bat.org/help/spells.php?str=floating_letters
+  56. http://www.bat.org/help/spells.php?str=infravision
+  57. http://www.bat.org/help/spells.php?str=water_walking
+  58. http://www.bat.org/help/spells.php?str=blurred_image
+  59. http://www.bat.org/help/spells.php?str=see_magic
+  60. http://www.bat.org/help/spells.php?str=see_invisible
+  61. http://www.bat.org/help/spells.php?str=suppress_magic
+  62. http://www.bat.org/help/spells.php?str=displacement
+  63. http://www.bat.org/help/spells.php?str=blurred_image
+  64. http://www.bat.org/help/spells.php?str=displacement
+  65. http://www.bat.org/help/skills.php?str=cast_protection
+  66. http://www.bat.org/help/skills.php?str=cast_generic
+  67. http://www.bat.org/help/skills.php?str=cast_magical
+  68. http://www.bat.org/help/skills.php?str=cast_information
+  69. http://www.bat.org/help/skills.php?str=cast_control
+  70. http://www.bat.org/help/skills.php?str=attack
+  71. http://www.bat.org/help/skills.php?str=essence_eye
+  72. http://www.bat.org/help/skills.php?str=ceremony
+  73. http://www.bat.org/help/skills.php?str=mana_control
+  74. http://www.bat.org/help/spells.php?str=mirror_image
+  75. http://www.bat.org/help/spells.php?str=magic_missile
+  76. http://www.bat.org/help/spells.php?str=floating_letters
+  77. http://www.bat.org/help/spells.php?str=infravision
+  78. http://www.bat.org/help/spells.php?str=water_walking
+  79. http://www.bat.org/help/spells.php?str=blurred_image
+  80. http://www.bat.org/help/spells.php?str=see_magic
+  81. http://www.bat.org/help/spells.php?str=see_invisible
+  82. http://www.bat.org/help/spells.php?str=suppress_magic
+  83. http://www.bat.org/help/spells.php?str=displacement
+  84. http://www.bat.org/help/spells.php?str=feather_weight
+  85. http://www.bat.org/help/spells.php?str=floating_disc
+  86. http://www.bat.org/help/skills.php?str=cast_generic
+  87. http://www.bat.org/help/spells.php?str=blurred_image
+  88. http://www.bat.org/help/spells.php?str=displacement
+  89. http://www.bat.org/help/skills.php?str=cast_protection
+  90. http://www.bat.org/help/skills.php?str=cast_generic
+  91. http://www.bat.org/help/skills.php?str=cast_information
+  92. http://www.bat.org/help/skills.php?str=cast_control
+  93. http://www.bat.org/help/skills.php?str=cast_transformation
+  94. http://www.bat.org/help/skills.php?str=attack
+  95. http://www.bat.org/help/skills.php?str=essence_eye
+  96. http://www.bat.org/help/skills.php?str=ceremony
+  97. http://www.bat.org/help/skills.php?str=mana_control
+  98. http://www.bat.org/help/spells.php?str=magic_missile
+  99. http://www.bat.org/help/spells.php?str=floating_letters
+ 100. http://www.bat.org/help/spells.php?str=infravision
+ 101. http://www.bat.org/help/spells.php?str=blurred_image
+ 102. http://www.bat.org/help/spells.php?str=see_magic
+ 103. http://www.bat.org/help/spells.php?str=see_invisible
+ 104. http://www.bat.org/help/spells.php?str=suppress_magic
+ 105. http://www.bat.org/help/spells.php?str=displacement
+ 106. http://www.bat.org/help/spells.php?str=feather_weight
+ 107. http://www.bat.org/help/spells.php?str=floating_disc
+ 108. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 109. http://www.bat.org/help/skills.php?str=cast_generic
+ 110. http://www.bat.org/help/spells.php?str=blurred_image
+ 111. http://www.bat.org/help/spells.php?str=displacement
+ 112. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 113. http://www.bat.org/help/skills.php?str=cast_protection
+ 114. http://www.bat.org/help/skills.php?str=cast_generic
+ 115. http://www.bat.org/help/skills.php?str=cast_control
+ 116. http://www.bat.org/help/skills.php?str=cast_transformation
+ 117. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 118. http://www.bat.org/help/skills.php?str=attack
+ 119. http://www.bat.org/help/skills.php?str=essence_eye
+ 120. http://www.bat.org/help/skills.php?str=ceremony
+ 121. http://www.bat.org/help/skills.php?str=mana_control
+ 122. http://www.bat.org/help/spells.php?str=magic_missile
+ 123. http://www.bat.org/help/spells.php?str=blurred_image
+ 124. http://www.bat.org/help/spells.php?str=see_magic
+ 125. http://www.bat.org/help/spells.php?str=see_invisible
+ 126. http://www.bat.org/help/spells.php?str=suppress_magic
+ 127. http://www.bat.org/help/spells.php?str=displacement
+ 128. http://www.bat.org/help/spells.php?str=feather_weight
+ 129. http://www.bat.org/help/spells.php?str=floating_disc
+ 130. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 131. http://www.bat.org/help/spells.php?str=aura_detection
+ 132. http://www.bat.org/help/skills.php?str=cast_generic
+ 133. http://www.bat.org/help/spells.php?str=displacement
+ 134. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 135. http://www.bat.org/help/skills.php?str=cast_protection
+ 136. http://www.bat.org/help/skills.php?str=cast_generic
+ 137. http://www.bat.org/help/skills.php?str=cast_transformation
+ 138. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 139. http://www.bat.org/help/skills.php?str=cast_help
+ 140. http://www.bat.org/help/skills.php?str=attack
+ 141. http://www.bat.org/help/skills.php?str=essence_eye
+ 142. http://www.bat.org/help/skills.php?str=ceremony
+ 143. http://www.bat.org/help/skills.php?str=mana_control
+ 144. http://www.bat.org/help/spells.php?str=magic_missile
+ 145. http://www.bat.org/help/spells.php?str=see_magic
+ 146. http://www.bat.org/help/spells.php?str=see_invisible
+ 147. http://www.bat.org/help/spells.php?str=suppress_magic
+ 148. http://www.bat.org/help/spells.php?str=displacement
+ 149. http://www.bat.org/help/spells.php?str=feather_weight
+ 150. http://www.bat.org/help/spells.php?str=floating_disc
+ 151. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 152. http://www.bat.org/help/spells.php?str=aura_detection
+ 153. http://www.bat.org/help/spells.php?str=invisibility
+ 154. http://www.bat.org/help/skills.php?str=cast_generic
+ 155. http://www.bat.org/help/spells.php?str=displacement
+ 156. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 157. http://www.bat.org/help/skills.php?str=cast_protection
+ 158. http://www.bat.org/help/skills.php?str=cast_generic
+ 159. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 160. http://www.bat.org/help/skills.php?str=cast_help
+ 161. http://www.bat.org/help/skills.php?str=cast_heal
+ 162. http://www.bat.org/help/skills.php?str=attack
+ 163. http://www.bat.org/help/skills.php?str=essence_eye
+ 164. http://www.bat.org/help/skills.php?str=mana_control
+ 165. http://www.bat.org/help/spells.php?str=magic_missile
+ 166. http://www.bat.org/help/spells.php?str=see_magic
+ 167. http://www.bat.org/help/spells.php?str=see_invisible
+ 168. http://www.bat.org/help/spells.php?str=suppress_magic
+ 169. http://www.bat.org/help/spells.php?str=displacement
+ 170. http://www.bat.org/help/spells.php?str=feather_weight
+ 171. http://www.bat.org/help/spells.php?str=floating_disc
+ 172. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 173. http://www.bat.org/help/spells.php?str=aura_detection
+ 174. http://www.bat.org/help/spells.php?str=invisibility
+ 175. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 176. http://www.bat.org/help/skills.php?str=cast_help
+ 177. http://www.bat.org/help/skills.php?str=cast_heal
+ 178. http://www.bat.org/help/skills.php?str=cast_special
+ 179. http://www.bat.org/help/skills.php?str=essence_eye
+ 180. http://www.bat.org/help/skills.php?str=mana_control
+ 181. http://www.bat.org/help/spells.php?str=see_invisible
+ 182. http://www.bat.org/help/spells.php?str=suppress_magic
+ 183. http://www.bat.org/help/spells.php?str=feather_weight
+ 184. http://www.bat.org/help/spells.php?str=floating_disc
+ 185. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 186. http://www.bat.org/help/spells.php?str=aura_detection
+ 187. http://www.bat.org/help/spells.php?str=invisibility
+ 188. http://www.bat.org/help/spells.php?str=heal_self
+ 189. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 190. http://www.bat.org/help/skills.php?str=cast_heal
+ 191. http://www.bat.org/help/skills.php?str=cast_special
+ 192. http://www.bat.org/help/skills.php?str=essence_eye
+ 193. http://www.bat.org/help/skills.php?str=mana_control
+ 194. http://www.bat.org/help/spells.php?str=suppress_magic
+ 195. http://www.bat.org/help/spells.php?str=floating_disc
+ 196. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 197. http://www.bat.org/help/spells.php?str=aura_detection
+ 198. http://www.bat.org/help/spells.php?str=invisibility
+ 199. http://www.bat.org/help/spells.php?str=heal_self
+ 200. http://www.bat.org/help/spells.php?str=restore
+ 201. http://www.bat.org/help/spells.php?str=force_absorption
+ 202. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 203. http://www.bat.org/help/spells.php?str=heat_reduction
+ 204. http://www.bat.org/help/spells.php?str=frost_insulation
+ 205. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 206. http://www.bat.org/help/spells.php?str=energy_channeling
+ 207. http://www.bat.org/help/spells.php?str=ether_boundary
+ 208. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 209. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 210. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 211. http://www.bat.org/help/skills.php?str=cast_special
+ 212. http://www.bat.org/help/spells.php?str=shield_of_protection
+ 213. http://www.bat.org/help/spells.php?str=aura_detection
+ 214. http://www.bat.org/help/spells.php?str=invisibility
+ 215. http://www.bat.org/help/spells.php?str=heal_self
+ 216. http://www.bat.org/help/spells.php?str=restore
+ 217. http://www.bat.org/help/spells.php?str=quicksilver
+ 218. http://www.bat.org/help/spells.php?str=force_absorption
+ 219. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 220. http://www.bat.org/help/spells.php?str=heat_reduction
+ 221. http://www.bat.org/help/spells.php?str=frost_insulation
+ 222. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 223. http://www.bat.org/help/spells.php?str=energy_channeling
+ 224. http://www.bat.org/help/spells.php?str=ether_boundary
+ 225. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 226. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 227. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 228. http://www.bat.org/help/spells.php?str=aura_detection
+ 229. http://www.bat.org/help/spells.php?str=invisibility
+ 230. http://www.bat.org/help/spells.php?str=heal_self
+ 231. http://www.bat.org/help/spells.php?str=restore
+ 232. http://www.bat.org/help/spells.php?str=quicksilver
+ 233. http://www.bat.org/help/spells.php?str=iron_will
+ 234. http://www.bat.org/help/spells.php?str=force_absorption
+ 235. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 236. http://www.bat.org/help/spells.php?str=heat_reduction
+ 237. http://www.bat.org/help/spells.php?str=frost_insulation
+ 238. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 239. http://www.bat.org/help/spells.php?str=energy_channeling
+ 240. http://www.bat.org/help/spells.php?str=ether_boundary
+ 241. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 242. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 243. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 244. http://www.bat.org/help/spells.php?str=iron_will
+ 245. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 246. http://www.bat.org/help/spells.php?str=invisibility
+ 247. http://www.bat.org/help/spells.php?str=heal_self
+ 248. http://www.bat.org/help/spells.php?str=restore
+ 249. http://www.bat.org/help/spells.php?str=quicksilver
+ 250. http://www.bat.org/help/spells.php?str=iron_will
+ 251. http://www.bat.org/help/spells.php?str=create_food
+ 252. http://www.bat.org/help/spells.php?str=force_absorption
+ 253. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 254. http://www.bat.org/help/spells.php?str=heat_reduction
+ 255. http://www.bat.org/help/spells.php?str=frost_insulation
+ 256. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 257. http://www.bat.org/help/spells.php?str=energy_channeling
+ 258. http://www.bat.org/help/spells.php?str=ether_boundary
+ 259. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 260. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 261. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 262. http://www.bat.org/help/spells.php?str=iron_will
+ 263. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 264. http://www.bat.org/help/spells.php?str=heal_self
+ 265. http://www.bat.org/help/spells.php?str=restore
+ 266. http://www.bat.org/help/spells.php?str=quicksilver
+ 267. http://www.bat.org/help/spells.php?str=iron_will
+ 268. http://www.bat.org/help/spells.php?str=create_food
+ 269. http://www.bat.org/help/spells.php?str=shelter
+ 270. http://www.bat.org/help/spells.php?str=force_absorption
+ 271. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 272. http://www.bat.org/help/spells.php?str=heat_reduction
+ 273. http://www.bat.org/help/spells.php?str=frost_insulation
+ 274. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 275. http://www.bat.org/help/spells.php?str=energy_channeling
+ 276. http://www.bat.org/help/spells.php?str=ether_boundary
+ 277. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 278. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 279. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 280. http://www.bat.org/help/spells.php?str=iron_will
+ 281. http://www.bat.org/help/spells.php?str=shelter
+ 282. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 283. http://www.bat.org/help/skills.php?str=quick_chant
+ 284. http://www.bat.org/help/spells.php?str=heal_self
+ 285. http://www.bat.org/help/spells.php?str=restore
+ 286. http://www.bat.org/help/spells.php?str=quicksilver
+ 287. http://www.bat.org/help/spells.php?str=iron_will
+ 288. http://www.bat.org/help/spells.php?str=create_food
+ 289. http://www.bat.org/help/spells.php?str=shelter
+ 290. http://www.bat.org/help/spells.php?str=neutralize_field
+ 291. http://www.bat.org/help/spells.php?str=force_absorption
+ 292. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 293. http://www.bat.org/help/spells.php?str=heat_reduction
+ 294. http://www.bat.org/help/spells.php?str=frost_insulation
+ 295. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 296. http://www.bat.org/help/spells.php?str=energy_channeling
+ 297. http://www.bat.org/help/spells.php?str=ether_boundary
+ 298. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 299. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 300. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 301. http://www.bat.org/help/skills.php?str=quick_chant
+ 302. http://www.bat.org/help/spells.php?str=iron_will
+ 303. http://www.bat.org/help/spells.php?str=shelter
+ 304. http://www.bat.org/help/spells.php?str=neutralize_field
+ 305. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 306. http://www.bat.org/help/skills.php?str=quick_chant
+ 307. http://www.bat.org/help/spells.php?str=restore
+ 308. http://www.bat.org/help/spells.php?str=quicksilver
+ 309. http://www.bat.org/help/spells.php?str=iron_will
+ 310. http://www.bat.org/help/spells.php?str=create_food
+ 311. http://www.bat.org/help/spells.php?str=shelter
+ 312. http://www.bat.org/help/spells.php?str=neutralize_field
+ 313. http://www.bat.org/help/spells.php?str=identify
+ 314. http://www.bat.org/help/spells.php?str=force_absorption
+ 315. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 316. http://www.bat.org/help/spells.php?str=heat_reduction
+ 317. http://www.bat.org/help/spells.php?str=frost_insulation
+ 318. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 319. http://www.bat.org/help/spells.php?str=energy_channeling
+ 320. http://www.bat.org/help/spells.php?str=ether_boundary
+ 321. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 322. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 323. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 324. http://www.bat.org/help/skills.php?str=quick_chant
+ 325. http://www.bat.org/help/spells.php?str=iron_will
+ 326. http://www.bat.org/help/spells.php?str=shelter
+ 327. http://www.bat.org/help/spells.php?str=neutralize_field
+ 328. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 329. http://www.bat.org/help/skills.php?str=quick_chant
+ 330. http://www.bat.org/help/spells.php?str=restore
+ 331. http://www.bat.org/help/spells.php?str=quicksilver
+ 332. http://www.bat.org/help/spells.php?str=iron_will
+ 333. http://www.bat.org/help/spells.php?str=create_food
+ 334. http://www.bat.org/help/spells.php?str=shelter
+ 335. http://www.bat.org/help/spells.php?str=neutralize_field
+ 336. http://www.bat.org/help/spells.php?str=identify
+ 337. http://www.bat.org/help/spells.php?str=word_of_recall
+ 338. http://www.bat.org/help/spells.php?str=force_absorption
+ 339. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 340. http://www.bat.org/help/spells.php?str=heat_reduction
+ 341. http://www.bat.org/help/spells.php?str=frost_insulation
+ 342. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 343. http://www.bat.org/help/spells.php?str=energy_channeling
+ 344. http://www.bat.org/help/spells.php?str=ether_boundary
+ 345. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 346. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 347. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 348. http://www.bat.org/help/skills.php?str=quick_chant
+ 349. http://www.bat.org/help/spells.php?str=iron_will
+ 350. http://www.bat.org/help/spells.php?str=shelter
+ 351. http://www.bat.org/help/spells.php?str=neutralize_field
+ 352. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 353. http://www.bat.org/help/skills.php?str=quick_chant
+ 354. http://www.bat.org/help/spells.php?str=quicksilver
+ 355. http://www.bat.org/help/spells.php?str=iron_will
+ 356. http://www.bat.org/help/spells.php?str=shelter
+ 357. http://www.bat.org/help/spells.php?str=neutralize_field
+ 358. http://www.bat.org/help/spells.php?str=identify
+ 359. http://www.bat.org/help/spells.php?str=word_of_recall
+ 360. http://www.bat.org/help/spells.php?str=resist_disintegrate
+ 361. http://www.bat.org/help/spells.php?str=force_absorption
+ 362. http://www.bat.org/help/spells.php?str=magic_dispersion
+ 363. http://www.bat.org/help/spells.php?str=heat_reduction
+ 364. http://www.bat.org/help/spells.php?str=frost_insulation
+ 365. http://www.bat.org/help/spells.php?str=toxic_dilution
+ 366. http://www.bat.org/help/spells.php?str=energy_channeling
+ 367. http://www.bat.org/help/spells.php?str=ether_boundary
+ 368. http://www.bat.org/help/spells.php?str=psychic_sanctuary
+ 369. http://www.bat.org/help/spells.php?str=corrosion_shield
+ 370. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 371. http://www.bat.org/help/skills.php?str=quick_chant
+ 372. http://www.bat.org/help/spells.php?str=iron_will
+ 373. http://www.bat.org/help/spells.php?str=shelter
+ 374. http://www.bat.org/help/spells.php?str=neutralize_field
+ 375. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 376. http://www.bat.org/help/skills.php?str=quick_chant
+ 377. http://www.bat.org/help/spells.php?str=iron_will
+ 378. http://www.bat.org/help/spells.php?str=shelter
+ 379. http://www.bat.org/help/spells.php?str=neutralize_field
+ 380. http://www.bat.org/help/spells.php?str=identify
+ 381. http://www.bat.org/help/spells.php?str=word_of_recall
+ 382. http://www.bat.org/help/spells.php?str=resist_disintegrate
+ 383. http://www.bat.org/help/spells.php?str=resist_entropy
+ 384. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 385. http://www.bat.org/help/skills.php?str=quick_chant
+ 386. http://www.bat.org/help/spells.php?str=shelter
+ 387. http://www.bat.org/help/spells.php?str=neutralize_field
+ 388. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 389. http://www.bat.org/help/skills.php?str=quick_chant
+ 390. http://www.bat.org/help/spells.php?str=shelter
+ 391. http://www.bat.org/help/spells.php?str=neutralize_field
+ 392. http://www.bat.org/help/spells.php?str=identify
+ 393. http://www.bat.org/help/spells.php?str=word_of_recall
+ 394. http://www.bat.org/help/spells.php?str=resist_disintegrate
+ 395. http://www.bat.org/help/spells.php?str=resist_entropy
+ 396. http://www.bat.org/help/spells.php?str=resist_gaseous_form
+ 397. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 398. http://www.bat.org/help/skills.php?str=quick_chant
+ 399. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 400. http://www.bat.org/help/skills.php?str=quick_chant
+ 401. http://www.bat.org/help/spells.php?str=identify
+ 402. http://www.bat.org/help/spells.php?str=word_of_recall
+ 403. http://www.bat.org/help/spells.php?str=resist_disintegrate
+ 404. http://www.bat.org/help/spells.php?str=resist_entropy
+ 405. http://www.bat.org/help/spells.php?str=resist_gaseous_form
+ 406. http://www.bat.org/help/spells.php?str=create_air_armour
+ 407. http://www.bat.org/help/spells.php?str=armour_of_aether
+ 408. http://www.bat.org/help/spells.php?str=repulsor_aura
+ 409. http://www.bat.org/help/spells.php?str=flame_shield
+ 410. http://www.bat.org/help/spells.php?str=frost_shield
+ 411. http://www.bat.org/help/spells.php?str=shield_of_detoxification
+ 412. http://www.bat.org/help/spells.php?str=lightning_shield
+ 413. http://www.bat.org/help/spells.php?str=aura_of_wind
+ 414. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 415. http://www.bat.org/help/spells.php?str=acid_shield
+ 416. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 417. http://www.bat.org/help/skills.php?str=quick_chant
+ 418. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 419. http://www.bat.org/help/skills.php?str=quick_chant
+ 420. http://www.bat.org/help/spells.php?str=resist_disintegrate
+ 421. http://www.bat.org/help/spells.php?str=resist_entropy
+ 422. http://www.bat.org/help/spells.php?str=resist_gaseous_form
+ 423. http://www.bat.org/help/spells.php?str=create_air_armour
+ 424. http://www.bat.org/help/spells.php?str=anti_magic_field
+ 425. http://www.bat.org/help/spells.php?str=armour_of_aether
+ 426. http://www.bat.org/help/spells.php?str=repulsor_aura
+ 427. http://www.bat.org/help/spells.php?str=flame_shield
+ 428. http://www.bat.org/help/spells.php?str=frost_shield
+ 429. http://www.bat.org/help/spells.php?str=shield_of_detoxification
+ 430. http://www.bat.org/help/spells.php?str=lightning_shield
+ 431. http://www.bat.org/help/spells.php?str=aura_of_wind
+ 432. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 433. http://www.bat.org/help/spells.php?str=acid_shield
+ 434. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 435. http://www.bat.org/help/skills.php?str=quick_chant
+ 436. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 437. http://www.bat.org/help/skills.php?str=quick_chant
+ 438. http://www.bat.org/help/spells.php?str=resist_entropy
+ 439. http://www.bat.org/help/spells.php?str=resist_gaseous_form
+ 440. http://www.bat.org/help/spells.php?str=create_air_armour
+ 441. http://www.bat.org/help/spells.php?str=anti_magic_field
+ 442. http://www.bat.org/help/spells.php?str=dispel_magical_protection
+ 443. http://www.bat.org/help/spells.php?str=armour_of_aether
+ 444. http://www.bat.org/help/spells.php?str=repulsor_aura
+ 445. http://www.bat.org/help/spells.php?str=flame_shield
+ 446. http://www.bat.org/help/spells.php?str=frost_shield
+ 447. http://www.bat.org/help/spells.php?str=shield_of_detoxification
+ 448. http://www.bat.org/help/spells.php?str=lightning_shield
+ 449. http://www.bat.org/help/spells.php?str=aura_of_wind
+ 450. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 451. http://www.bat.org/help/spells.php?str=acid_shield
+ 452. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 453. http://www.bat.org/help/skills.php?str=quick_chant
+ 454. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 455. http://www.bat.org/help/skills.php?str=quick_chant
+ 456. http://www.bat.org/help/spells.php?str=create_air_armour
+ 457. http://www.bat.org/help/spells.php?str=anti_magic_field
+ 458. http://www.bat.org/help/spells.php?str=dispel_magical_protection
+ 459. http://www.bat.org/help/spells.php?str=resist_dispel
+ 460. http://www.bat.org/help/spells.php?str=armour_of_aether
+ 461. http://www.bat.org/help/spells.php?str=repulsor_aura
+ 462. http://www.bat.org/help/spells.php?str=flame_shield
+ 463. http://www.bat.org/help/spells.php?str=frost_shield
+ 464. http://www.bat.org/help/spells.php?str=shield_of_detoxification
+ 465. http://www.bat.org/help/spells.php?str=lightning_shield
+ 466. http://www.bat.org/help/spells.php?str=aura_of_wind
+ 467. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 468. http://www.bat.org/help/spells.php?str=acid_shield
+ 469. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 470. http://www.bat.org/help/skills.php?str=quick_chant
+ 471. http://www.bat.org/help/spells.php?str=resist_dispel
+ 472. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 473. http://www.bat.org/help/skills.php?str=quick_chant
+ 474. http://www.bat.org/help/spells.php?str=dispel_magical_protection
+ 475. http://www.bat.org/help/spells.php?str=resist_dispel
+ 476. http://www.bat.org/help/spells.php?str=armour_of_aether
+ 477. http://www.bat.org/help/spells.php?str=repulsor_aura
+ 478. http://www.bat.org/help/spells.php?str=flame_shield
+ 479. http://www.bat.org/help/spells.php?str=frost_shield
+ 480. http://www.bat.org/help/spells.php?str=shield_of_detoxification
+ 481. http://www.bat.org/help/spells.php?str=lightning_shield
+ 482. http://www.bat.org/help/spells.php?str=aura_of_wind
+ 483. http://www.bat.org/help/spells.php?str=psionic_phalanx
+ 484. http://www.bat.org/help/spells.php?str=acid_shield
+ 485. http://www.bat.org/help/guilds.php
+ 486. mailto:webmaster@bat.org
+
+   Hidden links:
+ 487. http://www.bat.org/bat.php

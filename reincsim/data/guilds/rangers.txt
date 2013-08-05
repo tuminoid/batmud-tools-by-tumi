@@ -1,0 +1,1893 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                          [fonter.php?str=Rangers]
+
+                                  Rangers
+
+   Command: ranger
+   Creator: [22]Duke
+   Maximum level: 35
+   Description:
+   The ranger is a hunter and a woodsman who lives not by only his sword
+   but also his wits. Robin Hood, Orion, Jack the giant killer, and the
+   huntress of Dianna are examples of rangers from history and legend.
+   The abilities of the ranger make him particulary good at tracking,
+   woodcraft, and spying.
+
+                                New Member
+                  Background must be nomad
+                  Receive the beloved gift of the Rangers.
+                  May train skill [23]Attack to 25%
+                  May train skill [24]Push to 30%
+                  May train skill [25]Axes to 20%
+                  May train skill [26]Consider to 40%
+                  May train skill [27]Tinning to 40%
+                  May train skill [28]Torch creation to 15%
+                  May train skill [29]Hiking to 20%
+                  May train skill [30]Fire building to 20%
+
+                                 Level 2
+             Has trained skill [31]Attack to at least 23%
+             Has trained skill [32]Axes to at least 18%
+             Has trained skill [33]Hiking to at least 19%
+             Has trained skill [34]Fire building to at least 19%
+             May train skill [35]Attack to 31%
+             May train skill [36]Push to 50%
+             May train skill [37]Axes to 28%
+             May train skill [38]Consider to 43%
+             May train skill [39]Tinning to 60%
+             May train skill [40]Torch creation to 24%
+             May train skill [41]Hiking to 25%
+             May train skill [42]Hunting to 20%
+             May train skill [43]Fire building to 25%
+             May train skill [44]Compare to 20%
+             May train skill [45]Leather craft to 20%
+             May train skill [46]Stargazing to 30%
+
+                                 Level 3
+             Has trained skill [47]Attack to at least 25%
+             Has trained skill [48]Axes to at least 20%
+             Has trained skill [49]Hiking to at least 20%
+             Has trained skill [50]Hunting to at least 17%
+             Has trained skill [51]Fire building to at least 20%
+             May train skill [52]Attack to 37%
+             May train skill [53]Push to 70%
+             May train skill [54]Alertness to 15%
+             May train skill [55]Short blades to 20%
+             May train skill [56]Axes to 37%
+             May train skill [57]Consider to 46%
+             May train skill [58]Tinning to 80%
+             May train skill [59]Torch creation to 33%
+             May train skill [60]Hiking to 31%
+             May train skill [61]Hunting to 30%
+             May train skill [62]Fire building to 30%
+             May train skill [63]Compare to 28%
+             May train skill [64]Leather craft to 26%
+             May train skill [65]Stargazing to 35%
+             May train skill [66]First aid to 10%
+             May train skill [67]Track to 10%
+             May train skill [68]Camping to 20%
+
+                                 Level 4
+             Has trained skill [69]Attack to at least 27%
+             Has trained skill [70]Axes to at least 22%
+             Has trained skill [71]Hiking to at least 21%
+             Has trained skill [72]Hunting to at least 20%
+             Has trained skill [73]Fire building to at least 21%
+             Has trained skill [74]Camping to at least 17%
+             May train skill [75]Attack to 43%
+             May train skill [76]Push to 90%
+             May train skill [77]Alertness to 19%
+             May train skill [78]Controlled panic to 20%
+             May train skill [79]Short blades to 26%
+             May train skill [80]Axes to 46%
+             May train skill [81]Consider to 50%
+             May train skill [82]Tinning to 100%
+             May train skill [83]Torch creation to 43%
+             May train skill [84]Hiking to 37%
+             May train skill [85]Hunting to 40%
+             May train skill [86]Fire building to 35%
+             May train skill [87]Compare to 36%
+             May train skill [88]Leather craft to 33%
+             May train skill [89]Stargazing to 41%
+             May train skill [90]First aid to 17%
+             May train skill [91]Make bandage to 20%
+             May train skill [92]Track to 16%
+             May train skill [93]Camping to 31%
+             May train skill [94]Fishing to 25%
+
+                                 Level 5
+             Has trained skill [95]Attack to at least 29%
+             Has trained skill [96]Axes to at least 25%
+             Has trained skill [97]Hiking to at least 23%
+             Has trained skill [98]Hunting to at least 23%
+             Has trained skill [99]Fire building to at least 23%
+             Has trained skill [100]Camping to at least 20%
+             May train skill [101]Attack to 50%
+             May train skill [102]Alertness to 23%
+             May train skill [103]Controlled panic to 26%
+             May train skill [104]Short blades to 33%
+             May train skill [105]Axes to 55%
+             May train skill [106]Consider to 53%
+             May train skill [107]Torch creation to 52%
+             May train skill [108]Hiking to 42%
+             May train skill [109]Hunting to 50%
+             May train skill [110]Fire building to 40%
+             May train skill [111]Compare to 44%
+             May train skill [112]Leather craft to 39%
+             May train skill [113]Stargazing to 46%
+             May train skill [114]First aid to 24%
+             May train skill [115]Make bandage to 27%
+             May train skill [116]Track to 22%
+             May train skill [117]Camping to 42%
+             May train skill [118]Fishing to 32%
+             May train skill [119]Swim to 30%
+
+                                  Level 6
+             Has trained skill [120]Attack to at least 31%
+             Has trained skill [121]Axes to at least 28%
+             Has trained skill [122]Hiking to at least 25%
+             Has trained skill [123]Hunting to at least 26%
+             Has trained skill [124]Fire building to at least 25%
+             Has trained skill [125]Camping to at least 23%
+             May train skill [126]Attack to 56%
+             May train skill [127]Alertness to 27%
+             May train skill [128]Controlled panic to 33%
+             May train skill [129]Negate offhand penalty to 15%
+             May train skill [130]Short blades to 39%
+             May train skill [131]Axes to 64%
+             May train skill [132]Consider to 57%
+             May train skill [133]Torch creation to 62%
+             May train skill [134]Hiking to 48%
+             May train skill [135]Hunting to 60%
+             May train skill [136]Fire building to 45%
+             May train skill [137]Compare to 52%
+             May train skill [138]Leather craft to 46%
+             May train skill [139]Stargazing to 52%
+             May train skill [140]First aid to 31%
+             May train skill [141]Make bandage to 34%
+             May train skill [142]Track to 29%
+             May train skill [143]Camping to 54%
+             May train skill [144]Fishing to 40%
+             May train skill [145]Swim to 38%
+             May train skill [146]Plant lore to 20%
+
+                                 Level 7
+        Has trained skill [147]Attack to at least 33%
+        Has trained skill [148]Negate offhand penalty to at least 14%
+        Has trained skill [149]Axes to at least 31%
+        Has trained skill [150]Hiking to at least 27%
+        Has trained skill [151]Hunting to at least 30%
+        Has trained skill [152]Fire building to at least 26%
+        Has trained skill [153]Camping to at least 27%
+        May train skill [154]Attack to 62%
+        May train skill [155]Alertness to 32%
+        May train skill [156]Controlled panic to 39%
+        May train skill [157]Negate offhand penalty to 19%
+        May train skill [158]Kick to 30%
+        May train skill [159]Switch weapon to 10%
+        May train skill [160]Short blades to 46%
+        May train skill [161]Axes to 73%
+        May train skill [162]Consider to 60%
+        May train skill [163]Torch creation to 71%
+        May train skill [164]Hiking to 54%
+        May train skill [165]Hunting to 70%
+        May train skill [166]Fire building to 50%
+        May train skill [167]Compare to 60%
+        May train skill [168]Leather craft to 53%
+        May train skill [169]Stargazing to 58%
+        May train skill [170]First aid to 38%
+        May train skill [171]Make bandage to 41%
+        May train skill [172]Track to 35%
+        May train skill [173]Camping to 65%
+        May train skill [174]Fishing to 47%
+        May train skill [175]Swim to 47%
+        May train skill [176]Plant lore to 28%
+        May train skill [177]Scouting to 10%
+
+                                 Level 8
+        Has trained skill [178]Attack to at least 35%
+        Has trained skill [179]Negate offhand penalty to at least 15%
+        Has trained skill [180]Axes to at least 34%
+        Has trained skill [181]Hiking to at least 29%
+        Has trained skill [182]Hunting to at least 33%
+        Has trained skill [183]Fire building to at least 28%
+        Has trained skill [184]Camping to at least 31%
+        Has trained skill [185]Scouting to at least 8%
+        May train skill [186]Attack to 68%
+        May train skill [187]Alertness to 36%
+        May train skill [188]Controlled panic to 46%
+        May train skill [189]Negate offhand penalty to 23%
+        May train skill [190]Kick to 38%
+        May train skill [191]Switch weapon to 19%
+        May train skill [192]Short blades to 53%
+        May train skill [193]Axes to 82%
+        May train skill [194]Consider to 64%
+        May train skill [195]Torch creation to 81%
+        May train skill [196]Hiking to 59%
+        May train skill [197]Hunting to 80%
+        May train skill [198]Fire building to 55%
+        May train skill [199]Compare to 68%
+        May train skill [200]Leather craft to 59%
+        May train skill [201]Stargazing to 63%
+        May train skill [202]First aid to 45%
+        May train skill [203]Make bandage to 49%
+        May train skill [204]Track to 42%
+        May train skill [205]Camping to 77%
+        May train skill [206]Fishing to 55%
+        May train skill [207]Swim to 56%
+        May train skill [208]Plant lore to 37%
+        May train skill [209]Scouting to 16%
+        May train skill [210]Telescope operation to 15%
+
+                                 Level 9
+        Has trained skill [211]Attack to at least 37%
+        Has trained skill [212]Negate offhand penalty to at least 16%
+        Has trained skill [213]Axes to at least 37%
+        Has trained skill [214]Hiking to at least 31%
+        Has trained skill [215]Hunting to at least 36%
+        Has trained skill [216]Fire building to at least 30%
+        Has trained skill [217]Camping to at least 35%
+        Has trained skill [218]Scouting to at least 10%
+        May train skill [219]Attack to 75%
+        May train skill [220]Alertness to 40%
+        May train skill [221]Controlled panic to 52%
+        May train skill [222]Negate offhand penalty to 28%
+        May train skill [223]Kick to 47%
+        May train skill [224]Switch weapon to 28%
+        May train skill [225]Short blades to 59%
+        May train skill [226]Axes to 91%
+        May train skill [227]Consider to 67%
+        May train skill [228]Torch creation to 90%
+        May train skill [229]Hiking to 65%
+        May train skill [230]Hunting to 90%
+        May train skill [231]Fire building to 60%
+        May train skill [232]Compare to 76%
+        May train skill [233]Leather craft to 66%
+        May train skill [234]Stargazing to 69%
+        May train skill [235]First aid to 52%
+        May train skill [236]Make bandage to 56%
+        May train skill [237]Track to 48%
+        May train skill [238]Camping to 88%
+        May train skill [239]Fishing to 62%
+        May train skill [240]Swim to 65%
+        May train skill [241]Plant lore to 46%
+        May train skill [242]Scouting to 23%
+        May train skill [243]Telescope operation to 24%
+        May train skill [244]Forest location to 15%
+
+                                 Level 10
+        Has trained skill [245]Attack to at least 39%
+        Has trained skill [246]Negate offhand penalty to at least 17%
+        Has trained skill [247]Axes to at least 40%
+        Has trained skill [248]Hiking to at least 33%
+        Has trained skill [249]Hunting to at least 40%
+        Has trained skill [250]Fire building to at least 31%
+        Has trained skill [251]Camping to at least 39%
+        Has trained skill [252]Scouting to at least 12%
+        May train skill [253]Attack to 81%
+        May train skill [254]Alertness to 44%
+        May train skill [255]Controlled panic to 59%
+        May train skill [256]Negate offhand penalty to 32%
+        May train skill [257]Kick to 56%
+        May train skill [258]Switch weapon to 37%
+        May train skill [259]Short blades to 66%
+        May train skill [260]Axes to 100%
+        May train skill [261]Consider to 71%
+        May train skill [262]Torch creation to 100%
+        May train skill [263]Hiking to 71%
+        May train skill [264]Hunting to 100%
+        May train skill [265]Fire building to 65%
+        May train skill [266]Compare to 85%
+        May train skill [267]Leather craft to 73%
+        May train skill [268]Stargazing to 75%
+        May train skill [269]First aid to 60%
+        May train skill [270]Make bandage to 63%
+        May train skill [271]Track to 54%
+        May train skill [272]Camping to 100%
+        May train skill [273]Fishing to 70%
+        May train skill [274]Swim to 73%
+        May train skill [275]Plant lore to 55%
+        May train skill [276]Scouting to 30%
+        May train skill [277]Telescope operation to 33%
+        May train skill [278]Forest location to 20%
+        May train skill [279]Enhanced peer to 10%
+
+                                 Level 11
+        Has trained skill [280]Attack to at least 41%
+        Has trained skill [281]Negate offhand penalty to at least 19%
+        Has trained skill [282]Hiking to at least 35%
+        Has trained skill [283]Fire building to at least 33%
+        Has trained skill [284]Scouting to at least 14%
+        Has trained skill [285]Enhanced peer to at least 9%
+        May train skill [286]Attack to 87%
+        May train skill [287]Alertness to 49%
+        May train skill [288]Controlled panic to 65%
+        May train skill [289]Negate offhand penalty to 37%
+        May train skill [290]Kick to 65%
+        May train skill [291]Switch weapon to 46%
+        May train skill [292]Rescue to 12%
+        May train skill [293]Shield bash to 10%
+        May train skill [294]Short blades to 73%
+        May train skill [295]Consider to 74%
+        May train skill [296]Hiking to 77%
+        May train skill [297]Fire building to 70%
+        May train skill [298]Leather craft to 79%
+        May train skill [299]Make bandage to 70%
+        May train skill [300]Track to 61%
+        May train skill [301]Fishing to 77%
+        May train skill [302]Swim to 82%
+        May train skill [303]Plant lore to 64%
+        May train skill [304]Scouting to 37%
+        May train skill [305]Telescope operation to 43%
+        May train skill [306]Forest location to 25%
+        May train skill [307]Enhanced peer to 14%
+        May train skill [308]Camouflage to 30%
+        May train skill [309]Location memory to 10%
+
+                                 Level 12
+        Has trained skill [310]Attack to at least 43%
+        Has trained skill [311]Negate offhand penalty to at least 20%
+        Has trained skill [312]Hiking to at least 37%
+        Has trained skill [313]Fire building to at least 35%
+        Has trained skill [314]Scouting to at least 16%
+        Has trained skill [315]Enhanced peer to at least 10%
+        May train skill [316]Attack to 93%
+        May train skill [317]Alertness to 53%
+        May train skill [318]Controlled panic to 72%
+        May train skill [319]Negate offhand penalty to 41%
+        May train skill [320]Kick to 73%
+        May train skill [321]Switch weapon to 55%
+        May train skill [322]Rescue to 17%
+        May train skill [323]Shield bash to 17%
+        May train skill [324]Dodge to 10%
+        May train skill [325]Short blades to 79%
+        May train skill [326]Consider to 78%
+        May train skill [327]Hiking to 82%
+        May train skill [328]Fire building to 75%
+        May train skill [329]Leather craft to 86%
+        May train skill [330]Make bandage to 78%
+        May train skill [331]Track to 67%
+        May train skill [332]Fishing to 85%
+        May train skill [333]Swim to 91%
+        May train skill [334]Plant lore to 73%
+        May train skill [335]Scouting to 44%
+        May train skill [336]Telescope operation to 52%
+        May train skill [337]Forest location to 30%
+        May train skill [338]Enhanced peer to 19%
+        May train skill [339]Camouflage to 38%
+        May train skill [340]Location memory to 16%
+        May train skill [341]Locate water to 20%
+        May train skill [342]Woodland stealth to 20%
+
+                                 Level 13
+        Has trained skill [343]Attack to at least 45%
+        Has trained skill [344]Negate offhand penalty to at least 22%
+        Has trained skill [345]Hiking to at least 39%
+        Has trained skill [346]Fire building to at least 36%
+        Has trained skill [347]Scouting to at least 19%
+        Has trained skill [348]Enhanced peer to at least 11%
+        May train skill [349]Attack to 100%
+        May train skill [350]Alertness to 57%
+        May train skill [351]Controlled panic to 78%
+        May train skill [352]Negate offhand penalty to 46%
+        May train skill [353]Kick to 82%
+        May train skill [354]Switch weapon to 64%
+        May train skill [355]Rescue to 23%
+        May train skill [356]Shield bash to 24%
+        May train skill [357]Dodge to 12%
+        May train skill [358]Short blades to 86%
+        May train skill [359]Consider to 81%
+        May train skill [360]Hiking to 88%
+        May train skill [361]Fire building to 80%
+        May train skill [362]Leather craft to 93%
+        May train skill [363]Make bandage to 85%
+        May train skill [364]Track to 74%
+        May train skill [365]Fishing to 92%
+        May train skill [366]Swim to 100%
+        May train skill [367]Plant lore to 82%
+        May train skill [368]Scouting to 51%
+        May train skill [369]Telescope operation to 62%
+        May train skill [370]Forest location to 36%
+        May train skill [371]Enhanced peer to 23%
+        May train skill [372]Camouflage to 47%
+        May train skill [373]Location memory to 22%
+        May train skill [374]Locate water to 28%
+        May train skill [375]Woodland stealth to 30%
+
+                                 Level 14
+        Has trained skill [376]Negate offhand penalty to at least 23%
+        Has trained skill [377]Hiking to at least 40%
+        Has trained skill [378]Fire building to at least 38%
+        Has trained skill [379]Scouting to at least 21%
+        Has trained skill [380]Enhanced peer to at least 13%
+        May train skill [381]Alertness to 61%
+        May train skill [382]Controlled panic to 85%
+        May train skill [383]Negate offhand penalty to 50%
+        May train skill [384]Kick to 91%
+        May train skill [385]Switch weapon to 73%
+        May train skill [386]Rescue to 29%
+        May train skill [387]Shield bash to 31%
+        May train skill [388]Dodge to 15%
+        May train skill [389]Stun to 10%
+        May train skill [390]Throw weight to 10%
+        May train skill [391]Short blades to 93%
+        May train skill [392]Consider to 85%
+        May train skill [393]Hiking to 94%
+        May train skill [394]Fire building to 85%
+        May train skill [395]Leather craft to 100%
+        May train skill [396]Make bandage to 92%
+        May train skill [397]Track to 80%
+        May train skill [398]Fishing to 100%
+        May train skill [399]Plant lore to 91%
+        May train skill [400]Scouting to 58%
+        May train skill [401]Telescope operation to 71%
+        May train skill [402]Forest location to 41%
+        May train skill [403]Enhanced peer to 28%
+        May train skill [404]Camouflage to 56%
+        May train skill [405]Location memory to 29%
+        May train skill [406]Locate water to 37%
+        May train skill [407]Woodland stealth to 40%
+
+                                 Level 15
+        Has trained skill [408]Negate offhand penalty to at least 25%
+        Has trained skill [409]Hiking to at least 42%
+        Has trained skill [410]Fire building to at least 40%
+        Has trained skill [411]Scouting to at least 23%
+        Has trained skill [412]Enhanced peer to at least 14%
+        May train skill [413]Alertness to 66%
+        May train skill [414]Negate offhand penalty to 55%
+        May train skill [415]Kick to 100%
+        May train skill [416]Switch weapon to 82%
+        May train skill [417]Rescue to 34%
+        May train skill [418]Shield bash to 38%
+        May train skill [419]Dodge to 17%
+        May train skill [420]Stun to 14%
+        May train skill [421]Throw weight to 18%
+        May train skill [422]Bladed fury to 30%
+        May train skill [423]Short blades to 100%
+        May train skill [424]Hiking to 100%
+        May train skill [425]Fire building to 90%
+        May train skill [426]Make bandage to 100%
+        May train skill [427]Track to 87%
+        May train skill [428]Plant lore to 100%
+        May train skill [429]Scouting to 65%
+        May train skill [430]Telescope operation to 81%
+        May train skill [431]Forest location to 46%
+        May train skill [432]Enhanced peer to 32%
+        May train skill [433]Camouflage to 65%
+        May train skill [434]Location memory to 35%
+        May train skill [435]Locate water to 46%
+        May train skill [436]Woodland stealth to 50%
+        May train skill [437]Wipe tracks to 20%
+        May train skill [438]Mastery of camping to 10%
+        May train skill [439]Mastery of fire building to 10%
+
+                                 Level 16
+        Has trained skill [440]Negate offhand penalty to at least 26%
+        Has trained skill [441]Bladed fury to at least 28%
+        Has trained skill [442]Fire building to at least 41%
+        Has trained skill [443]Scouting to at least 26%
+        Has trained skill [444]Enhanced peer to at least 16%
+        Has trained skill [445]Mastery of camping to at least 9%
+        Has trained skill [446]Mastery of fire building to at least 9%
+        May train skill [447]Alertness to 70%
+        May train skill [448]Negate offhand penalty to 59%
+        May train skill [449]Switch weapon to 91%
+        May train skill [450]Rescue to 40%
+        May train skill [451]Shield bash to 45%
+        May train skill [452]Dodge to 20%
+        May train skill [453]Stun to 18%
+        May train skill [454]Throw weight to 26%
+        May train skill [455]Bladed fury to 37%
+        May train skill [456]Discipline to 10%
+        May train skill [457]Long blades to 20%
+        May train skill [458]Fire building to 95%
+        May train skill [459]Track to 93%
+        May train skill [460]Scouting to 72%
+        May train skill [461]Telescope operation to 90%
+        May train skill [462]Forest location to 52%
+        May train skill [463]Enhanced peer to 37%
+        May train skill [464]Camouflage to 73%
+        May train skill [465]Location memory to 42%
+        May train skill [466]Locate water to 55%
+        May train skill [467]Woodland stealth to 60%
+        May train skill [468]Wipe tracks to 24%
+        May train skill [469]Mastery of camping to 14%
+        May train skill [470]Mastery of fire building to 14%
+
+                                 Level 17
+       Has trained skill [471]Negate offhand penalty to at least 28%
+       Has trained skill [472]Bladed fury to at least 30%
+       Has trained skill [473]Fire building to at least 43%
+       Has trained skill [474]Scouting to at least 28%
+       Has trained skill [475]Enhanced peer to at least 17%
+       Has trained skill [476]Mastery of camping to at least 10%
+       Has trained skill [477]Mastery of fire building to at least 10%
+       May train skill [478]Alertness to 74%
+       May train skill [479]Negate offhand penalty to 64%
+       May train skill [480]Switch weapon to 100%
+       May train skill [481]Rescue to 46%
+       May train skill [482]Shield bash to 52%
+       May train skill [483]Dodge to 23%
+       May train skill [484]Stun to 23%
+       May train skill [485]Throw weight to 34%
+       May train skill [486]Bladed fury to 44%
+       May train skill [487]Discipline to 16%
+       May train skill [488]Long blades to 25%
+       May train skill [489]Fire building to 100%
+       May train skill [490]Track to 100%
+       May train skill [491]Scouting to 79%
+       May train skill [492]Telescope operation to 100%
+       May train skill [493]Forest location to 57%
+       May train skill [494]Enhanced peer to 41%
+       May train skill [495]Camouflage to 82%
+       May train skill [496]Location memory to 48%
+       May train skill [497]Locate water to 64%
+       May train skill [498]Woodland stealth to 70%
+       May train skill [499]Wipe tracks to 28%
+       May train skill [500]Mastery of camping to 19%
+       May train skill [501]Mastery of fire building to 19%
+
+                                 Level 18
+       Has trained skill [502]Negate offhand penalty to at least 29%
+       Has trained skill [503]Bladed fury to at least 32%
+       Has trained skill [504]Scouting to at least 30%
+       Has trained skill [505]Enhanced peer to at least 19%
+       Has trained skill [506]Mastery of camping to at least 11%
+       Has trained skill [507]Mastery of fire building to at least 11%
+       May train skill [508]Alertness to 78%
+       May train skill [509]Negate offhand penalty to 68%
+       May train skill [510]Rescue to 52%
+       May train skill [511]Shield bash to 60%
+       May train skill [512]Dodge to 25%
+       May train skill [513]Stun to 27%
+       May train skill [514]Throw weight to 43%
+       May train skill [515]Bladed fury to 51%
+       May train skill [516]Discipline to 22%
+       May train skill [517]Long blades to 30%
+       May train skill [518]Scouting to 86%
+       May train skill [519]Forest location to 62%
+       May train skill [520]Enhanced peer to 46%
+       May train skill [521]Camouflage to 91%
+       May train skill [522]Location memory to 54%
+       May train skill [523]Locate water to 73%
+       May train skill [524]Woodland stealth to 80%
+       May train skill [525]Wipe tracks to 33%
+       May train skill [526]Mastery of camping to 23%
+       May train skill [527]Mastery of fire building to 23%
+
+                                 Level 19
+       Has trained skill [528]Negate offhand penalty to at least 31%
+       Has trained skill [529]Bladed fury to at least 34%
+       Has trained skill [530]Scouting to at least 33%
+       Has trained skill [531]Enhanced peer to at least 20%
+       Has trained skill [532]Mastery of camping to at least 13%
+       Has trained skill [533]Mastery of fire building to at least 13%
+       May train skill [534]Alertness to 83%
+       May train skill [535]Negate offhand penalty to 73%
+       May train skill [536]Rescue to 57%
+       May train skill [537]Dodge to 28%
+       May train skill [538]Stun to 31%
+       May train skill [539]Throw weight to 51%
+       May train skill [540]Bladed fury to 58%
+       May train skill [541]Discipline to 29%
+       May train skill [542]Offhanded fury to 10%
+       May train skill [543]Long blades to 36%
+       May train skill [544]Scouting to 93%
+       May train skill [545]Forest location to 68%
+       May train skill [546]Enhanced peer to 50%
+       May train skill [547]Camouflage to 100%
+       May train skill [548]Location memory to 61%
+       May train skill [549]Locate water to 82%
+       May train skill [550]Woodland stealth to 90%
+       May train skill [551]Wipe tracks to 37%
+       May train skill [552]Mastery of camping to 28%
+       May train skill [553]Mastery of fire building to 28%
+
+                                 Level 20
+       Has trained skill [554]Negate offhand penalty to at least 32%
+       Has trained skill [555]Bladed fury to at least 37%
+       Has trained skill [556]Offhanded fury to at least 7%
+       Has trained skill [557]Scouting to at least 35%
+       Has trained skill [558]Enhanced peer to at least 22%
+       Has trained skill [559]Mastery of camping to at least 14%
+       Has trained skill [560]Mastery of fire building to at least 14%
+       May train skill [561]Alertness to 87%
+       May train skill [562]Negate offhand penalty to 77%
+       May train skill [563]Rescue to 63%
+       May train skill [564]Dodge to 30%
+       May train skill [565]Stun to 36%
+       May train skill [566]Throw weight to 60%
+       May train skill [567]Bladed fury to 65%
+       May train skill [568]Discipline to 35%
+       May train skill [569]Offhanded fury to 19%
+       May train skill [570]Stunned maneuvers to 10%
+       May train skill [571]Long blades to 41%
+       May train skill [572]Scouting to 100%
+       May train skill [573]Forest location to 73%
+       May train skill [574]Enhanced peer to 55%
+       May train skill [575]Location memory to 67%
+       May train skill [576]Locate water to 91%
+       May train skill [577]Woodland stealth to 100%
+       May train skill [578]Wipe tracks to 42%
+       May train skill [579]Mastery of camping to 32%
+       May train skill [580]Mastery of fire building to 32%
+
+                                 Level 21
+       Has trained skill [581]Negate offhand penalty to at least 34%
+       Has trained skill [582]Bladed fury to at least 39%
+       Has trained skill [583]Offhanded fury to at least 10%
+       Has trained skill [584]Enhanced peer to at least 23%
+       Has trained skill [585]Mastery of camping to at least 16%
+       Has trained skill [586]Mastery of fire building to at least 16%
+       May train skill [587]Alertness to 91%
+       May train skill [588]Negate offhand penalty to 82%
+       May train skill [589]Rescue to 69%
+       May train skill [590]Dodge to 33%
+       May train skill [591]Stun to 40%
+       May train skill [592]Bladed fury to 72%
+       May train skill [593]Discipline to 41%
+       May train skill [594]Offhanded fury to 28%
+       May train skill [595]Stunned maneuvers to 16%
+       May train skill [596]Long blades to 47%
+       May train skill [597]Forest location to 78%
+       May train skill [598]Enhanced peer to 59%
+       May train skill [599]Location memory to 74%
+       May train skill [600]Locate water to 100%
+       May train skill [601]Wipe tracks to 46%
+       May train skill [602]Mastery of camping to 37%
+       May train skill [603]Mastery of fire building to 37%
+
+                                 Level 22
+       Has trained skill [604]Negate offhand penalty to at least 35%
+       Has trained skill [605]Bladed fury to at least 41%
+       Has trained skill [606]Offhanded fury to at least 13%
+       Has trained skill [607]Enhanced peer to at least 25%
+       Has trained skill [608]Mastery of camping to at least 17%
+       Has trained skill [609]Mastery of fire building to at least 17%
+       May train skill [610]Alertness to 95%
+       May train skill [611]Negate offhand penalty to 86%
+       May train skill [612]Rescue to 75%
+       May train skill [613]Dodge to 36%
+       May train skill [614]Stun to 45%
+       May train skill [615]Bladed fury to 79%
+       May train skill [616]Discipline to 48%
+       May train skill [617]Offhanded fury to 37%
+       May train skill [618]Stunned maneuvers to 23%
+       May train skill [619]Parry to 10%
+       May train skill [620]Long blades to 52%
+       May train skill [621]Forest location to 84%
+       May train skill [622]Enhanced peer to 64%
+       May train skill [623]Location memory to 80%
+       May train skill [624]Wipe tracks to 51%
+       May train skill [625]Mastery of camping to 41%
+       May train skill [626]Mastery of fire building to 41%
+       May train skill [627]Leadership to 10%
+
+                                 Level 23
+       Has trained skill [628]Negate offhand penalty to at least 37%
+       Has trained skill [629]Bladed fury to at least 44%
+       Has trained skill [630]Offhanded fury to at least 16%
+       Has trained skill [631]Enhanced peer to at least 26%
+       Has trained skill [632]Mastery of camping to at least 19%
+       Has trained skill [633]Mastery of fire building to at least 19%
+       May train skill [634]Alertness to 100%
+       May train skill [635]Negate offhand penalty to 91%
+       May train skill [636]Dodge to 38%
+       May train skill [637]Riposte to 10%
+       May train skill [638]Stun to 49%
+       May train skill [639]Bladed fury to 86%
+       May train skill [640]Discipline to 54%
+       May train skill [641]Offhanded fury to 46%
+       May train skill [642]Stunned maneuvers to 29%
+       May train skill [643]Parry to 15%
+       May train skill [644]Long blades to 57%
+       May train skill [645]Forest location to 89%
+       May train skill [646]Enhanced peer to 68%
+       May train skill [647]Location memory to 87%
+       May train skill [648]Wipe tracks to 55%
+       May train skill [649]Mastery of camping to 46%
+       May train skill [650]Mastery of fire building to 46%
+       May train skill [651]Leadership to 16%
+
+                                 Level 24
+       Has trained skill [652]Negate offhand penalty to at least 38%
+       Has trained skill [653]Bladed fury to at least 46%
+       Has trained skill [654]Offhanded fury to at least 19%
+       Has trained skill [655]Enhanced peer to at least 28%
+       Has trained skill [656]Mastery of camping to at least 20%
+       Has trained skill [657]Mastery of fire building to at least 20%
+       May train skill [658]Negate offhand penalty to 95%
+       May train skill [659]Dodge to 41%
+       May train skill [660]Riposte to 18%
+       May train skill [661]Stun to 53%
+       May train skill [662]Bladed fury to 93%
+       May train skill [663]Discipline to 60%
+       May train skill [664]Offhanded fury to 55%
+       May train skill [665]Stunned maneuvers to 36%
+       May train skill [666]Parry to 21%
+       May train skill [667]Multiple fury to 15%
+       May train skill [668]Long blades to 63%
+       May train skill [669]Forest location to 94%
+       May train skill [670]Enhanced peer to 73%
+       May train skill [671]Location memory to 93%
+       May train skill [672]Wipe tracks to 59%
+       May train skill [673]Mastery of camping to 50%
+       May train skill [674]Mastery of fire building to 50%
+       May train skill [675]Leadership to 22%
+
+                                 Level 25
+       Has trained skill [676]Negate offhand penalty to at least 40%
+       Has trained skill [677]Bladed fury to at least 48%
+       Has trained skill [678]Offhanded fury to at least 22%
+       Has trained skill [679]Multiple fury to at least 12%
+       Has trained skill [680]Enhanced peer to at least 29%
+       Has trained skill [681]Mastery of camping to at least 22%
+       Has trained skill [682]Mastery of fire building to at least 22%
+       May train skill [683]Negate offhand penalty to 100%
+       May train skill [684]Dodge to 43%
+       May train skill [685]Riposte to 27%
+       May train skill [686]Stun to 58%
+       May train skill [687]Bladed fury to 100%
+       May train skill [688]Discipline to 67%
+       May train skill [689]Offhanded fury to 64%
+       May train skill [690]Stunned maneuvers to 43%
+       May train skill [691]Parry to 27%
+       May train skill [692]Multiple fury to 25%
+       May train skill [693]Long blades to 68%
+       May train skill [694]Forest location to 100%
+       May train skill [695]Enhanced peer to 77%
+       May train skill [696]Location memory to 100%
+       May train skill [697]Wipe tracks to 64%
+       May train skill [698]Mastery of camping to 55%
+       May train skill [699]Mastery of fire building to 55%
+       May train skill [700]Leadership to 28%
+       May train skill [701]Pathfinding to 30%
+       May train skill [702]Detect trap to 25%
+
+                                 Level 26
+       Has trained skill [703]Offhanded fury to at least 25%
+       Has trained skill [704]Multiple fury to at least 15%
+       Has trained skill [705]Enhanced peer to at least 31%
+       Has trained skill [706]Mastery of camping to at least 23%
+       Has trained skill [707]Mastery of fire building to at least 23%
+       May train skill [708]Dodge to 46%
+       May train skill [709]Riposte to 35%
+       May train skill [710]Stun to 62%
+       May train skill [711]Discipline to 73%
+       May train skill [712]Offhanded fury to 73%
+       May train skill [713]Stunned maneuvers to 49%
+       May train skill [714]Parry to 33%
+       May train skill [715]Multiple fury to 36%
+       May train skill [716]Long blades to 74%
+       May train skill [717]Enhanced peer to 82%
+       May train skill [718]Wipe tracks to 68%
+       May train skill [719]Mastery of camping to 59%
+       May train skill [720]Mastery of fire building to 59%
+       May train skill [721]Leadership to 35%
+       May train skill [722]Pathfinding to 44%
+       May train skill [723]Detect trap to 29%
+
+                                 Level 27
+       Has trained skill [724]Offhanded fury to at least 28%
+       Has trained skill [725]Multiple fury to at least 18%
+       Has trained skill [726]Enhanced peer to at least 32%
+       Has trained skill [727]Mastery of camping to at least 25%
+       Has trained skill [728]Mastery of fire building to at least 25%
+       May train skill [729]Dodge to 49%
+       May train skill [730]Riposte to 44%
+       May train skill [731]Stun to 66%
+       May train skill [732]Discipline to 80%
+       May train skill [733]Offhanded fury to 82%
+       May train skill [734]Stunned maneuvers to 56%
+       May train skill [735]Parry to 38%
+       May train skill [736]Multiple fury to 46%
+       May train skill [737]Enhance criticals to 10%
+       May train skill [738]Long blades to 79%
+       May train skill [739]Enhanced peer to 86%
+       May train skill [740]Wipe tracks to 73%
+       May train skill [741]Mastery of camping to 64%
+       May train skill [742]Mastery of fire building to 64%
+       May train skill [743]Leadership to 41%
+       May train skill [744]Pathfinding to 58%
+       May train skill [745]Detect trap to 34%
+
+                                 Level 28
+       Has trained skill [746]Offhanded fury to at least 31%
+       Has trained skill [747]Multiple fury to at least 22%
+       Has trained skill [748]Enhanced peer to at least 34%
+       Has trained skill [749]Mastery of camping to at least 26%
+       Has trained skill [750]Mastery of fire building to at least 26%
+       May train skill [751]Dodge to 51%
+       May train skill [752]Riposte to 52%
+       May train skill [753]Stun to 71%
+       May train skill [754]Offhanded fury to 91%
+       May train skill [755]Stunned maneuvers to 63%
+       May train skill [756]Parry to 44%
+       May train skill [757]Multiple fury to 57%
+       May train skill [758]Enhance criticals to 18%
+       May train skill [759]Tumbling attack to 10%
+       May train skill [760]Long blades to 85%
+       May train skill [761]Enhanced peer to 91%
+       May train skill [762]Wipe tracks to 77%
+       May train skill [763]Mastery of camping to 68%
+       May train skill [764]Mastery of fire building to 68%
+       May train skill [765]Leadership to 47%
+       May train skill [766]Pathfinding to 72%
+       May train skill [767]Detect trap to 38%
+
+                                 Level 29
+       Has trained skill [768]Offhanded fury to at least 34%
+       Has trained skill [769]Multiple fury to at least 25%
+       Has trained skill [770]Enhanced peer to at least 35%
+       Has trained skill [771]Mastery of camping to at least 28%
+       Has trained skill [772]Mastery of fire building to at least 28%
+       May train skill [773]Dodge to 54%
+       May train skill [774]Riposte to 61%
+       May train skill [775]Stun to 75%
+       May train skill [776]Offhanded fury to 100%
+       May train skill [777]Stunned maneuvers to 69%
+       May train skill [778]Parry to 50%
+       May train skill [779]Multiple fury to 68%
+       May train skill [780]Enhance criticals to 27%
+       May train skill [781]Tumbling attack to 18%
+       May train skill [782]Enhanced peer to 95%
+       May train skill [783]Wipe tracks to 82%
+       May train skill [784]Mastery of camping to 73%
+       May train skill [785]Mastery of fire building to 73%
+       May train skill [786]Leadership to 53%
+       May train skill [787]Pathfinding to 86%
+       May train skill [788]Detect trap to 43%
+
+                                 Level 30
+       Has trained skill [789]Multiple fury to at least 29%
+       Has trained skill [790]Enhanced peer to at least 37%
+       Has trained skill [791]Mastery of camping to at least 29%
+       Has trained skill [792]Mastery of fire building to at least 29%
+       May train skill [793]Dodge to 56%
+       May train skill [794]Riposte to 70%
+       May train skill [795]Stun to 80%
+       May train skill [796]Stunned maneuvers to 76%
+       May train skill [797]Parry to 56%
+       May train skill [798]Multiple fury to 78%
+       May train skill [799]Enhance criticals to 36%
+       May train skill [800]Tumbling attack to 27%
+       May train skill [801]Mastery of bladed fury to 20%
+       May train skill [802]Combat sense to 20%
+       May train skill [803]Find weakness to 10%
+       May train skill [804]Enhanced peer to 100%
+       May train skill [805]Wipe tracks to 86%
+       May train skill [806]Mastery of camping to 77%
+       May train skill [807]Mastery of fire building to 77%
+       May train skill [808]Leadership to 60%
+       May train skill [809]Pathfinding to 100%
+       May train skill [810]Detect trap to 47%
+
+                                 Level 31
+       Has trained skill [811]Multiple fury to at least 32%
+       Has trained skill [812]Mastery of bladed fury to at least 15%
+       Has trained skill [813]Mastery of camping to at least 31%
+       Has trained skill [814]Mastery of fire building to at least 31%
+       May train skill [815]Dodge to 59%
+       May train skill [816]Stunned maneuvers to 83%
+       May train skill [817]Parry to 61%
+       May train skill [818]Multiple fury to 89%
+       May train skill [819]Enhance criticals to 45%
+       May train skill [820]Tumbling attack to 35%
+       May train skill [821]Mastery of bladed fury to 36%
+       May train skill [822]Combat sense to 29%
+       May train skill [823]Find weakness to 18%
+       May train skill [824]Wipe tracks to 91%
+       May train skill [825]Mastery of camping to 82%
+       May train skill [826]Mastery of fire building to 82%
+       May train skill [827]Detect trap to 52%
+
+                                 Level 32
+       Has trained skill [828]Multiple fury to at least 36%
+       Has trained skill [829]Mastery of bladed fury to at least 20%
+       Has trained skill [830]Mastery of camping to at least 32%
+       Has trained skill [831]Mastery of fire building to at least 32%
+       May train skill [832]Dodge to 62%
+       May train skill [833]Stunned maneuvers to 90%
+       May train skill [834]Parry to 67%
+       May train skill [835]Multiple fury to 100%
+       May train skill [836]Enhance criticals to 53%
+       May train skill [837]Tumbling attack to 44%
+       May train skill [838]Mastery of bladed fury to 52%
+       May train skill [839]Combat sense to 38%
+       May train skill [840]Find weakness to 26%
+       May train skill [841]Wipe tracks to 95%
+       May train skill [842]Mastery of camping to 86%
+       May train skill [843]Mastery of fire building to 86%
+       May train skill [844]Detect trap to 56%
+
+                                 Level 33
+       Has trained skill [845]Mastery of bladed fury to at least 25%
+       Has trained skill [846]Mastery of camping to at least 34%
+       Has trained skill [847]Mastery of fire building to at least 34%
+       May train skill [848]Dodge to 64%
+       May train skill [849]Parry to 73%
+       May train skill [850]Enhance criticals to 62%
+       May train skill [851]Tumbling attack to 52%
+       May train skill [852]Mastery of bladed fury to 68%
+       May train skill [853]Combat sense to 47%
+       May train skill [854]Find weakness to 34%
+       May train skill [855]Wipe tracks to 100%
+       May train skill [856]Mastery of camping to 91%
+       May train skill [857]Mastery of fire building to 91%
+       May train skill [858]Detect trap to 61%
+
+                                 Level 34
+       Has trained skill [859]Mastery of bladed fury to at least 30%
+       Has trained skill [860]Mastery of camping to at least 35%
+       Has trained skill [861]Mastery of fire building to at least 35%
+       May train skill [862]Dodge to 67%
+       May train skill [863]Parry to 79%
+       May train skill [864]Enhance criticals to 71%
+       May train skill [865]Tumbling attack to 61%
+       May train skill [866]Mastery of bladed fury to 84%
+       May train skill [867]Combat sense to 56%
+       May train skill [868]Find weakness to 42%
+       May train skill [869]Mastery of camping to 95%
+       May train skill [870]Mastery of fire building to 95%
+       May train skill [871]Detect trap to 65%
+
+                                 Level 35
+       Has trained skill [872]Mastery of bladed fury to at least 36%
+       Has trained skill [873]Mastery of camping to at least 37%
+       Has trained skill [874]Mastery of fire building to at least 37%
+       May train skill [875]Dodge to 70%
+       May train skill [876]Parry to 85%
+       May train skill [877]Enhance criticals to 80%
+       May train skill [878]Tumbling attack to 70%
+       May train skill [879]Mastery of bladed fury to 100%
+       May train skill [880]Combat sense to 65%
+       May train skill [881]Find weakness to 50%
+       May train skill [882]Mastery of camping to 100%
+       May train skill [883]Mastery of fire building to 100%
+       May train skill [884]Detect trap to 70%
+
+                   Allows joining to the following guild:
+                     Rangers
+
+   [885]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [886]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=Rangers&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=Rangers&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=Rangers&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=duke
+  23. http://www.bat.org/help/skills.php?str=attack
+  24. http://www.bat.org/help/skills.php?str=push
+  25. http://www.bat.org/help/skills.php?str=axes
+  26. http://www.bat.org/help/skills.php?str=consider
+  27. http://www.bat.org/help/skills.php?str=tinning
+  28. http://www.bat.org/help/skills.php?str=torch_creation
+  29. http://www.bat.org/help/skills.php?str=hiking
+  30. http://www.bat.org/help/skills.php?str=fire_building
+  31. http://www.bat.org/help/skills.php?str=attack
+  32. http://www.bat.org/help/skills.php?str=axes
+  33. http://www.bat.org/help/skills.php?str=hiking
+  34. http://www.bat.org/help/skills.php?str=fire_building
+  35. http://www.bat.org/help/skills.php?str=attack
+  36. http://www.bat.org/help/skills.php?str=push
+  37. http://www.bat.org/help/skills.php?str=axes
+  38. http://www.bat.org/help/skills.php?str=consider
+  39. http://www.bat.org/help/skills.php?str=tinning
+  40. http://www.bat.org/help/skills.php?str=torch_creation
+  41. http://www.bat.org/help/skills.php?str=hiking
+  42. http://www.bat.org/help/skills.php?str=hunting
+  43. http://www.bat.org/help/skills.php?str=fire_building
+  44. http://www.bat.org/help/skills.php?str=compare
+  45. http://www.bat.org/help/skills.php?str=leather_craft
+  46. http://www.bat.org/help/skills.php?str=stargazing
+  47. http://www.bat.org/help/skills.php?str=attack
+  48. http://www.bat.org/help/skills.php?str=axes
+  49. http://www.bat.org/help/skills.php?str=hiking
+  50. http://www.bat.org/help/skills.php?str=hunting
+  51. http://www.bat.org/help/skills.php?str=fire_building
+  52. http://www.bat.org/help/skills.php?str=attack
+  53. http://www.bat.org/help/skills.php?str=push
+  54. http://www.bat.org/help/skills.php?str=alertness
+  55. http://www.bat.org/help/skills.php?str=short_blades
+  56. http://www.bat.org/help/skills.php?str=axes
+  57. http://www.bat.org/help/skills.php?str=consider
+  58. http://www.bat.org/help/skills.php?str=tinning
+  59. http://www.bat.org/help/skills.php?str=torch_creation
+  60. http://www.bat.org/help/skills.php?str=hiking
+  61. http://www.bat.org/help/skills.php?str=hunting
+  62. http://www.bat.org/help/skills.php?str=fire_building
+  63. http://www.bat.org/help/skills.php?str=compare
+  64. http://www.bat.org/help/skills.php?str=leather_craft
+  65. http://www.bat.org/help/skills.php?str=stargazing
+  66. http://www.bat.org/help/skills.php?str=first_aid
+  67. http://www.bat.org/help/skills.php?str=track
+  68. http://www.bat.org/help/skills.php?str=camping
+  69. http://www.bat.org/help/skills.php?str=attack
+  70. http://www.bat.org/help/skills.php?str=axes
+  71. http://www.bat.org/help/skills.php?str=hiking
+  72. http://www.bat.org/help/skills.php?str=hunting
+  73. http://www.bat.org/help/skills.php?str=fire_building
+  74. http://www.bat.org/help/skills.php?str=camping
+  75. http://www.bat.org/help/skills.php?str=attack
+  76. http://www.bat.org/help/skills.php?str=push
+  77. http://www.bat.org/help/skills.php?str=alertness
+  78. http://www.bat.org/help/skills.php?str=controlled_panic
+  79. http://www.bat.org/help/skills.php?str=short_blades
+  80. http://www.bat.org/help/skills.php?str=axes
+  81. http://www.bat.org/help/skills.php?str=consider
+  82. http://www.bat.org/help/skills.php?str=tinning
+  83. http://www.bat.org/help/skills.php?str=torch_creation
+  84. http://www.bat.org/help/skills.php?str=hiking
+  85. http://www.bat.org/help/skills.php?str=hunting
+  86. http://www.bat.org/help/skills.php?str=fire_building
+  87. http://www.bat.org/help/skills.php?str=compare
+  88. http://www.bat.org/help/skills.php?str=leather_craft
+  89. http://www.bat.org/help/skills.php?str=stargazing
+  90. http://www.bat.org/help/skills.php?str=first_aid
+  91. http://www.bat.org/help/skills.php?str=make_bandage
+  92. http://www.bat.org/help/skills.php?str=track
+  93. http://www.bat.org/help/skills.php?str=camping
+  94. http://www.bat.org/help/skills.php?str=fishing
+  95. http://www.bat.org/help/skills.php?str=attack
+  96. http://www.bat.org/help/skills.php?str=axes
+  97. http://www.bat.org/help/skills.php?str=hiking
+  98. http://www.bat.org/help/skills.php?str=hunting
+  99. http://www.bat.org/help/skills.php?str=fire_building
+ 100. http://www.bat.org/help/skills.php?str=camping
+ 101. http://www.bat.org/help/skills.php?str=attack
+ 102. http://www.bat.org/help/skills.php?str=alertness
+ 103. http://www.bat.org/help/skills.php?str=controlled_panic
+ 104. http://www.bat.org/help/skills.php?str=short_blades
+ 105. http://www.bat.org/help/skills.php?str=axes
+ 106. http://www.bat.org/help/skills.php?str=consider
+ 107. http://www.bat.org/help/skills.php?str=torch_creation
+ 108. http://www.bat.org/help/skills.php?str=hiking
+ 109. http://www.bat.org/help/skills.php?str=hunting
+ 110. http://www.bat.org/help/skills.php?str=fire_building
+ 111. http://www.bat.org/help/skills.php?str=compare
+ 112. http://www.bat.org/help/skills.php?str=leather_craft
+ 113. http://www.bat.org/help/skills.php?str=stargazing
+ 114. http://www.bat.org/help/skills.php?str=first_aid
+ 115. http://www.bat.org/help/skills.php?str=make_bandage
+ 116. http://www.bat.org/help/skills.php?str=track
+ 117. http://www.bat.org/help/skills.php?str=camping
+ 118. http://www.bat.org/help/skills.php?str=fishing
+ 119. http://www.bat.org/help/skills.php?str=swim
+ 120. http://www.bat.org/help/skills.php?str=attack
+ 121. http://www.bat.org/help/skills.php?str=axes
+ 122. http://www.bat.org/help/skills.php?str=hiking
+ 123. http://www.bat.org/help/skills.php?str=hunting
+ 124. http://www.bat.org/help/skills.php?str=fire_building
+ 125. http://www.bat.org/help/skills.php?str=camping
+ 126. http://www.bat.org/help/skills.php?str=attack
+ 127. http://www.bat.org/help/skills.php?str=alertness
+ 128. http://www.bat.org/help/skills.php?str=controlled_panic
+ 129. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 130. http://www.bat.org/help/skills.php?str=short_blades
+ 131. http://www.bat.org/help/skills.php?str=axes
+ 132. http://www.bat.org/help/skills.php?str=consider
+ 133. http://www.bat.org/help/skills.php?str=torch_creation
+ 134. http://www.bat.org/help/skills.php?str=hiking
+ 135. http://www.bat.org/help/skills.php?str=hunting
+ 136. http://www.bat.org/help/skills.php?str=fire_building
+ 137. http://www.bat.org/help/skills.php?str=compare
+ 138. http://www.bat.org/help/skills.php?str=leather_craft
+ 139. http://www.bat.org/help/skills.php?str=stargazing
+ 140. http://www.bat.org/help/skills.php?str=first_aid
+ 141. http://www.bat.org/help/skills.php?str=make_bandage
+ 142. http://www.bat.org/help/skills.php?str=track
+ 143. http://www.bat.org/help/skills.php?str=camping
+ 144. http://www.bat.org/help/skills.php?str=fishing
+ 145. http://www.bat.org/help/skills.php?str=swim
+ 146. http://www.bat.org/help/skills.php?str=plant_lore
+ 147. http://www.bat.org/help/skills.php?str=attack
+ 148. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 149. http://www.bat.org/help/skills.php?str=axes
+ 150. http://www.bat.org/help/skills.php?str=hiking
+ 151. http://www.bat.org/help/skills.php?str=hunting
+ 152. http://www.bat.org/help/skills.php?str=fire_building
+ 153. http://www.bat.org/help/skills.php?str=camping
+ 154. http://www.bat.org/help/skills.php?str=attack
+ 155. http://www.bat.org/help/skills.php?str=alertness
+ 156. http://www.bat.org/help/skills.php?str=controlled_panic
+ 157. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 158. http://www.bat.org/help/skills.php?str=kick
+ 159. http://www.bat.org/help/skills.php?str=switch_weapon
+ 160. http://www.bat.org/help/skills.php?str=short_blades
+ 161. http://www.bat.org/help/skills.php?str=axes
+ 162. http://www.bat.org/help/skills.php?str=consider
+ 163. http://www.bat.org/help/skills.php?str=torch_creation
+ 164. http://www.bat.org/help/skills.php?str=hiking
+ 165. http://www.bat.org/help/skills.php?str=hunting
+ 166. http://www.bat.org/help/skills.php?str=fire_building
+ 167. http://www.bat.org/help/skills.php?str=compare
+ 168. http://www.bat.org/help/skills.php?str=leather_craft
+ 169. http://www.bat.org/help/skills.php?str=stargazing
+ 170. http://www.bat.org/help/skills.php?str=first_aid
+ 171. http://www.bat.org/help/skills.php?str=make_bandage
+ 172. http://www.bat.org/help/skills.php?str=track
+ 173. http://www.bat.org/help/skills.php?str=camping
+ 174. http://www.bat.org/help/skills.php?str=fishing
+ 175. http://www.bat.org/help/skills.php?str=swim
+ 176. http://www.bat.org/help/skills.php?str=plant_lore
+ 177. http://www.bat.org/help/skills.php?str=scouting
+ 178. http://www.bat.org/help/skills.php?str=attack
+ 179. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 180. http://www.bat.org/help/skills.php?str=axes
+ 181. http://www.bat.org/help/skills.php?str=hiking
+ 182. http://www.bat.org/help/skills.php?str=hunting
+ 183. http://www.bat.org/help/skills.php?str=fire_building
+ 184. http://www.bat.org/help/skills.php?str=camping
+ 185. http://www.bat.org/help/skills.php?str=scouting
+ 186. http://www.bat.org/help/skills.php?str=attack
+ 187. http://www.bat.org/help/skills.php?str=alertness
+ 188. http://www.bat.org/help/skills.php?str=controlled_panic
+ 189. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 190. http://www.bat.org/help/skills.php?str=kick
+ 191. http://www.bat.org/help/skills.php?str=switch_weapon
+ 192. http://www.bat.org/help/skills.php?str=short_blades
+ 193. http://www.bat.org/help/skills.php?str=axes
+ 194. http://www.bat.org/help/skills.php?str=consider
+ 195. http://www.bat.org/help/skills.php?str=torch_creation
+ 196. http://www.bat.org/help/skills.php?str=hiking
+ 197. http://www.bat.org/help/skills.php?str=hunting
+ 198. http://www.bat.org/help/skills.php?str=fire_building
+ 199. http://www.bat.org/help/skills.php?str=compare
+ 200. http://www.bat.org/help/skills.php?str=leather_craft
+ 201. http://www.bat.org/help/skills.php?str=stargazing
+ 202. http://www.bat.org/help/skills.php?str=first_aid
+ 203. http://www.bat.org/help/skills.php?str=make_bandage
+ 204. http://www.bat.org/help/skills.php?str=track
+ 205. http://www.bat.org/help/skills.php?str=camping
+ 206. http://www.bat.org/help/skills.php?str=fishing
+ 207. http://www.bat.org/help/skills.php?str=swim
+ 208. http://www.bat.org/help/skills.php?str=plant_lore
+ 209. http://www.bat.org/help/skills.php?str=scouting
+ 210. http://www.bat.org/help/skills.php?str=telescope_operation
+ 211. http://www.bat.org/help/skills.php?str=attack
+ 212. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 213. http://www.bat.org/help/skills.php?str=axes
+ 214. http://www.bat.org/help/skills.php?str=hiking
+ 215. http://www.bat.org/help/skills.php?str=hunting
+ 216. http://www.bat.org/help/skills.php?str=fire_building
+ 217. http://www.bat.org/help/skills.php?str=camping
+ 218. http://www.bat.org/help/skills.php?str=scouting
+ 219. http://www.bat.org/help/skills.php?str=attack
+ 220. http://www.bat.org/help/skills.php?str=alertness
+ 221. http://www.bat.org/help/skills.php?str=controlled_panic
+ 222. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 223. http://www.bat.org/help/skills.php?str=kick
+ 224. http://www.bat.org/help/skills.php?str=switch_weapon
+ 225. http://www.bat.org/help/skills.php?str=short_blades
+ 226. http://www.bat.org/help/skills.php?str=axes
+ 227. http://www.bat.org/help/skills.php?str=consider
+ 228. http://www.bat.org/help/skills.php?str=torch_creation
+ 229. http://www.bat.org/help/skills.php?str=hiking
+ 230. http://www.bat.org/help/skills.php?str=hunting
+ 231. http://www.bat.org/help/skills.php?str=fire_building
+ 232. http://www.bat.org/help/skills.php?str=compare
+ 233. http://www.bat.org/help/skills.php?str=leather_craft
+ 234. http://www.bat.org/help/skills.php?str=stargazing
+ 235. http://www.bat.org/help/skills.php?str=first_aid
+ 236. http://www.bat.org/help/skills.php?str=make_bandage
+ 237. http://www.bat.org/help/skills.php?str=track
+ 238. http://www.bat.org/help/skills.php?str=camping
+ 239. http://www.bat.org/help/skills.php?str=fishing
+ 240. http://www.bat.org/help/skills.php?str=swim
+ 241. http://www.bat.org/help/skills.php?str=plant_lore
+ 242. http://www.bat.org/help/skills.php?str=scouting
+ 243. http://www.bat.org/help/skills.php?str=telescope_operation
+ 244. http://www.bat.org/help/skills.php?str=forest_location
+ 245. http://www.bat.org/help/skills.php?str=attack
+ 246. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 247. http://www.bat.org/help/skills.php?str=axes
+ 248. http://www.bat.org/help/skills.php?str=hiking
+ 249. http://www.bat.org/help/skills.php?str=hunting
+ 250. http://www.bat.org/help/skills.php?str=fire_building
+ 251. http://www.bat.org/help/skills.php?str=camping
+ 252. http://www.bat.org/help/skills.php?str=scouting
+ 253. http://www.bat.org/help/skills.php?str=attack
+ 254. http://www.bat.org/help/skills.php?str=alertness
+ 255. http://www.bat.org/help/skills.php?str=controlled_panic
+ 256. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 257. http://www.bat.org/help/skills.php?str=kick
+ 258. http://www.bat.org/help/skills.php?str=switch_weapon
+ 259. http://www.bat.org/help/skills.php?str=short_blades
+ 260. http://www.bat.org/help/skills.php?str=axes
+ 261. http://www.bat.org/help/skills.php?str=consider
+ 262. http://www.bat.org/help/skills.php?str=torch_creation
+ 263. http://www.bat.org/help/skills.php?str=hiking
+ 264. http://www.bat.org/help/skills.php?str=hunting
+ 265. http://www.bat.org/help/skills.php?str=fire_building
+ 266. http://www.bat.org/help/skills.php?str=compare
+ 267. http://www.bat.org/help/skills.php?str=leather_craft
+ 268. http://www.bat.org/help/skills.php?str=stargazing
+ 269. http://www.bat.org/help/skills.php?str=first_aid
+ 270. http://www.bat.org/help/skills.php?str=make_bandage
+ 271. http://www.bat.org/help/skills.php?str=track
+ 272. http://www.bat.org/help/skills.php?str=camping
+ 273. http://www.bat.org/help/skills.php?str=fishing
+ 274. http://www.bat.org/help/skills.php?str=swim
+ 275. http://www.bat.org/help/skills.php?str=plant_lore
+ 276. http://www.bat.org/help/skills.php?str=scouting
+ 277. http://www.bat.org/help/skills.php?str=telescope_operation
+ 278. http://www.bat.org/help/skills.php?str=forest_location
+ 279. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 280. http://www.bat.org/help/skills.php?str=attack
+ 281. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 282. http://www.bat.org/help/skills.php?str=hiking
+ 283. http://www.bat.org/help/skills.php?str=fire_building
+ 284. http://www.bat.org/help/skills.php?str=scouting
+ 285. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 286. http://www.bat.org/help/skills.php?str=attack
+ 287. http://www.bat.org/help/skills.php?str=alertness
+ 288. http://www.bat.org/help/skills.php?str=controlled_panic
+ 289. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 290. http://www.bat.org/help/skills.php?str=kick
+ 291. http://www.bat.org/help/skills.php?str=switch_weapon
+ 292. http://www.bat.org/help/skills.php?str=rescue
+ 293. http://www.bat.org/help/skills.php?str=shield_bash
+ 294. http://www.bat.org/help/skills.php?str=short_blades
+ 295. http://www.bat.org/help/skills.php?str=consider
+ 296. http://www.bat.org/help/skills.php?str=hiking
+ 297. http://www.bat.org/help/skills.php?str=fire_building
+ 298. http://www.bat.org/help/skills.php?str=leather_craft
+ 299. http://www.bat.org/help/skills.php?str=make_bandage
+ 300. http://www.bat.org/help/skills.php?str=track
+ 301. http://www.bat.org/help/skills.php?str=fishing
+ 302. http://www.bat.org/help/skills.php?str=swim
+ 303. http://www.bat.org/help/skills.php?str=plant_lore
+ 304. http://www.bat.org/help/skills.php?str=scouting
+ 305. http://www.bat.org/help/skills.php?str=telescope_operation
+ 306. http://www.bat.org/help/skills.php?str=forest_location
+ 307. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 308. http://www.bat.org/help/skills.php?str=camouflage
+ 309. http://www.bat.org/help/skills.php?str=location_memory
+ 310. http://www.bat.org/help/skills.php?str=attack
+ 311. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 312. http://www.bat.org/help/skills.php?str=hiking
+ 313. http://www.bat.org/help/skills.php?str=fire_building
+ 314. http://www.bat.org/help/skills.php?str=scouting
+ 315. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 316. http://www.bat.org/help/skills.php?str=attack
+ 317. http://www.bat.org/help/skills.php?str=alertness
+ 318. http://www.bat.org/help/skills.php?str=controlled_panic
+ 319. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 320. http://www.bat.org/help/skills.php?str=kick
+ 321. http://www.bat.org/help/skills.php?str=switch_weapon
+ 322. http://www.bat.org/help/skills.php?str=rescue
+ 323. http://www.bat.org/help/skills.php?str=shield_bash
+ 324. http://www.bat.org/help/skills.php?str=dodge
+ 325. http://www.bat.org/help/skills.php?str=short_blades
+ 326. http://www.bat.org/help/skills.php?str=consider
+ 327. http://www.bat.org/help/skills.php?str=hiking
+ 328. http://www.bat.org/help/skills.php?str=fire_building
+ 329. http://www.bat.org/help/skills.php?str=leather_craft
+ 330. http://www.bat.org/help/skills.php?str=make_bandage
+ 331. http://www.bat.org/help/skills.php?str=track
+ 332. http://www.bat.org/help/skills.php?str=fishing
+ 333. http://www.bat.org/help/skills.php?str=swim
+ 334. http://www.bat.org/help/skills.php?str=plant_lore
+ 335. http://www.bat.org/help/skills.php?str=scouting
+ 336. http://www.bat.org/help/skills.php?str=telescope_operation
+ 337. http://www.bat.org/help/skills.php?str=forest_location
+ 338. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 339. http://www.bat.org/help/skills.php?str=camouflage
+ 340. http://www.bat.org/help/skills.php?str=location_memory
+ 341. http://www.bat.org/help/skills.php?str=locate_water
+ 342. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 343. http://www.bat.org/help/skills.php?str=attack
+ 344. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 345. http://www.bat.org/help/skills.php?str=hiking
+ 346. http://www.bat.org/help/skills.php?str=fire_building
+ 347. http://www.bat.org/help/skills.php?str=scouting
+ 348. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 349. http://www.bat.org/help/skills.php?str=attack
+ 350. http://www.bat.org/help/skills.php?str=alertness
+ 351. http://www.bat.org/help/skills.php?str=controlled_panic
+ 352. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 353. http://www.bat.org/help/skills.php?str=kick
+ 354. http://www.bat.org/help/skills.php?str=switch_weapon
+ 355. http://www.bat.org/help/skills.php?str=rescue
+ 356. http://www.bat.org/help/skills.php?str=shield_bash
+ 357. http://www.bat.org/help/skills.php?str=dodge
+ 358. http://www.bat.org/help/skills.php?str=short_blades
+ 359. http://www.bat.org/help/skills.php?str=consider
+ 360. http://www.bat.org/help/skills.php?str=hiking
+ 361. http://www.bat.org/help/skills.php?str=fire_building
+ 362. http://www.bat.org/help/skills.php?str=leather_craft
+ 363. http://www.bat.org/help/skills.php?str=make_bandage
+ 364. http://www.bat.org/help/skills.php?str=track
+ 365. http://www.bat.org/help/skills.php?str=fishing
+ 366. http://www.bat.org/help/skills.php?str=swim
+ 367. http://www.bat.org/help/skills.php?str=plant_lore
+ 368. http://www.bat.org/help/skills.php?str=scouting
+ 369. http://www.bat.org/help/skills.php?str=telescope_operation
+ 370. http://www.bat.org/help/skills.php?str=forest_location
+ 371. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 372. http://www.bat.org/help/skills.php?str=camouflage
+ 373. http://www.bat.org/help/skills.php?str=location_memory
+ 374. http://www.bat.org/help/skills.php?str=locate_water
+ 375. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 376. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 377. http://www.bat.org/help/skills.php?str=hiking
+ 378. http://www.bat.org/help/skills.php?str=fire_building
+ 379. http://www.bat.org/help/skills.php?str=scouting
+ 380. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 381. http://www.bat.org/help/skills.php?str=alertness
+ 382. http://www.bat.org/help/skills.php?str=controlled_panic
+ 383. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 384. http://www.bat.org/help/skills.php?str=kick
+ 385. http://www.bat.org/help/skills.php?str=switch_weapon
+ 386. http://www.bat.org/help/skills.php?str=rescue
+ 387. http://www.bat.org/help/skills.php?str=shield_bash
+ 388. http://www.bat.org/help/skills.php?str=dodge
+ 389. http://www.bat.org/help/skills.php?str=stun
+ 390. http://www.bat.org/help/skills.php?str=throw_weight
+ 391. http://www.bat.org/help/skills.php?str=short_blades
+ 392. http://www.bat.org/help/skills.php?str=consider
+ 393. http://www.bat.org/help/skills.php?str=hiking
+ 394. http://www.bat.org/help/skills.php?str=fire_building
+ 395. http://www.bat.org/help/skills.php?str=leather_craft
+ 396. http://www.bat.org/help/skills.php?str=make_bandage
+ 397. http://www.bat.org/help/skills.php?str=track
+ 398. http://www.bat.org/help/skills.php?str=fishing
+ 399. http://www.bat.org/help/skills.php?str=plant_lore
+ 400. http://www.bat.org/help/skills.php?str=scouting
+ 401. http://www.bat.org/help/skills.php?str=telescope_operation
+ 402. http://www.bat.org/help/skills.php?str=forest_location
+ 403. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 404. http://www.bat.org/help/skills.php?str=camouflage
+ 405. http://www.bat.org/help/skills.php?str=location_memory
+ 406. http://www.bat.org/help/skills.php?str=locate_water
+ 407. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 408. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 409. http://www.bat.org/help/skills.php?str=hiking
+ 410. http://www.bat.org/help/skills.php?str=fire_building
+ 411. http://www.bat.org/help/skills.php?str=scouting
+ 412. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 413. http://www.bat.org/help/skills.php?str=alertness
+ 414. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 415. http://www.bat.org/help/skills.php?str=kick
+ 416. http://www.bat.org/help/skills.php?str=switch_weapon
+ 417. http://www.bat.org/help/skills.php?str=rescue
+ 418. http://www.bat.org/help/skills.php?str=shield_bash
+ 419. http://www.bat.org/help/skills.php?str=dodge
+ 420. http://www.bat.org/help/skills.php?str=stun
+ 421. http://www.bat.org/help/skills.php?str=throw_weight
+ 422. http://www.bat.org/help/skills.php?str=bladed_fury
+ 423. http://www.bat.org/help/skills.php?str=short_blades
+ 424. http://www.bat.org/help/skills.php?str=hiking
+ 425. http://www.bat.org/help/skills.php?str=fire_building
+ 426. http://www.bat.org/help/skills.php?str=make_bandage
+ 427. http://www.bat.org/help/skills.php?str=track
+ 428. http://www.bat.org/help/skills.php?str=plant_lore
+ 429. http://www.bat.org/help/skills.php?str=scouting
+ 430. http://www.bat.org/help/skills.php?str=telescope_operation
+ 431. http://www.bat.org/help/skills.php?str=forest_location
+ 432. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 433. http://www.bat.org/help/skills.php?str=camouflage
+ 434. http://www.bat.org/help/skills.php?str=location_memory
+ 435. http://www.bat.org/help/skills.php?str=locate_water
+ 436. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 437. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 438. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 439. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 440. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 441. http://www.bat.org/help/skills.php?str=bladed_fury
+ 442. http://www.bat.org/help/skills.php?str=fire_building
+ 443. http://www.bat.org/help/skills.php?str=scouting
+ 444. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 445. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 446. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 447. http://www.bat.org/help/skills.php?str=alertness
+ 448. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 449. http://www.bat.org/help/skills.php?str=switch_weapon
+ 450. http://www.bat.org/help/skills.php?str=rescue
+ 451. http://www.bat.org/help/skills.php?str=shield_bash
+ 452. http://www.bat.org/help/skills.php?str=dodge
+ 453. http://www.bat.org/help/skills.php?str=stun
+ 454. http://www.bat.org/help/skills.php?str=throw_weight
+ 455. http://www.bat.org/help/skills.php?str=bladed_fury
+ 456. http://www.bat.org/help/skills.php?str=discipline
+ 457. http://www.bat.org/help/skills.php?str=long_blades
+ 458. http://www.bat.org/help/skills.php?str=fire_building
+ 459. http://www.bat.org/help/skills.php?str=track
+ 460. http://www.bat.org/help/skills.php?str=scouting
+ 461. http://www.bat.org/help/skills.php?str=telescope_operation
+ 462. http://www.bat.org/help/skills.php?str=forest_location
+ 463. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 464. http://www.bat.org/help/skills.php?str=camouflage
+ 465. http://www.bat.org/help/skills.php?str=location_memory
+ 466. http://www.bat.org/help/skills.php?str=locate_water
+ 467. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 468. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 469. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 470. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 471. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 472. http://www.bat.org/help/skills.php?str=bladed_fury
+ 473. http://www.bat.org/help/skills.php?str=fire_building
+ 474. http://www.bat.org/help/skills.php?str=scouting
+ 475. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 476. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 477. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 478. http://www.bat.org/help/skills.php?str=alertness
+ 479. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 480. http://www.bat.org/help/skills.php?str=switch_weapon
+ 481. http://www.bat.org/help/skills.php?str=rescue
+ 482. http://www.bat.org/help/skills.php?str=shield_bash
+ 483. http://www.bat.org/help/skills.php?str=dodge
+ 484. http://www.bat.org/help/skills.php?str=stun
+ 485. http://www.bat.org/help/skills.php?str=throw_weight
+ 486. http://www.bat.org/help/skills.php?str=bladed_fury
+ 487. http://www.bat.org/help/skills.php?str=discipline
+ 488. http://www.bat.org/help/skills.php?str=long_blades
+ 489. http://www.bat.org/help/skills.php?str=fire_building
+ 490. http://www.bat.org/help/skills.php?str=track
+ 491. http://www.bat.org/help/skills.php?str=scouting
+ 492. http://www.bat.org/help/skills.php?str=telescope_operation
+ 493. http://www.bat.org/help/skills.php?str=forest_location
+ 494. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 495. http://www.bat.org/help/skills.php?str=camouflage
+ 496. http://www.bat.org/help/skills.php?str=location_memory
+ 497. http://www.bat.org/help/skills.php?str=locate_water
+ 498. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 499. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 500. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 501. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 502. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 503. http://www.bat.org/help/skills.php?str=bladed_fury
+ 504. http://www.bat.org/help/skills.php?str=scouting
+ 505. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 506. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 507. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 508. http://www.bat.org/help/skills.php?str=alertness
+ 509. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 510. http://www.bat.org/help/skills.php?str=rescue
+ 511. http://www.bat.org/help/skills.php?str=shield_bash
+ 512. http://www.bat.org/help/skills.php?str=dodge
+ 513. http://www.bat.org/help/skills.php?str=stun
+ 514. http://www.bat.org/help/skills.php?str=throw_weight
+ 515. http://www.bat.org/help/skills.php?str=bladed_fury
+ 516. http://www.bat.org/help/skills.php?str=discipline
+ 517. http://www.bat.org/help/skills.php?str=long_blades
+ 518. http://www.bat.org/help/skills.php?str=scouting
+ 519. http://www.bat.org/help/skills.php?str=forest_location
+ 520. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 521. http://www.bat.org/help/skills.php?str=camouflage
+ 522. http://www.bat.org/help/skills.php?str=location_memory
+ 523. http://www.bat.org/help/skills.php?str=locate_water
+ 524. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 525. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 526. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 527. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 528. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 529. http://www.bat.org/help/skills.php?str=bladed_fury
+ 530. http://www.bat.org/help/skills.php?str=scouting
+ 531. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 532. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 533. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 534. http://www.bat.org/help/skills.php?str=alertness
+ 535. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 536. http://www.bat.org/help/skills.php?str=rescue
+ 537. http://www.bat.org/help/skills.php?str=dodge
+ 538. http://www.bat.org/help/skills.php?str=stun
+ 539. http://www.bat.org/help/skills.php?str=throw_weight
+ 540. http://www.bat.org/help/skills.php?str=bladed_fury
+ 541. http://www.bat.org/help/skills.php?str=discipline
+ 542. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 543. http://www.bat.org/help/skills.php?str=long_blades
+ 544. http://www.bat.org/help/skills.php?str=scouting
+ 545. http://www.bat.org/help/skills.php?str=forest_location
+ 546. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 547. http://www.bat.org/help/skills.php?str=camouflage
+ 548. http://www.bat.org/help/skills.php?str=location_memory
+ 549. http://www.bat.org/help/skills.php?str=locate_water
+ 550. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 551. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 552. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 553. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 554. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 555. http://www.bat.org/help/skills.php?str=bladed_fury
+ 556. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 557. http://www.bat.org/help/skills.php?str=scouting
+ 558. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 559. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 560. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 561. http://www.bat.org/help/skills.php?str=alertness
+ 562. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 563. http://www.bat.org/help/skills.php?str=rescue
+ 564. http://www.bat.org/help/skills.php?str=dodge
+ 565. http://www.bat.org/help/skills.php?str=stun
+ 566. http://www.bat.org/help/skills.php?str=throw_weight
+ 567. http://www.bat.org/help/skills.php?str=bladed_fury
+ 568. http://www.bat.org/help/skills.php?str=discipline
+ 569. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 570. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 571. http://www.bat.org/help/skills.php?str=long_blades
+ 572. http://www.bat.org/help/skills.php?str=scouting
+ 573. http://www.bat.org/help/skills.php?str=forest_location
+ 574. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 575. http://www.bat.org/help/skills.php?str=location_memory
+ 576. http://www.bat.org/help/skills.php?str=locate_water
+ 577. http://www.bat.org/help/skills.php?str=woodland_stealth
+ 578. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 579. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 580. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 581. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 582. http://www.bat.org/help/skills.php?str=bladed_fury
+ 583. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 584. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 585. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 586. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 587. http://www.bat.org/help/skills.php?str=alertness
+ 588. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 589. http://www.bat.org/help/skills.php?str=rescue
+ 590. http://www.bat.org/help/skills.php?str=dodge
+ 591. http://www.bat.org/help/skills.php?str=stun
+ 592. http://www.bat.org/help/skills.php?str=bladed_fury
+ 593. http://www.bat.org/help/skills.php?str=discipline
+ 594. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 595. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 596. http://www.bat.org/help/skills.php?str=long_blades
+ 597. http://www.bat.org/help/skills.php?str=forest_location
+ 598. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 599. http://www.bat.org/help/skills.php?str=location_memory
+ 600. http://www.bat.org/help/skills.php?str=locate_water
+ 601. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 602. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 603. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 604. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 605. http://www.bat.org/help/skills.php?str=bladed_fury
+ 606. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 607. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 608. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 609. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 610. http://www.bat.org/help/skills.php?str=alertness
+ 611. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 612. http://www.bat.org/help/skills.php?str=rescue
+ 613. http://www.bat.org/help/skills.php?str=dodge
+ 614. http://www.bat.org/help/skills.php?str=stun
+ 615. http://www.bat.org/help/skills.php?str=bladed_fury
+ 616. http://www.bat.org/help/skills.php?str=discipline
+ 617. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 618. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 619. http://www.bat.org/help/skills.php?str=parry
+ 620. http://www.bat.org/help/skills.php?str=long_blades
+ 621. http://www.bat.org/help/skills.php?str=forest_location
+ 622. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 623. http://www.bat.org/help/skills.php?str=location_memory
+ 624. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 625. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 626. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 627. http://www.bat.org/help/skills.php?str=leadership
+ 628. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 629. http://www.bat.org/help/skills.php?str=bladed_fury
+ 630. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 631. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 632. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 633. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 634. http://www.bat.org/help/skills.php?str=alertness
+ 635. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 636. http://www.bat.org/help/skills.php?str=dodge
+ 637. http://www.bat.org/help/skills.php?str=riposte
+ 638. http://www.bat.org/help/skills.php?str=stun
+ 639. http://www.bat.org/help/skills.php?str=bladed_fury
+ 640. http://www.bat.org/help/skills.php?str=discipline
+ 641. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 642. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 643. http://www.bat.org/help/skills.php?str=parry
+ 644. http://www.bat.org/help/skills.php?str=long_blades
+ 645. http://www.bat.org/help/skills.php?str=forest_location
+ 646. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 647. http://www.bat.org/help/skills.php?str=location_memory
+ 648. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 649. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 650. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 651. http://www.bat.org/help/skills.php?str=leadership
+ 652. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 653. http://www.bat.org/help/skills.php?str=bladed_fury
+ 654. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 655. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 656. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 657. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 658. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 659. http://www.bat.org/help/skills.php?str=dodge
+ 660. http://www.bat.org/help/skills.php?str=riposte
+ 661. http://www.bat.org/help/skills.php?str=stun
+ 662. http://www.bat.org/help/skills.php?str=bladed_fury
+ 663. http://www.bat.org/help/skills.php?str=discipline
+ 664. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 665. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 666. http://www.bat.org/help/skills.php?str=parry
+ 667. http://www.bat.org/help/skills.php?str=multiple_fury
+ 668. http://www.bat.org/help/skills.php?str=long_blades
+ 669. http://www.bat.org/help/skills.php?str=forest_location
+ 670. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 671. http://www.bat.org/help/skills.php?str=location_memory
+ 672. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 673. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 674. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 675. http://www.bat.org/help/skills.php?str=leadership
+ 676. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 677. http://www.bat.org/help/skills.php?str=bladed_fury
+ 678. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 679. http://www.bat.org/help/skills.php?str=multiple_fury
+ 680. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 681. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 682. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 683. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 684. http://www.bat.org/help/skills.php?str=dodge
+ 685. http://www.bat.org/help/skills.php?str=riposte
+ 686. http://www.bat.org/help/skills.php?str=stun
+ 687. http://www.bat.org/help/skills.php?str=bladed_fury
+ 688. http://www.bat.org/help/skills.php?str=discipline
+ 689. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 690. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 691. http://www.bat.org/help/skills.php?str=parry
+ 692. http://www.bat.org/help/skills.php?str=multiple_fury
+ 693. http://www.bat.org/help/skills.php?str=long_blades
+ 694. http://www.bat.org/help/skills.php?str=forest_location
+ 695. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 696. http://www.bat.org/help/skills.php?str=location_memory
+ 697. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 698. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 699. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 700. http://www.bat.org/help/skills.php?str=leadership
+ 701. http://www.bat.org/help/skills.php?str=pathfinding
+ 702. http://www.bat.org/help/skills.php?str=detect_trap
+ 703. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 704. http://www.bat.org/help/skills.php?str=multiple_fury
+ 705. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 706. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 707. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 708. http://www.bat.org/help/skills.php?str=dodge
+ 709. http://www.bat.org/help/skills.php?str=riposte
+ 710. http://www.bat.org/help/skills.php?str=stun
+ 711. http://www.bat.org/help/skills.php?str=discipline
+ 712. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 713. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 714. http://www.bat.org/help/skills.php?str=parry
+ 715. http://www.bat.org/help/skills.php?str=multiple_fury
+ 716. http://www.bat.org/help/skills.php?str=long_blades
+ 717. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 718. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 719. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 720. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 721. http://www.bat.org/help/skills.php?str=leadership
+ 722. http://www.bat.org/help/skills.php?str=pathfinding
+ 723. http://www.bat.org/help/skills.php?str=detect_trap
+ 724. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 725. http://www.bat.org/help/skills.php?str=multiple_fury
+ 726. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 727. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 728. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 729. http://www.bat.org/help/skills.php?str=dodge
+ 730. http://www.bat.org/help/skills.php?str=riposte
+ 731. http://www.bat.org/help/skills.php?str=stun
+ 732. http://www.bat.org/help/skills.php?str=discipline
+ 733. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 734. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 735. http://www.bat.org/help/skills.php?str=parry
+ 736. http://www.bat.org/help/skills.php?str=multiple_fury
+ 737. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 738. http://www.bat.org/help/skills.php?str=long_blades
+ 739. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 740. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 741. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 742. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 743. http://www.bat.org/help/skills.php?str=leadership
+ 744. http://www.bat.org/help/skills.php?str=pathfinding
+ 745. http://www.bat.org/help/skills.php?str=detect_trap
+ 746. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 747. http://www.bat.org/help/skills.php?str=multiple_fury
+ 748. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 749. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 750. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 751. http://www.bat.org/help/skills.php?str=dodge
+ 752. http://www.bat.org/help/skills.php?str=riposte
+ 753. http://www.bat.org/help/skills.php?str=stun
+ 754. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 755. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 756. http://www.bat.org/help/skills.php?str=parry
+ 757. http://www.bat.org/help/skills.php?str=multiple_fury
+ 758. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 759. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 760. http://www.bat.org/help/skills.php?str=long_blades
+ 761. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 762. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 763. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 764. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 765. http://www.bat.org/help/skills.php?str=leadership
+ 766. http://www.bat.org/help/skills.php?str=pathfinding
+ 767. http://www.bat.org/help/skills.php?str=detect_trap
+ 768. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 769. http://www.bat.org/help/skills.php?str=multiple_fury
+ 770. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 771. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 772. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 773. http://www.bat.org/help/skills.php?str=dodge
+ 774. http://www.bat.org/help/skills.php?str=riposte
+ 775. http://www.bat.org/help/skills.php?str=stun
+ 776. http://www.bat.org/help/skills.php?str=offhanded_fury
+ 777. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 778. http://www.bat.org/help/skills.php?str=parry
+ 779. http://www.bat.org/help/skills.php?str=multiple_fury
+ 780. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 781. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 782. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 783. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 784. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 785. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 786. http://www.bat.org/help/skills.php?str=leadership
+ 787. http://www.bat.org/help/skills.php?str=pathfinding
+ 788. http://www.bat.org/help/skills.php?str=detect_trap
+ 789. http://www.bat.org/help/skills.php?str=multiple_fury
+ 790. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 791. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 792. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 793. http://www.bat.org/help/skills.php?str=dodge
+ 794. http://www.bat.org/help/skills.php?str=riposte
+ 795. http://www.bat.org/help/skills.php?str=stun
+ 796. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 797. http://www.bat.org/help/skills.php?str=parry
+ 798. http://www.bat.org/help/skills.php?str=multiple_fury
+ 799. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 800. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 801. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 802. http://www.bat.org/help/skills.php?str=combat_sense
+ 803. http://www.bat.org/help/skills.php?str=find_weakness
+ 804. http://www.bat.org/help/skills.php?str=enhanced_peer
+ 805. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 806. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 807. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 808. http://www.bat.org/help/skills.php?str=leadership
+ 809. http://www.bat.org/help/skills.php?str=pathfinding
+ 810. http://www.bat.org/help/skills.php?str=detect_trap
+ 811. http://www.bat.org/help/skills.php?str=multiple_fury
+ 812. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 813. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 814. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 815. http://www.bat.org/help/skills.php?str=dodge
+ 816. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 817. http://www.bat.org/help/skills.php?str=parry
+ 818. http://www.bat.org/help/skills.php?str=multiple_fury
+ 819. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 820. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 821. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 822. http://www.bat.org/help/skills.php?str=combat_sense
+ 823. http://www.bat.org/help/skills.php?str=find_weakness
+ 824. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 825. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 826. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 827. http://www.bat.org/help/skills.php?str=detect_trap
+ 828. http://www.bat.org/help/skills.php?str=multiple_fury
+ 829. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 830. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 831. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 832. http://www.bat.org/help/skills.php?str=dodge
+ 833. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 834. http://www.bat.org/help/skills.php?str=parry
+ 835. http://www.bat.org/help/skills.php?str=multiple_fury
+ 836. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 837. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 838. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 839. http://www.bat.org/help/skills.php?str=combat_sense
+ 840. http://www.bat.org/help/skills.php?str=find_weakness
+ 841. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 842. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 843. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 844. http://www.bat.org/help/skills.php?str=detect_trap
+ 845. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 846. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 847. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 848. http://www.bat.org/help/skills.php?str=dodge
+ 849. http://www.bat.org/help/skills.php?str=parry
+ 850. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 851. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 852. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 853. http://www.bat.org/help/skills.php?str=combat_sense
+ 854. http://www.bat.org/help/skills.php?str=find_weakness
+ 855. http://www.bat.org/help/skills.php?str=wipe_tracks
+ 856. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 857. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 858. http://www.bat.org/help/skills.php?str=detect_trap
+ 859. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 860. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 861. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 862. http://www.bat.org/help/skills.php?str=dodge
+ 863. http://www.bat.org/help/skills.php?str=parry
+ 864. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 865. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 866. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 867. http://www.bat.org/help/skills.php?str=combat_sense
+ 868. http://www.bat.org/help/skills.php?str=find_weakness
+ 869. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 870. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 871. http://www.bat.org/help/skills.php?str=detect_trap
+ 872. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 873. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 874. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 875. http://www.bat.org/help/skills.php?str=dodge
+ 876. http://www.bat.org/help/skills.php?str=parry
+ 877. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 878. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 879. http://www.bat.org/help/skills.php?str=mastery_of_bladed_fury
+ 880. http://www.bat.org/help/skills.php?str=combat_sense
+ 881. http://www.bat.org/help/skills.php?str=find_weakness
+ 882. http://www.bat.org/help/skills.php?str=mastery_of_camping
+ 883. http://www.bat.org/help/skills.php?str=mastery_of_fire_building
+ 884. http://www.bat.org/help/skills.php?str=detect_trap
+ 885. http://www.bat.org/help/guilds.php
+ 886. mailto:webmaster@bat.org
+
+   Hidden links:
+ 887. http://www.bat.org/bat.php

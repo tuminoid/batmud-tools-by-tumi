@@ -1,0 +1,58 @@
+Elf
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |   0 | 100 |        4 |
+| Essence eye                   |  83 | 100 |     5749 |
+| Dissection                    |  72 | 100 |     3746 |
+| Plant lore                    |  95 | 100 |    61992 |
+| Mana control                  |  60 |  60 |    (n/a) |
+| Cast alchemy                  | 100 | 100 |    (n/a) |
+| Cast generic                  |  90 | 100 |    80105 |
+| Cast information              |  90 | 100 |    80105 |
+| Cast special                  |  80 | 100 |    33837 |
+| Cannibalize                   |  90 | 100 |    84078 |
+| Alloying                      | 100 | 100 |    (n/a) |
+| Amalgamate                    | 100 | 100 |    (n/a) |
+| Attack                        |  85 |  70 |    (n/a) |
+| Make reagent                  | 100 | 100 |    (n/a) |
+| Blacksmithing                 | 100 |  50 |    (n/a) |
+| Refining                      | 100 |  75 |    (n/a) |
+| Ceremony                      |  70 | 100 |    24038 |
+| Decanting                     |   0 | 100 |       57 |
+| Recanting                     |   0 | 100 |       57 |
+| Mix salve                     |  88 | 100 |   140697 |
+| Swift scalpel                 |  80 | 100 |    70611 |
+| Throw control                 |  90 | 100 |   229999 |
+| Knowledge of alchemy          | 100 | 100 |    (n/a) |
+| Mix potion                    |  90 | 100 |   229999 |
+| Quick chant                   |  61 |  60 |    (n/a) |
+| Long blades                   |  70 |  70 |    (n/a) |
+| Mix drug                      |  90 | 100 |   229999 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Create money                  |  80 | 100 |     3550 |
+| Detect race                   |   0 | 100 |        9 |
+| Water walking                 |  70 | 100 |     4242 |
+| Prepare flask                 |  72 | 100 |     5958 |
+| Dim                           |  90 | 100 |    47280 |
+| Feather weight                |  90 | 100 |    47280 |
+| Floating disc                 |  90 | 100 |    47280 |
+| Glow                          |  90 | 100 |    47280 |
+| Identify                      |  90 | 100 |    47280 |
+| Preserve corpse               |   0 | 100 |       19 |
+| Summon homonculus             |   0 | 100 |       56 |
+| Aegis                         |   0 | 100 |       67 |
+| Aura detection                |   0 | 100 |       72 |
+| Patch item                    | 100 | 100 |    (n/a) |
+| Shift blade                   | 100 | 100 |    (n/a) |
+| Create herb                   |  75 | 100 |    67447 |
+| Sneezing powder               |   0 | 100 |      104 |
+| Mould ring                    | 100 | 100 |    (n/a) |
+`------------------------------------------------------'

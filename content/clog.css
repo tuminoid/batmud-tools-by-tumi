@@ -1,0 +1,48 @@
+
+/* show.css (c) Tumi 2004 */
+
+div.progress-fixed a span {
+	display: block;
+}
+
+div.progress-fixed a:hover span {
+	color: Black;
+	background-color: inherit;
+}
+
+div.progress-fixed a, h4 {
+	text-decoration: none;
+	color: Black;
+	background-color: inherit;
+}
+
+
+
+table#show-list {
+	padding: 0;
+	margin: 1em;
+	border: 1px solid Black;
+	width: 95%;
+	font-size: smaller;
+}
+
+tr#show-header {
+	border-bottom: 1px solid Black;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+tr.show-item {
+	text-align: right;
+	border-bottom: 1px slashed Black;
+}
+
+tr.show-item:hover {
+	background-color: #eeeeee;
+	text-decoration: underline;
+}
+
+td {
+	padding-right: 1em;
+}

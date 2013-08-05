@@ -1,0 +1,49 @@
+Ent
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Appraise                      |   0 |  50 |        5 |
+| Consider                      |  70 |  98 |     2436 |
+| Push                          |   0 |  80 |        5 |
+| Tinning                       |   0 |  80 |        5 |
+| Alcohol tolerance             |   0 |  70 |        9 |
+| Compare                       |   0 |  60 |        9 |
+| First aid                     |  50 |  80 |      990 |
+| Alertness                     |  40 |  50 |      613 |
+| Bash                          |   0 |  70 |       18 |
+| Battlecry                     |   0 |  60 |       18 |
+| Swim                          |   0 |  85 |       18 |
+| Torch creation                |   0 |  50 |       24 |
+| Pummel                        |   0 |  70 |       26 |
+| Camping                       |   0 |  50 |       28 |
+| Kick                          |  60 |  70 |     5789 |
+| Throw weight                  |  50 |  65 |     2445 |
+| Overbear                      |   0 |  70 |       36 |
+| Switch weapon                 |  70 |  50 |    (n/a) |
+| Attack                        |  75 |  95 |    35474 |
+| Short blades                  |  73 |  95 |    40468 |
+| Brawling                      |   0 |  60 |       91 |
+| Dirty fighting                |   0 |  70 |      109 |
+| Polearms                      |   0 |  90 |      109 |
+| Negate offhand penalty        |  70 |  60 |    (n/a) |
+| Shield bash                   |   0 |  40 |      117 |
+| Stab                          |  63 |  95 |    28748 |
+| Impale                        |   0 |  90 |      154 |
+| Rescue                        |   0 |  50 |      170 |
+| Long blades                   |   0 |  90 |      197 |
+| Stun                          |  37 |  60 |     5142 |
+| Riposte                       |   0 |  60 |      236 |
+| Slash                         |   0 |  90 |      236 |
+| Discipline                    |  43 |  50 |    21282 |
+| Pierce                        |  53 |  70 |    50384 |
+| Mangle                        |   0 |  70 |      570 |
+| Enhance criticals             |  19 |  50 |     3414 |
+| Decapitate                    |   0 |  70 |      708 |
+| Parry                         |  60 |  80 |   143134 |
+| Tumbling attack               |  18 |  50 |     4906 |
+| Stunned maneuvers             |  34 |  65 |    26406 |
+| Combat sense                  |  43 |  50 |    65756 |
+| Dodge                         |  60 |  50 |    (n/a) |
+`------------------------------------------------------'

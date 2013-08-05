@@ -1,0 +1,1352 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                   [fonter.php?str=The+Master+Merchants]
+
+                            The Master Merchants
+
+   Command: merchant
+   Creators: [22]Duke, [23]Shadowjack
+   Maximum level: 25
+   Description:
+   Merchants are the respected business people of BatMUD. Although they
+   may lack
+   the combat experience of adventurers, their training gives them great
+   influence in society and makes them an integral part of the economy.
+
+                                New Member
+        Background must be civilized
+        You are now a member of the Merchant Council.
+        You have received a gilded abacus, symbol of your profession.
+        May train skill [24]Attack to 10%
+        May train skill [25]Bludgeons to 10%
+        May train skill [26]Cast generic to 25%
+        May train skill [27]Cast special to 25%
+        May train skill [28]Appraise to 25%
+        May train skill [29]Bargain to 20%
+        May train skill [30]Blacksmithing to 20%
+        May train skill [31]Compare to 25%
+        May train skill [32]Fresh pants to 25%
+        May train skill [33]Plant lore to 20%
+        May train skill [34]Plastic surgery to 25%
+        May train skill [35]Sewing to 25%
+        May train skill [36]Tinning to 30%
+        May train skill [37]Torch creation to 25%
+        May study spell [38]Create money to 25%
+        May study spell [39]Detect alignment to 25%
+        May study spell [40]Money is power to 25%
+        May study spell [41]Preserve corpse to 25%
+        May study spell [42]Remove scar to 25%
+
+                                 Level 2
+             Has trained skill [43]Attack to at least 2%
+             Has trained skill [44]Cast generic to at least 6%
+             Has trained skill [45]Bargain to at least 5%
+             Has trained skill [46]Blacksmithing to at least 5%
+             Has studied spell [47]Money is power to at least 6%
+             May train skill [48]Attack to 18%
+             May train skill [49]Bludgeons to 17%
+             May train skill [50]Cast generic to 40%
+             May train skill [51]Cast special to 43%
+             May train skill [52]Appraise to 43%
+             May train skill [53]Bargain to 28%
+             May train skill [54]Blacksmithing to 31%
+             May train skill [55]Compare to 43%
+             May train skill [56]Fresh pants to 43%
+             May train skill [57]Plant lore to 27%
+             May train skill [58]Plastic surgery to 33%
+             May train skill [59]Sewing to 43%
+             May train skill [60]Tinning to 47%
+             May train skill [61]Torch creation to 36%
+             May study spell [62]Create money to 43%
+             May study spell [63]Detect alignment to 43%
+             May study spell [64]Money is power to 36%
+             May study spell [65]Preserve corpse to 43%
+             May study spell [66]Remove scar to 43%
+             May study spell [67]Create food to 25%
+             May study spell [68]Darkness to 25%
+             May study spell [69]Light to 25%
+
+                                 Level 3
+             Has trained skill [70]Attack to at least 4%
+             Has trained skill [71]Cast generic to at least 10%
+             Has trained skill [72]Bargain to at least 7%
+             Has trained skill [73]Blacksmithing to at least 7%
+             Has studied spell [74]Money is power to at least 9%
+             May train skill [75]Attack to 27%
+             May train skill [76]Bludgeons to 24%
+             May train skill [77]Axes to 10%
+             May train skill [78]Cast generic to 55%
+             May train skill [79]Cast special to 62%
+             May train skill [80]Cast control to 25%
+             May train skill [81]Cast help to 25%
+             May train skill [82]Cast information to 25%
+             May train skill [83]Cast transformation to 25%
+             May train skill [84]Appraise to 62%
+             May train skill [85]Bargain to 37%
+             May train skill [86]Blacksmithing to 42%
+             May train skill [87]Compare to 62%
+             May train skill [88]Fresh pants to 62%
+             May train skill [89]Plant lore to 35%
+             May train skill [90]Plastic surgery to 41%
+             May train skill [91]Sewing to 62%
+             May train skill [92]Tinning to 65%
+             May train skill [93]Torch creation to 47%
+             May train skill [94]Lumberjacking to 25%
+             May study spell [95]Create money to 62%
+             May study spell [96]Detect alignment to 62%
+             May study spell [97]Money is power to 47%
+             May study spell [98]Preserve corpse to 62%
+             May study spell [99]Remove scar to 62%
+             May study spell [100]Create food to 40%
+             May study spell [101]Darkness to 40%
+             May study spell [102]Light to 40%
+
+                                 Level 4
+            Has trained skill [103]Attack to at least 6%
+            Has trained skill [104]Cast generic to at least 13%
+            Has trained skill [105]Bargain to at least 9%
+            Has trained skill [106]Blacksmithing to at least 10%
+            Has studied spell [107]Money is power to at least 11%
+            May train skill [108]Attack to 36%
+            May train skill [109]Bludgeons to 31%
+            May train skill [110]Axes to 17%
+            May train skill [111]Cast generic to 70%
+            May train skill [112]Cast special to 81%
+            May train skill [113]Cast control to 40%
+            May train skill [114]Cast help to 40%
+            May train skill [115]Cast information to 40%
+            May train skill [116]Cast transformation to 40%
+            May train skill [117]Appraise to 81%
+            May train skill [118]Bargain to 46%
+            May train skill [119]Blacksmithing to 54%
+            May train skill [120]Compare to 81%
+            May train skill [121]Fresh pants to 81%
+            May train skill [122]Plant lore to 42%
+            May train skill [123]Plastic surgery to 49%
+            May train skill [124]Sewing to 81%
+            May train skill [125]Tinning to 82%
+            May train skill [126]Torch creation to 58%
+            May train skill [127]Lumberjacking to 35%
+            May train skill [128]Law to 25%
+            May study spell [129]Create money to 81%
+            May study spell [130]Detect alignment to 81%
+            May study spell [131]Money is power to 58%
+            May study spell [132]Preserve corpse to 81%
+            May study spell [133]Remove scar to 81%
+            May study spell [134]Create food to 55%
+            May study spell [135]Darkness to 55%
+            May study spell [136]Light to 55%
+
+                                 Level 5
+            Has trained skill [137]Attack to at least 9%
+            Has trained skill [138]Cast generic to at least 17%
+            Has trained skill [139]Bargain to at least 11%
+            Has trained skill [140]Blacksmithing to at least 13%
+            Has studied spell [141]Money is power to at least 14%
+            May train skill [142]Attack to 45%
+            May train skill [143]Bludgeons to 38%
+            May train skill [144]Axes to 24%
+            May train skill [145]Cast generic to 85%
+            May train skill [146]Cast special to 100%
+            May train skill [147]Cast control to 55%
+            May train skill [148]Cast help to 55%
+            May train skill [149]Cast information to 55%
+            May train skill [150]Cast transformation to 55%
+            May train skill [151]Cast teleportation to 25%
+            May train skill [152]Essence eye to 25%
+            May train skill [153]Appraise to 100%
+            May train skill [154]Bargain to 55%
+            May train skill [155]Blacksmithing to 65%
+            May train skill [156]Compare to 100%
+            May train skill [157]Fresh pants to 100%
+            May train skill [158]Plant lore to 50%
+            May train skill [159]Plastic surgery to 58%
+            May train skill [160]Sewing to 100%
+            May train skill [161]Tinning to 100%
+            May train skill [162]Torch creation to 70%
+            May train skill [163]Lumberjacking to 46%
+            May train skill [164]Law to 35%
+            May train skill [165]Exchange money to 25%
+            May train skill [166]Leather craft to 25%
+            May train skill [167]Skinning to 25%
+            May study spell [168]Create money to 100%
+            May study spell [169]Detect alignment to 100%
+            May study spell [170]Money is power to 70%
+            May study spell [171]Preserve corpse to 100%
+            May study spell [172]Remove scar to 100%
+            May study spell [173]Create food to 70%
+            May study spell [174]Darkness to 70%
+            May study spell [175]Light to 70%
+            May study spell [176]Aura detection to 25%
+
+                                  Level 6
+             Has trained skill [177]Cast generic to at least 21%
+             Has trained skill [178]Bargain to at least 13%
+             Has trained skill [179]Blacksmithing to at least 16%
+             May train skill [180]Bludgeons to 45%
+             May train skill [181]Axes to 31%
+             May train skill [182]Cast generic to 100%
+             May train skill [183]Cast control to 70%
+             May train skill [184]Cast help to 70%
+             May train skill [185]Cast information to 70%
+             May train skill [186]Cast transformation to 70%
+             May train skill [187]Cast teleportation to 36%
+             May train skill [188]Essence eye to 40%
+             May train skill [189]Bargain to 64%
+             May train skill [190]Blacksmithing to 77%
+             May train skill [191]Plastic surgery to 66%
+             May train skill [192]Lumberjacking to 57%
+             May train skill [193]Law to 46%
+             May train skill [194]Exchange money to 40%
+             May train skill [195]Leather craft to 40%
+             May train skill [196]Skinning to 40%
+             May study spell [197]Create food to 85%
+             May study spell [198]Darkness to 85%
+             May study spell [199]Light to 85%
+             May study spell [200]Aura detection to 40%
+             May study spell [201]Satiate person to 25%
+
+                                  Level 7
+     Must pass 1 out of the following:
+       * Has completed the quest Blacksmithing
+       * Has completed tier 1 of the toolbelt
+             Has trained skill [202]Bargain to at least 16%
+             Has trained skill [203]Blacksmithing to at least 19%
+             May train skill [204]Axes to 38%
+             May train skill [205]Cast control to 85%
+             May train skill [206]Cast help to 85%
+             May train skill [207]Cast information to 85%
+             May train skill [208]Cast transformation to 85%
+             May train skill [209]Cast teleportation to 47%
+             May train skill [210]Essence eye to 55%
+             May train skill [211]Bargain to 73%
+             May train skill [212]Blacksmithing to 88%
+             May train skill [213]Plastic surgery to 74%
+             May train skill [214]Lumberjacking to 67%
+             May train skill [215]Law to 57%
+             May train skill [216]Exchange money to 55%
+             May train skill [217]Leather craft to 55%
+             May train skill [218]Skinning to 55%
+             May study spell [219]Create food to 100%
+             May study spell [220]Darkness to 100%
+             May study spell [221]Light to 100%
+             May study spell [222]Aura detection to 55%
+             May study spell [223]Satiate person to 40%
+
+                                  Level 8
+             Has trained skill [224]Bargain to at least 18%
+             Has trained skill [225]Blacksmithing to at least 22%
+             May train skill [226]Axes to 45%
+             May train skill [227]Cast control to 100%
+             May train skill [228]Cast help to 100%
+             May train skill [229]Cast information to 100%
+             May train skill [230]Cast transformation to 100%
+             May train skill [231]Cast teleportation to 58%
+             May train skill [232]Essence eye to 70%
+             May train skill [233]Bargain to 82%
+             May train skill [234]Blacksmithing to 100%
+             May train skill [235]Plastic surgery to 83%
+             May train skill [236]Lumberjacking to 78%
+             May train skill [237]Law to 67%
+             May train skill [238]Exchange money to 70%
+             May train skill [239]Leather craft to 70%
+             May train skill [240]Skinning to 70%
+             May train skill [241]Repair armour to 25%
+             May train skill [242]Repair item to 25%
+             May study spell [243]Aura detection to 70%
+             May study spell [244]Satiate person to 55%
+
+                                  Level 9
+                Has trained skill [245]Bargain to at least 20%
+                May train skill [246]Cast teleportation to 69%
+                May train skill [247]Essence eye to 85%
+                May train skill [248]Bargain to 91%
+                May train skill [249]Plastic surgery to 91%
+                May train skill [250]Lumberjacking to 89%
+                May train skill [251]Law to 78%
+                May train skill [252]Exchange money to 85%
+                May train skill [253]Leather craft to 85%
+                May train skill [254]Skinning to 85%
+                May train skill [255]Repair armour to 40%
+                May train skill [256]Repair item to 40%
+                May study spell [257]Aura detection to 85%
+                May study spell [258]Satiate person to 70%
+
+                                 Level 10
+            Has trained skill [259]Bargain to at least 22%
+            May train skill [260]Cast teleportation to 80%
+            May train skill [261]Essence eye to 100%
+            May train skill [262]Knowledge of metamorphosis to 10%
+            May train skill [263]Bargain to 100%
+            May train skill [264]Plastic surgery to 100%
+            May train skill [265]Lumberjacking to 100%
+            May train skill [266]Law to 89%
+            May train skill [267]Exchange money to 100%
+            May train skill [268]Leather craft to 100%
+            May train skill [269]Skinning to 100%
+            May train skill [270]Repair armour to 55%
+            May train skill [271]Repair item to 55%
+            May train skill [272]Amalgamate to 25%
+            May train skill [273]Cannibalize to 20%
+            May train skill [274]Mineral cutting to 20%
+            May train skill [275]Loan sharking to 20%
+            May train skill [276]Mining to 20%
+            May train skill [277]Repair weapon to 25%
+            May train skill [278]Shopkeeping to 20%
+            May study spell [279]Aura detection to 100%
+            May study spell [280]Satiate person to 85%
+            May study spell [281]Floating disc to 25%
+            May study spell [282]Money is power to 80%
+
+                                 Level 11
+            Has trained skill [283]Shopkeeping to at least 5%
+            Has studied spell [284]Money is power to at least 20%
+            May train skill [285]Knowledge of metamorphosis to 16%
+            May train skill [286]Law to 100%
+            May train skill [287]Repair armour to 70%
+            May train skill [288]Repair item to 70%
+            May train skill [289]Amalgamate to 40%
+            May train skill [290]Cannibalize to 29%
+            May train skill [291]Mineral cutting to 28%
+            May train skill [292]Loan sharking to 25%
+            May train skill [293]Mining to 36%
+            May train skill [294]Repair weapon to 40%
+            May train skill [295]Shopkeeping to 28%
+            May train skill [296]Make reagent to 10%
+            May study spell [297]Satiate person to 100%
+            May study spell [298]Floating disc to 40%
+            May study spell [299]Money is power to 100%
+
+                                 Level 12
+            Has trained skill [300]Shopkeeping to at least 7%
+            May train skill [301]Knowledge of metamorphosis to 22%
+            May train skill [302]Repair armour to 85%
+            May train skill [303]Repair item to 85%
+            May train skill [304]Amalgamate to 55%
+            May train skill [305]Cannibalize to 38%
+            May train skill [306]Mineral cutting to 36%
+            May train skill [307]Loan sharking to 30%
+            May train skill [308]Mining to 52%
+            May train skill [309]Repair weapon to 55%
+            May train skill [310]Shopkeeping to 36%
+            May train skill [311]Carpentry to 20%
+            May train skill [312]Make reagent to 20%
+            May study spell [313]Floating disc to 55%
+            May study spell [314]Identify to 25%
+
+                                 Level 13
+            Has trained skill [315]Shopkeeping to at least 9%
+            May train skill [316]Knowledge of metamorphosis to 28%
+            May train skill [317]Repair armour to 100%
+            May train skill [318]Repair item to 100%
+            May train skill [319]Amalgamate to 70%
+            May train skill [320]Cannibalize to 47%
+            May train skill [321]Mineral cutting to 44%
+            May train skill [322]Loan sharking to 35%
+            May train skill [323]Mining to 68%
+            May train skill [324]Repair weapon to 70%
+            May train skill [325]Shopkeeping to 44%
+            May train skill [326]Carpentry to 36%
+            May train skill [327]Make reagent to 30%
+            May study spell [328]Floating disc to 70%
+            May study spell [329]Identify to 40%
+            May study spell [330]Feather weight to 25%
+
+                                 Level 14
+            Has trained skill [331]Shopkeeping to at least 11%
+            May train skill [332]Knowledge of metamorphosis to 34%
+            May train skill [333]Amalgamate to 85%
+            May train skill [334]Cannibalize to 56%
+            May train skill [335]Mineral cutting to 52%
+            May train skill [336]Loan sharking to 41%
+            May train skill [337]Mining to 84%
+            May train skill [338]Repair weapon to 85%
+            May train skill [339]Shopkeeping to 52%
+            May train skill [340]Carpentry to 52%
+            May train skill [341]Gem cutting to 20%
+            May train skill [342]Make reagent to 40%
+            May study spell [343]Floating disc to 85%
+            May study spell [344]Identify to 55%
+            May study spell [345]Feather weight to 34%
+
+                                 Level 15
+            Has trained skill [346]Shopkeeping to at least 13%
+            May train skill [347]Knowledge of metamorphosis to 40%
+            May train skill [348]Amalgamate to 100%
+            May train skill [349]Cannibalize to 65%
+            May train skill [350]Mineral cutting to 60%
+            May train skill [351]Loan sharking to 46%
+            May train skill [352]Mining to 100%
+            May train skill [353]Repair weapon to 100%
+            May train skill [354]Shopkeeping to 60%
+            May train skill [355]Carpentry to 68%
+            May train skill [356]Gem cutting to 36%
+            May train skill [357]Alloying to 25%
+            May train skill [358]Glassblowing to 20%
+            May train skill [359]Refining to 25%
+            May train skill [360]Shipbuilding to 20%
+            May train skill [361]Insider trading to 25%
+            May train skill [362]Make reagent to 50%
+            May train skill [363]Make mount gear to 20%
+            May train skill [364]Refit mount gear to 20%
+            May train skill [365]Chest creation to 22%
+            May study spell [366]Floating disc to 100%
+            May study spell [367]Identify to 70%
+            May study spell [368]Feather weight to 43%
+            May study spell [369]Call pigeon to 25%
+            May study spell [370]Credit check to 25%
+            May study spell [371]Remote banking to 25%
+            May study spell [372]Protect armour to 25%
+            May study spell [373]Protect weapon to 25%
+            May study spell [374]Protect item to 25%
+
+                                 Level 16
+              Has trained skill [375]Shopkeeping to at least 15%
+              May train skill [376]Mineral cutting to 68%
+              May train skill [377]Loan sharking to 51%
+              May train skill [378]Shopkeeping to 68%
+              May train skill [379]Carpentry to 84%
+              May train skill [380]Gem cutting to 52%
+              May train skill [381]Alloying to 30%
+              May train skill [382]Glassblowing to 36%
+              May train skill [383]Refining to 33%
+              May train skill [384]Shipbuilding to 31%
+              May train skill [385]Insider trading to 32%
+              May train skill [386]Make reagent to 60%
+              May train skill [387]Make mount gear to 28%
+              May train skill [388]Refit mount gear to 28%
+              May train skill [389]Chest creation to 26%
+              May study spell [390]Identify to 85%
+              May study spell [391]Feather weight to 53%
+              May study spell [392]Call pigeon to 40%
+              May study spell [393]Credit check to 35%
+              May study spell [394]Remote banking to 40%
+              May study spell [395]Protect armour to 32%
+              May study spell [396]Protect weapon to 32%
+              May study spell [397]Protect item to 32%
+
+                                 Level 17
+              Has trained skill [398]Shopkeeping to at least 17%
+              May train skill [399]Mineral cutting to 76%
+              May train skill [400]Loan sharking to 57%
+              May train skill [401]Shopkeeping to 76%
+              May train skill [402]Carpentry to 100%
+              May train skill [403]Gem cutting to 68%
+              May train skill [404]Alloying to 35%
+              May train skill [405]Glassblowing to 52%
+              May train skill [406]Refining to 41%
+              May train skill [407]Shipbuilding to 42%
+              May train skill [408]Masonry to 20%
+              May train skill [409]Insider trading to 40%
+              May train skill [410]Make reagent to 70%
+              May train skill [411]Make mount gear to 36%
+              May train skill [412]Refit mount gear to 36%
+              May train skill [413]Chest creation to 31%
+              May train skill [414]Chest lock creation to 21%
+              May study spell [415]Identify to 100%
+              May study spell [416]Feather weight to 62%
+              May study spell [417]Call pigeon to 55%
+              May study spell [418]Credit check to 46%
+              May study spell [419]Remote banking to 55%
+              May study spell [420]Protect armour to 40%
+              May study spell [421]Protect weapon to 40%
+              May study spell [422]Protect item to 40%
+
+                                 Level 18
+              Has trained skill [423]Shopkeeping to at least 19%
+              May train skill [424]Mineral cutting to 84%
+              May train skill [425]Loan sharking to 62%
+              May train skill [426]Shopkeeping to 84%
+              May train skill [427]Gem cutting to 84%
+              May train skill [428]Alloying to 40%
+              May train skill [429]Glassblowing to 68%
+              May train skill [430]Refining to 49%
+              May train skill [431]Shipbuilding to 54%
+              May train skill [432]Masonry to 36%
+              May train skill [433]Sculpture to 25%
+              May train skill [434]Insider trading to 47%
+              May train skill [435]Make reagent to 80%
+              May train skill [436]Make mount gear to 44%
+              May train skill [437]Refit mount gear to 44%
+              May train skill [438]Chest creation to 36%
+              May train skill [439]Chest lock creation to 27%
+              May study spell [440]Feather weight to 71%
+              May study spell [441]Call pigeon to 70%
+              May study spell [442]Credit check to 57%
+              May study spell [443]Remote banking to 70%
+              May study spell [444]Cash flow to 25%
+              May study spell [445]Protect armour to 47%
+              May study spell [446]Protect weapon to 47%
+              May study spell [447]Protect item to 47%
+
+                                 Level 19
+              Has trained skill [448]Shopkeeping to at least 21%
+              May train skill [449]Mineral cutting to 92%
+              May train skill [450]Loan sharking to 67%
+              May train skill [451]Shopkeeping to 92%
+              May train skill [452]Gem cutting to 100%
+              May train skill [453]Alloying to 45%
+              May train skill [454]Glassblowing to 84%
+              May train skill [455]Refining to 58%
+              May train skill [456]Shipbuilding to 65%
+              May train skill [457]Masonry to 52%
+              May train skill [458]Sculpture to 40%
+              May train skill [459]Insider trading to 55%
+              May train skill [460]Make reagent to 90%
+              May train skill [461]Make mount gear to 52%
+              May train skill [462]Refit mount gear to 52%
+              May train skill [463]Labeling to 19%
+              May train skill [464]Chest creation to 41%
+              May train skill [465]Chest lock creation to 33%
+              May train skill [466]Chest trap creation to 20%
+              May study spell [467]Feather weight to 81%
+              May study spell [468]Call pigeon to 85%
+              May study spell [469]Credit check to 67%
+              May study spell [470]Remote banking to 85%
+              May study spell [471]Cash flow to 40%
+              May study spell [472]Protect armour to 55%
+              May study spell [473]Protect weapon to 55%
+              May study spell [474]Protect item to 55%
+
+                                 Level 20
+           Has trained skill [475]Shopkeeping to at least 23%
+           May train skill [476]Knowledge of metamorphosis to 50%
+           May train skill [477]Knowledge of identification to 25%
+           May train skill [478]Quick chant to 20%
+           May train skill [479]Mineral cutting to 100%
+           May train skill [480]Loan sharking to 73%
+           May train skill [481]Shopkeeping to 100%
+           May train skill [482]Alloying to 50%
+           May train skill [483]Glassblowing to 100%
+           May train skill [484]Refining to 66%
+           May train skill [485]Shipbuilding to 77%
+           May train skill [486]Masonry to 68%
+           May train skill [487]Sculpture to 55%
+           May train skill [488]Create armour to 40%
+           May train skill [489]Create weapon to 40%
+           May train skill [490]Insider trading to 62%
+           May train skill [491]Double mine to 20%
+           May train skill [492]Make reagent to 100%
+           May train skill [493]Make mount gear to 60%
+           May train skill [494]Refit mount gear to 60%
+           May train skill [495]Labeling to 45%
+           May train skill [496]Chest creation to 45%
+           May train skill [497]Chest lock creation to 39%
+           May train skill [498]Chest trap creation to 28%
+           May study spell [499]Feather weight to 90%
+           May study spell [500]Call pigeon to 100%
+           May study spell [501]Credit check to 78%
+           May study spell [502]Remote banking to 100%
+           May study spell [503]Cash flow to 55%
+           May study spell [504]Protect armour to 62%
+           May study spell [505]Protect weapon to 62%
+           May study spell [506]Protect item to 62%
+           May study spell [507]Lift of load to 10%
+
+                                 Level 21
+     Must pass 1 out of the following:
+       * Has completed the quest Alloy gold
+       * Has completed tier 1 of the toolbelt
+      Has trained skill [508]Knowledge of metamorphosis to at least 12%
+      May train skill [509]Knowledge of metamorphosis to 60%
+      May train skill [510]Knowledge of identification to 40%
+      May train skill [511]Quick chant to 26%
+      May train skill [512]Loan sharking to 78%
+      May train skill [513]Alloying to 55%
+      May train skill [514]Refining to 74%
+      May train skill [515]Shipbuilding to 88%
+      May train skill [516]Masonry to 84%
+      May train skill [517]Sculpture to 70%
+      May train skill [518]Create armour to 52%
+      May train skill [519]Create weapon to 52%
+      May train skill [520]Insider trading to 70%
+      May train skill [521]Double mine to 36%
+      May train skill [522]Make mount gear to 68%
+      May train skill [523]Refit mount gear to 68%
+      May train skill [524]Labeling to 72%
+      May train skill [525]Chest creation to 50%
+      May train skill [526]Chest lock creation to 45%
+      May train skill [527]Chest trap creation to 36%
+      May study spell [528]Feather weight to 100%
+      May study spell [529]Credit check to 89%
+      May study spell [530]Cash flow to 70%
+      May study spell [531]Protect armour to 70%
+      May study spell [532]Protect weapon to 70%
+      May study spell [533]Protect item to 70%
+      May study spell [534]Lift of load to 18%
+
+                                 Level 22
+      Has trained skill [535]Knowledge of metamorphosis to at least 15%
+      May train skill [536]Knowledge of metamorphosis to 70%
+      May train skill [537]Knowledge of identification to 55%
+      May train skill [538]Quick chant to 32%
+      May train skill [539]Loan sharking to 83%
+      May train skill [540]Alloying to 60%
+      May train skill [541]Refining to 83%
+      May train skill [542]Shipbuilding to 100%
+      May train skill [543]Masonry to 100%
+      May train skill [544]Sculpture to 85%
+      May train skill [545]Create armour to 64%
+      May train skill [546]Create weapon to 64%
+      May train skill [547]Insider trading to 77%
+      May train skill [548]Double mine to 52%
+      May train skill [549]Make mount gear to 76%
+      May train skill [550]Refit mount gear to 76%
+      May train skill [551]Labeling to 99%
+      May train skill [552]Chest creation to 55%
+      May train skill [553]Chest lock creation to 51%
+      May train skill [554]Chest trap creation to 44%
+      May study spell [555]Credit check to 100%
+      May study spell [556]Cash flow to 85%
+      May study spell [557]Protect armour to 77%
+      May study spell [558]Protect weapon to 77%
+      May study spell [559]Protect item to 77%
+      May study spell [560]Lift of load to 26%
+
+                                 Level 23
+      Has trained skill [561]Knowledge of metamorphosis to at least 17%
+      May train skill [562]Knowledge of metamorphosis to 80%
+      May train skill [563]Knowledge of identification to 70%
+      May train skill [564]Quick chant to 38%
+      May train skill [565]Loan sharking to 89%
+      May train skill [566]Alloying to 65%
+      May train skill [567]Refining to 91%
+      May train skill [568]Sculpture to 100%
+      May train skill [569]Create armour to 76%
+      May train skill [570]Create weapon to 76%
+      May train skill [571]Insider trading to 85%
+      May train skill [572]Double mine to 68%
+      May train skill [573]Make mount gear to 84%
+      May train skill [574]Refit mount gear to 84%
+      May train skill [575]Chest creation to 60%
+      May train skill [576]Chest lock creation to 57%
+      May train skill [577]Chest trap creation to 53%
+      May study spell [578]Cash flow to 100%
+      May study spell [579]Protect armour to 85%
+      May study spell [580]Protect weapon to 85%
+      May study spell [581]Protect item to 85%
+      May study spell [582]Lift of load to 34%
+
+                                 Level 24
+      Has trained skill [583]Knowledge of metamorphosis to at least 20%
+      May train skill [584]Knowledge of metamorphosis to 90%
+      May train skill [585]Knowledge of identification to 85%
+      May train skill [586]Quick chant to 44%
+      May train skill [587]Loan sharking to 94%
+      May train skill [588]Alloying to 70%
+      May train skill [589]Refining to 100%
+      May train skill [590]Create armour to 88%
+      May train skill [591]Create weapon to 88%
+      May train skill [592]Insider trading to 92%
+      May train skill [593]Double mine to 84%
+      May train skill [594]Make mount gear to 92%
+      May train skill [595]Refit mount gear to 92%
+      May train skill [596]Chest creation to 65%
+      May train skill [597]Chest lock creation to 63%
+      May train skill [598]Chest trap creation to 61%
+      May study spell [599]Protect armour to 92%
+      May study spell [600]Protect weapon to 92%
+      May study spell [601]Protect item to 92%
+      May study spell [602]Lift of load to 42%
+
+                                 Level 25
+      Has trained skill [603]Knowledge of metamorphosis to at least 22%
+      May train skill [604]Knowledge of metamorphosis to 100%
+      May train skill [605]Knowledge of identification to 100%
+      May train skill [606]Quick chant to 50%
+      May train skill [607]Loan sharking to 100%
+      May train skill [608]Alloying to 75%
+      May train skill [609]Create armour to 100%
+      May train skill [610]Create weapon to 100%
+      May train skill [611]Insider trading to 100%
+      May train skill [612]Double mine to 100%
+      May train skill [613]Make mount gear to 100%
+      May train skill [614]Refit mount gear to 100%
+      May train skill [615]Chest creation to 70%
+      May train skill [616]Chest lock creation to 70%
+      May train skill [617]Chest trap creation to 70%
+      May study spell [618]Protect armour to 100%
+      May study spell [619]Protect weapon to 100%
+      May study spell [620]Protect item to 100%
+      May study spell [621]Lift of load to 50%
+
+                   Allows joining to the following guild:
+                     The Master Merchants
+
+   [622]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [623]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Master%20Merchants&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Master%20Merchants&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Master%20Merchants&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=duke
+  23. http://www.bat.org/help/finger.php?str=shadowjack
+  24. http://www.bat.org/help/skills.php?str=attack
+  25. http://www.bat.org/help/skills.php?str=bludgeons
+  26. http://www.bat.org/help/skills.php?str=cast_generic
+  27. http://www.bat.org/help/skills.php?str=cast_special
+  28. http://www.bat.org/help/skills.php?str=appraise
+  29. http://www.bat.org/help/skills.php?str=bargain
+  30. http://www.bat.org/help/skills.php?str=blacksmithing
+  31. http://www.bat.org/help/skills.php?str=compare
+  32. http://www.bat.org/help/skills.php?str=fresh_pants
+  33. http://www.bat.org/help/skills.php?str=plant_lore
+  34. http://www.bat.org/help/skills.php?str=plastic_surgery
+  35. http://www.bat.org/help/skills.php?str=sewing
+  36. http://www.bat.org/help/skills.php?str=tinning
+  37. http://www.bat.org/help/skills.php?str=torch_creation
+  38. http://www.bat.org/help/spells.php?str=create_money
+  39. http://www.bat.org/help/spells.php?str=detect_alignment
+  40. http://www.bat.org/help/spells.php?str=money_is_power
+  41. http://www.bat.org/help/spells.php?str=preserve_corpse
+  42. http://www.bat.org/help/spells.php?str=remove_scar
+  43. http://www.bat.org/help/skills.php?str=attack
+  44. http://www.bat.org/help/skills.php?str=cast_generic
+  45. http://www.bat.org/help/skills.php?str=bargain
+  46. http://www.bat.org/help/skills.php?str=blacksmithing
+  47. http://www.bat.org/help/spells.php?str=money_is_power
+  48. http://www.bat.org/help/skills.php?str=attack
+  49. http://www.bat.org/help/skills.php?str=bludgeons
+  50. http://www.bat.org/help/skills.php?str=cast_generic
+  51. http://www.bat.org/help/skills.php?str=cast_special
+  52. http://www.bat.org/help/skills.php?str=appraise
+  53. http://www.bat.org/help/skills.php?str=bargain
+  54. http://www.bat.org/help/skills.php?str=blacksmithing
+  55. http://www.bat.org/help/skills.php?str=compare
+  56. http://www.bat.org/help/skills.php?str=fresh_pants
+  57. http://www.bat.org/help/skills.php?str=plant_lore
+  58. http://www.bat.org/help/skills.php?str=plastic_surgery
+  59. http://www.bat.org/help/skills.php?str=sewing
+  60. http://www.bat.org/help/skills.php?str=tinning
+  61. http://www.bat.org/help/skills.php?str=torch_creation
+  62. http://www.bat.org/help/spells.php?str=create_money
+  63. http://www.bat.org/help/spells.php?str=detect_alignment
+  64. http://www.bat.org/help/spells.php?str=money_is_power
+  65. http://www.bat.org/help/spells.php?str=preserve_corpse
+  66. http://www.bat.org/help/spells.php?str=remove_scar
+  67. http://www.bat.org/help/spells.php?str=create_food
+  68. http://www.bat.org/help/spells.php?str=darkness
+  69. http://www.bat.org/help/spells.php?str=light
+  70. http://www.bat.org/help/skills.php?str=attack
+  71. http://www.bat.org/help/skills.php?str=cast_generic
+  72. http://www.bat.org/help/skills.php?str=bargain
+  73. http://www.bat.org/help/skills.php?str=blacksmithing
+  74. http://www.bat.org/help/spells.php?str=money_is_power
+  75. http://www.bat.org/help/skills.php?str=attack
+  76. http://www.bat.org/help/skills.php?str=bludgeons
+  77. http://www.bat.org/help/skills.php?str=axes
+  78. http://www.bat.org/help/skills.php?str=cast_generic
+  79. http://www.bat.org/help/skills.php?str=cast_special
+  80. http://www.bat.org/help/skills.php?str=cast_control
+  81. http://www.bat.org/help/skills.php?str=cast_help
+  82. http://www.bat.org/help/skills.php?str=cast_information
+  83. http://www.bat.org/help/skills.php?str=cast_transformation
+  84. http://www.bat.org/help/skills.php?str=appraise
+  85. http://www.bat.org/help/skills.php?str=bargain
+  86. http://www.bat.org/help/skills.php?str=blacksmithing
+  87. http://www.bat.org/help/skills.php?str=compare
+  88. http://www.bat.org/help/skills.php?str=fresh_pants
+  89. http://www.bat.org/help/skills.php?str=plant_lore
+  90. http://www.bat.org/help/skills.php?str=plastic_surgery
+  91. http://www.bat.org/help/skills.php?str=sewing
+  92. http://www.bat.org/help/skills.php?str=tinning
+  93. http://www.bat.org/help/skills.php?str=torch_creation
+  94. http://www.bat.org/help/skills.php?str=lumberjacking
+  95. http://www.bat.org/help/spells.php?str=create_money
+  96. http://www.bat.org/help/spells.php?str=detect_alignment
+  97. http://www.bat.org/help/spells.php?str=money_is_power
+  98. http://www.bat.org/help/spells.php?str=preserve_corpse
+  99. http://www.bat.org/help/spells.php?str=remove_scar
+ 100. http://www.bat.org/help/spells.php?str=create_food
+ 101. http://www.bat.org/help/spells.php?str=darkness
+ 102. http://www.bat.org/help/spells.php?str=light
+ 103. http://www.bat.org/help/skills.php?str=attack
+ 104. http://www.bat.org/help/skills.php?str=cast_generic
+ 105. http://www.bat.org/help/skills.php?str=bargain
+ 106. http://www.bat.org/help/skills.php?str=blacksmithing
+ 107. http://www.bat.org/help/spells.php?str=money_is_power
+ 108. http://www.bat.org/help/skills.php?str=attack
+ 109. http://www.bat.org/help/skills.php?str=bludgeons
+ 110. http://www.bat.org/help/skills.php?str=axes
+ 111. http://www.bat.org/help/skills.php?str=cast_generic
+ 112. http://www.bat.org/help/skills.php?str=cast_special
+ 113. http://www.bat.org/help/skills.php?str=cast_control
+ 114. http://www.bat.org/help/skills.php?str=cast_help
+ 115. http://www.bat.org/help/skills.php?str=cast_information
+ 116. http://www.bat.org/help/skills.php?str=cast_transformation
+ 117. http://www.bat.org/help/skills.php?str=appraise
+ 118. http://www.bat.org/help/skills.php?str=bargain
+ 119. http://www.bat.org/help/skills.php?str=blacksmithing
+ 120. http://www.bat.org/help/skills.php?str=compare
+ 121. http://www.bat.org/help/skills.php?str=fresh_pants
+ 122. http://www.bat.org/help/skills.php?str=plant_lore
+ 123. http://www.bat.org/help/skills.php?str=plastic_surgery
+ 124. http://www.bat.org/help/skills.php?str=sewing
+ 125. http://www.bat.org/help/skills.php?str=tinning
+ 126. http://www.bat.org/help/skills.php?str=torch_creation
+ 127. http://www.bat.org/help/skills.php?str=lumberjacking
+ 128. http://www.bat.org/help/skills.php?str=law
+ 129. http://www.bat.org/help/spells.php?str=create_money
+ 130. http://www.bat.org/help/spells.php?str=detect_alignment
+ 131. http://www.bat.org/help/spells.php?str=money_is_power
+ 132. http://www.bat.org/help/spells.php?str=preserve_corpse
+ 133. http://www.bat.org/help/spells.php?str=remove_scar
+ 134. http://www.bat.org/help/spells.php?str=create_food
+ 135. http://www.bat.org/help/spells.php?str=darkness
+ 136. http://www.bat.org/help/spells.php?str=light
+ 137. http://www.bat.org/help/skills.php?str=attack
+ 138. http://www.bat.org/help/skills.php?str=cast_generic
+ 139. http://www.bat.org/help/skills.php?str=bargain
+ 140. http://www.bat.org/help/skills.php?str=blacksmithing
+ 141. http://www.bat.org/help/spells.php?str=money_is_power
+ 142. http://www.bat.org/help/skills.php?str=attack
+ 143. http://www.bat.org/help/skills.php?str=bludgeons
+ 144. http://www.bat.org/help/skills.php?str=axes
+ 145. http://www.bat.org/help/skills.php?str=cast_generic
+ 146. http://www.bat.org/help/skills.php?str=cast_special
+ 147. http://www.bat.org/help/skills.php?str=cast_control
+ 148. http://www.bat.org/help/skills.php?str=cast_help
+ 149. http://www.bat.org/help/skills.php?str=cast_information
+ 150. http://www.bat.org/help/skills.php?str=cast_transformation
+ 151. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 152. http://www.bat.org/help/skills.php?str=essence_eye
+ 153. http://www.bat.org/help/skills.php?str=appraise
+ 154. http://www.bat.org/help/skills.php?str=bargain
+ 155. http://www.bat.org/help/skills.php?str=blacksmithing
+ 156. http://www.bat.org/help/skills.php?str=compare
+ 157. http://www.bat.org/help/skills.php?str=fresh_pants
+ 158. http://www.bat.org/help/skills.php?str=plant_lore
+ 159. http://www.bat.org/help/skills.php?str=plastic_surgery
+ 160. http://www.bat.org/help/skills.php?str=sewing
+ 161. http://www.bat.org/help/skills.php?str=tinning
+ 162. http://www.bat.org/help/skills.php?str=torch_creation
+ 163. http://www.bat.org/help/skills.php?str=lumberjacking
+ 164. http://www.bat.org/help/skills.php?str=law
+ 165. http://www.bat.org/help/skills.php?str=exchange_money
+ 166. http://www.bat.org/help/skills.php?str=leather_craft
+ 167. http://www.bat.org/help/skills.php?str=skinning
+ 168. http://www.bat.org/help/spells.php?str=create_money
+ 169. http://www.bat.org/help/spells.php?str=detect_alignment
+ 170. http://www.bat.org/help/spells.php?str=money_is_power
+ 171. http://www.bat.org/help/spells.php?str=preserve_corpse
+ 172. http://www.bat.org/help/spells.php?str=remove_scar
+ 173. http://www.bat.org/help/spells.php?str=create_food
+ 174. http://www.bat.org/help/spells.php?str=darkness
+ 175. http://www.bat.org/help/spells.php?str=light
+ 176. http://www.bat.org/help/spells.php?str=aura_detection
+ 177. http://www.bat.org/help/skills.php?str=cast_generic
+ 178. http://www.bat.org/help/skills.php?str=bargain
+ 179. http://www.bat.org/help/skills.php?str=blacksmithing
+ 180. http://www.bat.org/help/skills.php?str=bludgeons
+ 181. http://www.bat.org/help/skills.php?str=axes
+ 182. http://www.bat.org/help/skills.php?str=cast_generic
+ 183. http://www.bat.org/help/skills.php?str=cast_control
+ 184. http://www.bat.org/help/skills.php?str=cast_help
+ 185. http://www.bat.org/help/skills.php?str=cast_information
+ 186. http://www.bat.org/help/skills.php?str=cast_transformation
+ 187. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 188. http://www.bat.org/help/skills.php?str=essence_eye
+ 189. http://www.bat.org/help/skills.php?str=bargain
+ 190. http://www.bat.org/help/skills.php?str=blacksmithing
+ 191. http://www.bat.org/help/skills.php?str=plastic_surgery
+ 192. http://www.bat.org/help/skills.php?str=lumberjacking
+ 193. http://www.bat.org/help/skills.php?str=law
+ 194. http://www.bat.org/help/skills.php?str=exchange_money
+ 195. http://www.bat.org/help/skills.php?str=leather_craft
+ 196. http://www.bat.org/help/skills.php?str=skinning
+ 197. http://www.bat.org/help/spells.php?str=create_food
+ 198. http://www.bat.org/help/spells.php?str=darkness
+ 199. http://www.bat.org/help/spells.php?str=light
+ 200. http://www.bat.org/help/spells.php?str=aura_detection
+ 201. http://www.bat.org/help/spells.php?str=satiate_person
+ 202. http://www.bat.org/help/skills.php?str=bargain
+ 203. http://www.bat.org/help/skills.php?str=blacksmithing
+ 204. http://www.bat.org/help/skills.php?str=axes
+ 205. http://www.bat.org/help/skills.php?str=cast_control
+ 206. http://www.bat.org/help/skills.php?str=cast_help
+ 207. http://www.bat.org/help/skills.php?str=cast_information
+ 208. http://www.bat.org/help/skills.php?str=cast_transformation
+ 209. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 210. http://www.bat.org/help/skills.php?str=essence_eye
+ 211. http://www.bat.org/help/skills.php?str=bargain
+ 212. http://www.bat.org/help/skills.php?str=blacksmithing
+ 213. http://www.bat.org/help/skills.php?str=plastic_surgery
+ 214. http://www.bat.org/help/skills.php?str=lumberjacking
+ 215. http://www.bat.org/help/skills.php?str=law
+ 216. http://www.bat.org/help/skills.php?str=exchange_money
+ 217. http://www.bat.org/help/skills.php?str=leather_craft
+ 218. http://www.bat.org/help/skills.php?str=skinning
+ 219. http://www.bat.org/help/spells.php?str=create_food
+ 220. http://www.bat.org/help/spells.php?str=darkness
+ 221. http://www.bat.org/help/spells.php?str=light
+ 222. http://www.bat.org/help/spells.php?str=aura_detection
+ 223. http://www.bat.org/help/spells.php?str=satiate_person
+ 224. http://www.bat.org/help/skills.php?str=bargain
+ 225. http://www.bat.org/help/skills.php?str=blacksmithing
+ 226. http://www.bat.org/help/skills.php?str=axes
+ 227. http://www.bat.org/help/skills.php?str=cast_control
+ 228. http://www.bat.org/help/skills.php?str=cast_help
+ 229. http://www.bat.org/help/skills.php?str=cast_information
+ 230. http://www.bat.org/help/skills.php?str=cast_transformation
+ 231. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 232. http://www.bat.org/help/skills.php?str=essence_eye
+ 233. http://www.bat.org/help/skills.php?str=bargain
+ 234. http://www.bat.org/help/skills.php?str=blacksmithing
+ 235. http://www.bat.org/help/skills.php?str=plastic_surgery
+ 236. http://www.bat.org/help/skills.php?str=lumberjacking
+ 237. http://www.bat.org/help/skills.php?str=law
+ 238. http://www.bat.org/help/skills.php?str=exchange_money
+ 239. http://www.bat.org/help/skills.php?str=leather_craft
+ 240. http://www.bat.org/help/skills.php?str=skinning
+ 241. http://www.bat.org/help/skills.php?str=repair_armour
+ 242. http://www.bat.org/help/skills.php?str=repair_item
+ 243. http://www.bat.org/help/spells.php?str=aura_detection
+ 244. http://www.bat.org/help/spells.php?str=satiate_person
+ 245. http://www.bat.org/help/skills.php?str=bargain
+ 246. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 247. http://www.bat.org/help/skills.php?str=essence_eye
+ 248. http://www.bat.org/help/skills.php?str=bargain
+ 249. http://www.bat.org/help/skills.php?str=plastic_surgery
+ 250. http://www.bat.org/help/skills.php?str=lumberjacking
+ 251. http://www.bat.org/help/skills.php?str=law
+ 252. http://www.bat.org/help/skills.php?str=exchange_money
+ 253. http://www.bat.org/help/skills.php?str=leather_craft
+ 254. http://www.bat.org/help/skills.php?str=skinning
+ 255. http://www.bat.org/help/skills.php?str=repair_armour
+ 256. http://www.bat.org/help/skills.php?str=repair_item
+ 257. http://www.bat.org/help/spells.php?str=aura_detection
+ 258. http://www.bat.org/help/spells.php?str=satiate_person
+ 259. http://www.bat.org/help/skills.php?str=bargain
+ 260. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 261. http://www.bat.org/help/skills.php?str=essence_eye
+ 262. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 263. http://www.bat.org/help/skills.php?str=bargain
+ 264. http://www.bat.org/help/skills.php?str=plastic_surgery
+ 265. http://www.bat.org/help/skills.php?str=lumberjacking
+ 266. http://www.bat.org/help/skills.php?str=law
+ 267. http://www.bat.org/help/skills.php?str=exchange_money
+ 268. http://www.bat.org/help/skills.php?str=leather_craft
+ 269. http://www.bat.org/help/skills.php?str=skinning
+ 270. http://www.bat.org/help/skills.php?str=repair_armour
+ 271. http://www.bat.org/help/skills.php?str=repair_item
+ 272. http://www.bat.org/help/skills.php?str=amalgamate
+ 273. http://www.bat.org/help/skills.php?str=cannibalize
+ 274. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 275. http://www.bat.org/help/skills.php?str=loan_sharking
+ 276. http://www.bat.org/help/skills.php?str=mining
+ 277. http://www.bat.org/help/skills.php?str=repair_weapon
+ 278. http://www.bat.org/help/skills.php?str=shopkeeping
+ 279. http://www.bat.org/help/spells.php?str=aura_detection
+ 280. http://www.bat.org/help/spells.php?str=satiate_person
+ 281. http://www.bat.org/help/spells.php?str=floating_disc
+ 282. http://www.bat.org/help/spells.php?str=money_is_power
+ 283. http://www.bat.org/help/skills.php?str=shopkeeping
+ 284. http://www.bat.org/help/spells.php?str=money_is_power
+ 285. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 286. http://www.bat.org/help/skills.php?str=law
+ 287. http://www.bat.org/help/skills.php?str=repair_armour
+ 288. http://www.bat.org/help/skills.php?str=repair_item
+ 289. http://www.bat.org/help/skills.php?str=amalgamate
+ 290. http://www.bat.org/help/skills.php?str=cannibalize
+ 291. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 292. http://www.bat.org/help/skills.php?str=loan_sharking
+ 293. http://www.bat.org/help/skills.php?str=mining
+ 294. http://www.bat.org/help/skills.php?str=repair_weapon
+ 295. http://www.bat.org/help/skills.php?str=shopkeeping
+ 296. http://www.bat.org/help/skills.php?str=make_reagent
+ 297. http://www.bat.org/help/spells.php?str=satiate_person
+ 298. http://www.bat.org/help/spells.php?str=floating_disc
+ 299. http://www.bat.org/help/spells.php?str=money_is_power
+ 300. http://www.bat.org/help/skills.php?str=shopkeeping
+ 301. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 302. http://www.bat.org/help/skills.php?str=repair_armour
+ 303. http://www.bat.org/help/skills.php?str=repair_item
+ 304. http://www.bat.org/help/skills.php?str=amalgamate
+ 305. http://www.bat.org/help/skills.php?str=cannibalize
+ 306. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 307. http://www.bat.org/help/skills.php?str=loan_sharking
+ 308. http://www.bat.org/help/skills.php?str=mining
+ 309. http://www.bat.org/help/skills.php?str=repair_weapon
+ 310. http://www.bat.org/help/skills.php?str=shopkeeping
+ 311. http://www.bat.org/help/skills.php?str=carpentry
+ 312. http://www.bat.org/help/skills.php?str=make_reagent
+ 313. http://www.bat.org/help/spells.php?str=floating_disc
+ 314. http://www.bat.org/help/spells.php?str=identify
+ 315. http://www.bat.org/help/skills.php?str=shopkeeping
+ 316. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 317. http://www.bat.org/help/skills.php?str=repair_armour
+ 318. http://www.bat.org/help/skills.php?str=repair_item
+ 319. http://www.bat.org/help/skills.php?str=amalgamate
+ 320. http://www.bat.org/help/skills.php?str=cannibalize
+ 321. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 322. http://www.bat.org/help/skills.php?str=loan_sharking
+ 323. http://www.bat.org/help/skills.php?str=mining
+ 324. http://www.bat.org/help/skills.php?str=repair_weapon
+ 325. http://www.bat.org/help/skills.php?str=shopkeeping
+ 326. http://www.bat.org/help/skills.php?str=carpentry
+ 327. http://www.bat.org/help/skills.php?str=make_reagent
+ 328. http://www.bat.org/help/spells.php?str=floating_disc
+ 329. http://www.bat.org/help/spells.php?str=identify
+ 330. http://www.bat.org/help/spells.php?str=feather_weight
+ 331. http://www.bat.org/help/skills.php?str=shopkeeping
+ 332. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 333. http://www.bat.org/help/skills.php?str=amalgamate
+ 334. http://www.bat.org/help/skills.php?str=cannibalize
+ 335. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 336. http://www.bat.org/help/skills.php?str=loan_sharking
+ 337. http://www.bat.org/help/skills.php?str=mining
+ 338. http://www.bat.org/help/skills.php?str=repair_weapon
+ 339. http://www.bat.org/help/skills.php?str=shopkeeping
+ 340. http://www.bat.org/help/skills.php?str=carpentry
+ 341. http://www.bat.org/help/skills.php?str=gem_cutting
+ 342. http://www.bat.org/help/skills.php?str=make_reagent
+ 343. http://www.bat.org/help/spells.php?str=floating_disc
+ 344. http://www.bat.org/help/spells.php?str=identify
+ 345. http://www.bat.org/help/spells.php?str=feather_weight
+ 346. http://www.bat.org/help/skills.php?str=shopkeeping
+ 347. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 348. http://www.bat.org/help/skills.php?str=amalgamate
+ 349. http://www.bat.org/help/skills.php?str=cannibalize
+ 350. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 351. http://www.bat.org/help/skills.php?str=loan_sharking
+ 352. http://www.bat.org/help/skills.php?str=mining
+ 353. http://www.bat.org/help/skills.php?str=repair_weapon
+ 354. http://www.bat.org/help/skills.php?str=shopkeeping
+ 355. http://www.bat.org/help/skills.php?str=carpentry
+ 356. http://www.bat.org/help/skills.php?str=gem_cutting
+ 357. http://www.bat.org/help/skills.php?str=alloying
+ 358. http://www.bat.org/help/skills.php?str=glassblowing
+ 359. http://www.bat.org/help/skills.php?str=refining
+ 360. http://www.bat.org/help/skills.php?str=shipbuilding
+ 361. http://www.bat.org/help/skills.php?str=insider_trading
+ 362. http://www.bat.org/help/skills.php?str=make_reagent
+ 363. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 364. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 365. http://www.bat.org/help/skills.php?str=chest_creation
+ 366. http://www.bat.org/help/spells.php?str=floating_disc
+ 367. http://www.bat.org/help/spells.php?str=identify
+ 368. http://www.bat.org/help/spells.php?str=feather_weight
+ 369. http://www.bat.org/help/spells.php?str=call_pigeon
+ 370. http://www.bat.org/help/spells.php?str=credit_check
+ 371. http://www.bat.org/help/spells.php?str=remote_banking
+ 372. http://www.bat.org/help/spells.php?str=protect_armour
+ 373. http://www.bat.org/help/spells.php?str=protect_weapon
+ 374. http://www.bat.org/help/spells.php?str=protect_item
+ 375. http://www.bat.org/help/skills.php?str=shopkeeping
+ 376. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 377. http://www.bat.org/help/skills.php?str=loan_sharking
+ 378. http://www.bat.org/help/skills.php?str=shopkeeping
+ 379. http://www.bat.org/help/skills.php?str=carpentry
+ 380. http://www.bat.org/help/skills.php?str=gem_cutting
+ 381. http://www.bat.org/help/skills.php?str=alloying
+ 382. http://www.bat.org/help/skills.php?str=glassblowing
+ 383. http://www.bat.org/help/skills.php?str=refining
+ 384. http://www.bat.org/help/skills.php?str=shipbuilding
+ 385. http://www.bat.org/help/skills.php?str=insider_trading
+ 386. http://www.bat.org/help/skills.php?str=make_reagent
+ 387. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 388. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 389. http://www.bat.org/help/skills.php?str=chest_creation
+ 390. http://www.bat.org/help/spells.php?str=identify
+ 391. http://www.bat.org/help/spells.php?str=feather_weight
+ 392. http://www.bat.org/help/spells.php?str=call_pigeon
+ 393. http://www.bat.org/help/spells.php?str=credit_check
+ 394. http://www.bat.org/help/spells.php?str=remote_banking
+ 395. http://www.bat.org/help/spells.php?str=protect_armour
+ 396. http://www.bat.org/help/spells.php?str=protect_weapon
+ 397. http://www.bat.org/help/spells.php?str=protect_item
+ 398. http://www.bat.org/help/skills.php?str=shopkeeping
+ 399. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 400. http://www.bat.org/help/skills.php?str=loan_sharking
+ 401. http://www.bat.org/help/skills.php?str=shopkeeping
+ 402. http://www.bat.org/help/skills.php?str=carpentry
+ 403. http://www.bat.org/help/skills.php?str=gem_cutting
+ 404. http://www.bat.org/help/skills.php?str=alloying
+ 405. http://www.bat.org/help/skills.php?str=glassblowing
+ 406. http://www.bat.org/help/skills.php?str=refining
+ 407. http://www.bat.org/help/skills.php?str=shipbuilding
+ 408. http://www.bat.org/help/skills.php?str=masonry
+ 409. http://www.bat.org/help/skills.php?str=insider_trading
+ 410. http://www.bat.org/help/skills.php?str=make_reagent
+ 411. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 412. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 413. http://www.bat.org/help/skills.php?str=chest_creation
+ 414. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 415. http://www.bat.org/help/spells.php?str=identify
+ 416. http://www.bat.org/help/spells.php?str=feather_weight
+ 417. http://www.bat.org/help/spells.php?str=call_pigeon
+ 418. http://www.bat.org/help/spells.php?str=credit_check
+ 419. http://www.bat.org/help/spells.php?str=remote_banking
+ 420. http://www.bat.org/help/spells.php?str=protect_armour
+ 421. http://www.bat.org/help/spells.php?str=protect_weapon
+ 422. http://www.bat.org/help/spells.php?str=protect_item
+ 423. http://www.bat.org/help/skills.php?str=shopkeeping
+ 424. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 425. http://www.bat.org/help/skills.php?str=loan_sharking
+ 426. http://www.bat.org/help/skills.php?str=shopkeeping
+ 427. http://www.bat.org/help/skills.php?str=gem_cutting
+ 428. http://www.bat.org/help/skills.php?str=alloying
+ 429. http://www.bat.org/help/skills.php?str=glassblowing
+ 430. http://www.bat.org/help/skills.php?str=refining
+ 431. http://www.bat.org/help/skills.php?str=shipbuilding
+ 432. http://www.bat.org/help/skills.php?str=masonry
+ 433. http://www.bat.org/help/skills.php?str=sculpture
+ 434. http://www.bat.org/help/skills.php?str=insider_trading
+ 435. http://www.bat.org/help/skills.php?str=make_reagent
+ 436. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 437. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 438. http://www.bat.org/help/skills.php?str=chest_creation
+ 439. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 440. http://www.bat.org/help/spells.php?str=feather_weight
+ 441. http://www.bat.org/help/spells.php?str=call_pigeon
+ 442. http://www.bat.org/help/spells.php?str=credit_check
+ 443. http://www.bat.org/help/spells.php?str=remote_banking
+ 444. http://www.bat.org/help/spells.php?str=cash_flow
+ 445. http://www.bat.org/help/spells.php?str=protect_armour
+ 446. http://www.bat.org/help/spells.php?str=protect_weapon
+ 447. http://www.bat.org/help/spells.php?str=protect_item
+ 448. http://www.bat.org/help/skills.php?str=shopkeeping
+ 449. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 450. http://www.bat.org/help/skills.php?str=loan_sharking
+ 451. http://www.bat.org/help/skills.php?str=shopkeeping
+ 452. http://www.bat.org/help/skills.php?str=gem_cutting
+ 453. http://www.bat.org/help/skills.php?str=alloying
+ 454. http://www.bat.org/help/skills.php?str=glassblowing
+ 455. http://www.bat.org/help/skills.php?str=refining
+ 456. http://www.bat.org/help/skills.php?str=shipbuilding
+ 457. http://www.bat.org/help/skills.php?str=masonry
+ 458. http://www.bat.org/help/skills.php?str=sculpture
+ 459. http://www.bat.org/help/skills.php?str=insider_trading
+ 460. http://www.bat.org/help/skills.php?str=make_reagent
+ 461. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 462. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 463. http://www.bat.org/help/skills.php?str=labeling
+ 464. http://www.bat.org/help/skills.php?str=chest_creation
+ 465. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 466. http://www.bat.org/help/skills.php?str=chest_trap_creation
+ 467. http://www.bat.org/help/spells.php?str=feather_weight
+ 468. http://www.bat.org/help/spells.php?str=call_pigeon
+ 469. http://www.bat.org/help/spells.php?str=credit_check
+ 470. http://www.bat.org/help/spells.php?str=remote_banking
+ 471. http://www.bat.org/help/spells.php?str=cash_flow
+ 472. http://www.bat.org/help/spells.php?str=protect_armour
+ 473. http://www.bat.org/help/spells.php?str=protect_weapon
+ 474. http://www.bat.org/help/spells.php?str=protect_item
+ 475. http://www.bat.org/help/skills.php?str=shopkeeping
+ 476. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 477. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 478. http://www.bat.org/help/skills.php?str=quick_chant
+ 479. http://www.bat.org/help/skills.php?str=mineral_cutting
+ 480. http://www.bat.org/help/skills.php?str=loan_sharking
+ 481. http://www.bat.org/help/skills.php?str=shopkeeping
+ 482. http://www.bat.org/help/skills.php?str=alloying
+ 483. http://www.bat.org/help/skills.php?str=glassblowing
+ 484. http://www.bat.org/help/skills.php?str=refining
+ 485. http://www.bat.org/help/skills.php?str=shipbuilding
+ 486. http://www.bat.org/help/skills.php?str=masonry
+ 487. http://www.bat.org/help/skills.php?str=sculpture
+ 488. http://www.bat.org/help/skills.php?str=create_armour
+ 489. http://www.bat.org/help/skills.php?str=create_weapon
+ 490. http://www.bat.org/help/skills.php?str=insider_trading
+ 491. http://www.bat.org/help/skills.php?str=double_mine
+ 492. http://www.bat.org/help/skills.php?str=make_reagent
+ 493. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 494. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 495. http://www.bat.org/help/skills.php?str=labeling
+ 496. http://www.bat.org/help/skills.php?str=chest_creation
+ 497. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 498. http://www.bat.org/help/skills.php?str=chest_trap_creation
+ 499. http://www.bat.org/help/spells.php?str=feather_weight
+ 500. http://www.bat.org/help/spells.php?str=call_pigeon
+ 501. http://www.bat.org/help/spells.php?str=credit_check
+ 502. http://www.bat.org/help/spells.php?str=remote_banking
+ 503. http://www.bat.org/help/spells.php?str=cash_flow
+ 504. http://www.bat.org/help/spells.php?str=protect_armour
+ 505. http://www.bat.org/help/spells.php?str=protect_weapon
+ 506. http://www.bat.org/help/spells.php?str=protect_item
+ 507. http://www.bat.org/help/spells.php?str=lift_of_load
+ 508. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 509. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 510. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 511. http://www.bat.org/help/skills.php?str=quick_chant
+ 512. http://www.bat.org/help/skills.php?str=loan_sharking
+ 513. http://www.bat.org/help/skills.php?str=alloying
+ 514. http://www.bat.org/help/skills.php?str=refining
+ 515. http://www.bat.org/help/skills.php?str=shipbuilding
+ 516. http://www.bat.org/help/skills.php?str=masonry
+ 517. http://www.bat.org/help/skills.php?str=sculpture
+ 518. http://www.bat.org/help/skills.php?str=create_armour
+ 519. http://www.bat.org/help/skills.php?str=create_weapon
+ 520. http://www.bat.org/help/skills.php?str=insider_trading
+ 521. http://www.bat.org/help/skills.php?str=double_mine
+ 522. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 523. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 524. http://www.bat.org/help/skills.php?str=labeling
+ 525. http://www.bat.org/help/skills.php?str=chest_creation
+ 526. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 527. http://www.bat.org/help/skills.php?str=chest_trap_creation
+ 528. http://www.bat.org/help/spells.php?str=feather_weight
+ 529. http://www.bat.org/help/spells.php?str=credit_check
+ 530. http://www.bat.org/help/spells.php?str=cash_flow
+ 531. http://www.bat.org/help/spells.php?str=protect_armour
+ 532. http://www.bat.org/help/spells.php?str=protect_weapon
+ 533. http://www.bat.org/help/spells.php?str=protect_item
+ 534. http://www.bat.org/help/spells.php?str=lift_of_load
+ 535. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 536. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 537. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 538. http://www.bat.org/help/skills.php?str=quick_chant
+ 539. http://www.bat.org/help/skills.php?str=loan_sharking
+ 540. http://www.bat.org/help/skills.php?str=alloying
+ 541. http://www.bat.org/help/skills.php?str=refining
+ 542. http://www.bat.org/help/skills.php?str=shipbuilding
+ 543. http://www.bat.org/help/skills.php?str=masonry
+ 544. http://www.bat.org/help/skills.php?str=sculpture
+ 545. http://www.bat.org/help/skills.php?str=create_armour
+ 546. http://www.bat.org/help/skills.php?str=create_weapon
+ 547. http://www.bat.org/help/skills.php?str=insider_trading
+ 548. http://www.bat.org/help/skills.php?str=double_mine
+ 549. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 550. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 551. http://www.bat.org/help/skills.php?str=labeling
+ 552. http://www.bat.org/help/skills.php?str=chest_creation
+ 553. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 554. http://www.bat.org/help/skills.php?str=chest_trap_creation
+ 555. http://www.bat.org/help/spells.php?str=credit_check
+ 556. http://www.bat.org/help/spells.php?str=cash_flow
+ 557. http://www.bat.org/help/spells.php?str=protect_armour
+ 558. http://www.bat.org/help/spells.php?str=protect_weapon
+ 559. http://www.bat.org/help/spells.php?str=protect_item
+ 560. http://www.bat.org/help/spells.php?str=lift_of_load
+ 561. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 562. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 563. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 564. http://www.bat.org/help/skills.php?str=quick_chant
+ 565. http://www.bat.org/help/skills.php?str=loan_sharking
+ 566. http://www.bat.org/help/skills.php?str=alloying
+ 567. http://www.bat.org/help/skills.php?str=refining
+ 568. http://www.bat.org/help/skills.php?str=sculpture
+ 569. http://www.bat.org/help/skills.php?str=create_armour
+ 570. http://www.bat.org/help/skills.php?str=create_weapon
+ 571. http://www.bat.org/help/skills.php?str=insider_trading
+ 572. http://www.bat.org/help/skills.php?str=double_mine
+ 573. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 574. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 575. http://www.bat.org/help/skills.php?str=chest_creation
+ 576. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 577. http://www.bat.org/help/skills.php?str=chest_trap_creation
+ 578. http://www.bat.org/help/spells.php?str=cash_flow
+ 579. http://www.bat.org/help/spells.php?str=protect_armour
+ 580. http://www.bat.org/help/spells.php?str=protect_weapon
+ 581. http://www.bat.org/help/spells.php?str=protect_item
+ 582. http://www.bat.org/help/spells.php?str=lift_of_load
+ 583. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 584. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 585. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 586. http://www.bat.org/help/skills.php?str=quick_chant
+ 587. http://www.bat.org/help/skills.php?str=loan_sharking
+ 588. http://www.bat.org/help/skills.php?str=alloying
+ 589. http://www.bat.org/help/skills.php?str=refining
+ 590. http://www.bat.org/help/skills.php?str=create_armour
+ 591. http://www.bat.org/help/skills.php?str=create_weapon
+ 592. http://www.bat.org/help/skills.php?str=insider_trading
+ 593. http://www.bat.org/help/skills.php?str=double_mine
+ 594. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 595. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 596. http://www.bat.org/help/skills.php?str=chest_creation
+ 597. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 598. http://www.bat.org/help/skills.php?str=chest_trap_creation
+ 599. http://www.bat.org/help/spells.php?str=protect_armour
+ 600. http://www.bat.org/help/spells.php?str=protect_weapon
+ 601. http://www.bat.org/help/spells.php?str=protect_item
+ 602. http://www.bat.org/help/spells.php?str=lift_of_load
+ 603. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 604. http://www.bat.org/help/skills.php?str=knowledge_of_metamorphosis
+ 605. http://www.bat.org/help/skills.php?str=knowledge_of_identification
+ 606. http://www.bat.org/help/skills.php?str=quick_chant
+ 607. http://www.bat.org/help/skills.php?str=loan_sharking
+ 608. http://www.bat.org/help/skills.php?str=alloying
+ 609. http://www.bat.org/help/skills.php?str=create_armour
+ 610. http://www.bat.org/help/skills.php?str=create_weapon
+ 611. http://www.bat.org/help/skills.php?str=insider_trading
+ 612. http://www.bat.org/help/skills.php?str=double_mine
+ 613. http://www.bat.org/help/skills.php?str=make_mount_gear
+ 614. http://www.bat.org/help/skills.php?str=refit_mount_gear
+ 615. http://www.bat.org/help/skills.php?str=chest_creation
+ 616. http://www.bat.org/help/skills.php?str=chest_lock_creation
+ 617. http://www.bat.org/help/skills.php?str=chest_trap_creation
+ 618. http://www.bat.org/help/spells.php?str=protect_armour
+ 619. http://www.bat.org/help/spells.php?str=protect_weapon
+ 620. http://www.bat.org/help/spells.php?str=protect_item
+ 621. http://www.bat.org/help/spells.php?str=lift_of_load
+ 622. http://www.bat.org/help/guilds.php
+ 623. mailto:webmaster@bat.org
+
+   Hidden links:
+ 624. http://www.bat.org/bat.php

@@ -1,0 +1,53 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Alcohol tolerance             |   0 |  96 |  50 |       17 |
+| Swim                          |  75 |  96 |  75 |    (n/a) |
+| Plant lore                    |   0 |  96 |  60 |       29 |
+| Hiking                        |  25 |  96 |  60 |      569 |
+| Mana control                  |   0 |  96 |  70 |       39 |
+| Attack                        |  56 |  96 |  85 |     9921 |
+| Short blades                  |  33 |  96 |  75 |     2193 |
+| Negate offhand penalty        |   0 |  96 |  50 |       93 |
+| Quick chant                   |   0 |  96 |   1 |      113 |
+| Long blades                   |  34 |  96 |  75 |     3731 |
+| Songcasting                   |   0 |  96 | 100 |      133 |
+| Songscribing                  |   0 |  96 | 100 |      147 |
+| Songmastery                   |   0 |  96 | 100 |      161 |
+| Enhance criticals             |   0 |  96 |  10 |      164 |
+| Tumbling attack               |   0 |  96 |  45 |      180 |
+| Dodge                         |  95 |  96 |  30 |    (n/a) |
+| Instrument creation           |   0 |  96 | 100 |      198 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Catchy singalong              |   0 |  68 | 100 |      181 |
+| Singing shepherd              |   0 |  68 | 100 |      181 |
+| Musicians alm                 |   0 |  68 | 100 |      193 |
+| Noituloves dischord           |   0 |  68 | 100 |      205 |
+| Sweet lullaby                 |   0 |  68 | 100 |      205 |
+| Kings feast                   |   0 |  68 | 100 |      210 |
+| Campfire tune                 |   0 |  68 | 100 |      227 |
+| Strength in unity             |   0 |  68 | 100 |      227 |
+| Venturers way                 |   0 |  68 | 100 |      227 |
+| War ensemble                  |   0 |  68 | 100 |      233 |
+| Uncontrollable mosh           |   0 |  68 | 100 |      238 |
+| Clandestine thoughts          |   0 |  68 | 100 |      254 |
+| Melody of the misadventurer   |   0 |  68 | 100 |      330 |
+| Vigilant melody               |   0 |  68 | 100 |      254 |
+| Con fioco                     |   0 |  68 | 100 |      270 |
+| Jesters trivia                |   0 |  68 | 100 |      270 |
+| Melodical embracement         |   0 |  68 | 100 |      270 |
+| Sounds of silence             |   0 |  68 | 100 |      280 |
+| Noituloves deathlore          |   0 |  68 | 100 |      285 |
+| Achromatic eyes               |   0 |  68 | 100 |      290 |
+| Dancing blades                |   0 |  68 | 100 |      296 |
+| Pathfinder                    |   0 |  68 | 100 |      296 |
+| Soothing sounds               |   0 |  68 | 100 |      296 |
+`-----------------------------------------------------------'

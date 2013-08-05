@@ -1,0 +1,79 @@
+;Race      reb skc spc expr  skm spm  str dex con int wis siz  fm  iv gnp hpt spt eat vis  foo  sm  si esc alr cla  ac hpra special_notes
+;-----------------------------------------------------------------------------------------------------------------------------------------------
+Barsoomian   0 117 164   80   74  60   48  81  63  39  33  50  No Yes  No   2   1 Yes   3  Yes  No  No  No  No  No   5 3.15 4-hands
+Brownie      0 129  94   82   80  95   27  69  30  75  66  35 Yes Yes  No   1   4  No   4  Yes Yes Yes  No  No  No   4    - 1/2_stats_if_evil
+Catfolk      0 105 105   98   92  86   63  78  51  48  48  57  No Yes  No   2   3 Yes   5  Yes  No  No Yes  No  No   8  3.3 Pack-bonus,_tail_slot
+Centaur      0 129 100   73   82  78   75  42  81  36  57  87  No  No  No   2   3  No   4  Yes  No  No  No  No  No   8 3.35 Hooves,_emphatic,_no_feet_and_leg_slots,_1/2_stats_if_not_male,_tail_slot
+Cromagnon    0 141 200  100   88  50   66  51  72  33  33  72  No  No  No   3   1  No   3  Yes  No  No  No  No  No  17 3.25 Pack-bonus
+Cyclops      0 135 211   71   78  40   90  42  87  18  18  95  No  No Yes   3   1  No   3  Yes  No  No  No  No  No  25    - Vulnerable_to_psi
+Demon        2 141 153   75   88  88   72  51  60  54  48  85 Yes Yes Yes   3   3 Yes   4   No Yes  No Yes Yes Yes  32    - 1/2_stats_if_good
+Draconian    2 141 165   80   80  50   78  45  81  33  33  85  No Yes Yes   3   2 Yes   2  Yes  No  No  No  No  No  56    - Dragonify
+Drow         0 105 117   75   83  97   48  72  48  63  81  49  No Yes  No   1   4  No   5  Yes Yes  No  No  No  No   8    - 1/2_stats_if_good
+Duck         0 141  94   84   81  98   39  60  45  78  69  39 Yes  No  No   1   5  No   4  Yes  No  No  No  No Yes   7  2.9 Fly_above_water,_can_camp_in_water
+Duergar      1 100 188   84   83  80   72  57  75  42  48  55  No Yes Yes   2   2  No   2  Yes  No  No  No  No  No  21    - 1/2_stats_if_good
+Dwarf        0  88 188   85  100  70   69  51  72  45  48  43  No Yes  No   3   2  No   3  Yes  No  No  No  No  No  16 3.35 Quick_learners,_special_skill_'mountaineering'
+Elf          0 117  98   78   95 100   48  63  48  75  75  53  No Yes  No   1   4  No   5  Yes  No  No  No  No  No   8  3.0 1/2_stats_if_evil,_emphatic,_elven_grace_movement,_-3int-3wis_tuned_Jan2004
+Ent          0 152  82   91   90  92   75   6  48  45  90  92  No  No Yes   1   4  No   3  Yes  No  No  No  No  No  28  3.0 Heal_faster_in_water,_suck_nutrition,_arcane_easy,_stomps_out_fires,_not_attacked_as_a_tree,_needs_light_to_tick
+Gargoyle     1 141 200   78   80  51   72  48  84  24  24  90  No Yes Yes   1   1  No   5  Yes  No Yes  No  No  No  59  3.3 No_stomach,_walks_on_bottom_of_seas,_no_hunger
+Giant        0 117 211   74   78  45   90  42  84  18  18 100  No  No Yes   3   1  No   3  Yes  No  No  No  No  No  24 3.15 Different_element_types,_+20%_dam/5%_stunchance_from_spells
+Gnoll        0 129 141  117   80  66   63  54  54  48  51  61 Yes Yes  No   2   3  No   3  Yes  No  No  No  No  No   8    - Pack-bonus,_track
+Gnome        0  94 129   90   74  93   39  57  42  51  69  46 Yes Yes  No   1   4  No   2  Yes  No  No  No  No  No   7    - Special_skill_'tinkering'
+Hobbit       0  94 164  100   98  76   45  81  66  66  51  38  No Yes  No   2   3  No   3  Yes  No  No  No  No  No   9    - Special_skill_'burrowing'
+Human        0 100 100   88  100  95   57  57  57  57  57  59  No  No  No   2   4  No   3  Yes  No  No  No  No  No   8  3.1 None
+Kobold       0 117  94  114   74  85   45  48  45  54  45  42 Yes Yes  No   2   3 Yes   2  Yes  No  No  No  No  No   8  2.9 Track
+Leech        0 117  70  100   70  72   36  84  36  69  48  25 Yes  No  No   1   4  No   2   No  No  No  No  No  No  10    - No_2-handed_weapons,_arcane_easy,_must_suck_blood
+Leprechaun   1 141 152   77   85  96   33  78  33  78  69  37 Yes Yes  No   1   4  No   5  Yes Yes Yes  No  No  No   4    - None
+Lich         1 141 129   85   95 100   48  48  48  48  48  59  No Yes  No   1   4  No   3   No  No  No  No  No  No  45    - Stats_grow,_walks_underwater,_no_hunger
+Lizardman    0 129 141   90   84  68   69  69  75  24  39  72  No Yes Yes   3   2 Yes   3  Yes  No  No  No  No  No  30    - Tail_slot,_tail_attack
+Merfolk      0 129 117   96   79  89   48  42  54  72  72  52  No  No  No   1   4  No   3  Yes  No  No  No  No  No   8    - Heal_faster_in_water,_not_attacked_in_seas,_can_camp_in_water
+Minotaur     0 105 176   80   83  64   75  51  81  33  33  87  No  No Yes   3   3  No   3  Yes  No  No  No  No Yes  23 3.25 Horn_attacks,_no_head_slot
+Moomin      -1 105 111   91   84  96   48  63  48  72  72  53 Yes Yes  No   1   4  No   3  Yes Yes  No  No  No  No   8    - Invite_only_(Backlash),_emphatic
+Ogre         0  94 211   77   78  68   78  42  81  35  35  88  No  No  No   3   2  No   3  Yes  No  No  No  No  No  16 3.35 None
+Orc          0 105 176  100   82  62   72  66  78  33  39  72  No Yes Yes   2   1 Yes   2  Yes  No  No  No  No  No  30 3.15 1/2_stats_if_light
+Penguin     -1 141  94   96   70  93   36  18  51  63  72  40 Yes  No  No   1   4  No   4  Yes  No  No  No  No  No   7    - Heal_faster_in_water,_invite_only_(Alvin),_emphatic
+Satyr        0 105 105  100   85  85   45  72  60  66  69  47  No  No  No   1   3  No   4  Yes Yes  No  No  No Yes  12  2.8 Sing_healing_songs
+Shadow       3  93  96   79   95  95   39  51  51  69  69  59 Yes Yes  No   1   4  No   5  Yes Yes Yes  No  No  No   4    - Emphatic
+Skeleton     0 105 117   88   95  65   63  63  63  45  45  59  No Yes Yes   1   3  No   3  Yes  No  No  No  No  No  45    - Poison_immunity,_walk_beneath_water,_'wake_undead'_racial_cmd
+Sprite       0 152  94   96   98  95   30  90  33  63  57  36 Yes Yes  No   1   4  No   4  Yes Yes Yes  No  No  No   4 2.75 Fly_above_water,_no_2-handed_weapons,_glow_in_dark,_insta-dd
+Thrikhren    0 152  70   85   81  99   30  28  30  90  59  41 Yes Yes  No   1   5  No   3  Yes Yes  No  No Yes  No  15  2.7 Arcane_easy
+Tinmen       0 105  94   91   87  80   63  42  67  70  22  68  No Yes Yes   1   3  No   2  Yes Yes  No  No Yes  No  62 3.35 None
+Titan        3 141 141   81   80  75   81  48  81  33  36 110  No Yes Yes   3   3  No   5  Yes  No  No  No  No  No  26  3.3 110_size!
+Troll        0 141 164   83   77  55   78  45  81  32  35  82  No Yes Yes   3   2 Yes   2  Yes  No  No Yes Yes  No  32  3.3 1/2_stats_if_light,_regain_consc.
+Valar       -1  82 141   75   90  88   75  69  57  75  60  82  No Yes  No   1   3  No   4  Yes  No  No  No  No  No   6 2.95 1/2_stats_if_evil,_invite_only_(Tulkas),_quick_learners
+Vampire      2 105  94   75   82  98   45  63  48  72  72  59 Yes Yes  No   1   5  No   5   No Yes Yes Yes Yes Yes   9  2.6 Cannot_eat_food/corpses,_must_have_blood,_needs_darkness_to_tick
+Wolfman      0 129 129   85   85  78   63  57  72  48  48  65  No Yes  No   3   3 Yes   4  Yes  No  No Yes  No  No  13  3.4 Vulnerable_to_fire,_tail_slot,_track
+Zombie       0 176  58   90   70  90   42  24  90  39  78  51  No Yes  No   1   4  No   2  Yes Yes Yes  No  No  No   9 2.85 Arcane_easy
+;---------------------------------------------------------------------------------------------------------------------------------------------
+;Race      reb skc spc expr  skm spm  str dex con int wis siz  fm  iv gnp hpt spt eat vis  foo  sm  si esc alr cla  ac hpra special_notes
+;---------------------------------------------------------------------------------------------------------------------
+;
+; pathetic		 3
+; pitiful		 6
+; sad			 9
+; bad			12
+; tiny			15
+; little		18
+; meager		21
+; feeble		24
+; poor			27
+; paltry		30
+; crude			33
+; weak			36
+; slight		39
+; low			42
+; mediocre 		45
+; average		48
+; decent 		51
+; adequate 		54
+; good			57
+; nice			60
+; great			63
+; excellent		66
+; impressive	69
+; incredible	72
+; superb		75
+; awesome		78
+; dazzling		81
+; magnificent	84
+; unearthly		87
+; divine		90

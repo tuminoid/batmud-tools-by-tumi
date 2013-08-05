@@ -1,0 +1,7 @@
+name: The Royal Canadian Kilted Yaksmen
+gms: Enochian, Flab, Nuane and Blnk
+maxlvl: 4
+1: skillmax,str
+2: skillmax,str
+3: str
+4: str

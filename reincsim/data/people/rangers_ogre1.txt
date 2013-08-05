@@ -1,0 +1,63 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  70 |  96 |  85 |     3508 |
+| Push                          |  60 |  96 |  90 |     2096 |
+| Tinning                       |   0 |  96 | 100 |       13 |
+| Compare                       |   0 |  96 |  85 |       17 |
+| Controlled panic              |   0 |  96 |  85 |       17 |
+| Make bandage                  |   0 |  96 | 100 |       17 |
+| First aid                     |  50 |  96 |  60 |     2172 |
+| Alertness                     |  70 |  96 | 100 |     8488 |
+| Stargazing                    |   0 |  96 |  75 |       25 |
+| Swim                          |  75 |  96 | 100 |    11166 |
+| Plant lore                    |   0 |  96 | 100 |       29 |
+| Enhanced peer                 |   0 |  96 | 100 |       33 |
+| Hunting                       |   0 |  96 | 100 |       33 |
+| Locate water                  |   0 |  96 | 100 |       33 |
+| Scouting                      |   0 |  96 | 100 |       33 |
+| Torch creation                |   0 |  96 | 100 |       33 |
+| Camping                       |   0 |  96 | 100 |       36 |
+| Fire building                 |   0 |  96 | 100 |       36 |
+| Fishing                       |   0 |  96 | 100 |       36 |
+| Hiking                        |  25 |  96 | 100 |      569 |
+| Leather craft                 |   0 |  96 | 100 |       36 |
+| Pathfinding                   |   0 |  96 | 100 |       36 |
+| Track                         |   0 |  96 | 100 |       36 |
+| Wipe tracks                   |   0 |  96 | 100 |       36 |
+| Camouflage                    |   0 |  96 | 100 |       39 |
+| Kick                          |  25 |  96 | 100 |      615 |
+| Woodland stealth              |   0 |  96 | 100 |       39 |
+| Switch weapon                 |   0 |  96 | 100 |       43 |
+| Forest location               |   0 |  96 | 100 |       52 |
+| Telescope operation           |   0 |  96 | 100 |       52 |
+| Mastery of camping            |   0 |  96 | 100 |       55 |
+| Attack                        |  56 |  96 | 100 |     9921 |
+| Detect trap                   |   0 |  96 |  70 |       72 |
+| Short blades                  |  33 |  96 | 100 |     2193 |
+| Bladed fury                   |   0 |  96 | 100 |       86 |
+| Mastery of fire building      |   0 |  96 | 100 |       86 |
+| Negate offhand penalty        |   0 |  96 | 100 |       93 |
+| Shield bash                   |  50 |  96 |  60 |    11076 |
+| Offhanded fury                |   0 |  96 | 100 |       96 |
+| Axes                          |   0 |  96 | 100 |      101 |
+| Multiple fury                 |   0 |  96 | 100 |      105 |
+| Rescue                        |  50 |  96 |  75 |    13332 |
+| Find weakness                 |   0 |  96 |  50 |      113 |
+| Long blades                   |  34 |  96 |  85 |     3731 |
+| Stun                          |  48 |  96 |  80 |    12507 |
+| Riposte                       |  50 |  96 |  70 |    15206 |
+| Mastery of bladed fury        |   0 |  96 | 100 |      133 |
+| Leadership                    |  50 |  96 |  60 |    18228 |
+| Discipline                    |   0 |  96 |  80 |      155 |
+| Location memory               |   0 |  96 | 100 |      157 |
+| Enhance criticals             |   0 |  96 |  80 |      164 |
+| Parry                         |  95 |  96 |  85 |    (n/a) |
+| Tumbling attack               |   0 |  96 |  70 |      180 |
+| Stunned maneuvers             |  50 |  96 |  90 |    24284 |
+| Combat sense                  |  50 |  96 |  65 |    25103 |
+| Dodge                         |  95 |  96 |  70 |    (n/a) |
+`-----------------------------------------------------------'

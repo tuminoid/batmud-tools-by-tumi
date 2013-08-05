@@ -1,0 +1,35 @@
+Squires
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 15  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  70 |  96 |  70 |    (n/a) |
+| Evaluate mount                |   0 |  96 |  35 |       13 |
+| Push                          |  60 |  96 |  90 |     2096 |
+| Tinning                       |   0 |  96 |  60 |       13 |
+| Compare                       |   0 |  96 |  85 |       17 |
+| First aid                     |  50 |  96 |  65 |     2172 |
+| Alertness                     |  70 |  96 |  50 |    (n/a) |
+| Swim                          |  75 |  96 |  80 |    11166 |
+| Plant lore                    |   0 |  96 |  40 |       29 |
+| Hunting                       |   0 |  96 |  40 |       33 |
+| Torch creation                |   0 |  96 |  60 |       33 |
+| Camping                       |   0 |  96 |  50 |       36 |
+| Fire building                 |   0 |  96 |  30 |       36 |
+| Hiking                        |  25 |  96 |  40 |      569 |
+| Riding                        |   0 |  96 |  25 |       36 |
+| Kick                          |  25 |  96 |  70 |      615 |
+| Switch weapon                 |   0 |  96 |  60 |       43 |
+| Attack                        |  56 |  96 | 100 |     9921 |
+| Make mount feed               |   0 |  96 |  25 |       67 |
+| Short blades                  |  33 |  96 |  30 |    (n/a) |
+| Polearms                      |  34 |  96 |  35 |     2970 |
+| Negate offhand penalty        |   0 |  96 |  40 |       93 |
+| Shield bash                   |  50 |  96 |  30 |    (n/a) |
+| Combat riding                 |   0 |  96 |  50 |      110 |
+| Rescue                        |  50 |  96 |  35 |    (n/a) |
+| Stun                          |  48 |  96 |  20 |    (n/a) |
+| Tame mount                    |   0 |  96 |  10 |      157 |
+| Dodge                         |  95 |  96 |  10 |    (n/a) |
+`-----------------------------------------------------------'

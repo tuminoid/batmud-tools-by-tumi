@@ -1,0 +1,73 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  70 |  96 |  80 |     3508 |
+| Essence eye                   |   0 |  96 | 100 |       13 |
+| Zapping                       |   0 |  96 | 100 |       17 |
+| Plant lore                    |   0 |  96 | 100 |       29 |
+| Craft orb                     |   0 |  96 | 100 |       33 |
+| Wandmaking                    |   0 |  96 | 100 |       33 |
+| Mana control                  |   0 |  96 | 100 |       39 |
+| Cast alchemy                  |   0 |  96 |  50 |       49 |
+| Cast channelling              |   0 |  96 | 100 |       49 |
+| Cast electricity              |   0 |  96 |  80 |       49 |
+| Cast fire                     |   0 |  96 |  80 |       49 |
+| Cast generic                  |   0 |  96 | 100 |       49 |
+| Cast information              |   0 |  96 |  50 |       49 |
+| Cast magical                  |   0 |  96 |  80 |       49 |
+| Cast teleportation            |   0 |  96 |  50 |       49 |
+| Cast transformation           |   0 |  96 | 100 |       49 |
+| Attack                        |  56 |  96 |  50 |    (n/a) |
+| Short blades                  |  33 |  96 |  50 |     2193 |
+| Mix salve                     |   0 |  96 | 100 |       83 |
+| Flow of magic                 |   0 |  96 | 100 |      105 |
+| Mastery of channelling        |   0 |  96 | 100 |      105 |
+| Mastery of draining           |   0 |  96 | 100 |      105 |
+| Bludgeons                     |   0 |  96 |  50 |      110 |
+| Quick chant                   |   0 |  96 |  75 |      113 |
+| Analysis of magic lore        |   0 |  96 | 100 |      138 |
+| Damage criticality            |   0 |  96 |  75 |      190 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Word of recall                |   0 |  68 |  75 |       39 |
+| See magic                     |   0 |  68 | 100 |       49 |
+| Darkness                      |   0 |  68 | 100 |       58 |
+| Floating                      |   0 |  68 | 100 |       58 |
+| Light                         |   0 |  68 | 100 |       58 |
+| Drain item                    |   0 |  68 | 100 |       66 |
+| Greater darkness              |   0 |  68 |  -  |    (n/a) |
+| Greater light                 |   0 |  68 |  -  |    (n/a) |
+| Feather weight                |   0 |  68 | 100 |       89 |
+| Identify                      |   0 |  68 |  50 |       89 |
+| Golem heal                    |   0 |  68 | 100 |      111 |
+| Summon                        |   0 |  68 |  50 |      111 |
+| Drain room                    |   0 |  68 | 100 |      131 |
+| Flame arrow                   |   0 |  68 | 100 |      131 |
+| Magic missile                 |   0 |  68 | 100 |      131 |
+| Shocking grasp                |   0 |  68 | 100 |      131 |
+| Transform golem               |   0 |  68 | 100 |      169 |
+| Firebolt                      |   0 |  68 | 100 |      187 |
+| Lightning bolt                |   0 |  68 | 100 |      187 |
+| Summon lesser spores          |   0 |  68 | 100 |      187 |
+| Drain ally                    |   0 |  68 | 100 |      205 |
+| Replenish ally                |   0 |  68 | 100 |      205 |
+| Channelball                   |   0 |  68 |  -  |    (n/a) |
+| Channelbolt                   |   0 |  68 |  -  |    (n/a) |
+| Channelburn                   |   0 |  68 |  -  |    (n/a) |
+| Energy aura                   |   0 |  68 | 100 |      233 |
+| Item dispersion shield        |   0 |  68 |  -  |    (n/a) |
+| Personal force field          |   0 |  68 | 100 |      238 |
+| Animate golem                 |   0 |  68 | 100 |      249 |
+| Channelray                    |   0 |  68 |  -  |    (n/a) |
+| Channelspray                  |   0 |  68 |  -  |    (n/a) |
+| Create herb                   |   0 |  68 |  -  |    (n/a) |
+| Energy vortex                 |   0 |  68 |  -  |    (n/a) |
+| Drain enemy                   |   0 |  68 | 100 |      259 |
+`-----------------------------------------------------------'

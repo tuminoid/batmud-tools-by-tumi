@@ -1,0 +1,73 @@
+Ent
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  70 |  80 |     2436 |
+| Essence eye                   |  90 |  98 |    13662 |
+| Zapping                       |   0 |  98 |        9 |
+| Plant lore                    |   0 |  98 |       21 |
+| Craft orb                     |   0 |  98 |       26 |
+| Wandmaking                    |   0 |  98 |       26 |
+| Mana control                  |  60 |  98 |     5789 |
+| Cast alchemy                  |   0 |  50 |       44 |
+| Cast channelling              |   0 | 100 |       44 |
+| Cast electricity              |   0 |  80 |       44 |
+| Cast fire                     |   0 |  80 |       44 |
+| Cast generic                  |  90 | 100 |   104136 |
+| Cast information              |  61 |  50 |    (n/a) |
+| Cast magical                  |   0 |  80 |       44 |
+| Cast teleportation            |  60 |  50 |    (n/a) |
+| Cast transformation           |  60 | 100 |     7848 |
+| Attack                        |  75 |  50 |    (n/a) |
+| Short blades                  |  73 |  50 |    (n/a) |
+| Mix salve                     |   0 |  98 |       91 |
+| Flow of magic                 |   0 | 100 |      154 |
+| Mastery of channelling        |   0 | 100 |      154 |
+| Mastery of draining           |   0 | 100 |      154 |
+| Bludgeons                     |   0 |  50 |      170 |
+| Quick chant                   |  50 |  75 |    13651 |
+| Analysis of magic lore        |   0 | 100 |      339 |
+| Damage criticality            |   0 |  75 |     1409 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |  55 |  75 |      605 |
+| See magic                     |   0 |  92 |        6 |
+| Darkness                      |  28 |  92 |      117 |
+| Floating                      |   0 |  92 |        9 |
+| Light                         |   0 |  92 |        9 |
+| Drain item                    |   0 |  92 |       11 |
+| Greater darkness              |   0 |  20 |       14 |
+| Greater light                 |   0 |  -  |    (n/a) |
+| Feather weight                |   0 |  92 |       17 |
+| Identify                      |   0 |  50 |       17 |
+| Golem heal                    |   0 |  92 |       23 |
+| Summon                        |  60 |  50 |    (n/a) |
+| Drain room                    |   0 |  92 |       28 |
+| Flame arrow                   |   0 |  92 |       28 |
+| Magic missile                 |   0 |  92 |       28 |
+| Shocking grasp                |   0 |  92 |       28 |
+| Transform golem               |   0 |  92 |       42 |
+| Firebolt                      |   0 |  92 |       49 |
+| Lightning bolt                |   0 |  92 |       49 |
+| Summon lesser spores          |   0 |  92 |       49 |
+| Drain ally                    |   0 |  92 |       58 |
+| Replenish ally                |   0 |  92 |       58 |
+| Channelball                   |   0 |  -  |    (n/a) |
+| Channelbolt                   |   0 |  -  |    (n/a) |
+| Channelburn                   |   0 |  -  |    (n/a) |
+| Energy aura                   |   0 |  92 |       79 |
+| Item dispersion shield        |   0 |  -  |    (n/a) |
+| Personal force field          |   0 |  92 |       85 |
+| Animate golem                 |   0 |  92 |       91 |
+| Channelray                    |   0 |  -  |    (n/a) |
+| Create herb                   |   0 |  -  |    (n/a) |
+| Channelspray                  |   0 |  -  |    (n/a) |
+| Energy vortex                 |   0 |  -  |    (n/a) |
+| Drain enemy                   |   0 |  92 |      106 |
+`------------------------------------------------------'

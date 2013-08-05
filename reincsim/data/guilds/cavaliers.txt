@@ -1,0 +1,932 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                 [fonter.php?str=The+Division+of+Cavaliers]
+
+                         The Division of Cavaliers
+
+   Command: cavalier
+   Creators: [22]Shinarae, [23]Elwood
+   Maximum level: 15
+   Description:
+   Since the beginning of warfare, the strongest and most skilled of
+   warriors
+   have joined the cavalry. While riding a horse or other mount, these
+   fighters
+   can utilize larger weapons, heavier armour, and yet move with greater
+   speed. A
+   trained cavalier is an expert in mounted combat, and while riding into
+   battle,
+   can strike with great force while suffering less damage than the
+   infantry. A
+   cavalier needs no code of conduct or religion, for they find guidance
+   in the
+   thundering hooves and flashing of steel, and little else.
+
+                                New Member
+        Must be maximum level in Squire
+        Members of the cavalry are in a league of their own.
+        You receive a visor to keep the flying dust out of your eyes.
+        May train skill [24]Parry to 10%
+        May train skill [25]Dodge to 15%
+        May train skill [26]Combat sense to 20%
+        May train skill [27]Long blades to 20%
+        May train skill [28]Polearms to 20%
+        May train skill [29]Attack to 25%
+        May train skill [30]Shield bash to 20%
+        May train skill [31]Slash to 5%
+        May train skill [32]Impale to 5%
+        May train skill [33]Throw weight to 10%
+        May train skill [34]Riding to 30%
+        May train skill [35]Combat riding to 30%
+
+                                 Level 2
+                 May train skill [36]Parry to 20%
+                 May train skill [37]Dodge to 20%
+                 May train skill [38]Combat sense to 25%
+                 May train skill [39]Long blades to 30%
+                 May train skill [40]Polearms to 30%
+                 May train skill [41]Attack to 40%
+                 May train skill [42]Shield bash to 25%
+                 May train skill [43]Slash to 10%
+                 May train skill [44]Impale to 10%
+                 May train skill [45]Throw weight to 20%
+                 May train skill [46]Riding to 30%
+                 May train skill [47]Combat riding to 35%
+                 May train skill [48]Controlled panic to 10%
+                 May train skill [49]Bludgeons to 5%
+
+                                 Level 3
+             Has trained skill [50]Riding to at least 25%
+             Has trained skill [51]Combat riding to at least 25%
+             Has trained skill [52]Attack to at least 35%
+             Has trained skill [53]Parry to at least 20%
+             Has trained skill [54]Polearms to at least 25%
+             May train skill [55]Parry to 30%
+             May train skill [56]Dodge to 25%
+             May train skill [57]Combat sense to 30%
+             May train skill [58]Long blades to 40%
+             May train skill [59]Polearms to 40%
+             May train skill [60]Attack to 55%
+             May train skill [61]Shield bash to 30%
+             May train skill [62]Slash to 15%
+             May train skill [63]Impale to 15%
+             May train skill [64]Throw weight to 30%
+             May train skill [65]Riding to 30%
+             May train skill [66]Combat riding to 40%
+             May train skill [67]Controlled panic to 15%
+             May train skill [68]Bludgeons to 10%
+             May train skill [69]Stun to 5%
+
+                                 Level 4
+                 May train skill [70]Parry to 40%
+                 May train skill [71]Dodge to 30%
+                 May train skill [72]Combat sense to 35%
+                 May train skill [73]Long blades to 50%
+                 May train skill [74]Polearms to 50%
+                 May train skill [75]Attack to 70%
+                 May train skill [76]Shield bash to 35%
+                 May train skill [77]Slash to 20%
+                 May train skill [78]Impale to 20%
+                 May train skill [79]Throw weight to 40%
+                 May train skill [80]Riding to 35%
+                 May train skill [81]Combat riding to 45%
+                 May train skill [82]Controlled panic to 20%
+                 May train skill [83]Bludgeons to 15%
+                 May train skill [84]Stun to 10%
+                 May train skill [85]Riposte to 5%
+
+                                 Level 5
+                 May train skill [86]Parry to 50%
+                 May train skill [87]Dodge to 35%
+                 May train skill [88]Combat sense to 40%
+                 May train skill [89]Long blades to 60%
+                 May train skill [90]Polearms to 60%
+                 May train skill [91]Attack to 85%
+                 May train skill [92]Shield bash to 40%
+                 May train skill [93]Slash to 25%
+                 May train skill [94]Impale to 25%
+                 May train skill [95]Throw weight to 50%
+                 May train skill [96]Riding to 35%
+                 May train skill [97]Combat riding to 50%
+                 May train skill [98]Controlled panic to 25%
+                 May train skill [99]Bludgeons to 20%
+                 May train skill [100]Stun to 15%
+                 May train skill [101]Riposte to 10%
+                 May train skill [102]Trample to 10%
+
+                                         Level 6
+             Has trained skill [103]Combat riding to at least 45%
+             Has trained skill [104]Combat sense to at least 35%
+             Has trained skill [105]Parry to at least 45%
+             Has trained skill [106]Throw weight to at least 50%
+             May train skill [107]Parry to 60%
+             May train skill [108]Dodge to 40%
+             May train skill [109]Combat sense to 45%
+             May train skill [110]Long blades to 70%
+             May train skill [111]Polearms to 70%
+             May train skill [112]Attack to racial maximum
+             May train skill [113]Shield bash to 45%
+             May train skill [114]Slash to 30%
+             May train skill [115]Impale to 30%
+             May train skill [116]Throw weight to 60%
+             May train skill [117]Riding to 35%
+             May train skill [118]Combat riding to 55%
+             May train skill [119]Controlled panic to 30%
+             May train skill [120]Bludgeons to 25%
+             May train skill [121]Stun to 20%
+             May train skill [122]Riposte to 15%
+     May train skill [123]Trample to 20%, special requirements:
+       * Has trained skill [124]Combat riding to at least 10%
+             May train skill [125]Alertness to 5%
+             May train skill [126]Decapitate to 5%
+             May train skill [127]Mangle to 5%
+     May train skill [128]Mastery of mounted combat to 10%, special
+   requirements:
+       * Has trained skill [129]Combat riding to at least 10%
+             May train skill [130]Assault to 10%
+             May train skill [131]Battery to 10%
+             May train skill [132]Charge to 10%
+     May train skill [133]Flanking attack to 10%, special requirements:
+       * Has trained skill [134]Combat riding to at least 10%
+       * Has trained skill [135]Dodge to at least 10%
+
+                                             Level 7
+                 May train skill [136]Parry to 70%
+                 May train skill [137]Dodge to 45%
+                 May train skill [138]Combat sense to 50%
+                 May train skill [139]Long blades to 80%
+                 May train skill [140]Polearms to 80%
+                 May train skill [141]Shield bash to 50%
+                 May train skill [142]Slash to 35%
+                 May train skill [143]Impale to 35%
+                 May train skill [144]Throw weight to 70%
+                 May train skill [145]Riding to 40%
+                 May train skill [146]Combat riding to 60%
+                 May train skill [147]Controlled panic to 35%
+                 May train skill [148]Bludgeons to 30%
+                 May train skill [149]Stun to 25%
+                 May train skill [150]Riposte to 20%
+     May train skill [151]Trample to 30%, special requirements:
+       * Has trained skill [152]Combat riding to at least 20%
+                 May train skill [153]Alertness to 10%
+                 May train skill [154]Decapitate to 10%
+                 May train skill [155]Mangle to 10%
+     May train skill [156]Mastery of mounted combat to 25%, special
+   requirements:
+       * Has trained skill [157]Combat riding to at least 25%
+                 May train skill [158]Assault to 20%
+                 May train skill [159]Battery to 20%
+                 May train skill [160]Charge to 20%
+     May train skill [161]Flanking attack to 20%, special requirements:
+       * Has trained skill [162]Combat riding to at least 20%
+       * Has trained skill [163]Dodge to at least 20%
+
+                                             Level 8
+                 May train skill [164]Parry to 75%
+                 May train skill [165]Dodge to 50%
+                 May train skill [166]Combat sense to 60%
+                 May train skill [167]Long blades to 90%
+                 May train skill [168]Polearms to 90%
+                 May train skill [169]Shield bash to 55%
+                 May train skill [170]Slash to 40%
+                 May train skill [171]Impale to 40%
+                 May train skill [172]Throw weight to 80%
+                 May train skill [173]Combat riding to 65%
+                 May train skill [174]Controlled panic to 40%
+                 May train skill [175]Bludgeons to 35%
+                 May train skill [176]Stun to 30%
+                 May train skill [177]Riposte to 25%
+     May train skill [178]Trample to 40%, special requirements:
+       * Has trained skill [179]Combat riding to at least 30%
+                 May train skill [180]Alertness to 15%
+                 May train skill [181]Decapitate to 15%
+                 May train skill [182]Mangle to 15%
+     May train skill [183]Mastery of mounted combat to 40%, special
+   requirements:
+       * Has trained skill [184]Combat riding to at least 40%
+                 May train skill [185]Assault to 30%
+                 May train skill [186]Battery to 30%
+                 May train skill [187]Charge to 30%
+     May train skill [188]Flanking attack to 30%, special requirements:
+       * Has trained skill [189]Combat riding to at least 30%
+       * Has trained skill [190]Dodge to at least 30%
+
+                                         Level 9
+             Has trained skill [191]Combat riding to at least 45%
+             Has trained skill [192]Charge to at least 25%
+             Has trained skill [193]Trample to at least 35%
+             Has trained skill [194]Polearms to at least 60%
+             May train skill [195]Parry to 80%
+             May train skill [196]Dodge to 55%
+             May train skill [197]Combat sense to 70%
+             May train skill [198]Discipline to 10%
+             May train skill [199]Shield bash to 60%
+             May train skill [200]Slash to 45%
+             May train skill [201]Impale to 45%
+             May train skill [202]Throw weight to 90%
+             May train skill [203]Combat riding to 70%
+             May train skill [204]Controlled panic to 45%
+             May train skill [205]Bludgeons to 40%
+             May train skill [206]Stun to 40%
+             May train skill [207]Riposte to 30%
+     May train skill [208]Trample to 50%, special requirements:
+       * Has trained skill [209]Combat riding to at least 40%
+             May train skill [210]Alertness to 20%
+             May train skill [211]Decapitate to 20%
+             May train skill [212]Mangle to 20%
+     May train skill [213]Mastery of mounted combat to 55%, special
+   requirements:
+       * Has trained skill [214]Combat riding to at least 55%
+     May train skill [215]Assault to 40%, special requirements:
+       * Has trained skill [216]Slash to at least 10%
+     May train skill [217]Battery to 40%, special requirements:
+       * Has trained skill [218]Pound to at least 10%
+     May train skill [219]Charge to 40%, special requirements:
+       * Has trained skill [220]Impale to at least 10%
+     May train skill [221]Flanking attack to 40%, special requirements:
+       * Has trained skill [222]Combat riding to at least 40%
+       * Has trained skill [223]Dodge to at least 40%
+
+                                        Level 10
+     May train skill [224]Parry to 85%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Civilized Fighters
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Legion of Knights
+             May train skill [225]Dodge to 60%
+     May train skill [226]Combat sense to 80%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Civilized Fighters
+       * Must be maximum level in The Herd of Beastmasters
+       * Must be maximum level in The Legion of Knights
+             May train skill [227]Discipline to 20%
+             May train skill [228]Stunned maneuvers to 15%
+             May train skill [229]Shield bash to 65%
+             May train skill [230]Slash to 50%
+             May train skill [231]Impale to 50%
+             May train skill [232]Throw weight to racial maximum
+             May train skill [233]Combat riding to 75%
+             May train skill [234]Controlled panic to 50%
+             May train skill [235]Bludgeons to 45%
+             May train skill [236]Stun to 50%
+             May train skill [237]Riposte to 35%
+     May train skill [238]Trample to 55%, special requirements:
+       * Has trained skill [239]Combat riding to at least 45%
+             May train skill [240]Alertness to 25%
+             May train skill [241]Decapitate to 25%
+             May train skill [242]Mangle to 25%
+             May train skill [243]Enhance criticals to 10%
+     May train skill [244]Mastery of mounted combat to 70%, special
+   requirements:
+       * Has trained skill [245]Combat riding to at least 70%
+     May train skill [246]Assault to 50%, special requirements:
+       * Has trained skill [247]Slash to at least 20%
+     May train skill [248]Battery to 50%, special requirements:
+       * Has trained skill [249]Pound to at least 20%
+     May train skill [250]Charge to 50%, special requirements:
+       * Has trained skill [251]Impale to at least 20%
+     May train skill [252]Flanking attack to 50%, special requirements:
+       * Has trained skill [253]Combat riding to at least 50%
+       * Has trained skill [254]Dodge to at least 50%
+
+                                           Level 11
+     May train skill [255]Parry to 90%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Civilized Fighters
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Legion of Knights
+     May train skill [256]Combat sense to 90%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Civilized Fighters
+       * Must be maximum level in The Herd of Beastmasters
+       * Must be maximum level in The Legion of Knights
+                May train skill [257]Discipline to 30%
+                May train skill [258]Stunned maneuvers to 30%
+                May train skill [259]Shield bash to 70%
+                May train skill [260]Slash to 55%
+                May train skill [261]Impale to 55%
+                May train skill [262]Combat riding to 80%
+                May train skill [263]Bludgeons to 50%
+                May train skill [264]Stun to 60%
+                May train skill [265]Riposte to 40%
+     May train skill [266]Trample to 60%, special requirements:
+       * Has trained skill [267]Combat riding to at least 50%
+                May train skill [268]Alertness to 30%
+                May train skill [269]Decapitate to 30%
+                May train skill [270]Mangle to 30%
+                May train skill [271]Enhance criticals to 20%
+     May train skill [272]Mastery of mounted combat to 80%, special
+   requirements:
+       * Has trained skill [273]Combat riding to at least 80%
+     May train skill [274]Assault to 60%, special requirements:
+       * Has trained skill [275]Slash to at least 30%
+     May train skill [276]Battery to 60%, special requirements:
+       * Has trained skill [277]Pound to at least 30%
+     May train skill [278]Charge to 60%, special requirements:
+       * Has trained skill [279]Impale to at least 30%
+     May train skill [280]Flanking attack to 60%, special requirements:
+       * Has trained skill [281]Combat riding to at least 60%
+       * Has trained skill [282]Dodge to at least 60%
+                May train skill [283]Leadership to 5%
+
+                                  Level 12
+       Has trained skill [284]Combat riding to at least 70%
+       Has trained skill [285]Charge to at least 50%
+       Has trained skill [286]Flanking attack to at least 50%
+       Has trained skill [287]Mastery of mounted combat to at least 50%
+     May train skill [288]Parry to 95%, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Civilized Fighters
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Legion of Knights
+     May train skill [289]Combat sense to racial maximum, special
+   requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Civilized Fighters
+       * Must be maximum level in The Herd of Beastmasters
+       * Must be maximum level in The Legion of Knights
+       May train skill [290]Discipline to 40%
+       May train skill [291]Stunned maneuvers to 45%
+       May train skill [292]Shield bash to 75%
+       May train skill [293]Slash to 60%
+       May train skill [294]Impale to 60%
+       May train skill [295]Combat riding to 85%
+       May train skill [296]Bludgeons to 55%
+       May train skill [297]Stun to 70%
+       May train skill [298]Riposte to 45%
+     May train skill [299]Trample to 65%, special requirements:
+       * Has trained skill [300]Combat riding to at least 55%
+       May train skill [301]Alertness to 35%
+       May train skill [302]Decapitate to 35%
+       May train skill [303]Mangle to 35%
+       May train skill [304]Enhance criticals to 30%
+     May train skill [305]Mastery of mounted combat to 85%, special
+   requirements:
+       * Has trained skill [306]Combat riding to at least 80%
+     May train skill [307]Assault to 70%, special requirements:
+       * Has trained skill [308]Slash to at least 40%
+     May train skill [309]Battery to 70%, special requirements:
+       * Has trained skill [310]Pound to at least 40%
+     May train skill [311]Charge to 70%, special requirements:
+       * Has trained skill [312]Impale to at least 40%
+     May train skill [313]Flanking attack to 70%, special requirements:
+       * Has trained skill [314]Combat riding to at least 70%
+       * Has trained skill [315]Dodge to at least 70%
+       May train skill [316]Leadership to 10%
+
+                                            Level 13
+     May train skill [317]Parry to racial maximum, special requirements:
+       * Must pass 1 out of the following:
+       * Must be maximum level in The Civilized Fighters
+       * Must be maximum level in The Order of the Shadow Sabres
+       * Must be maximum level in The Legion of Knights
+                May train skill [318]Discipline to 50%
+                May train skill [319]Stunned maneuvers to 60%
+                May train skill [320]Shield bash to 80%
+                May train skill [321]Slash to 65%
+                May train skill [322]Impale to 65%
+                May train skill [323]Combat riding to 90%
+                May train skill [324]Bludgeons to 60%
+                May train skill [325]Stun to 80%
+                May train skill [326]Riposte to 50%
+     May train skill [327]Trample to 70%, special requirements:
+       * Has trained skill [328]Combat riding to at least 60%
+                May train skill [329]Alertness to 40%
+                May train skill [330]Decapitate to 40%
+                May train skill [331]Mangle to 40%
+                May train skill [332]Enhance criticals to 40%
+     May train skill [333]Mastery of mounted combat to 90%, special
+   requirements:
+       * Has trained skill [334]Combat riding to at least 80%
+     May train skill [335]Assault to 80%, special requirements:
+       * Has trained skill [336]Slash to at least 50%
+     May train skill [337]Battery to 80%, special requirements:
+       * Has trained skill [338]Pound to at least 50%
+     May train skill [339]Charge to 80%, special requirements:
+       * Has trained skill [340]Impale to at least 50%
+     May train skill [341]Flanking attack to 80%, special requirements:
+       * Has trained skill [342]Combat riding to at least 80%
+       * Has trained skill [343]Dodge to at least 80%
+                May train skill [344]Leadership to 20%
+
+                                           Level 14
+                May train skill [345]Discipline to 60%
+                May train skill [346]Stunned maneuvers to 75%
+                May train skill [347]Shield bash to 85%
+                May train skill [348]Slash to 70%
+                May train skill [349]Impale to 70%
+                May train skill [350]Combat riding to 95%
+                May train skill [351]Bludgeons to 65%
+     May train skill [352]Trample to 75%, special requirements:
+       * Has trained skill [353]Combat riding to at least 65%
+                May train skill [354]Alertness to 45%
+                May train skill [355]Decapitate to 45%
+                May train skill [356]Mangle to 45%
+                May train skill [357]Enhance criticals to 50%
+     May train skill [358]Mastery of mounted combat to 95%, special
+   requirements:
+       * Has trained skill [359]Combat riding to at least 80%
+     May train skill [360]Assault to 90%, special requirements:
+       * Has trained skill [361]Slash to at least 60%
+     May train skill [362]Battery to 90%, special requirements:
+       * Has trained skill [363]Pound to at least 60%
+     May train skill [364]Charge to 90%, special requirements:
+       * Has trained skill [365]Impale to at least 60%
+     May train skill [366]Flanking attack to 90%, special requirements:
+       * Has trained skill [367]Combat riding to at least 80%
+       * Has trained skill [368]Dodge to at least 80%
+                May train skill [369]Leadership to 30%
+
+                                   Level 15
+       Has trained skill [370]Charge to at least 70%
+       Has trained skill [371]Mastery of mounted combat to at least 70%
+       Has trained skill [372]Discipline to at least 50%
+       Has trained skill [373]Leadership to at least 30%
+       May train skill [374]Discipline to 70%
+       May train skill [375]Stunned maneuvers to 90%
+       May train skill [376]Shield bash to 90%
+       May train skill [377]Slash to 75%
+       May train skill [378]Impale to 75%
+       May train skill [379]Combat riding to racial maximum
+       May train skill [380]Bludgeons to 70%
+     May train skill [381]Trample to 80%, special requirements:
+       * Has trained skill [382]Combat riding to at least 70%
+       May train skill [383]Alertness to 50%
+       May train skill [384]Decapitate to 50%
+       May train skill [385]Mangle to 50%
+       May train skill [386]Enhance criticals to 60%
+     May train skill [387]Mastery of mounted combat to racial maximum,
+   special requirements:
+       * Has trained skill [388]Combat riding to at least 80%
+     May train skill [389]Assault to racial maximum, special
+   requirements:
+       * Has trained skill [390]Slash to at least 70%
+     May train skill [391]Battery to racial maximum, special
+   requirements:
+       * Has trained skill [392]Pound to at least 70%
+     May train skill [393]Charge to racial maximum, special requirements:
+       * Has trained skill [394]Impale to at least 70%
+     May train skill [395]Flanking attack to racial maximum, special
+   requirements:
+       * Has trained skill [396]Combat riding to at least 80%
+       * Has trained skill [397]Dodge to at least 80%
+       May train skill [398]Leadership to 50%
+
+                     Allows joining to the following guild:
+     The Division of Cavaliers, special requirements:
+       * Must be maximum level in Squire
+
+   [399]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [400]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Division%20of%20Cavaliers&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Division%20of%20Cavaliers&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Division%20of%20Cavaliers&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=shinarae
+  23. http://www.bat.org/help/finger.php?str=elwood
+  24. http://www.bat.org/help/skills.php?str=parry
+  25. http://www.bat.org/help/skills.php?str=dodge
+  26. http://www.bat.org/help/skills.php?str=combat_sense
+  27. http://www.bat.org/help/skills.php?str=long_blades
+  28. http://www.bat.org/help/skills.php?str=polearms
+  29. http://www.bat.org/help/skills.php?str=attack
+  30. http://www.bat.org/help/skills.php?str=shield_bash
+  31. http://www.bat.org/help/skills.php?str=slash
+  32. http://www.bat.org/help/skills.php?str=impale
+  33. http://www.bat.org/help/skills.php?str=throw_weight
+  34. http://www.bat.org/help/skills.php?str=riding
+  35. http://www.bat.org/help/skills.php?str=combat_riding
+  36. http://www.bat.org/help/skills.php?str=parry
+  37. http://www.bat.org/help/skills.php?str=dodge
+  38. http://www.bat.org/help/skills.php?str=combat_sense
+  39. http://www.bat.org/help/skills.php?str=long_blades
+  40. http://www.bat.org/help/skills.php?str=polearms
+  41. http://www.bat.org/help/skills.php?str=attack
+  42. http://www.bat.org/help/skills.php?str=shield_bash
+  43. http://www.bat.org/help/skills.php?str=slash
+  44. http://www.bat.org/help/skills.php?str=impale
+  45. http://www.bat.org/help/skills.php?str=throw_weight
+  46. http://www.bat.org/help/skills.php?str=riding
+  47. http://www.bat.org/help/skills.php?str=combat_riding
+  48. http://www.bat.org/help/skills.php?str=controlled_panic
+  49. http://www.bat.org/help/skills.php?str=bludgeons
+  50. http://www.bat.org/help/skills.php?str=riding
+  51. http://www.bat.org/help/skills.php?str=combat_riding
+  52. http://www.bat.org/help/skills.php?str=attack
+  53. http://www.bat.org/help/skills.php?str=parry
+  54. http://www.bat.org/help/skills.php?str=polearms
+  55. http://www.bat.org/help/skills.php?str=parry
+  56. http://www.bat.org/help/skills.php?str=dodge
+  57. http://www.bat.org/help/skills.php?str=combat_sense
+  58. http://www.bat.org/help/skills.php?str=long_blades
+  59. http://www.bat.org/help/skills.php?str=polearms
+  60. http://www.bat.org/help/skills.php?str=attack
+  61. http://www.bat.org/help/skills.php?str=shield_bash
+  62. http://www.bat.org/help/skills.php?str=slash
+  63. http://www.bat.org/help/skills.php?str=impale
+  64. http://www.bat.org/help/skills.php?str=throw_weight
+  65. http://www.bat.org/help/skills.php?str=riding
+  66. http://www.bat.org/help/skills.php?str=combat_riding
+  67. http://www.bat.org/help/skills.php?str=controlled_panic
+  68. http://www.bat.org/help/skills.php?str=bludgeons
+  69. http://www.bat.org/help/skills.php?str=stun
+  70. http://www.bat.org/help/skills.php?str=parry
+  71. http://www.bat.org/help/skills.php?str=dodge
+  72. http://www.bat.org/help/skills.php?str=combat_sense
+  73. http://www.bat.org/help/skills.php?str=long_blades
+  74. http://www.bat.org/help/skills.php?str=polearms
+  75. http://www.bat.org/help/skills.php?str=attack
+  76. http://www.bat.org/help/skills.php?str=shield_bash
+  77. http://www.bat.org/help/skills.php?str=slash
+  78. http://www.bat.org/help/skills.php?str=impale
+  79. http://www.bat.org/help/skills.php?str=throw_weight
+  80. http://www.bat.org/help/skills.php?str=riding
+  81. http://www.bat.org/help/skills.php?str=combat_riding
+  82. http://www.bat.org/help/skills.php?str=controlled_panic
+  83. http://www.bat.org/help/skills.php?str=bludgeons
+  84. http://www.bat.org/help/skills.php?str=stun
+  85. http://www.bat.org/help/skills.php?str=riposte
+  86. http://www.bat.org/help/skills.php?str=parry
+  87. http://www.bat.org/help/skills.php?str=dodge
+  88. http://www.bat.org/help/skills.php?str=combat_sense
+  89. http://www.bat.org/help/skills.php?str=long_blades
+  90. http://www.bat.org/help/skills.php?str=polearms
+  91. http://www.bat.org/help/skills.php?str=attack
+  92. http://www.bat.org/help/skills.php?str=shield_bash
+  93. http://www.bat.org/help/skills.php?str=slash
+  94. http://www.bat.org/help/skills.php?str=impale
+  95. http://www.bat.org/help/skills.php?str=throw_weight
+  96. http://www.bat.org/help/skills.php?str=riding
+  97. http://www.bat.org/help/skills.php?str=combat_riding
+  98. http://www.bat.org/help/skills.php?str=controlled_panic
+  99. http://www.bat.org/help/skills.php?str=bludgeons
+ 100. http://www.bat.org/help/skills.php?str=stun
+ 101. http://www.bat.org/help/skills.php?str=riposte
+ 102. http://www.bat.org/help/skills.php?str=trample
+ 103. http://www.bat.org/help/skills.php?str=combat_riding
+ 104. http://www.bat.org/help/skills.php?str=combat_sense
+ 105. http://www.bat.org/help/skills.php?str=parry
+ 106. http://www.bat.org/help/skills.php?str=throw_weight
+ 107. http://www.bat.org/help/skills.php?str=parry
+ 108. http://www.bat.org/help/skills.php?str=dodge
+ 109. http://www.bat.org/help/skills.php?str=combat_sense
+ 110. http://www.bat.org/help/skills.php?str=long_blades
+ 111. http://www.bat.org/help/skills.php?str=polearms
+ 112. http://www.bat.org/help/skills.php?str=attack
+ 113. http://www.bat.org/help/skills.php?str=shield_bash
+ 114. http://www.bat.org/help/skills.php?str=slash
+ 115. http://www.bat.org/help/skills.php?str=impale
+ 116. http://www.bat.org/help/skills.php?str=throw_weight
+ 117. http://www.bat.org/help/skills.php?str=riding
+ 118. http://www.bat.org/help/skills.php?str=combat_riding
+ 119. http://www.bat.org/help/skills.php?str=controlled_panic
+ 120. http://www.bat.org/help/skills.php?str=bludgeons
+ 121. http://www.bat.org/help/skills.php?str=stun
+ 122. http://www.bat.org/help/skills.php?str=riposte
+ 123. http://www.bat.org/help/skills.php?str=trample
+ 124. http://www.bat.org/help/skills.php?str=combat_riding
+ 125. http://www.bat.org/help/skills.php?str=alertness
+ 126. http://www.bat.org/help/skills.php?str=decapitate
+ 127. http://www.bat.org/help/skills.php?str=mangle
+ 128. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 129. http://www.bat.org/help/skills.php?str=combat_riding
+ 130. http://www.bat.org/help/skills.php?str=assault
+ 131. http://www.bat.org/help/skills.php?str=battery
+ 132. http://www.bat.org/help/skills.php?str=charge
+ 133. http://www.bat.org/help/skills.php?str=flanking_attack
+ 134. http://www.bat.org/help/skills.php?str=combat_riding
+ 135. http://www.bat.org/help/skills.php?str=dodge
+ 136. http://www.bat.org/help/skills.php?str=parry
+ 137. http://www.bat.org/help/skills.php?str=dodge
+ 138. http://www.bat.org/help/skills.php?str=combat_sense
+ 139. http://www.bat.org/help/skills.php?str=long_blades
+ 140. http://www.bat.org/help/skills.php?str=polearms
+ 141. http://www.bat.org/help/skills.php?str=shield_bash
+ 142. http://www.bat.org/help/skills.php?str=slash
+ 143. http://www.bat.org/help/skills.php?str=impale
+ 144. http://www.bat.org/help/skills.php?str=throw_weight
+ 145. http://www.bat.org/help/skills.php?str=riding
+ 146. http://www.bat.org/help/skills.php?str=combat_riding
+ 147. http://www.bat.org/help/skills.php?str=controlled_panic
+ 148. http://www.bat.org/help/skills.php?str=bludgeons
+ 149. http://www.bat.org/help/skills.php?str=stun
+ 150. http://www.bat.org/help/skills.php?str=riposte
+ 151. http://www.bat.org/help/skills.php?str=trample
+ 152. http://www.bat.org/help/skills.php?str=combat_riding
+ 153. http://www.bat.org/help/skills.php?str=alertness
+ 154. http://www.bat.org/help/skills.php?str=decapitate
+ 155. http://www.bat.org/help/skills.php?str=mangle
+ 156. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 157. http://www.bat.org/help/skills.php?str=combat_riding
+ 158. http://www.bat.org/help/skills.php?str=assault
+ 159. http://www.bat.org/help/skills.php?str=battery
+ 160. http://www.bat.org/help/skills.php?str=charge
+ 161. http://www.bat.org/help/skills.php?str=flanking_attack
+ 162. http://www.bat.org/help/skills.php?str=combat_riding
+ 163. http://www.bat.org/help/skills.php?str=dodge
+ 164. http://www.bat.org/help/skills.php?str=parry
+ 165. http://www.bat.org/help/skills.php?str=dodge
+ 166. http://www.bat.org/help/skills.php?str=combat_sense
+ 167. http://www.bat.org/help/skills.php?str=long_blades
+ 168. http://www.bat.org/help/skills.php?str=polearms
+ 169. http://www.bat.org/help/skills.php?str=shield_bash
+ 170. http://www.bat.org/help/skills.php?str=slash
+ 171. http://www.bat.org/help/skills.php?str=impale
+ 172. http://www.bat.org/help/skills.php?str=throw_weight
+ 173. http://www.bat.org/help/skills.php?str=combat_riding
+ 174. http://www.bat.org/help/skills.php?str=controlled_panic
+ 175. http://www.bat.org/help/skills.php?str=bludgeons
+ 176. http://www.bat.org/help/skills.php?str=stun
+ 177. http://www.bat.org/help/skills.php?str=riposte
+ 178. http://www.bat.org/help/skills.php?str=trample
+ 179. http://www.bat.org/help/skills.php?str=combat_riding
+ 180. http://www.bat.org/help/skills.php?str=alertness
+ 181. http://www.bat.org/help/skills.php?str=decapitate
+ 182. http://www.bat.org/help/skills.php?str=mangle
+ 183. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 184. http://www.bat.org/help/skills.php?str=combat_riding
+ 185. http://www.bat.org/help/skills.php?str=assault
+ 186. http://www.bat.org/help/skills.php?str=battery
+ 187. http://www.bat.org/help/skills.php?str=charge
+ 188. http://www.bat.org/help/skills.php?str=flanking_attack
+ 189. http://www.bat.org/help/skills.php?str=combat_riding
+ 190. http://www.bat.org/help/skills.php?str=dodge
+ 191. http://www.bat.org/help/skills.php?str=combat_riding
+ 192. http://www.bat.org/help/skills.php?str=charge
+ 193. http://www.bat.org/help/skills.php?str=trample
+ 194. http://www.bat.org/help/skills.php?str=polearms
+ 195. http://www.bat.org/help/skills.php?str=parry
+ 196. http://www.bat.org/help/skills.php?str=dodge
+ 197. http://www.bat.org/help/skills.php?str=combat_sense
+ 198. http://www.bat.org/help/skills.php?str=discipline
+ 199. http://www.bat.org/help/skills.php?str=shield_bash
+ 200. http://www.bat.org/help/skills.php?str=slash
+ 201. http://www.bat.org/help/skills.php?str=impale
+ 202. http://www.bat.org/help/skills.php?str=throw_weight
+ 203. http://www.bat.org/help/skills.php?str=combat_riding
+ 204. http://www.bat.org/help/skills.php?str=controlled_panic
+ 205. http://www.bat.org/help/skills.php?str=bludgeons
+ 206. http://www.bat.org/help/skills.php?str=stun
+ 207. http://www.bat.org/help/skills.php?str=riposte
+ 208. http://www.bat.org/help/skills.php?str=trample
+ 209. http://www.bat.org/help/skills.php?str=combat_riding
+ 210. http://www.bat.org/help/skills.php?str=alertness
+ 211. http://www.bat.org/help/skills.php?str=decapitate
+ 212. http://www.bat.org/help/skills.php?str=mangle
+ 213. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 214. http://www.bat.org/help/skills.php?str=combat_riding
+ 215. http://www.bat.org/help/skills.php?str=assault
+ 216. http://www.bat.org/help/skills.php?str=slash
+ 217. http://www.bat.org/help/skills.php?str=battery
+ 218. http://www.bat.org/help/skills.php?str=pound
+ 219. http://www.bat.org/help/skills.php?str=charge
+ 220. http://www.bat.org/help/skills.php?str=impale
+ 221. http://www.bat.org/help/skills.php?str=flanking_attack
+ 222. http://www.bat.org/help/skills.php?str=combat_riding
+ 223. http://www.bat.org/help/skills.php?str=dodge
+ 224. http://www.bat.org/help/skills.php?str=parry
+ 225. http://www.bat.org/help/skills.php?str=dodge
+ 226. http://www.bat.org/help/skills.php?str=combat_sense
+ 227. http://www.bat.org/help/skills.php?str=discipline
+ 228. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 229. http://www.bat.org/help/skills.php?str=shield_bash
+ 230. http://www.bat.org/help/skills.php?str=slash
+ 231. http://www.bat.org/help/skills.php?str=impale
+ 232. http://www.bat.org/help/skills.php?str=throw_weight
+ 233. http://www.bat.org/help/skills.php?str=combat_riding
+ 234. http://www.bat.org/help/skills.php?str=controlled_panic
+ 235. http://www.bat.org/help/skills.php?str=bludgeons
+ 236. http://www.bat.org/help/skills.php?str=stun
+ 237. http://www.bat.org/help/skills.php?str=riposte
+ 238. http://www.bat.org/help/skills.php?str=trample
+ 239. http://www.bat.org/help/skills.php?str=combat_riding
+ 240. http://www.bat.org/help/skills.php?str=alertness
+ 241. http://www.bat.org/help/skills.php?str=decapitate
+ 242. http://www.bat.org/help/skills.php?str=mangle
+ 243. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 244. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 245. http://www.bat.org/help/skills.php?str=combat_riding
+ 246. http://www.bat.org/help/skills.php?str=assault
+ 247. http://www.bat.org/help/skills.php?str=slash
+ 248. http://www.bat.org/help/skills.php?str=battery
+ 249. http://www.bat.org/help/skills.php?str=pound
+ 250. http://www.bat.org/help/skills.php?str=charge
+ 251. http://www.bat.org/help/skills.php?str=impale
+ 252. http://www.bat.org/help/skills.php?str=flanking_attack
+ 253. http://www.bat.org/help/skills.php?str=combat_riding
+ 254. http://www.bat.org/help/skills.php?str=dodge
+ 255. http://www.bat.org/help/skills.php?str=parry
+ 256. http://www.bat.org/help/skills.php?str=combat_sense
+ 257. http://www.bat.org/help/skills.php?str=discipline
+ 258. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 259. http://www.bat.org/help/skills.php?str=shield_bash
+ 260. http://www.bat.org/help/skills.php?str=slash
+ 261. http://www.bat.org/help/skills.php?str=impale
+ 262. http://www.bat.org/help/skills.php?str=combat_riding
+ 263. http://www.bat.org/help/skills.php?str=bludgeons
+ 264. http://www.bat.org/help/skills.php?str=stun
+ 265. http://www.bat.org/help/skills.php?str=riposte
+ 266. http://www.bat.org/help/skills.php?str=trample
+ 267. http://www.bat.org/help/skills.php?str=combat_riding
+ 268. http://www.bat.org/help/skills.php?str=alertness
+ 269. http://www.bat.org/help/skills.php?str=decapitate
+ 270. http://www.bat.org/help/skills.php?str=mangle
+ 271. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 272. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 273. http://www.bat.org/help/skills.php?str=combat_riding
+ 274. http://www.bat.org/help/skills.php?str=assault
+ 275. http://www.bat.org/help/skills.php?str=slash
+ 276. http://www.bat.org/help/skills.php?str=battery
+ 277. http://www.bat.org/help/skills.php?str=pound
+ 278. http://www.bat.org/help/skills.php?str=charge
+ 279. http://www.bat.org/help/skills.php?str=impale
+ 280. http://www.bat.org/help/skills.php?str=flanking_attack
+ 281. http://www.bat.org/help/skills.php?str=combat_riding
+ 282. http://www.bat.org/help/skills.php?str=dodge
+ 283. http://www.bat.org/help/skills.php?str=leadership
+ 284. http://www.bat.org/help/skills.php?str=combat_riding
+ 285. http://www.bat.org/help/skills.php?str=charge
+ 286. http://www.bat.org/help/skills.php?str=flanking_attack
+ 287. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 288. http://www.bat.org/help/skills.php?str=parry
+ 289. http://www.bat.org/help/skills.php?str=combat_sense
+ 290. http://www.bat.org/help/skills.php?str=discipline
+ 291. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 292. http://www.bat.org/help/skills.php?str=shield_bash
+ 293. http://www.bat.org/help/skills.php?str=slash
+ 294. http://www.bat.org/help/skills.php?str=impale
+ 295. http://www.bat.org/help/skills.php?str=combat_riding
+ 296. http://www.bat.org/help/skills.php?str=bludgeons
+ 297. http://www.bat.org/help/skills.php?str=stun
+ 298. http://www.bat.org/help/skills.php?str=riposte
+ 299. http://www.bat.org/help/skills.php?str=trample
+ 300. http://www.bat.org/help/skills.php?str=combat_riding
+ 301. http://www.bat.org/help/skills.php?str=alertness
+ 302. http://www.bat.org/help/skills.php?str=decapitate
+ 303. http://www.bat.org/help/skills.php?str=mangle
+ 304. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 305. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 306. http://www.bat.org/help/skills.php?str=combat_riding
+ 307. http://www.bat.org/help/skills.php?str=assault
+ 308. http://www.bat.org/help/skills.php?str=slash
+ 309. http://www.bat.org/help/skills.php?str=battery
+ 310. http://www.bat.org/help/skills.php?str=pound
+ 311. http://www.bat.org/help/skills.php?str=charge
+ 312. http://www.bat.org/help/skills.php?str=impale
+ 313. http://www.bat.org/help/skills.php?str=flanking_attack
+ 314. http://www.bat.org/help/skills.php?str=combat_riding
+ 315. http://www.bat.org/help/skills.php?str=dodge
+ 316. http://www.bat.org/help/skills.php?str=leadership
+ 317. http://www.bat.org/help/skills.php?str=parry
+ 318. http://www.bat.org/help/skills.php?str=discipline
+ 319. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 320. http://www.bat.org/help/skills.php?str=shield_bash
+ 321. http://www.bat.org/help/skills.php?str=slash
+ 322. http://www.bat.org/help/skills.php?str=impale
+ 323. http://www.bat.org/help/skills.php?str=combat_riding
+ 324. http://www.bat.org/help/skills.php?str=bludgeons
+ 325. http://www.bat.org/help/skills.php?str=stun
+ 326. http://www.bat.org/help/skills.php?str=riposte
+ 327. http://www.bat.org/help/skills.php?str=trample
+ 328. http://www.bat.org/help/skills.php?str=combat_riding
+ 329. http://www.bat.org/help/skills.php?str=alertness
+ 330. http://www.bat.org/help/skills.php?str=decapitate
+ 331. http://www.bat.org/help/skills.php?str=mangle
+ 332. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 333. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 334. http://www.bat.org/help/skills.php?str=combat_riding
+ 335. http://www.bat.org/help/skills.php?str=assault
+ 336. http://www.bat.org/help/skills.php?str=slash
+ 337. http://www.bat.org/help/skills.php?str=battery
+ 338. http://www.bat.org/help/skills.php?str=pound
+ 339. http://www.bat.org/help/skills.php?str=charge
+ 340. http://www.bat.org/help/skills.php?str=impale
+ 341. http://www.bat.org/help/skills.php?str=flanking_attack
+ 342. http://www.bat.org/help/skills.php?str=combat_riding
+ 343. http://www.bat.org/help/skills.php?str=dodge
+ 344. http://www.bat.org/help/skills.php?str=leadership
+ 345. http://www.bat.org/help/skills.php?str=discipline
+ 346. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 347. http://www.bat.org/help/skills.php?str=shield_bash
+ 348. http://www.bat.org/help/skills.php?str=slash
+ 349. http://www.bat.org/help/skills.php?str=impale
+ 350. http://www.bat.org/help/skills.php?str=combat_riding
+ 351. http://www.bat.org/help/skills.php?str=bludgeons
+ 352. http://www.bat.org/help/skills.php?str=trample
+ 353. http://www.bat.org/help/skills.php?str=combat_riding
+ 354. http://www.bat.org/help/skills.php?str=alertness
+ 355. http://www.bat.org/help/skills.php?str=decapitate
+ 356. http://www.bat.org/help/skills.php?str=mangle
+ 357. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 358. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 359. http://www.bat.org/help/skills.php?str=combat_riding
+ 360. http://www.bat.org/help/skills.php?str=assault
+ 361. http://www.bat.org/help/skills.php?str=slash
+ 362. http://www.bat.org/help/skills.php?str=battery
+ 363. http://www.bat.org/help/skills.php?str=pound
+ 364. http://www.bat.org/help/skills.php?str=charge
+ 365. http://www.bat.org/help/skills.php?str=impale
+ 366. http://www.bat.org/help/skills.php?str=flanking_attack
+ 367. http://www.bat.org/help/skills.php?str=combat_riding
+ 368. http://www.bat.org/help/skills.php?str=dodge
+ 369. http://www.bat.org/help/skills.php?str=leadership
+ 370. http://www.bat.org/help/skills.php?str=charge
+ 371. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 372. http://www.bat.org/help/skills.php?str=discipline
+ 373. http://www.bat.org/help/skills.php?str=leadership
+ 374. http://www.bat.org/help/skills.php?str=discipline
+ 375. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 376. http://www.bat.org/help/skills.php?str=shield_bash
+ 377. http://www.bat.org/help/skills.php?str=slash
+ 378. http://www.bat.org/help/skills.php?str=impale
+ 379. http://www.bat.org/help/skills.php?str=combat_riding
+ 380. http://www.bat.org/help/skills.php?str=bludgeons
+ 381. http://www.bat.org/help/skills.php?str=trample
+ 382. http://www.bat.org/help/skills.php?str=combat_riding
+ 383. http://www.bat.org/help/skills.php?str=alertness
+ 384. http://www.bat.org/help/skills.php?str=decapitate
+ 385. http://www.bat.org/help/skills.php?str=mangle
+ 386. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 387. http://www.bat.org/help/skills.php?str=mastery_of_mounted_combat
+ 388. http://www.bat.org/help/skills.php?str=combat_riding
+ 389. http://www.bat.org/help/skills.php?str=assault
+ 390. http://www.bat.org/help/skills.php?str=slash
+ 391. http://www.bat.org/help/skills.php?str=battery
+ 392. http://www.bat.org/help/skills.php?str=pound
+ 393. http://www.bat.org/help/skills.php?str=charge
+ 394. http://www.bat.org/help/skills.php?str=impale
+ 395. http://www.bat.org/help/skills.php?str=flanking_attack
+ 396. http://www.bat.org/help/skills.php?str=combat_riding
+ 397. http://www.bat.org/help/skills.php?str=dodge
+ 398. http://www.bat.org/help/skills.php?str=leadership
+ 399. http://www.bat.org/help/guilds.php
+ 400. mailto:webmaster@bat.org
+
+   Hidden links:
+ 401. http://www.bat.org/bat.php

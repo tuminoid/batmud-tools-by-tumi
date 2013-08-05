@@ -1,0 +1,501 @@
+SATYR
+@Captnapalm ,-------------------------.
+@Captnapalm | Stat | Cur | Rac | Cost |
+@Captnapalm |=========================|
+@Captnapalm |  Con |  53 |  75 |    9 |
+@Captnapalm |  Str |  41 |  57 |   12 |
+@Captnapalm |  Int |  77 |  79 |   16 |
+@Captnapalm |  Wis |  63 |  82 |   10 |
+@Captnapalm |  Dex | 110 |  87 |  139 |
+@Captnapalm `-------------------------´
+
+
+MOOMIN
+@Doughnut ,-------------------------.
+@Doughnut | Stat | Cur | Rac | Cost |
+@Doughnut |=========================|
+@Doughnut |  Con |  46 |  65 |   10 |
+@Doughnut |  Str |  43 |  60 |   11 |
+@Doughnut |  Int |  62 |  87 |    9 |
+@Doughnut |  Wis | 112 |  87 |  160 |
+@Doughnut |  Dex |  55 |  77 |   10 |
+@Doughnut `-------------------------´
+
+
+DUERGAR
+@Xunisiih ,-------------------------.
+@Xunisiih | Stat | Cur | Rac | Cost |
+@Xunisiih |=========================|
+@Xunisiih |  Con |  83 |  92 |   10 |
+@Xunisiih |  Str |  69 |  87 |   10 |
+@Xunisiih |  Int |  38 |  53 |   12 |
+@Xunisiih |  Wis |  46 |  64 |   11 |
+@Xunisiih |  Dex |  54 |  72 |   11 |
+@Xunisiih `-------------------------´
+
+
+LEECH
+@Asali ,-------------------------.
+@Asali | Stat | Cur | Rac | Cost |
+@Asali |=========================|
+@Asali |  Con |  34 |  47 |   13 |
+@Asali |  Str |  35 |  48 |   13 |
+@Asali |  Int |  89 |  82 |   25 |
+@Asali |  Wis |  53 |  62 |   13 |
+@Asali |  Dex |  77 | 107 |    8 |
+@Asali `-------------------------´
+
+
+DRACONIAN
+Hifk tells you ',-------------------------.'
+Hifk tells you '| Stat | Cur | Rac | Cost |'
+Hifk tells you '|=========================|'
+Hifk tells you '|  Con |  71 | 100 |    8 |'
+Hifk tells you '|  Str |  67 |  94 |    8 |'
+Hifk tells you '|  Int |  31 |  42 |   14 |'
+Hifk tells you '|  Wis |  31 |  42 |   14 |'
+Hifk tells you '|  Dex |  41 |  57 |   12 |'
+Hifk tells you '`-------------------------´'
+
+
+VALAR
+Dargon tells you ',-------------------------.'
+Dargon tells you '| Stat | Cur | Rac | Cost |'
+Dargon tells you '|=========================|'
+Dargon tells you '|  Con |  75 |  74 |   19 |'
+Dargon tells you '|  Str |  77 |  92 |   10 |'
+Dargon tells you '|  Int |  52 |  72 |   10 |'
+Dargon tells you '|  Wis |  66 |  92 |    9 |'
+Dargon tells you '|  Dex |  76 |  82 |   12 |'
+Dargon tells you '`-------------------------´'
+
+
+SHADOW
+Willi tells you ',-------------------------.'
+Willi tells you '| Stat | Cur | Rac | Cost |'
+Willi tells you '|=========================|'
+Willi tells you '|  Con |  60 |  68 |   13 |'
+Willi tells you '|  Str |  36 |  50 |   13 |'
+Willi tells you '|  Int |  84 |  82 |   19 |'
+Willi tells you '|  Wis |  89 |  82 |   25 |'
+Willi tells you '|  Dex |  49 |  68 |   11 |'
+Willi tells you '`-------------------------´'
+
+
+GNOME
+Mendozino tells you ',-------------------------.'
+Mendozino tells you '| Stat | Cur | Rac | Cost |'
+Mendozino tells you '|=========================|'
+Mendozino tells you '|  Con |  39 |  54 |   12 |'
+Mendozino tells you '|  Str |  38 |  52 |   13 |'
+Mendozino tells you '|  Int |  60 |  66 |   13 |'
+Mendozino tells you '|  Wis |  88 |  82 |   23 |'
+Mendozino tells you '|  Dex |  52 |  72 |   10 |'
+Mendozino tells you '`-------------------------´'
+
+
+LEPRECHAUN
+Koreababa tells you ',-------------------------.'
+Koreababa tells you '| Stat | Cur | Rac | Cost |'
+Koreababa tells you '|=========================|'
+Koreababa tells you '|  Con |  33 |  44 |   14 |'
+Koreababa tells you '|  Str |  31 |  42 |   14 |'
+Koreababa tells you '|  Int | 103 |  98 |   19 |'
+Koreababa tells you '|  Wis |  60 |  84 |    9 |'
+Koreababa tells you '|  Dex |  70 |  98 |    8 |'
+Koreababa tells you '`-------------------------´'
+
+
+VAMPIRE
+@Descad ,-------------------------.
+@Descad | Stat | Cur | Rac | Cost |
+@Descad |=========================|
+@Descad |  Con |  46 |  65 |   10 |
+@Descad |  Str |  47 |  57 |   13 |
+@Descad |  Int | 108 |  88 |   86 |
+@Descad |  Wis | 103 |  87 |   56 |
+@Descad |  Dex |  55 |  77 |   10 |
+@Descad `-------------------------´
+
+
+
+HOBBIT
+@Thiamin ,-------------------------.
+@Thiamin | Stat | Cur | Rac | Cost |
+@Thiamin |=========================|
+@Thiamin |  Con |  85 |  79 |   24 |
+@Thiamin |  Str |  62 |  57 |   28 |
+@Thiamin |  Int |  57 |  80 |    9 |
+@Thiamin |  Wis |  66 |  67 |   18 |
+@Thiamin |  Dex | 108 | 102 |   22 |
+@Thiamin `-------------------------´
+
+
+
+TITAN
+Willi tells you ',-------------------------.'
+Willi tells you '| Stat | Cur | Rac | Cost |'
+Willi tells you '|=========================|'
+Willi tells you '|  Con | 102 | 102 |   14 |'
+Willi tells you '|  Str | 103 | 102 |   16 |'
+Willi tells you '|  Int |  31 |  42 |   14 |'
+Willi tells you '|  Wis |  48 |  45 |   27 |'
+Willi tells you '|  Dex |  62 |  62 |   20 |'
+Willi tells you '`-------------------------´'
+
+
+LICH
+Aelynn tells you '| Stat | Cur | Rac | Cost |'
+Aelynn tells you '|=========================|'
+Aelynn tells you '|  Con |  71 |  65 |   27 |'
+Aelynn tells you '|  Str |  66 |  65 |   20 |'
+Aelynn tells you '|  Int |  66 |  65 |   20 |'
+Aelynn tells you '|  Wis |  66 |  65 |   20 |'
+Aelynn tells you '|  Dex |  66 |  65 |   20 |'
+Aelynn tells you '`-------------------------´'
+
+
+CENTAUR
+@Aesedai ,-------------------------.
+@Aesedai | Stat | Cur | Rac | Cost |
+@Aesedai |=========================|
+@Aesedai |  Con |  77 | 102 |    8 |
+@Aesedai |  Str |  92 |  92 |   16 |
+@Aesedai |  Int |  34 |  47 |   13 |
+@Aesedai |  Wis |  52 |  72 |   10 |
+@Aesedai |  Dex |  39 |  55 |   12 |
+@Aesedai `-------------------------´
+
+
+KOBOLD
+Yorkaturr tells you ',-------------------------.'
+Yorkaturr tells you '| Stat | Cur | Rac | Cost |'
+Yorkaturr tells you '|=========================|'
+Yorkaturr tells you '|  Con |  42 |  56 |   12 |'
+Yorkaturr tells you '|  Str |  41 |  57 |   12 |'
+Yorkaturr tells you '|  Int |  84 |  70 |   49 |'
+Yorkaturr tells you '|  Wis |  41 |  57 |   12 |'
+Yorkaturr tells you '|  Dex |  46 |  64 |   11 |'
+Yorkaturr tells you '`-------------------------´'
+
+
+DEMON
+@Rulla ,-------------------------.
+@Rulla | Stat | Cur | Rac | Cost |
+@Rulla |=========================|
+@Rulla |  Con |  81 |  74 |   27 |
+@Rulla |  Str |  87 |  87 |   17 |
+@Rulla |  Int |  50 |  70 |   10 |
+@Rulla |  Wis |  43 |  60 |   11 |
+@Rulla |  Dex |  47 |  66 |   10 |
+@Rulla `-------------------------´
+
+
+
+BARSOOMIAN
+Stat | Cur | Rac | Cost |
+|=========================|
+|  Con |  79 |  77 |   19 |
+|  Str |  54 |  63 |   13 |
+|  Int |  38 |  52 |   13 |
+|  Wis |  31 |  42 |   14 |
+|  Dex |  84 | 101 |    9 |
+`-------------------------´
+
+
+PENGUIN
+,-------------------------.
+| Stat | Cur | Rac | Cost |
+|=========================|
+|  Con |  49 |  68 |   11 |
+|  Str |  35 |  47 |   13 |
+|  Int |  81 |  77 |   22 |
+|  Wis | 108 |  87 |   97 |
+|  Dex |  20 |  27 |   17 |
+`-------------------------´
+Size o 40.
+
+
+OGRE
+Cyberlahko: ',-------------------------.'
+Cyberlahko: '| Stat | Cur | Rac | Cost |'
+Cyberlahko: '|=========================|'
+Cyberlahko: '|  Con | 121 | 104 |   57 |'
+Cyberlahko: '|  Str | 101 |  97 |   18 |'
+Cyberlahko: '|  Int |  34 |  47 |   13 |'
+Cyberlahko: '|  Wis |  34 |  47 |   13 |'
+Cyberlahko: '|  Dex |  68 |  54 |   57 |'
+Cyberlahko: '`-------------------------´'
+
+
+CROMAGNON (ei trainattu, lvl30 cromagnon)
+@Enochian ,-------------------------.
+@Enochian | Stat | Cur | Rac | Cost |
+@Enochian |=========================|
+@Enochian |  Con |  63 |  89 |    8 |
+@Enochian |  Str |  56 |  79 |    9 |
+@Enochian |  Int |  31 |  42 |   14 |
+@Enochian |  Wis |  31 |  42 |   14 |
+@Enochian |  Dex |  48 |  67 |   11 |
+@Enochian `-------------------------´
+
+
+DROW
+Endure: ',-------------------------.'
+Endure: '| Stat | Cur | Rac | Cost |'
+Endure: '|=========================|'
+Endure: '|  Con |  45 |  62 |   11 |'
+Endure: '|  Str |  45 |  62 |   11 |'
+Endure: '|  Int |  55 |  77 |   10 |'
+Endure: '|  Wis |  73 | 102 |    8 |'
+Endure: '|  Dex |  62 |  87 |    9 |'
+Endure: '`-------------------------´'
+
+
+CATFOLK
+@Zhagaal ,-------------------------.
+@Zhagaal | Stat | Cur | Rac | Cost |
+@Zhagaal |=========================|
+@Zhagaal |  Con |  65 |  68 |   17 |
+@Zhagaal |  Str |  77 |  77 |   18 |
+@Zhagaal |  Int |  46 |  62 |   12 |
+@Zhagaal |  Wis |  56 |  65 |   12 |
+@Zhagaal |  Dex |  98 |  96 |   17 |
+@Zhagaal `-------------------------´
+
+TINMEN
+@Zithromax ,-------------------------.
+@Zithromax | Stat | Cur | Rac | Cost |
+@Zithromax |=========================|
+@Zithromax |  Con |  99 |  81 |   70 |
+@Zithromax |  Str |  77 |  76 |   18 |
+@Zithromax |  Int |  59 |  82 |    9 |
+@Zithromax |  Wis |  25 |  34 |   15 |
+@Zithromax |  Dex |  66 |  54 |   48 |
+@Zithromax `-------------------------´
+
+WOLFMAN
+@Cazul ,-------------------------.
+@Cazul | Stat | Cur | Rac | Cost |
+@Cazul |=========================|
+@Cazul |  Con |  99 |  89 |   32 |
+@Cazul |  Str |  85 |  76 |   32 |
+@Cazul |  Int |  43 |  60 |   11 |
+@Cazul |  Wis |  53 |  60 |   14 |
+@Cazul |  Dex |  80 |  72 |   31 |
+@Cazul `-------------------------´
+
+DUCK
+@Logicus ,-------------------------.
+@Logicus | Stat | Cur | Rac | Cost |
+@Logicus |=========================|
+@Logicus |  Con |  41 |  57 |   12 |
+@Logicus |  Str |  36 |  50 |   13 |
+@Logicus |  Int |  85 |  98 |   10 |
+@Logicus |  Wis |  87 |  84 |   18 |
+@Logicus |  Dex |  53 |  75 |    9 |
+@Logicus `-------------------------´
+
+
+SPRITE
+Bauglir: ',-------------------------.'
+Bauglir: '| Stat | Cur | Rac | Cost |'
+Bauglir: '|=========================|'
+Bauglir: '|  Con |  32 |  42 |   15 |'
+Bauglir: '|  Str |  34 |  40 |   17 |'
+Bauglir: '|  Int |  85 |  77 |   30 |'
+Bauglir: '|  Wis |  77 |  72 |   24 |'
+Bauglir: '|  Dex | 123 | 112 |   32 |'
+Bauglir: '`-------------------------´'
+
+ELF
+,-------------------------.
+| Stat | Cur | Rac | Cost |
+|=========================|
+|  Con |  46 |  63 |   11 |
+|  Str |  43 |  60 |   11 |
+|  Int | 108 |  86 |  110 |
+|  Wis | 104 |  92 |   36 |
+|  Dex |  55 |  77 |   10 |
+`-------------------------´
+
+ENT
+@Croesus ,-------------------------.
+@Croesus | Stat | Cur | Rac | Cost |
+@Croesus |=========================|
+@Croesus |  Con |  69 |  65 |   24 |
+@Croesus |  Str |  68 |  92 |    9 |
+@Croesus |  Int |  57 |  57 |   21 |
+@Croesus |  Wis | 130 | 112 |   62 |
+@Croesus |  Dex |  13 |  17 |   19 |
+@Croesus `-------------------------´
+
+HUMAN
+@Xodan ,-------------------------.
+@Xodan | Stat | Cur | Rac | Cost |
+@Xodan |=========================|
+@Xodan |  Con |  50 |  71 |   10 |
+@Xodan |  Str |  83 |  71 |   43 |
+@Xodan |  Int |  50 |  71 |   10 |
+@Xodan |  Wis |  70 |  71 |   17 |
+@Xodan |  Dex |  83 |  71 |   43 |
+@Xodan `-------------------------´
+
+TROLL
+@Lerz ,-------------------------.
+@Lerz | Stat | Cur | Rac | Cost |
+@Lerz |=========================|
+@Lerz |  Con | 100 | 101 |   13 |
+@Lerz |  Str |  80 |  97 |    9 |
+@Lerz |  Int |  31 |  42 |   14 |
+@Lerz |  Wis |  34 |  47 |   13 |
+@Lerz |  Dex |  52 |  57 |   14 |
+@Lerz `-------------------------´
+
+GIANT
+Misterr: ',-------------------------.'
+Misterr: '| Stat | Cur | Rac | Cost |'
+Misterr: '|=========================|'
+Misterr: '|  Con |  74 | 105 |    7 |'
+Misterr: '|  Str |  80 | 112 |    7 |'
+Misterr: '|  Int |  20 |  27 |   17 |'
+Misterr: '|  Wis |  20 |  27 |   17 |'
+Misterr: '|  Dex |  39 |  55 |   12 |'
+Misterr: '`-------------------------´'
+
+MINOTAUR
+Ulath: ',-------------------------.'
+Ulath: '| Stat | Cur | Rac | Cost |'
+Ulath: '|=========================|'
+Ulath: '|  Con | 100 | 101 |   13 |'
+Ulath: '|  Str |  71 |  92 |    9 |'
+Ulath: '|  Int |  31 |  42 |   14 |'
+Ulath: '|  Wis |  31 |  42 |   14 |'
+Ulath: '|  Dex |  64 |  67 |   17 |'
+Ulath: '`-------------------------´'
+
+SKELETON
+Dkir: ',-------------------------.'
+Dkir: '| Stat | Cur | Rac | Cost |'
+Dkir: '|=========================|'
+Dkir: '|  Con |  75 |  77 |   15 |'
+Dkir: '|  Str |  69 |  77 |   12 |'
+Dkir: '|  Int |  41 |  57 |   12 |'
+Dkir: '|  Wis |  50 |  57 |   14 |'
+Dkir: '|  Dex |  79 |  77 |   20 |'
+Dkir: '`-------------------------´'
+
+LIZARDMAN
+@Fransmanni ,-------------------------.
+@Fransmanni | Stat | Cur | Rac | Cost |
+@Fransmanni |=========================|
+@Fransmanni |  Con |  66 |  93 |    8 |
+@Fransmanni |  Str |  60 |  85 |    9 |
+@Fransmanni |  Int |  24 |  32 |   16 |
+@Fransmanni |  Wis |  34 |  52 |   11 |
+@Fransmanni |  Dex |  59 |  82 |    9 |
+@Fransmanni `-------------------------´
+
+
+ORC
+Glenfast: ',-------------------------.'
+Glenfast: '| Stat | Cur | Rac | Cost |'
+Glenfast: '|=========================|'
+Glenfast: '|  Con |  80 |  95 |    9 |'
+Glenfast: '|  Str |  80 |  87 |   11 |'
+Glenfast: '|  Int |  31 |  42 |   14 |'
+Glenfast: '|  Wis |  38 |  52 |   13 |'
+Glenfast: '|  Dex |  76 |  79 |   15 |'
+Glenfast: '`-------------------------´'
+
+
+MERFOLK
+@Serje ,-------------------------.
+@Serje | Stat | Cur | Rac | Cost |
+@Serje |=========================|
+@Serje |  Con |  54 |  69 |   11 |
+@Serje |  Str |  43 |  60 |   11 |
+@Serje |  Int | 106 |  86 |   86 |
+@Serje |  Wis |  96 |  86 |   31 |
+@Serje |  Dex |  39 |  55 |   12 |
+@Serje `-------------------------´
+
+THRIKHREN
+Toum: ',-------------------------.'
+Toum: '| Stat | Cur | Rac | Cost |'
+Toum: '|=========================|'
+Toum: '|  Con |  31 |  42 |   14 |'
+Toum: '|  Str |  41 |  42 |   24 |'
+Toum: '|  Int | 134 | 112 |  100 |'
+Toum: '|  Wis |  59 |  72 |   11 |'
+Toum: '|  Dex |  29 |  40 |   14 |'
+Toum: '`-------------------------´'
+
+
+GNOLL
+@Kapo ,-------------------------.
+@Kapo | Stat | Cur | Rac | Cost |
+@Kapo |=========================|
+@Kapo |  Con |  63 |  69 |   13 |
+@Kapo |  Str |  69 |  77 |   12 |
+@Kapo |  Int |  42 |  59 |   11 |
+@Kapo |  Wis |  48 |  67 |   11 |
+@Kapo |  Dex |  63 |  70 |   12 |
+@Kapo `-------------------------´
+
+DWARF
+Terminus: ',-------------------------.'
+Terminus: '| Stat | Cur | Rac | Cost |'
+Terminus: '|=========================|'
+Terminus: '|  Con |  61 |  86 |    9 |'
+Terminus: '|  Str |  60 |  84 |    9 |'
+Terminus: '|  Int |  50 |  57 |   14 |'
+Terminus: '|  Wis |  54 |  63 |   13 |'
+Terminus: '|  Dex |  58 |  68 |   12 |'
+Terminus: '`-------------------------´'
+
+CYCLOPS
+*Thunderheart wermine ,-------------------------.
+*Thunderheart wermine | Stat | Cur | Rac | Cost |.
+*Thunderheart wermine |=========================|.
+*Thunderheart wermine |  Con |  78 | 110 |    7 |.
+*Thunderheart wermine |  Str |  80 | 112 |    7 |.
+*Thunderheart wermine |  Int |  20 |  27 |   17 |.
+*Thunderheart wermine |  Wis |  20 |  27 |   17 |.
+*Thunderheart wermine |  Dex |  39 |  55 |   12 |.
+*Thunderheart wermine `-------------------------´.
+
+ZOMBIE
+Blnk: ',-------------------------.'
+Blnk: '| Stat | Cur | Rac | Cost |'
+Blnk: '|=========================|'
+Blnk: '|  Con |  80 | 112 |    7 |'
+Blnk: '|  Str |  53 |  54 |   21 |'
+Blnk: '|  Int |  61 |  52 |   40 |'
+Blnk: '|  Wis | 115 |  97 |   66 |'
+Blnk: '|  Dex |  24 |  32 |   16 |'
+Blnk: '`-------------------------´'
+
+BROWNIE
+@Kuhi ,-------------------------.
+@Kuhi | Stat | Cur | Rac | Cost |
+@Kuhi |=========================|
+@Kuhi |  Con |  28 |  39 |   14 |
+@Kuhi |  Str |  27 |  37 |   15 |
+@Kuhi |  Int |  64 |  90 |    8 |
+@Kuhi |  Wis |  68 |  79 |   11 |
+@Kuhi |  Dex |  59 |  82 |    9 |
+@Kuhi `-------------------------´
+
+
+GARGOYLE
+,-------------------------.
+| Stat | Cur | Rac | Cost |
+|=========================|
+|  Con | 113 | 106 |   22 |
+|  Str |  84 |  88 |   11 |
+|  Int |  24 |  32 |   16 |
+|  Wis |  24 |  32 |   16 |
+|  Dex |  66 |  64 |   21 |
+`-------------------------´
+

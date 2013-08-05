@@ -1,0 +1,76 @@
+Ent
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Appraise                      |   0 |  65 |        5 |
+| Consider                      |  70 |  50 |    (n/a) |
+| Bash                          |   0 |  98 |       18 |
+| Mana control                  |  60 |  50 |    (n/a) |
+| Throw weight                  |  50 |  98 |     2445 |
+| Cast destruction              |   0 | 100 |       44 |
+| Cast generic                  |  90 | 100 |   104136 |
+| Attack                        |  75 |  98 |    35474 |
+| Reave shield                  |   0 |  98 |       74 |
+| Riot                          |   0 |  98 |       82 |
+| Prayer to destruction         |   0 | 100 |       99 |
+| Polearms                      |   0 |  90 |      109 |
+| Reave weapon                  |   0 |  -  |    (n/a) |
+| Scythe swipe                  |   0 |  98 |      109 |
+| Rebellion                     |   0 |  -  |    (n/a) |
+| Rampant cutting               |   0 |  -  |    (n/a) |
+| Axes                          |   0 |  90 |      141 |
+| Corrosive cut                 |   0 |  98 |      141 |
+| Infernal arc                  |   0 |  98 |      141 |
+| Reave armour                  |   0 |  -  |    (n/a) |
+| Impale                        |   0 |  80 |      154 |
+| Mastery of destruction        |   0 | 100 |      154 |
+| Reaver strike                 |   0 |  -  |    (n/a) |
+| True reaving                  |   0 |  -  |    (n/a) |
+| Breath of doom                |   0 |  -  |    (n/a) |
+| Cleave                        |   0 |  80 |      184 |
+| Find weakness                 |  18 |  50 |      871 |
+| Wrath of hells wind           |   0 |  -  |    (n/a) |
+| Endurance                     |   0 |  35 |      211 |
+| Stun                          |  37 |  70 |     5142 |
+| Blood harvest                 |   0 |  -  |    (n/a) |
+| Riposte                       |   0 |  50 |      236 |
+| Way of the scythe             |   0 |  10 |      280 |
+| Combat damage analysis        |   0 |  95 |      333 |
+| Discipline                    |  43 |  50 |    21282 |
+| Mangle                        |   0 |  80 |      570 |
+| Reaving                       |   0 |  80 |      617 |
+| Enhance criticals             |  19 |  80 |     3414 |
+| Parry                         |  60 |  75 |   143134 |
+| Tumbling attack               |  18 |  30 |     4906 |
+| Stunned maneuvers             |  34 |  60 |    26406 |
+| Combat sense                  |  43 |  80 |    65756 |
+| Dodge                         |  60 |  25 |    (n/a) |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Infravision                   |  60 |  70 |     1263 |
+| Detect race                   |   0 |  92 |        8 |
+| Darkness                      |  28 |  70 |      117 |
+| Word of attrition             |   0 |  92 |        9 |
+| Glory of destruction          |   0 |  92 |       34 |
+| Immolate scythe               |   0 |  92 |       44 |
+| Reaping of bile               |   0 |  92 |       44 |
+| Word of spite                 |   0 |  92 |       44 |
+| Call scythe                   |   0 |  92 |       49 |
+| Spirit drain                  |   0 |  92 |       51 |
+| Shattered feast               |   0 |  92 |       58 |
+| Call armour                   |   0 |  92 |       63 |
+| Blood seeker                  |   0 |  92 |       79 |
+| Word of blasting              |   0 |  -  |    (n/a) |
+| Word of slaughter             |   0 |  -  |    (n/a) |
+| Word of destruction           |   0 |  -  |    (n/a) |
+| Black hole                    |   0 |  92 |      134 |
+| Word of genocide              |   0 |  -  |    (n/a) |
+| Word of apocalypse            |   0 |  -  |    (n/a) |
+| Word of oblivion              |   0 |  -  |    (n/a) |
+`------------------------------------------------------'

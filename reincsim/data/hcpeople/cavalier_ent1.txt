@@ -1,0 +1,36 @@
+Ent
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 15  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Controlled panic              |   0 |  50 |        9 |
+| Alertness                     |  40 |  50 |      613 |
+| Riding                        |   0 |  40 |       28 |
+| Throw weight                  |  50 |  98 |     2445 |
+| Attack                        |  75 |  98 |    35474 |
+| Trample                       |   0 |  10 |       91 |
+| Polearms                      |   0 |  90 |      109 |
+| Shield bash                   |   0 |  90 |      117 |
+| Impale                        |   0 |  75 |      154 |
+| Bludgeons                     |   0 |  70 |      170 |
+| Combat riding                 |   0 |  98 |      170 |
+| Long blades                   |   0 |  90 |      197 |
+| Stun                          |  37 |  80 |     5142 |
+| Assault                       |   0 |  30 |      236 |
+| Battery                       |   0 |  30 |      236 |
+| Charge                        |   0 |  30 |      236 |
+| Riposte                       |   0 |  50 |      236 |
+| Slash                         |   0 |  75 |      236 |
+| Leadership                    |   0 |  50 |      421 |
+| Discipline                    |  43 |  70 |    21282 |
+| Mangle                        |   0 |  50 |      570 |
+| Enhance criticals             |  19 |  60 |     3414 |
+| Decapitate                    |   0 |  50 |      708 |
+| Parry                         |  60 |  80 |   143134 |
+| Flanking attack               |   0 |  -  |    (n/a) |
+| Mastery of mounted combat     |   0 |  -  |    (n/a) |
+| Stunned maneuvers             |  34 |  90 |    26406 |
+| Combat sense                  |  43 |  70 |    65756 |
+| Dodge                         |  60 |  60 |    (n/a) |
+`------------------------------------------------------'

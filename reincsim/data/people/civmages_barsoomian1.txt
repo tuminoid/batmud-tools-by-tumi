@@ -1,0 +1,102 @@
+Barsoomian
+
+                               |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 25  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  50 |  74 | 100 |     1514 |
+| Essence eye                   |  50 |  74 | 100 |     1514 |
+| Zapping                       |   0 |  74 |  70 |       22 |
+| Mana control                  |  50 |  74 | 100 |     5367 |
+| Cast acid                     |   0 |  74 |  85 |       62 |
+| Cast asphyxiation             |   0 |  74 |  85 |       62 |
+| Cast cold                     |   0 |  74 |  85 |       62 |
+| Cast control                  |   0 |  74 |  85 |       62 |
+| Cast electricity              |   0 |  74 |  85 |       62 |
+| Cast fire                     |   0 |  74 |  85 |       62 |
+| Cast generic                  |  50 |  74 | 100 |     6824 |
+| Cast heal                     |  15 |  74 |  60 |      311 |
+| Cast help                     |  51 |  74 | 100 |     7308 |
+| Cast information              |   0 |  74 |  85 |       62 |
+| Cast magical                  |   0 |  74 |  85 |       62 |
+| Cast poison                   |   0 |  74 |  85 |       62 |
+| Cast protection               |   0 |  74 |  85 |       62 |
+| Cast special                  |   0 |  74 |  85 |       62 |
+| Cast teleportation            |   0 |  74 |  85 |       62 |
+| Cast transformation           |   0 |  74 |  65 |       62 |
+| Attack                        |  80 |  74 |  50 |    (n/a) |
+| Short blades                  |  80 |  74 |  50 |    (n/a) |
+| Knowledge of asphyxiation     |   0 |  74 |   2 |      132 |
+| Knowledge of magic lore       |   0 |  74 |   2 |      132 |
+| Knowledge of toxicology       |   0 |  74 |   2 |      132 |
+| Mastery of arctic powers      |   0 |  74 |   2 |      132 |
+| Theory of corrosion           |   0 |  74 |   2 |      132 |
+| Theory of electrical engineering|   0 |  74 |   2 |      132 |
+| Theory of pyromania           |   0 |  74 |   2 |      132 |
+| Quick chant                   |   0 |  74 | 100 |      141 |
+| Analysis of magic lore        |   0 |  74 |  80 |      172 |
+| Conceal spellcasting          |   0 |  74 |  50 |      220 |
+| Damage criticality            |   0 |  74 |  50 |      238 |
+`-----------------------------------------------------------'
+                               ,----------------------------.
+                               |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 25  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Clairvoyance                  |   0 |  60 | 100 |       30 |
+| Word of recall                |   0 |  60 |  68 |       30 |
+| Floating letters              |   0 |  60 | 100 |       38 |
+| Infravision                   |   0 |  60 | 100 |       38 |
+| Satiate person                |   0 |  60 | 100 |       38 |
+| See invisible                 |   0 |  60 | 100 |       38 |
+| See magic                     |   0 |  60 | 100 |       38 |
+| Water walking                 |   0 |  60 |  70 |       38 |
+| Darkness                      |  22 |  60 | 100 |      555 |
+| Light                         |   0 |  60 | 100 |       45 |
+| Flip                          |   0 |  60 | 100 |       57 |
+| Create food                   |   0 |  60 | 100 |       69 |
+| Enhance vision                |   0 |  60 | 100 |       69 |
+| Floating disc                 |   0 |  60 |  75 |       69 |
+| Identify                      |   0 |  60 | 100 |       69 |
+| Mirror image                  |   0 |  60 | 100 |       92 |
+| Chill touch                   |   0 |  60 |  90 |      102 |
+| Disruption                    |   0 |  60 |  90 |      102 |
+| Flame arrow                   |   0 |  60 |  90 |      102 |
+| Heal self                     |  70 |  60 |  70 |    (n/a) |
+| Magic missile                 |  60 |  60 |  90 |    49752 |
+| Shocking grasp                |   0 |  60 |  90 |      102 |
+| Thorn spray                   |   0 |  60 |  90 |      102 |
+| Vacuumbolt                    |   0 |  60 |  90 |      102 |
+| Wizard eye                    |   0 |  60 | 100 |      102 |
+| Heavy weight                  |   0 |  60 | 100 |      132 |
+| Acid wind                     |   0 |  60 |  90 |      146 |
+| Firebolt                      |   0 |  60 |  90 |      146 |
+| Flaming ice                   |   0 |  60 |  90 |      146 |
+| Lightning bolt                |   0 |  60 |  90 |      146 |
+| Poison blast                  |   0 |  60 |  90 |      146 |
+| Suffocation                   |   0 |  60 |  90 |      146 |
+| Summon lesser spores          |   0 |  60 |  90 |      146 |
+| Acid arrow                    |   0 |  60 |  90 |      168 |
+| Blast lightning               |   0 |  60 |  90 |      168 |
+| Chaos bolt                    |   0 |  60 |  90 |      168 |
+| Darkfire                      |   0 |  60 |  90 |      168 |
+| Fire blast                    |   0 |  60 |  90 |      168 |
+| Levin bolt                    |   0 |  60 |  90 |      168 |
+| Venom strike                  |   0 |  60 |  90 |      168 |
+| Invisibility                  |   0 |  60 |  80 |      172 |
+| Acid rain                     |   0 |  60 |  90 |      185 |
+| Acid ray                      |   0 |  60 |  90 |      185 |
+| Chain lightning               |   0 |  60 |  90 |      185 |
+| Cone of cold                  |   0 |  60 |  90 |      185 |
+| Forked lightning              |   0 |  60 |  90 |      185 |
+| Icebolt                       |   0 |  60 |  90 |      185 |
+| Magic wave                    |   0 |  60 |  90 |      185 |
+| Meteor blast                  |   0 |  60 |  90 |      185 |
+| Meteor swarm                  |   0 |  60 |  90 |      185 |
+| Poison spray                  |   0 |  60 |  90 |      185 |
+| Power blast                   |   0 |  60 |  90 |      185 |
+| Strangulation                 |   0 |  60 |  90 |      185 |
+| Summon greater spores         |   0 |  60 |  90 |      185 |
+| Vacuum ball                   |   0 |  60 |  90 |      185 |
+| Quicksilver                   |   0 |  60 |  80 |      198 |
+`-----------------------------------------------------------'

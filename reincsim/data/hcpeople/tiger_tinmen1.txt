@@ -1,0 +1,65 @@
+Tinmen
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  80 | 100 |     3994 |
+| Alertness                     |  70 |  70 |    (n/a) |
+| Swim                          |  74 | 100 |     7965 |
+| Pick locks                    |   0 |  70 |       16 |
+| Hiking                        |   0 |  80 |       19 |
+| Track                         |   0 |  60 |       19 |
+| Kick                          |  10 | 100 |       53 |
+| Sneak                         |   0 |  80 |       22 |
+| Throw weight                  | 100 |  80 |    (n/a) |
+| Cast control                  |  70 |  88 |    12862 |
+| Cast fire                     |   0 |  66 |       30 |
+| Cast generic                  |  93 | 100 |    93365 |
+| Cast harm                     |  52 |  66 |     2726 |
+| Cast heal                     |  51 |  50 |    (n/a) |
+| Cast information              |   0 |  88 |       30 |
+| Cast protection               |   0 |  88 |       30 |
+| Cast special                  |  60 |  70 |     5433 |
+| Cast teleportation            |  91 |  66 |    (n/a) |
+| Cast transformation           |   0 |  66 |       30 |
+| Attack                        | 100 | 100 |    (n/a) |
+| Tiger spirit                  |  15 | 100 |      138 |
+| Meditation                    |   0 | 100 |       40 |
+| Detect trap                   |   0 |  70 |       52 |
+| Iron palm                     |   0 | 100 |       91 |
+| Mastery of pain               |   0 |  55 |      107 |
+| Find weakness                 |  35 |  80 |     2613 |
+| Stun                          |  36 | 100 |     3266 |
+| Defence sense                 |   0 |  80 |      238 |
+| Discipline                    |  40 |  80 |    11376 |
+| Enhance criticals             |  85 |  50 |    (n/a) |
+| Dim mak                       |   0 | 100 |      720 |
+| Tumbling attack               |  40 |  80 |    22620 |
+| Stunned maneuvers             |  60 |  80 |   171834 |
+| Combat sense                  |  65 |  55 |    (n/a) |
+| Martial arts                  |  18 | 100 |     5497 |
+| Dodge                         |  60 |  90 |   229999 |
+| Unarmed parry                 |   0 |  65 |     1452 |
+| Dark nerves                   |   0 | 100 |     6810 |
+| Vital points                  |   0 | 100 |     6810 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Cure light wounds             |  80 |  50 |    (n/a) |
+| Infravision                   |  74 |  80 |     4826 |
+| Water walking                 |   0 |  80 |        9 |
+| Darkness                      |   0 |  80 |       10 |
+| Shadow leap                   |   0 |  80 |       22 |
+| Tiger claw                    |   0 |  80 |       22 |
+| All-seeing eye                |   0 |  80 |       48 |
+| Flame fists                   |   0 |  80 |       50 |
+| Invisibility                  |   0 |  45 |       79 |
+| Shadow trick                  |   0 |  80 |       82 |
+| Quicksilver                   |   0 |  80 |      113 |
+| Haste                         |   0 |  80 |      172 |
+| Tiger mask                    |   0 |  80 |      215 |
+`------------------------------------------------------'

@@ -1,0 +1,29 @@
+Elf
+                               ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Stargazing                    |   0 |  95 |       14 |
+| Cast generic                  |  80 | 100 |    33837 |
+| Cast teleportation            |  60 | 100 |     6037 |
+| Mastery of locating           |  60 | 100 |    21188 |
+| Location memory               |  60 |  95 |    78166 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |  60 | 100 |     1065 |
+| Dimension door                |  60 | 100 |     4085 |
+| Summon                        |  60 | 100 |     4829 |
+| Teleport with error           |  20 | 100 |      153 |
+| Teleport without error        |  40 |  40 |    (n/a) |
+| Wizard eye                    |   0 | 100 |       33 |
+| Heavy weight                  |  60 | 100 |     8724 |
+| Banish                        |  60 | 100 |    10454 |
+| Relocate                      |  30 | 100 |      963 |
+| Go                            |  60 | 100 |    23404 |
+| Mobile cannon                 |  30 | 100 |     2107 |
+`------------------------------------------------------'

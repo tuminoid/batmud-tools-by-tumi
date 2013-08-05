@@ -1,0 +1,100 @@
+Name: The casters guild.
+Command: casters+
+Guild masters: Sitruuna and Druff
+Your level: 0
+Maximum level: 15
+
+Description:
+This is the casters guild.
+
+Abilities gained when joining:
+ Receive guild item
+
+Abilities and requirements at each level:
+ Level 1:
+  Abilities:
+   Spellmax of all +1
+   Statmax of int +3
+   Statmax of wis +3
+ Level 2:
+  Abilities:
+   Spellmax of all +1
+   Statmax of int +4
+   Statmax of wis +4
+ Level 3:
+  Abilities:
+   Spellmax of all +1
+   Statmax of int +5
+   Statmax of wis +5
+ Level 4:
+  Abilities:
+   Spellmax of all +1
+   Statmax of int +6
+   Statmax of wis +6
+ Level 5:
+  Abilities:
+   Spellmax of all +1
+   Statmax of int +8
+   Statmax of wis +8
+ Level 6:
+  Abilities:
+   Statmax of int +4
+   Statmax of wis +4
+   Statmax of dex +4
+   Spellmax of all +1
+ Level 7:
+  Abilities:
+   Statmax of int +5
+   Statmax of wis +5
+   Statmax of dex +5
+   Spellmax of all +1
+ Level 8:
+  Abilities:
+   Statmax of int +6
+   Statmax of wis +6
+   Statmax of dex +6
+   Spellmax of all +1
+ Level 9:
+  Abilities:
+   Statmax of int +8
+   Statmax of wis +8
+   Statmax of dex +8
+   Spellmax of all +1
+ Level 10:
+  Abilities:
+   Statmax of int +9
+   Statmax of wis +9
+   Statmax of dex +9
+   Spellmax of all +2
+ Level 11:
+  Abilities:
+   Statmax of int +5
+   Statmax of wis +5
+   Statmax of dex +5
+   Statmax of con +5
+ Level 12:
+  Abilities:
+   Statmax of int +6
+   Statmax of wis +6
+   Statmax of dex +6
+   Statmax of con +6
+ Level 13:
+  Abilities:
+   Statmax of int +8
+   Statmax of wis +8
+   Statmax of dex +8
+   Statmax of con +8
+ Level 14:
+  Abilities:
+   Statmax of int +9
+   Statmax of wis +9
+   Statmax of dex +9
+ Level 15:
+  Abilities:
+   Statmax of int +10
+   Statmax of wis +10
+   Statmax of dex +10
+   Spellmax of all +3
+
+Allows joining to the following guild:
+ The casters guild.

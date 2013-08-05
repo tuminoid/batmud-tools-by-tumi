@@ -1,0 +1,67 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |  70 |  96 | 100 |     3508 |
+| Essence eye                   |   0 |  96 | 100 |       13 |
+| Mana control                  |   0 |  96 | 100 |       39 |
+| Cast control                  |   0 |  96 | 100 |       49 |
+| Cast generic                  |   0 |  96 | 100 |       49 |
+| Cast heal                     |   0 |  96 |  60 |       49 |
+| Cast information              |   0 |  96 | 100 |       49 |
+| Cast protection               |   0 |  96 | 100 |       49 |
+| Cast psionic                  |   0 |  96 | 100 |       49 |
+| Attack                        |  56 |  96 |  75 |     9921 |
+| Meditation                    |   0 |  96 | 100 |       61 |
+| Short blades                  |  33 |  96 |  70 |     2193 |
+| Theory of mental power        |   0 |  96 | 100 |      105 |
+| Quick chant                   |   0 |  96 | 100 |      113 |
+| Knowledge of mental defence   |   0 |  96 | 100 |      140 |
+| Conceal spellcasting          |   0 |  96 | 100 |      176 |
+| Damage criticality            |   0 |  96 | 100 |      190 |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Floating letters              |   0 |  68 | 100 |       49 |
+| Mental watch                  |   0 |  68 | 100 |       49 |
+| Mind store                    |   0 |  68 | 100 |       49 |
+| Darkness                      |   0 |  68 | 100 |       58 |
+| Field of fear                 |   0 |  68 | 100 |       58 |
+| Light                         |   0 |  68 | 100 |       58 |
+| Terror                        |   0 |  68 | 100 |       58 |
+| There not there               |   0 |  68 | 100 |       58 |
+| Force dome                    |   0 |  68 | 100 |       74 |
+| Levitation                    |   0 |  68 | 100 |       74 |
+| Feather weight                |   0 |  68 | 100 |       89 |
+| Mental glance                 |   0 |  68 | 100 |      111 |
+| Mirror image                  |   0 |  68 | 100 |      118 |
+| Heal self                     |   0 |  68 | 100 |      131 |
+| Mind blast                    |   0 |  68 | 100 |      131 |
+| Forget                        |   0 |  68 | 100 |      151 |
+| Psionic shield                |   0 |  68 | 100 |      163 |
+| Unstable mutation             |   0 |  68 | 100 |      163 |
+| Mind development              |   0 |  68 | 100 |      169 |
+| Spellteaching                 |   0 |  68 | 100 |      169 |
+| Force shield                  |   0 |  68 | 100 |      187 |
+| Psibolt                       |   0 |  68 | 100 |      187 |
+| Mindseize                     |   0 |  68 | 100 |      205 |
+| Phaze shift                   |   0 |  68 | 100 |      205 |
+| Transmute self                |   0 |  68 | 100 |      205 |
+| Aura detection                |   0 |  68 | 100 |      210 |
+| Psi blast                     |   0 |  68 | 100 |      216 |
+| Invisibility                  |   0 |  68 | 100 |      222 |
+| Iron will                     |   0 |  68 | 100 |      233 |
+| Mind disruption               |   0 |  68 | 100 |      238 |
+| Paralyze                      |   0 |  68 | 100 |      238 |
+| Psychic shout                 |   0 |  68 | 100 |      238 |
+| Psychic crush                 |   0 |  68 | 100 |      254 |
+| Psychic purge                 |   0 |  68 | 100 |      254 |
+| Psychic sanctuary             |   0 |  68 | 100 |      254 |
+| Psychic storm                 |   0 |  68 | 100 |      254 |
+| Psionic phalanx               |   0 |  68 | 100 |      285 |
+`-----------------------------------------------------------'

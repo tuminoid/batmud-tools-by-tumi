@@ -1,0 +1,35 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 15  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Controlled panic              |   0 |  96 |  50 |       17 |
+| Alertness                     |  70 |  96 |  50 |    (n/a) |
+| Riding                        |   0 |  96 |  40 |       36 |
+| Attack                        |  56 |  96 | 100 |     9921 |
+| Trample                       |   0 |  96 |  10 |       83 |
+| Polearms                      |  34 |  96 |  90 |     2970 |
+| Shield bash                   |  50 |  96 |  90 |    11076 |
+| Impale                        |   0 |  96 |  75 |      105 |
+| Bludgeons                     |   0 |  96 |  70 |      110 |
+| Combat riding                 |   0 |  96 | 100 |      110 |
+| Long blades                   |  34 |  96 |  90 |     3731 |
+| Stun                          |  48 |  96 |  80 |    12507 |
+| Assault                       |   0 |  96 |  30 |      124 |
+| Battery                       |   0 |  96 |  30 |      124 |
+| Charge                        |   0 |  96 |  30 |      124 |
+| Riposte                       |  50 |  96 |  50 |    (n/a) |
+| Slash                         |   0 |  96 |  75 |      124 |
+| Leadership                    |  50 |  96 |  50 |    (n/a) |
+| Discipline                    |   0 |  96 |  70 |      155 |
+| Mangle                        |   0 |  96 |  50 |      157 |
+| Enhance criticals             |   0 |  96 |  60 |      164 |
+| Decapitate                    |   0 |  96 |  50 |      166 |
+| Parry                         |  95 |  96 |  80 |    (n/a) |
+| Flanking attack               |   0 |  96 |  -  |    (n/a) |
+| Mastery of mounted combat     |   0 |  96 |  -  |    (n/a) |
+| Stunned maneuvers             |  50 |  96 |  90 |    24284 |
+| Combat sense                  |  50 |  96 |  70 |    25103 |
+| Dodge                         |  95 |  96 |  60 |    (n/a) |
+`-----------------------------------------------------------'

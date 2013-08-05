@@ -1,0 +1,682 @@
+Disclaimer: This service is free and without warranty or guarantee of 
+            accuracy, reliability or security.
+
+Read: help topics, help multiple characters
+
+
+Last messages from the 'inform' channel:
+
+[Feb 02 14:37]: Woozer removed for using another player's character (without  consent, though that is not so relevant). 
+[Feb 08 17:58]: Dino the Augur fell into a chasm with a Balrog and, as is the  habit, soon returned amongst the living wielding more power. Another old  wizard got a new title as well - you can often spot him at the Rusty Shield  Bar. Bring flowers. 
+[Feb 11 14:10]: BatMUD will be unavailable during the night of Monday, the  13th and morning of Tuesday the 14th of February. Our ISP is yet again moving  servers, the move will commence at about 01:00-05:00 EET. BatMUD will be  available as soon as possible, but as last move showed us, it may take a  little longer. 
+[Feb 14 13:17]: Pahisti leaves on winter vac leaving a huge pile of torches. 
+[Feb 14 16:10]: Tiny and lonely valentine taskpoints can be found across the  BAT realm. If you run into pink <3, claim it. 
+[Mar 07 13:05]: http://www.bat.org/ is back alive again. 
+[Mar 24 00:06]: The BatMUD Las Vegas Convention dates have been posted into  the news. The Lord Mascot, Nasu is in the Batcity church gathering  information of Who are attending. Check 'tell nasu info' for more. 
+[Mar 28 15:57]: B.A.T. ry's new server, a 'fully loaded' DELL PowerEdge 2850  (2U-sized rack-server) was transported to Magenta Sites' (our primary ISP)  server room and fired up. The server was named "Torturer" due to its lovely  glistening black colouring. It now enters a benchmarking and testing stage. 
+[Apr 19 19:03]: Blnk was banished for lagging the mud on purpose. 
+[May 18 01:12]: Two Coders, the magus Melemkor and the sorcerer Noctur were  awarded various levels for their work on behalf of the Realm. Melemkor  approaching the looming Sagehood and Noctur acquiring the title of an Adept.  Our thanks to both of these devoted wzards. 
+
+This is the main hall of the church of all Gods. A clock on the wall shows the
+uptime of the mud. A poster explaining the upcoming events is posted on the
+wall and a golden plaque with names on it hanging beside it. Several doorways
+leave out from here.
+Obvious exits are: n, s, w and e.
+A holy altar emitting peace around it
+Dutois the benevolent Leprechaun
+Bambi the Dwarf
+Guest-26 the Player
+Obanez the Ent
+Gambler Nasu, the Las Vegas patron (lord mascot)
+Hp:0/10 Sp:0/10 Ep:0/10 >Hp:0/10 Sp:0/10 Ep:0/10 >This is the tall entrance hall to the church of all Gods. The walls
+are made of white marble. The roof is covered by a huge painting.
+East is a doorway that leads out to the city streets. The entrance
+hall opens west to the main hall of the temple. A small gateway
+leads north.
+Obvious exits are: e, w, n and s.
+A large fountain (almost full)
+A tour guide
+Quenthalion Sarn the dark Elf
+Hp:0/10 Sp:0/10 Ep:0/10 >   #..#     You are standing on Pine street, between Onyx and Jade
+   #..      avenues. The church of all Gods is to the west, and a
+    ..      largish building to the east is the Adventurers guild. 
+   #.#      
+   /@/      
+   #&#      
+   &&       
+   .%.      
+   #        
+        
+Iron gate (open) leads west.
+Iron gate (open) leads east.
+Obvious exits are: n, s, w and e.
+A cart labeled 'Enchant Enchant Enchant' (11 items)
+A cart labeled 'MISC CRAP' (3 items)
+A large granite post
+A green gas street lamp (glowing)
+A grim Guardsman is keeping watch here
+Hp:0/10 Sp:0/10 Ep:0/10 >This is the adventurers' guild. Adventurers come here to tell stories about
+their quests and to listen to stories from other adventurers. Through the
+doorway leading south you can see all sorts of training taking place. In the
+east is a doorway to a rather empty room. A winding staircase leads up through
+the ceiling. There is something written on the wall: Paying with mithril
+instead of gold might give you good deals.
+Obvious exits are: w, s, e, u, d and n.
+A green poker machine
+A blue poker machine
+A red poker machine
+Vitrine of the Leaders
+The last mystical Navigator stands here
+Hp:0/10 Sp:0/10 Ep:0/10 >In here you can advance your level. Most of your stats will rise with your
+level. The levels you advance here will allow you to advance in your guilds.
+Some stairs lead upward to the Top Players room. Special bonuses can be gotten
+from the Boon room downstairs. An information center for quests can be found
+to the south.
+The following commands can be used here:
+   advance        : to advance a level
+   advance block  : invest experience into the next level
+   cost           : tells you how much exp is needed for your next level
+   train <stat>   : train <stat> with your training points
+   train all      : train evenly all your stats using all training points
+   tcost <stat>   : training points needed from current <stat> to <value>
+   list           : to list levels and experience costs
+   total <lvl>    : total cost from level 1 to <lvl>
+Obvious exits are: n, s, u, d and e.
+A torch
+A big pile of tin coins
+A big pile of mowgles coins
+Hp:0/10 Sp:0/10 Ep:0/10 >This is the BatMUD hall of fame. The room is otherwise empty except
+for the marble pillar in the center of the room. There seems to be
+some sort of a bronze plaque on top of the pillar with some engravings
+on it. You also notice a small small poster on the wall explaining
+things. A staircase leads down to the main part of the guild.
+Obvious exits are: d, e and s.
+Guest-33 the Player
+Guest-32 the Player
+Hp:0/10 Sp:0/10 Ep:0/10 > Top 1000 signed players on BatMUD.
+  No  Name            Lvl            Exp Time from last update
+   3: Broetchen       100     972 002103  9 hours 
+   4: Moonlord        100     914 702645  7 hours 
+   6: Rankku          100     824 441999  1 hour 
+   9: Cutter          100     767 520411 11 days 22 hours 
+  10: Turmio          100     722 114973  2 days 22 hours 
+  14: Pirutar         100     686 945022  5 hours 
+  19: Garou           100     650 564133  2 days  2 hours 
+  21: Cyberlahko      100     632 685139  2 hours 
+  23: Gaurhoth        100     619 909669  2 days  9 hours 
+  24: Amd             100     611 550602  6 hours 
+  25: Daria           100     607 491304 
+  26: Yehat           100     607 072123 
+  29: Cran            100     599 135431  7 days 10 hours 
+  31: Aloysha         100     586 135665  1 day 23 hours 
+  32: Conquer         100     585 595350 
+  34: Jacen            90     577 210956  3 hours 
+  36: Andthi          100     570 920393  4 hours 
+  38: Dazzt           100     560 474821 
+  39: Nomiculious     100     553 769113  2 days 19 hours 
+  40: Kerad            95     549 712062  1 day  2 hours 
+  42: Murrough        100     545 660351 
+  44: Tarli           100     534 187665 
+  48: Delpers          88     523 943515 
+  49: Kaide            98     522 960653  2 days 
+  51: Zipob           100     510 635822 
+  54: Beyond           98     507 052421  6 hours 
+  55: Alva             95     503 297744 
+  56: Lammas          100     498 784552  7 days 21 hours 
+  57: Zarx            100     493 188812 
+  58: Nuane           100     488 122166 
+  59: Willi            97     484 458575 
+  61: Chizra          100     467 607325 
+  62: Proteus          94     466 570082  5 hours 
+  63: Zup              98     465 390829 23 hours 
+  64: Lim              94     462 454784 
+  67: Dryad            91     459 757195 
+  68: Resin            97     458 256973 
+  70: Headway          93     452 080804 10 hours 
+  71: Kyynel          100     448 853065  3 hours 
+  73: Erlend          100     438 827118  1 day  7 hours 
+  74: Zithromax        95     438 025712  1 hour 
+  75: Drifter          91     436 341965  5 days  2 hours 
+  76: Morpher         100     430 442079 
+  82: Mihkali          95     411 300519  1 day 19 hours 
+  83: Arnoldi          98     406 884497 
+  84: Walciz          100     404 821812 
+  87: Tumbelius        94     399 279729  1 hour 
+  88: Klar             90     399 152788  1 hour 
+  89: Humma            48     386 551842 10 hours 
+  90: Soya             99     378 430434  2 days 23 hours 
+  92: Blodwyn          97     374 229765  1 day 11 hours 
+  94: Beliah           92     371 595102 
+  95: Aceduck          90     362 837944 12 hours 
+  96: Slobber          93     362 743425 
+  97: Kohothegreat     90     358 849107 
+ 101: Blayke           94     354 980372  1 hour 
+ 102: Croesus          94     354 827761  4 hours 
+ 103: Zammy            90     351 033264  2 days 12 hours 
+ 104: Stargazer        90     350 838456  3 hours 
+ 109: Caruth           97     348 167838 
+ 110: Mino             95     345 983899  1 day  7 hours 
+ 111: Lightscape       98     345 613092 
+ 113: Morik            90     343 138035 
+ 114: Kragan           97     338 809624  1 day 
+ 117: Boog             97     337 354903  3 days  3 hours 
+ 118: Presence         86     337 150291 16 hours 
+ 120: Felder           96     333 393262  2 days  5 hours 
+ 121: Septium          95     333 339476  9 hours 
+ 122: Ssmud            91     332 831847 
+ 123: Lordil           88     332 055827  4 days  7 hours 
+ 125: Mallarch         95     327 645901  2 hours 
+ 129: Tascruel         91     322 052830  4 hours 
+ 130: Innuendo         94     322 035821  8 days  6 hours 
+ 134: Dafur            92     315 017087  4 days  6 hours 
+ 136: Glycoli         100     314 183325  1 day 10 hours 
+ 138: Cavalier         91     312 587676  1 day 23 hours 
+ 139: Halle            85     312 389940 22 hours 
+ 140: Predator         93     309 873471  4 days  3 hours 
+ 141: Panthos          94     309 712873  6 days  7 hours 
+ 145: Valdec           90     302 822264  4 hours 
+ 146: Anakin           87     302 635420  4 days 20 hours 
+ 147: Geroth           91     301 510821  4 hours 
+ 149: Atomska          93     300 335796 
+ 151: Typhos           84     298 188541  2 hours 
+ 152: Gilead           90     297 532248  4 days 22 hours 
+ 153: Spick            90     297 013788  6 days 13 hours 
+ 154: Tackle           86     296 065532  1 hour 
+ 155: Hymn             83     296 017546  5 days  4 hours 
+ 156: Galaf            90     295 832480  1 day 12 hours 
+ 157: Solarhawk        91     295 733821 
+ 158: Antikiller       93     295 274174 
+ 160: Krzysiek         82     293 915126 
+ 161: Garok            92     293 089648  7 days  3 hours 
+ 162: Delveling        92     291 636141 15 hours 
+ 163: Calmar           95     291 406562  1 day  7 hours 
+ 165: Kahmuli          78     290 108638  1 hour 
+ 168: Cealdyn          91     288 511211  1 hour 
+ 169: Mendar           95     288 047398  7 hours 
+ 170: Martow           93     287 933949  2 hours 
+ 171: Glaurung         90     287 663442 
+ 172: Murdoch          90     286 409632  8 hours 
+ 173: Nazrix           60     285 365892 
+ 174: Azgaroth         92     282 131737  7 hours 
+ 176: Markuz           91     280 544899  6 hours 
+ 177: Don              90     279 796644  1 day 15 hours 
+ 181: Imperator        90     273 535013  7 days 17 hours 
+ 182: Savok            90     270 729699  1 day 21 hours 
+ 183: Chamber          92     267 236810 
+ 186: Ivan             90     262 307194 
+ 187: Horns            90     262 288553  6 days  1 hour 
+ 188: Vasquelor        83     260 400873 
+ 189: Vesku            93     259 499338 17 hours 
+ 190: Fimir            93     258 433817 
+ 191: Zulle            91     257 867614  2 days 12 hours 
+ 194: Shalkan          90     256 855244 
+ 195: Dunlop           92     256 650897 
+ 197: Lurkku           92     254 663266 13 hours 
+ 201: Flirt            91     251 303941  7 days 12 hours 
+ 204: Sirus            92     248 276171  4 days 14 hours 
+ 205: Keno             91     247 921640  3 days 10 hours 
+ 207: Sumendar         90     247 338862 
+ 208: Kanth            80     245 905776  3 days 16 hours 
+ 209: Kheldor          93     244 337127 
+ 210: Belse            86     243 458352 
+ 212: Ziba             87     242 074372  4 hours 
+ 213: Boot             88     241 366051  1 day 17 hours 
+ 215: Pyggins          90     239 305764 12 hours 
+ 216: Murgan           86     237 684881  1 day  9 hours 
+ 217: Mursia           90     237 654024  3 hours 
+ 219: Dalle            92     234 937861 
+ 220: Zinko            90     234 905093  1 hour 
+ 223: Jerkkis          70     230 159434  1 day  2 hours 
+ 225: Sparhawk         88     229 946140  2 hours 
+ 230: Shmuzin          85     227 639856  5 hours 
+ 231: Skyline          52     227 112293 12 hours 
+ 232: Hampuusi         90     226 184111  9 hours 
+ 233: Nepnep           82     224 883045  4 hours 
+ 235: Vp               90     224 217865  6 hours 
+ 236: Kyo              86     222 871536 
+ 237: Wex              78     221 079371  3 days  3 hours 
+ 238: Aune             91     219 037782  5 hours 
+ 239: Aruthra          85     217 777627  3 days  6 hours 
+ 241: Mandigal         88     216 589971  3 days  1 hour 
+ 242: Duckman          90     216 185909  2 days  6 hours 
+ 243: Anjew            78     215 311892  2 days  8 hours 
+ 245: Xentarios        74     213 769579  1 day 
+ 246: Serra            86     213 433231  2 days 13 hours 
+ 248: Air              86     211 947382 
+ 249: Krokodiili       90     211 341881 
+ 250: Huppu            93     211 254539 
+ 251: Eressa           90     211 015421 17 hours 
+ 252: Thundrax         90     209 573656  1 day 
+ 254: Kreegah          90     206 998338  4 hours 
+ 256: Leeko            80     206 690061  1 hour 
+ 257: Ealoren          84     206 184834  5 days  5 hours 
+ 258: Tatza            90     203 519061 
+ 259: Xedar            90     202 272512  6 days  1 hour 
+ 261: Blacksmith       73     201 138092 
+ 264: Pludo            87     199 474233  9 hours 
+ 265: Calada           93     199 394299 
+ 266: Demo             80     199 167876  7 hours 
+ 267: Biubau           90     197 741168  2 days  9 hours 
+ 268: Damut            82     197 066522 
+ 269: Klerris          91     196 062742 22 hours 
+ 271: Stark            87     195 234452  6 days 
+ 273: Wirah            83     194 823079  1 hour 
+ 275: Caps             90     193 939612  1 day 10 hours 
+ 276: Kitania          91     193 797368 
+ 277: Endure           84     193 154929 19 hours 
+ 278: Kuola            80     192 946553  3 hours 
+ 281: Malacoda         77     191 460542 
+ 282: Len              90     190 787096 12 days  4 hours 
+ 283: Halox            90     189 873003 23 hours 
+ 284: Elmindos         80     189 198320  9 days 12 hours 
+Guest-32 exclaims 'Updated the exp-plaque, come see at http://2-mi.com/webplaque
+ .pl!'
+Guest-32 left the game.
+ 286: Vippy            90     186 974784  2 days  8 hours 
+ 287: Anastasia        68     186 017841  4 hours 
+ 288: Deras            87     184 846970  1 day  4 hours 
+ 289: Rapidfire        88     184 478154  6 days 
+ 291: Boysen           77     182 962167  9 days  3 hours 
+ 292: Dreoca           90     182 492470  4 days 12 hours 
+ 295: Saigere          85     180 735465  1 day 19 hours 
+ 296: Ginsen           79     180 375092 
+ 297: Mathieu          87     179 541811 
+ 300: Erygon           84     177 919136 
+ 302: Shadowwar        78     174 838318 23 hours 
+ 303: Freld            86     174 146317 
+ 305: Elmoth           86     172 501118  6 hours 
+ 306: Consta           71     171 550275  1 day 12 hours 
+ 307: Puptah           90     171 249590  1 day 11 hours 
+ 308: Bippo            84     171 202939  8 hours 
+ 311: Necrobarbie      81     169 035549 
+ 312: Luca             80     169 015679 
+ 314: Stalgrad         86     168 599524 17 hours 
+ 318: Linzhou          86     166 065657 11 days 16 hours 
+ 319: Raizar           84     164 082267  4 hours 
+ 320: Fulgore          90     164 016469  5 days  4 hours 
+ 321: Shaggydope       75     163 958796  4 days 18 hours 
+ 322: Sancran          80     163 859765 
+ 323: Kooper           90     163 630098  2 days  2 hours 
+ 324: Jutom            90     163 217853  3 days  2 hours 
+ 326: Deathwing        87     162 864981 11 days  9 hours 
+ 327: Turska           75     162 121467  1 day  4 hours 
+ 328: Malos            83     161 661245 
+ 330: Trandar          82     160 215325  1 day 21 hours 
+ 332: Arkkimedes       35     159 107669  1 day 
+ 333: Serpens          85     158 855428  2 days 20 hours 
+ 334: Blackstar        80     158 297909 
+ 335: Ggr              78     157 827351 12 hours 
+ 336: Moonshine        70     157 670685  1 day 23 hours 
+ 337: Tuppi            66     156 946348  4 days 12 hours 
+ 338: Zalcon           80     156 825547 21 hours 
+ 339: Thorswrath       77     156 546789 17 hours 
+ 340: Gillibo          70     154 925462  2 days  1 hour 
+ 341: Correl           80     154 738191  1 day 17 hours 
+ 343: Zenor            83     154 155296 
+ 344: Mardraum         78     153 911460  1 hour 
+ 347: Zograh           80     151 855557 14 hours 
+ 349: Sandel           75     151 709190  7 hours 
+ 350: Mikaiyla         79     151 466296 
+ 351: Kanis            78     150 934148 15 hours 
+ 352: Niliz            86     150 592337  1 day  6 hours 
+ 353: Saa              75     150 170495  7 hours 
+ 355: Caitline         83     149 185469  1 hour 
+ 356: Tixe             72     148 978409  3 days 17 hours 
+ 357: Yig              73     148 505712  2 hours 
+ 358: Farthon          90     148 297750  3 days 
+ 359: Dargon           90     148 002218  1 hour 
+ 360: Taylon           80     147 748498  1 day  9 hours 
+ 363: Dutois           74     146 791462 20 hours 
+ 364: Inferno          80     146 073443 10 days 16 hours 
+ 365: Reyalp           79     146 043536  3 days 11 hours 
+ 366: Scaler           85     145 600832  4 days 12 hours 
+ 368: Twomi            90     145 137113  4 days  7 hours 
+ 369: Mackakkonen      85     144 800352 12 days  9 hours 
+ 370: Jeskko           85     144 430377 
+ 371: Dakir            80     143 929611 
+ 373: Cordoba          73     142 893669  6 hours 
+ 376: Namo             86     140 769755 
+ 377: Blazzer          85     140 736853  3 days  6 hours 
+ 378: Zerks            82     140 068213  6 hours 
+ 379: Nu               79     140 043956 
+ 380: Kapu             81     139 951555  1 hour 
+ 381: Ulver            83     139 907374 
+ 382: Derivator        72     139 671947  1 hour 
+ 383: Birdie           82     139 422793 
+ 386: Venomwwa         60     138 064361 
+ 387: Liku             85     137 959193  5 days  7 hours 
+ 388: Jumbo            83     136 931952  4 days 10 hours 
+ 389: Thorak           76     136 596001 
+ 390: Pagar            82     136 360589  4 hours 
+ 391: Battler          84     135 747646 
+ 392: Gorehound        79     135 693986 12 hours 
+ 400: Crueger          82     133 367014  9 hours 
+ 401: Byzant           78     132 714602 
+ 402: Golieth          85     132 530903  4 hours 
+ 403: Malcom           70     132 483794  2 days 13 hours 
+ 405: Nargar           77     131 795116 
+ 407: Alving           70     131 561895  2 days 
+ 410: Shiwa            78     129 003649  2 hours 
+ 413: Nathanielw       84     128 246883 17 hours 
+ 414: Redcap           70     128 075025  2 hours 
+ 415: Izrabljeni       80     127 873210 13 days  3 hours 
+ 418: Kardon           86     126 887687 21 hours 
+ 419: Nyriori          81     126 632331  5 days  3 hours 
+ 420: Calmis           80     126 285059  2 hours 
+ 421: Garth            75     126 057657  1 day  9 hours 
+ 422: Wide             80     125 924577  6 hours 
+ 423: Furtoe           83     125 840854 13 days 17 hours 
+ 424: Saapas           80     125 616118  2 hours 
+ 426: Tarquin          43     124 463201  1 day 15 hours 
+ 430: Malekith         75     123 047316  4 days 
+ 431: Myytti           80     122 905441  3 days  8 hours 
+ 432: Etar             76     122 446394  7 hours 
+ 433: Glace            80     122 200904  1 hour 
+ 434: Lyrik            82     122 125482  3 hours 
+ 435: Ragnhild         77     122 062693  8 hours 
+ 436: Patriot          45     121 818826  2 hours 
+ 437: Iktomi           78     121 779739  2 hours 
+ 438: Sephiroth        82     121 664322  1 hour 
+ 440: Luggage          72     120 591185  1 day  6 hours 
+ 441: Rekcedien        74     120 541500  1 day 13 hours 
+ 442: Soulhunter       76     120 475740  5 days 
+ 443: Piiper           75     119 561162 
+ 444: Raist            85     119 458647  1 day 20 hours 
+ 446: Chador           75     118 659511  2 days 22 hours 
+ 447: Juo              73     118 280142  9 hours 
+ 448: Tawno            82     118 278518  1 hour 
+ 449: Sundstar         83     117 119168  5 days 19 hours 
+ 450: Rutaliator       78     116 809481  1 hour 
+ 452: Sirda            78     115 669763 
+ 454: Louen            44     113 833883 
+ 455: Janosh           53     113 786275  5 days  4 hours 
+ 456: Ruttuturpa       84     113 671618  3 hours 
+ 458: Tikku            75     112 440795  3 hours 
+ 461: Juki             70     112 205695 
+ 462: Silentkilla      70     111 731717 16 hours 
+ 463: Danefl           76     110 915426 22 hours 
+ 464: Chilth           70     110 666113 12 days 18 hours 
+ 465: Braxx            62     110 258842  3 days 18 hours 
+ 466: Nullnullatte     71     109 901350 17 hours 
+ 467: Chaste           58     109 833204  2 hours 
+ 469: Yorkaturr        90     109 604965 12 hours 
+ 471: Reima            73     109 088964 10 hours 
+ 472: Desert           83     109 070991  6 hours 
+ 474: Ruffneck         77     108 819689  2 days  9 hours 
+ 475: Euno             80     108 610615  1 day  7 hours 
+ 476: Bmoa             78     108 098472 
+ 477: Krnlpanik        71     108 051430 23 hours 
+ 479: Dink             74     107 804762  2 hours 
+ 480: Eskorbuto        72     107 633685  8 days 
+ 481: Froggy           75     107 501137  2 days 19 hours 
+ 482: Scytale          78     107 215364 12 hours 
+ 483: Dupre            68     106 755449  5 hours 
+ 486: Bauglir          74     104 526933  2 hours 
+ 487: Dab              70     103 988523  2 days  8 hours 
+ 488: Malicar          65     103 799170  4 days  7 hours 
+ 489: Brewer           70     103 709440  4 days  5 hours 
+ 490: Copkiller        79     103 657528  1 day  9 hours 
+ 492: Llorakhsan       75     103 202351  6 days 12 hours 
+ 493: Pokka            85     102 950079 10 hours 
+ 495: Cannedheat       69     102 358721  2 hours 
+ 496: Bartemus         70     101 768175  1 day 18 hours 
+ 497: Roark            70     101 692986  3 days  2 hours 
+ 498: Nedra            59     101 330381  1 day  3 hours 
+ 500: Zarquan          80     101 150433  6 days 17 hours 
+ 503: Millikan         73     100 731543  5 days 12 hours 
+ 504: Lillith          70     100 554765 
+ 507: Van              63     100 024716  6 days  7 hours 
+ 508: Anammox          71     100 021635  8 hours 
+ 511: Scofield         68      99 197813  3 days 18 hours 
+ 512: Samil            74      98 468175  2 days  8 hours 
+ 513: Silvanus         72      98 337145  8 days  6 hours 
+ 517: Edrick           54      97 888083  2 days 17 hours 
+ 519: Dione            68      97 540667  2 days  6 hours 
+ 523: Grondle          74      95 796892  6 days 17 hours 
+ 525: Glarin           73      95 582207  1 day  5 hours 
+ 526: Dangergirl       75      95 305739 
+ 527: Lintu            66      95 020532  8 days  4 hours 
+ 530: Svaba            61      94 344662 
+ 536: Mazzon           59      92 703472 10 hours 
+ 537: Dralith          76      92 353374 
+ 538: Hemicuda         76      91 930631 
+ 539: Teddy            65      91 165564  2 hours 
+ 540: Ivanor           30      90 937322  4 days 13 hours 
+ 541: Yggdrasil        60      90 787420  6 days 12 hours 
+ 545: Dreadlord        70      90 037106 12 hours 
+ 546: Nyghtshade       77      89 780630 11 days 17 hours 
+ 550: Tyger            63      87 895004  3 days 18 hours 
+ 551: Hicks            73      87 337029  1 hour 
+ 554: Charyb           70      86 135282 15 hours 
+Guest-33 exclaims 'Updated the exp-plaque, come see at http://2-mi.com/webplaque
+ .pl!'
+ 556: Valkrist         68      85 732980  2 hours 
+ 557: Marvin           70      85 645653  7 days 12 hours 
+ 559: Ranma            60      85 041231  1 day 19 hours 
+ 560: Dreuger          59      85 000615  1 day  8 hours 
+ 561: Zorru            73      84 877138  1 day  4 hours 
+ 562: Mordol           62      84 160092 
+ 564: Nuubi            67      83 120895 
+ 565: Tails            44      82 352945 
+ 566: Zac              52      82 340208  6 hours 
+ 567: Zyclop           56      82 307899  2 days  9 hours 
+ 568: Ooga             60      82 039006 
+ 570: Flynne           74      81 697340  1 day 
+ 574: Chronic          61      81 117956  1 hour 
+ 575: Stranger         65      80 882315  6 days 12 hours 
+ 576: Ignore           75      80 842714  6 hours 
+ 578: Flab             65      80 309848 
+ 579: Derfel           56      80 281081 11 days 10 hours 
+ 580: Hellvasara       64      80 183290  1 hour 
+ 581: Match            65      79 631307  3 days 22 hours 
+ 582: Ens              74      79 552285  1 day  2 hours 
+ 583: Glozic           51      78 707286  7 days 21 hours 
+ 584: Fegud            75      78 222792  3 hours 
+ 585: Aldien           70      78 106031  2 days 15 hours 
+ 586: Miza             50      77 731415  4 days  2 hours 
+ 587: Vince            60      77 576903  5 days 23 hours 
+ 588: Ukemi            72      77 568629 12 days  1 hour 
+ 589: Miserable        67      77 550728  1 day  4 hours 
+ 590: Theramon         76      77 432931  8 hours 
+ 592: Bone             70      76 796471  3 days 10 hours 
+ 593: Purse            63      76 419230  1 day  1 hour 
+ 594: Caped            70      76 160366  1 day  3 hours 
+ 597: Lavin            54      75 071386  1 hour 
+ 599: Swinkkel         56      73 044232 10 days  1 hour 
+ 600: Everlast         70      73 011755  2 days  5 hours 
+ 601: Rivalos          66      72 547310  2 days  6 hours 
+ 602: Aegenor          70      72 495170  6 days  7 hours 
+ 606: Maraqita         50      70 904760 
+ 608: Kirya            65      70 350300  3 hours 
+ 609: Yggrasil         68      70 321351 
+ 610: Dietmar          72      70 043586 16 hours 
+ 611: Glenfast         56      69 015334  2 days  6 hours 
+ 613: Elthar           75      68 824807 22 hours 
+ 614: Woltti           72      68 641610  2 hours 
+ 616: Ganja            60      68 206430  4 days  3 hours 
+ 617: Dracandross      70      68 089409  8 days 16 hours 
+ 618: Biga             55      67 665649  1 day 22 hours 
+ 621: Merja            65      66 951483  8 days 15 hours 
+ 623: Hjaada           64      66 082945 
+ 625: Polpot           63      65 947119  7 days  6 hours 
+ 627: Rehna            58      65 427998  1 hour 
+ 629: Aga              63      64 752143  2 days 13 hours 
+ 630: Hrolf            50      64 357689 14 hours 
+ 631: Magi             63      64 153270  5 hours 
+ 632: Ramjett          67      63 773124  2 days  5 hours 
+ 633: Flaid            61      63 358806 11 days  5 hours 
+ 634: Daevil           60      63 172333  1 hour 
+ 635: Lythlandria      40      63 152519  4 days 19 hours 
+ 636: Daxxx            65      62 694807 
+ 637: Chind            60      62 305412  7 days 21 hours 
+ 638: Mako             60      61 650760 
+ 639: Aint             60      61 540289  4 days 12 hours 
+ 640: Teppo            59      61 449202 12 hours 
+ 641: Domar            55      61 400638  9 days  7 hours 
+ 642: Overmars         68      60 781329  2 days 21 hours 
+ 643: Darkwell         59      60 624554 
+ 644: Cogline          64      60 056139  2 days 
+ 645: Kirini           60      59 716385  2 hours 
+ 649: Kalkkis          50      58 239622  5 days  3 hours 
+ 650: Trae             50      57 989546  1 day  8 hours 
+ 652: Pradedek         64      56 781102  2 hours 
+ 653: Ack              67      56 493409 10 hours 
+ 654: Routa            67      56 484009 
+ 657: Renilauv         59      54 909954 15 hours 
+ 658: Morstor          53      54 884848 
+ 659: Pate             50      54 286455  5 days  3 hours 
+ 662: Scipio           57      53 240537 12 days  3 hours 
+ 663: Hyarmentir       60      52 953083  6 days 22 hours 
+ 664: Ulath            64      52 839977 
+ 665: Randar           54      52 804860  4 days  8 hours 
+ 666: Jezu             60      52 663892  5 hours 
+ 667: Taerom           57      52 441272 
+ 668: Roadkill         63      52 413817  6 days 12 hours 
+ 669: Beanos           65      52 380106 
+ 671: Shaolin          35      52 148798  5 hours 
+ 672: Koan             64      51 708588 
+ 675: Muumipeikko      48      51 346170  4 days  3 hours 
+ 676: Lavitz           43      51 276663  9 hours 
+ 677: Morag            40      51 256473  7 days 13 hours 
+ 679: Searc            69      50 984170  1 day  8 hours 
+ 681: Llyrath          60      50 815558  3 days 21 hours 
+ 683: Bazil            54      50 139587  3 days 18 hours 
+ 684: Nosay            67      50 138007  3 hours 
+ 687: Chickity         49      49 922420 16 hours 
+ 688: Kzagr            49      49 828565  2 days 
+ 691: Pelin            54      49 223705  5 days 20 hours 
+ 692: Keliant          65      48 644555  9 days 12 hours 
+Vasquelor arrives from down.
+ 693: Agez             66      48 617331  6 days 21 hours 
+ 695: Badaxe           47      48 521985 
+ 696: Brottor          50      48 371464  1 hour 
+ 698: Drakh            50      47 881870  1 day 20 hours 
+ 699: Dooyee           55      47 195697  3 days  7 hours 
+ 700: Jenming          49      47 003988  1 day 23 hours 
+ 701: Traveler         50      46 979160  1 day  3 hours 
+ 702: Azalea           63      46 627098  1 day 14 hours 
+ 703: Hair             50      46 541506  2 hours 
+ 704: Badhan           52      46 280129 22 hours 
+ 706: Cevap            51      45 943752  9 days  1 hour 
+ 707: Chanrot          68      45 855817  4 days 13 hours 
+ 708: Spesssu          50      45 711713  1 day  9 hours 
+ 709: Modor            60      45 457714  4 days 12 hours 
+ 710: Arma             50      45 263525 10 days  5 hours 
+ 713: Kapo             51      44 307584  7 days  6 hours 
+Vasquelor leaves east.
+Vasquelor arrives from east.
+Vasquelor leaves south.
+ 714: Malystryx        62      43 943619  1 hour 
+ 716: Jkk              60      43 649451 
+ 719: Jii              60      43 060883  3 days  2 hours 
+ 722: Pohjane          51      42 707505  1 day 14 hours 
+ 723: Silvara          51      42 515842  5 days  9 hours 
+ 724: Gonzo            69      42 256266 
+ 725: Genya            60      42 202030  1 day 
+ 726: Angu             55      42 096932 
+ 728: Bombur           54      41 854533  3 hours 
+ 729: Tank             70      41 589554 10 days 15 hours 
+ 730: Tiarana          58      41 458354  2 days  9 hours 
+ 732: Pharm            36      40 985599  4 hours 
+ 733: Arafat           52      40 863334  2 hours 
+ 736: Being            54      39 946314 19 hours 
+ 737: Lanta            53      39 929461 
+ 739: Kumagna          50      39 779894  1 day 18 hours 
+Vasquelor arrives from south.
+Vasquelor leaves down.
+ 740: Gnort            48      39 770086  3 days  7 hours 
+ 742: Zeane            45      39 619138  2 days  8 hours 
+ 743: Thorfinn         60      39 573553 19 hours 
+ 744: Awed             57      39 441516  1 day 
+ 745: Darna            51      38 810704  7 days 22 hours 
+ 746: Laxman           54      38 517326 13 hours 
+ 748: Glon             55      38 424355  4 days 12 hours 
+ 749: Vandris          52      38 383204  1 day  6 hours 
+ 751: Lurppa           50      38 048280 
+ 752: Blergy           48      38 037647 
+ 753: Kiesi            48      37 752328 
+ 755: Rigger           66      37 588720  5 days 16 hours 
+ 756: Orb              42      37 524536 
+ 757: Mcewans          45      37 461938 14 hours 
+ 758: Tihsllub         51      37 419318  3 days 12 hours 
+ 761: Kalleman         51      37 137477  5 days  4 hours 
+ 763: Juz              45      36 948605  4 days  3 hours 
+ 770: Trubadurix       50      35 618930 11 days  2 hours 
+ 771: Aiwe             56      34 952671  2 days  2 hours 
+ 773: Lerz             50      34 721654  3 hours 
+ 774: Torotti          48      34 683792  3 hours 
+ 775: Eksrei           50      34 673867 
+ 779: Egall            53      34 120339  6 days  4 hours 
+ 780: Khirsah          57      34 119345  4 days 12 hours 
+ 783: Fil              57      33 890553  4 days  4 hours 
+ 786: Ergopad          46      33 487479  7 days 17 hours 
+ 787: Alcal            49      33 458218  3 days 11 hours 
+ 789: Mhvi             50      33 045271  9 days  2 hours 
+ 792: Drakhan          50      32 797253  3 hours 
+ 795: Val              59      32 477880  1 hour 
+ 796: Voldemort        55      32 379645 12 days  6 hours 
+ 797: Shalidor         46      32 230876  4 days  4 hours 
+ 798: Saldas           45      32 174827  3 days 14 hours 
+ 799: Morr             48      32 135746  6 days 
+ 802: Krump            48      31 358994 
+ 805: Sumar            45      31 137821  4 hours 
+ 809: Shamaatae        52      30 717498 11 days  8 hours 
+ 810: Porocks          50      30 360857 
+ 817: Sopuli           50      29 667222  3 hours 
+ 819: Yero             43      29 158154  2 days  2 hours 
+ 820: Rota             50      29 151309  3 days  4 hours 
+ 823: Qozza            48      28 890803  8 days  6 hours 
+ 825: Gorath           50      28 750588  4 days  9 hours 
+ 832: Anthropy         45      27 524264  1 day 12 hours 
+ 833: Xarmon           55      27 416942  2 days 20 hours 
+ 837: Armand           50      26 536904 
+ 839: Onkel            50      26 390712 
+ 842: Kvlt             33      26 195251  5 hours 
+ 843: Hiaman           50      26 058224  8 days 21 hours 
+ 844: Thef             46      25 901117  4 days  5 hours 
+ 845: Yornh            43      25 598367 10 days  7 hours 
+ 849: Garvis           50      25 172799  1 day  1 hour 
+ 855: Tarken           50      24 817579 
+ 856: Shadodragn       52      24 456185 17 hours 
+ 859: Doot             49      23 270040  3 days 16 hours 
+ 864: Wendel           42      23 093954  3 hours 
+ 865: Yarthetiger      45      23 060420  7 days 23 hours 
+ 867: Sethar           46      22 395570  1 day 
+ 868: Warlord          45      22 099610  1 hour 
+ 874: Eronk            51      21 627900  5 hours 
+ 876: Meanie           45      21 536640  9 days 
+ 877: Transtar         50      21 515678  7 days  7 hours 
+ 881: Orome            49      21 042728 12 hours 
+ 884: Graal            50      20 737777  9 days  1 hour 
+ 885: Polarcup         51      20 609988  8 days  3 hours 
+ 892: Ergor            50      18 380096  4 days  4 hours 
+ 894: Aleksey          45      18 131784 12 days  5 hours 
+ 903: Urza             34      17 424693  9 days 18 hours 
+ 904: Achilles         46      16 826738  9 days 22 hours 
+ 906: Thelo            46      16 749246 
+ 907: Nylon            47      16 218852  9 days 13 hours 
+ 909: Darkraven        50      16 175476  1 day  1 hour 
+ 913: Bambi            50      15 712305 
+ 914: Nerold           48      15 708468  2 days 23 hours 
+ 917: Dixon            45      15 455936  2 days  7 hours 
+ 918: Decay            48      15 436015  3 hours 
+ 921: Yohoack          50      15 350238  1 day 10 hours 
+ 922: Adus             47      15 323767 
+ 925: Maddie           47      15 089132  1 day  2 hours 
+ 926: Yoz              50      14 642678  1 day  8 hours 
+ 927: Misterr          47      14 616127  2 hours 
+ 928: Helena           42      14 557762 22 hours 
+ 932: Ganvar           45      13 807549 19 hours 
+ 939: Done             46      13 323930  5 days 12 hours 
+ 941: Gangi            46      13 056513  1 day  8 hours 
+ 942: Rhoads           45      13 002658  2 days  4 hours 
+ 945: Zohlor           45      12 718190  4 days  2 hours 
+ 946: Aedos            30      12 461604 
+ 948: Nightwatch       40      11 920017 14 hours 
+ 949: Sithlord         40      11 849510  4 days 19 hours 
+ 951: Laki             27      11 732339  2 days  5 hours 
+ 953: Cherep           40      11 287551 11 days 10 hours 
+ 955: Ronald           48      11 038843  5 hours 
+ 958: Nau              47      10 915260  7 days 19 hours 
+ 960: Vilho            42      10 600066  1 day 11 hours 
+ 962: Koldor           45      10 535895  2 days  4 hours 

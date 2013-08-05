@@ -1,0 +1,50 @@
+Runemagi
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  50 |  50 |    (n/a) |
+| Essence eye                   |  60 |  80 |      871 |
+| Zapping                       |  70 |  70 |    (n/a) |
+| Mining                        |  66 |  75 |     4885 |
+| Plant lore                    |  80 |  80 |    (n/a) |
+| Mana control                  |  80 |  80 |    (n/a) |
+| Cast acid                     |  30 |  85 |      499 |
+| Cast asphyxiation             |  30 |  85 |      499 |
+| Cast cold                     |  30 |  85 |      499 |
+| Cast control                  |  30 |  85 |      499 |
+| Cast electricity              |  50 |  85 |     2804 |
+| Cast fire                     |  60 |  85 |     6640 |
+| Cast generic                  |  75 | 100 |    24190 |
+| Cast heal                     |  40 |  60 |     1184 |
+| Cast information              |  30 |  85 |      499 |
+| Cast magical                  |  30 |  85 |      499 |
+| Cast poison                   |   0 |  85 |       36 |
+| Cast protection               |   0 |  85 |       36 |
+| Cast special                  |  50 | 100 |     2804 |
+| Cast teleportation            |  38 |  85 |      996 |
+| Cast transformation           |  26 |  85 |      353 |
+| Amalgamate                    |  50 |  50 |    (n/a) |
+| Attack                        |  51 |  50 |    (n/a) |
+| Masonry                       |  18 |  25 |      243 |
+| Refining                      |  34 |  50 |     1097 |
+| Gem cutting                   |  13 |  20 |      262 |
+| Knowledge of asphyxiation     |   0 |  50 |      131 |
+| Knowledge of magic lore       |   0 |  50 |      131 |
+| Knowledge of toxicology       |   0 |  50 |      131 |
+| Mastery of arctic powers      |   0 |  50 |      131 |
+| Mastery of control            |   0 |  50 |      131 |
+| Theory of corrosion           |   0 |  50 |      131 |
+| Theory of electrical engineering|   0 |  50 |      131 |
+| Theory of pyromania           |   0 |  50 |      131 |
+| Runescribing                  |  70 |  80 |    57744 |
+| Runic research                |  70 |  80 |    57744 |
+| Quick chant                   |  37 |  90 |     3767 |
+| Craft runestone               |  70 |  80 |    65231 |
+| Conceal spellcasting          |   0 |  70 |      200 |
+| Analysis of magic lore        |  40 |  90 |     9031 |
+| Aether flow                   |  65 | 100 |   119913 |
+| Method of runemagery          |  58 | 100 |    65597 |
+| Damage criticality            |   0 |  65 |     1192 |
+`------------------------------------------------------'

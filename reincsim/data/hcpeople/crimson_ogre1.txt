@@ -1,0 +1,58 @@
+Ogre
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  80 | 100 |     3550 |
+| Push                          |  80 | 100 |     3550 |
+| Tinning                       |   0 | 100 |        3 |
+| Compare                       |  80 | 100 |     5972 |
+| Controlled panic              |  70 |  70 |    (n/a) |
+| First aid                     |  50 |  50 |    (n/a) |
+| Alertness                     |  70 |  70 |    (n/a) |
+| Bash                          |  90 | 100 |    28112 |
+| Battlecry                     |  60 | 100 |     2117 |
+| Swim                          |  70 | 100 |     5015 |
+| Torch creation                |  43 |  25 |    (n/a) |
+| Fresh pants                   |   0 | 100 |       18 |
+| Hiking                        |  37 |  25 |    (n/a) |
+| Kick                          |  35 | 100 |      412 |
+| Throw weight                  |  70 |  80 |     8435 |
+| Switch weapon                 |  70 |  70 |    (n/a) |
+| Attack                        |  70 | 100 |    14187 |
+| Lesser taunt                  |  70 | 100 |    14187 |
+| Short blades                  |  33 | 100 |      792 |
+| Brawling                      |  51 |  75 |     4640 |
+| Polearms                      |  34 | 100 |     1267 |
+| Negate offhand penalty        |  50 |  70 |     5405 |
+| Shield bash                   |  70 | 100 |    30298 |
+| Stab                          |   0 | 100 |       76 |
+| Axes                          |  25 |  70 |      750 |
+| Impale                        |   0 | 100 |       95 |
+| Bludgeons                     |  35 |  70 |     2146 |
+| Rescue                        |  70 | 100 |    43836 |
+| Grapple                       |  20 |  20 |    (n/a) |
+| Cleave                        |   0 |  65 |      113 |
+| Long blades                   |  70 | 100 |    50956 |
+| Pound                         |   0 |  65 |      129 |
+| Stun                          |  60 | 100 |    22975 |
+| Riposte                       |  50 | 100 |    10893 |
+| Slash                         |  70 | 100 |    61058 |
+| Combat damage analysis        |  76 | 100 |   143724 |
+| Leadership                    |  56 | 100 |    32360 |
+| Discipline                    |  50 |  50 |    (n/a) |
+| Pierce                        |   0 | 100 |      321 |
+| Mangle                        |   0 | 100 |      351 |
+| Reaving                       |   0 |  70 |      379 |
+| Enhance criticals             |  50 |  65 |    30401 |
+| Pulverize                     |   0 |  70 |      407 |
+| Decapitate                    |  60 | 100 |    76824 |
+| Parry                         | 100 | 100 |    (n/a) |
+| Tumbling attack               |  52 |  60 |    56556 |
+| Stunned maneuvers             |  60 | 100 |   152741 |
+| Combat sense                  | 100 | 100 |    (n/a) |
+| Dodge                         | 100 | 100 |    (n/a) |
+| Protection by sacrifice       |  48 | 100 |    67381 |
+| Ventriloquism                 |  14 | 100 |     4876 |
+`------------------------------------------------------'

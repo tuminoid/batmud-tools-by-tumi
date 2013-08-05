@@ -1,0 +1,11 @@
+
+/* citymap.css by Tumi for Batmap-in-color project (c) 2006 */
+
+
+#citymap1 {
+	background-color: Black;
+	color: White;
+	letter-spacing: 0;
+	font-family: monospace, serif;
+	font-size: larger;
+}

@@ -1,0 +1,71 @@
+Name: Mossad Alija Bet
+Command: mossad+
+Guild masters: Farliss and Fikrik
+Your level: 0
+Maximum level: 10
+
+Description:
+Default description
+Abilities gained when joining:
+ Receive guild item
+
+Abilities and requirements at each level:
+ Level 1:
+  Abilities:
+   Skillmax of all +1
+   Statmax of str +3
+   Spellmax of all +1
+   Skillmax of dodge +2
+ Level 2:
+  Abilities:
+   Skillmax of all +1
+   Statmax of str +4
+   Statmax of dex +4
+   Statmax of con +4
+ Level 3:
+  Abilities:
+   Skillmax of all +1
+   Statmax of str +5
+   Statmax of wis +5
+   Statmax of dex +5
+ Level 4:
+  Abilities:
+   Statmax of str +6
+   Skillmax of all +1
+   Statmax of wis +6
+   Statmax of con +6
+ Level 5:
+  Abilities:
+   Statmax of dex +8
+   Statmax of con +8
+   Statmax of wis +8
+ Level 6:
+  Abilities:
+   Statmax of str +4
+   Skillmax of all +1
+ Level 7:
+  Abilities:
+   Statmax of str +5
+   Skillmax of all +1
+   Statmax of wis +5
+ Level 8:
+  Abilities:
+   Statmax of str +6
+   Statmax of dex +6
+   Skillmax of all +1
+   Statmax of wis +6
+ Level 9:
+  Abilities:
+   Statmax of dex +8
+   Statmax of wis +8
+   Statmax of con +8
+ Level 10:
+  Abilities:
+  Abilities:
+   Statmax of dex +9
+   Skillmax of all +2
+   Statmax of str +9
+   Statmax of con +9
+
+Allows joining to the following guild:
+ Mossad Alija Bet

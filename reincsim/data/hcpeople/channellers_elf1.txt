@@ -1,0 +1,73 @@
+Elf
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  80 |  80 |    (n/a) |
+| Essence eye                   |  75 |  95 |     2884 |
+| Zapping                       |  70 |  95 |     3153 |
+| Plant lore                    |  85 |  95 |    26186 |
+| Craft orb                     |  95 |  95 |    (n/a) |
+| Wandmaking                    |  70 |  95 |     8919 |
+| Mana control                  |  70 |  95 |    10545 |
+| Cast alchemy                  |  50 |  50 |    (n/a) |
+| Cast channelling              | 100 | 100 |    (n/a) |
+| Cast electricity              |  80 |  80 |    (n/a) |
+| Cast fire                     |  80 |  80 |    (n/a) |
+| Cast generic                  |  80 | 100 |    33837 |
+| Cast information              |  80 |  50 |    (n/a) |
+| Cast magical                  |  83 |  80 |    (n/a) |
+| Cast teleportation            |  70 |  50 |    (n/a) |
+| Cast transformation           |  85 | 100 |    52063 |
+| Attack                        |  41 |  50 |     1456 |
+| Short blades                  |   0 |  50 |       57 |
+| Mix salve                     |  55 |  95 |     8188 |
+| Flow of magic                 | 100 | 100 |    (n/a) |
+| Mastery of channelling        | 100 | 100 |    (n/a) |
+| Mastery of draining           |  90 | 100 |   229999 |
+| Bludgeons                     |   0 |  50 |      131 |
+| Quick chant                   |  81 |  75 |    (n/a) |
+| Analysis of magic lore        |  65 | 100 |    70805 |
+| Damage criticality            |  61 |  75 |   229999 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |  75 |  75 |    (n/a) |
+| See magic                     |  66 | 100 |     2421 |
+| Darkness                      |  50 | 100 |      894 |
+| Floating                      |  65 | 100 |     3259 |
+| Light                         |  50 | 100 |      894 |
+| Drain item                    |  75 | 100 |     8848 |
+| Greater darkness              |  50 |  50 |    (n/a) |
+| Greater light                 |  50 |  50 |    (n/a) |
+| Feather weight                |  52 | 100 |     1787 |
+| Identify                      |  67 |  50 |    (n/a) |
+| Golem heal                    |  50 | 100 |     2039 |
+| Summon                        |  60 |  50 |    (n/a) |
+| Drain room                    |  80 | 100 |    33588 |
+| Flame arrow                   |   0 | 100 |       33 |
+| Magic missile                 |  40 | 100 |     1069 |
+| Shocking grasp                |   0 | 100 |       33 |
+| Transform golem               |  70 | 100 |    20655 |
+| Firebolt                      |   0 | 100 |       56 |
+| Lightning bolt                |   0 | 100 |       56 |
+| Summon lesser spores          |   0 | 100 |       56 |
+| Drain ally                    |  77 | 100 |    51566 |
+| Replenish ally                |  90 | 100 |   158093 |
+| Channelball                   |  90 | 100 |   203474 |
+| Channelbolt                   |  90 | 100 |   203474 |
+| Channelburn                   |  88 | 100 |   171260 |
+| Energy aura                   |  85 | 100 |   139266 |
+| Item dispersion shield        |   0 |  70 |       95 |
+| Personal force field          |  71 | 100 |    44559 |
+| Animate golem                 |  40 | 100 |     3303 |
+| Channelray                    |  80 | 100 |   103777 |
+| Create herb                   |  50 |  50 |    (n/a) |
+| Channelspray                  |  80 | 100 |   108072 |
+| Energy vortex                 | 100 | 100 |    (n/a) |
+| Drain enemy                   |  80 | 100 |   120632 |
+`------------------------------------------------------'

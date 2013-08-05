@@ -1,0 +1,37 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 15  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Evaluate mount                |   0 |  96 | 100 |       13 |
+| Alertness                     |  70 |  96 |  75 |     8488 |
+| Plant lore                    |   0 |  96 |  50 |       29 |
+| Hiking                        |  25 |  96 |  50 |      569 |
+| Riding                        |   0 |  96 | 100 |       36 |
+| Kick                          |  25 |  96 |  80 |      615 |
+| Rebuke                        |   0 |  96 | 100 |       52 |
+| Attack                        |  56 |  96 |  70 |     9921 |
+| Butchering                    |   0 |  96 | 100 |       58 |
+| Make mount feed               |   0 |  96 | 100 |       67 |
+| Short blades                  |  33 |  96 |  90 |     2193 |
+| Trample                       |   0 |  96 | 100 |       83 |
+| Heel                          |   0 |  96 | 100 |       86 |
+| Refit mount gear              |   0 |  96 | 100 |       86 |
+| Stay                          |   0 |  96 | 100 |       86 |
+| Stab                          |   0 |  96 |  45 |       96 |
+| Bludgeons                     |   0 |  96 |  90 |      110 |
+| Combat riding                 |   0 |  96 |  75 |      110 |
+| Pound                         |   0 |  96 |  45 |      120 |
+| Ride through flame            |   0 |  96 | 100 |      127 |
+| Ride through frost            |   0 |  96 | 100 |      127 |
+| Ride through pain             |   0 |  96 | 100 |      140 |
+| Tame mount                    |   0 |  96 | 100 |      157 |
+| Ride underground              |   0 |  96 |  -  |    (n/a) |
+| Parry                         |  95 |  96 |  25 |    (n/a) |
+| Guided strike                 |   0 |  96 |  -  |    (n/a) |
+| Stunned maneuvers             |  50 |  96 |  50 |    (n/a) |
+| Calm animal                   |   0 |  96 | 100 |      194 |
+| Combat sense                  |  50 |  96 |  35 |    (n/a) |
+| Dodge                         |  95 |  96 |  25 |    (n/a) |
+`-----------------------------------------------------------'

@@ -1,0 +1,793 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]150 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                          [fonter.php?str=Squire]
+
+                                   Squire
+
+   Command: squire
+   Creators: [22]Elwood, [23]Shinarae
+   Maximum level: 15
+   Description:
+   Classically, squires are young warriors serving a knight or similar
+   master in
+   exchange for training. While under the expert instructions of a
+   seasoned
+   fighter, they learn skills related to combat, adventuring, exploring,
+   and any
+   other suitable skills the master knows. Only by graduating from ones
+   apprenticeship as a squire can you proceed into more challenging
+   guilds that
+   require combat expertise both on foot and on horseback. However, some
+   may find
+   the general purpose knowledge offered to squires reward enough in
+   itself.
+
+                                New Member
+               Background must be nomad or civilized
+               You are now a member of the guild of squires.
+               You receive a brush as a symbol of your duties.
+               May train skill [24]Attack to 25%
+               May train skill [25]Push to 30%
+               May train skill [26]Polearms to 20%
+               May train skill [27]Consider to 40%
+               May train skill [28]Tinning to 20%
+               May train skill [29]Torch creation to 15%
+               May train skill [30]Hiking to 20%
+               May train skill [31]Fire building to 20%
+               May train skill [32]Evaluate mount to 10%
+
+                                  Level 2
+                Has trained skill [33]Attack to at least 24%
+                Has trained skill [34]Polearms to at least 20%
+                May train skill [35]Attack to 30%
+                May train skill [36]Push to 45%
+                May train skill [37]Polearms to 21%
+                May train skill [38]Consider to 43%
+                May train skill [39]Tinning to 25%
+                May train skill [40]Torch creation to 22%
+                May train skill [41]Hiking to 22%
+                May train skill [42]Hunting to 20%
+                May train skill [43]Fire building to 21%
+                May train skill [44]Compare to 20%
+                May train skill [45]Evaluate mount to 11%
+
+                                  Level 3
+                Has trained skill [46]Attack to at least 25%
+                Has trained skill [47]Polearms to at least 20%
+                May train skill [48]Attack to 35%
+                May train skill [49]Push to 60%
+                May train skill [50]Alertness to 15%
+                May train skill [51]Short blades to 20%
+                May train skill [52]Polearms to 22%
+                May train skill [53]Consider to 46%
+                May train skill [54]Tinning to 31%
+                May train skill [55]Torch creation to 30%
+                May train skill [56]Hiking to 25%
+                May train skill [57]Hunting to 21%
+                May train skill [58]Fire building to 22%
+                May train skill [59]Compare to 26%
+                May train skill [60]First aid to 10%
+                May train skill [61]Camping to 20%
+                May train skill [62]Evaluate mount to 13%
+
+                                  Level 4
+                Has trained skill [63]Attack to at least 26%
+                Has trained skill [64]Polearms to at least 20%
+                May train skill [65]Attack to 41%
+                May train skill [66]Push to 75%
+                May train skill [67]Alertness to 17%
+                May train skill [68]Short blades to 20%
+                May train skill [69]Polearms to 23%
+                May train skill [70]Consider to 49%
+                May train skill [71]Tinning to 37%
+                May train skill [72]Torch creation to 37%
+                May train skill [73]Hiking to 28%
+                May train skill [74]Hunting to 23%
+                May train skill [75]Fire building to 23%
+                May train skill [76]Compare to 33%
+                May train skill [77]First aid to 17%
+                May train skill [78]Camping to 24%
+                May train skill [79]Evaluate mount to 15%
+
+                                  Level 5
+                Has trained skill [80]Attack to at least 28%
+                Has trained skill [81]Polearms to at least 20%
+                May train skill [82]Attack to 46%
+                May train skill [83]Push to 90%
+                May train skill [84]Alertness to 20%
+                May train skill [85]Short blades to 21%
+                May train skill [86]Polearms to 24%
+                May train skill [87]Consider to 52%
+                May train skill [88]Tinning to 42%
+                May train skill [89]Torch creation to 45%
+                May train skill [90]Hiking to 31%
+                May train skill [91]Hunting to 24%
+                May train skill [92]Fire building to 24%
+                May train skill [93]Compare to 39%
+                May train skill [94]First aid to 25%
+                May train skill [95]Camping to 28%
+                May train skill [96]Swim to 30%
+                May train skill [97]Evaluate mount to 17%
+
+                                  Level 6
+              Has trained skill [98]Attack to at least 30%
+              Has trained skill [99]Polearms to at least 21%
+              May train skill [100]Attack to 51%
+              May train skill [101]Alertness to 23%
+              May train skill [102]Negate offhand penalty to 15%
+              May train skill [103]Short blades to 22%
+              May train skill [104]Polearms to 25%
+              May train skill [105]Long blades to 20%
+              May train skill [106]Consider to 55%
+              May train skill [107]Tinning to 48%
+              May train skill [108]Torch creation to 52%
+              May train skill [109]Hiking to 34%
+              May train skill [110]Hunting to 26%
+              May train skill [111]Fire building to 25%
+              May train skill [112]Compare to 46%
+              May train skill [113]First aid to 33%
+              May train skill [114]Camping to 32%
+              May train skill [115]Swim to 36%
+              May train skill [116]Plant lore to 20%
+              May train skill [117]Riding to 10%
+              May train skill [118]Combat riding to 5%
+              May train skill [119]Evaluate mount to 18%
+
+                                 Level 7
+             Has trained skill [120]Attack to at least 32%
+             Has trained skill [121]Polearms to at least 21%
+             Has trained skill [122]Riding to at least 10%
+             Has trained skill [123]Combat riding to at least 4%
+             May train skill [124]Attack to 57%
+             May train skill [125]Alertness to 26%
+             May train skill [126]Negate offhand penalty to 17%
+             May train skill [127]Kick to 30%
+             May train skill [128]Switch weapon to 10%
+             May train skill [129]Short blades to 23%
+             May train skill [130]Polearms to 26%
+             May train skill [131]Long blades to 21%
+             May train skill [132]Consider to 58%
+             May train skill [133]Tinning to 54%
+             May train skill [134]Torch creation to 60%
+             May train skill [135]Hiking to 37%
+             May train skill [136]Hunting to 28%
+             May train skill [137]Fire building to 26%
+             May train skill [138]Compare to 52%
+             May train skill [139]First aid to 41%
+             May train skill [140]Camping to 37%
+             May train skill [141]Swim to 42%
+             May train skill [142]Plant lore to 25%
+             May train skill [143]Riding to 11%
+             May train skill [144]Combat riding to 10%
+             May train skill [145]Evaluate mount to 20%
+
+                                 Level 8
+             Has trained skill [146]Attack to at least 33%
+             Has trained skill [147]Kick to at least 29%
+             Has trained skill [148]Polearms to at least 21%
+             Has trained skill [149]Riding to at least 10%
+             Has trained skill [150]Combat riding to at least 5%
+             May train skill [151]Attack to 62%
+             May train skill [152]Alertness to 29%
+             May train skill [153]Negate offhand penalty to 20%
+             May train skill [154]Kick to 35%
+             May train skill [155]Switch weapon to 16%
+             May train skill [156]Short blades to 24%
+             May train skill [157]Polearms to 27%
+             May train skill [158]Long blades to 23%
+             May train skill [159]Consider to 61%
+             May train skill [160]Tinning to 60%
+             May train skill [161]Hiking to 40%
+             May train skill [162]Hunting to 29%
+             May train skill [163]Fire building to 27%
+             May train skill [164]Compare to 59%
+             May train skill [165]First aid to 49%
+             May train skill [166]Camping to 41%
+             May train skill [167]Swim to 48%
+             May train skill [168]Plant lore to 30%
+             May train skill [169]Riding to 13%
+             May train skill [170]Combat riding to 15%
+             May train skill [171]Evaluate mount to 22%
+
+                                 Level 9
+             Has trained skill [172]Attack to at least 35%
+             Has trained skill [173]Kick to at least 30%
+             Has trained skill [174]Polearms to at least 22%
+             Has trained skill [175]Riding to at least 10%
+             Has trained skill [176]Combat riding to at least 6%
+             May train skill [177]Attack to 67%
+             May train skill [178]Alertness to 32%
+             May train skill [179]Negate offhand penalty to 23%
+             May train skill [180]Kick to 40%
+             May train skill [181]Switch weapon to 22%
+             May train skill [182]Short blades to 24%
+             May train skill [183]Polearms to 28%
+             May train skill [184]Long blades to 24%
+             May train skill [185]Consider to 64%
+             May train skill [186]Hunting to 31%
+             May train skill [187]Fire building to 28%
+             May train skill [188]Compare to 65%
+             May train skill [189]First aid to 57%
+             May train skill [190]Camping to 45%
+             May train skill [191]Swim to 55%
+             May train skill [192]Plant lore to 35%
+             May train skill [193]Riding to 14%
+             May train skill [194]Combat riding to 20%
+             May train skill [195]Evaluate mount to 24%
+
+                                 Level 10
+             Has trained skill [196]Attack to at least 37%
+             Has trained skill [197]Kick to at least 31%
+             Has trained skill [198]Polearms to at least 22%
+             Has trained skill [199]Riding to at least 11%
+             Has trained skill [200]Combat riding to at least 8%
+             May train skill [201]Attack to 73%
+             May train skill [202]Alertness to 35%
+             May train skill [203]Negate offhand penalty to 26%
+             May train skill [204]Kick to 45%
+             May train skill [205]Switch weapon to 28%
+             May train skill [206]Short blades to 25%
+             May train skill [207]Polearms to 29%
+             May train skill [208]Long blades to 26%
+             May train skill [209]Consider to 67%
+             May train skill [210]Hunting to 33%
+             May train skill [211]Fire building to 30%
+             May train skill [212]Compare to 72%
+             May train skill [213]First aid to 65%
+             May train skill [214]Camping to 50%
+             May train skill [215]Swim to 61%
+             May train skill [216]Plant lore to 40%
+             May train skill [217]Riding to 16%
+             May train skill [218]Combat riding to 25%
+             May train skill [219]Evaluate mount to 26%
+             May train skill [220]Tame mount to 1%
+
+                                 Level 11
+             Has trained skill [221]Attack to at least 39%
+             Has trained skill [222]Kick to at least 33%
+             Has trained skill [223]Polearms to at least 22%
+             Has trained skill [224]Riding to at least 11%
+             Has trained skill [225]Combat riding to at least 10%
+             May train skill [226]Attack to 78%
+             May train skill [227]Alertness to 38%
+             May train skill [228]Negate offhand penalty to 28%
+             May train skill [229]Kick to 50%
+             May train skill [230]Switch weapon to 35%
+             May train skill [231]Rescue to 12%
+             May train skill [232]Shield bash to 10%
+             May train skill [233]Short blades to 26%
+             May train skill [234]Polearms to 30%
+             May train skill [235]Long blades to 28%
+             May train skill [236]Consider to 70%
+             May train skill [237]Hunting to 34%
+             May train skill [238]Compare to 78%
+             May train skill [239]Swim to 67%
+             May train skill [240]Riding to 18%
+             May train skill [241]Combat riding to 30%
+             May train skill [242]Evaluate mount to 27%
+             May train skill [243]Tame mount to 2%
+
+                                 Level 12
+             Has trained skill [244]Attack to at least 41%
+             Has trained skill [245]Kick to at least 35%
+             Has trained skill [246]Polearms to at least 23%
+             Has trained skill [247]Riding to at least 12%
+             Has trained skill [248]Combat riding to at least 11%
+             May train skill [249]Attack to 83%
+             May train skill [250]Alertness to 41%
+             May train skill [251]Negate offhand penalty to 31%
+             May train skill [252]Kick to 55%
+             May train skill [253]Switch weapon to 41%
+             May train skill [254]Rescue to 17%
+             May train skill [255]Shield bash to 15%
+             May train skill [256]Dodge to 10%
+             May train skill [257]Parry to 10%
+             May train skill [258]Brawling to 10%
+             May train skill [259]Short blades to 27%
+             May train skill [260]Polearms to 31%
+             May train skill [261]Long blades to 29%
+             May train skill [262]Hunting to 36%
+             May train skill [263]Compare to 85%
+             May train skill [264]Swim to 73%
+             May train skill [265]Riding to 19%
+             May train skill [266]Combat riding to 35%
+             May train skill [267]Evaluate mount to 29%
+             May train skill [268]Tame mount to 4%
+
+                                 Level 13
+             Has trained skill [269]Attack to at least 42%
+             Has trained skill [270]Kick to at least 36%
+             Has trained skill [271]Brawling to at least 9%
+             Has trained skill [272]Polearms to at least 23%
+             Has trained skill [273]Riding to at least 12%
+             Has trained skill [274]Combat riding to at least 13%
+             May train skill [275]Attack to 89%
+             May train skill [276]Alertness to 44%
+             May train skill [277]Negate offhand penalty to 34%
+             May train skill [278]Kick to 60%
+             May train skill [279]Switch weapon to 47%
+             May train skill [280]Rescue to 23%
+             May train skill [281]Shield bash to 20%
+             May train skill [282]Dodge to 10%
+             May train skill [283]Riposte to 10%
+             May train skill [284]Parry to 10%
+             May train skill [285]Brawling to 15%
+             May train skill [286]Short blades to 28%
+             May train skill [287]Polearms to 32%
+             May train skill [288]Long blades to 31%
+             May train skill [289]Hunting to 38%
+             May train skill [290]Swim to 80%
+             May train skill [291]Riding to 21%
+             May train skill [292]Combat riding to 40%
+             May train skill [293]Evaluate mount to 31%
+             May train skill [294]Tame mount to 6%
+             May train skill [295]Make mount feed to 5%
+
+                                 Level 14
+             Has trained skill [296]Attack to at least 44%
+             Has trained skill [297]Kick to at least 38%
+             Has trained skill [298]Brawling to at least 10%
+             Has trained skill [299]Polearms to at least 23%
+             Has trained skill [300]Riding to at least 13%
+             Has trained skill [301]Combat riding to at least 15%
+             May train skill [302]Attack to 94%
+             May train skill [303]Alertness to 47%
+             May train skill [304]Negate offhand penalty to 37%
+             May train skill [305]Kick to 65%
+             May train skill [306]Switch weapon to 53%
+             May train skill [307]Rescue to 29%
+             May train skill [308]Shield bash to 25%
+             May train skill [309]Dodge to 10%
+             May train skill [310]Riposte to 10%
+             May train skill [311]Stun to 10%
+             May train skill [312]Throw weight to 10%
+             May train skill [313]Parry to 10%
+             May train skill [314]Brawling to 20%
+             May train skill [315]Short blades to 29%
+             May train skill [316]Polearms to 33%
+             May train skill [317]Long blades to 33%
+             May train skill [318]Hunting to 40%
+             May train skill [319]Riding to 23%
+             May train skill [320]Combat riding to 45%
+             May train skill [321]Evaluate mount to 33%
+             May train skill [322]Tame mount to 8%
+             May train skill [323]Make mount feed to 15%
+
+                                 Level 15
+             Has trained skill [324]Attack to at least 46%
+             Has trained skill [325]Kick to at least 40%
+             Has trained skill [326]Brawling to at least 11%
+             Has trained skill [327]Polearms to at least 24%
+             Has trained skill [328]Riding to at least 13%
+             Has trained skill [329]Combat riding to at least 16%
+             May train skill [330]Attack to 100%
+             May train skill [331]Alertness to 50%
+             May train skill [332]Negate offhand penalty to 40%
+             May train skill [333]Kick to 70%
+             May train skill [334]Switch weapon to 60%
+             May train skill [335]Rescue to 35%
+             May train skill [336]Shield bash to 30%
+             May train skill [337]Dodge to 10%
+             May train skill [338]Riposte to 10%
+             May train skill [339]Stun to 20%
+             May train skill [340]Throw weight to 25%
+             May train skill [341]Parry to 10%
+             May train skill [342]Brawling to 25%
+             May train skill [343]Short blades to 30%
+             May train skill [344]Polearms to 35%
+             May train skill [345]Long blades to 35%
+             May train skill [346]Riding to 25%
+             May train skill [347]Combat riding to 50%
+             May train skill [348]Evaluate mount to 35%
+             May train skill [349]Tame mount to 10%
+             May train skill [350]Make mount feed to 25%
+
+                   Allows joining to the following guild:
+                     Squire
+
+   [351]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [352]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=Squire&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=Squire&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=Squire&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=elwood
+  23. http://www.bat.org/help/finger.php?str=shinarae
+  24. http://www.bat.org/help/skills.php?str=attack
+  25. http://www.bat.org/help/skills.php?str=push
+  26. http://www.bat.org/help/skills.php?str=polearms
+  27. http://www.bat.org/help/skills.php?str=consider
+  28. http://www.bat.org/help/skills.php?str=tinning
+  29. http://www.bat.org/help/skills.php?str=torch_creation
+  30. http://www.bat.org/help/skills.php?str=hiking
+  31. http://www.bat.org/help/skills.php?str=fire_building
+  32. http://www.bat.org/help/skills.php?str=evaluate_mount
+  33. http://www.bat.org/help/skills.php?str=attack
+  34. http://www.bat.org/help/skills.php?str=polearms
+  35. http://www.bat.org/help/skills.php?str=attack
+  36. http://www.bat.org/help/skills.php?str=push
+  37. http://www.bat.org/help/skills.php?str=polearms
+  38. http://www.bat.org/help/skills.php?str=consider
+  39. http://www.bat.org/help/skills.php?str=tinning
+  40. http://www.bat.org/help/skills.php?str=torch_creation
+  41. http://www.bat.org/help/skills.php?str=hiking
+  42. http://www.bat.org/help/skills.php?str=hunting
+  43. http://www.bat.org/help/skills.php?str=fire_building
+  44. http://www.bat.org/help/skills.php?str=compare
+  45. http://www.bat.org/help/skills.php?str=evaluate_mount
+  46. http://www.bat.org/help/skills.php?str=attack
+  47. http://www.bat.org/help/skills.php?str=polearms
+  48. http://www.bat.org/help/skills.php?str=attack
+  49. http://www.bat.org/help/skills.php?str=push
+  50. http://www.bat.org/help/skills.php?str=alertness
+  51. http://www.bat.org/help/skills.php?str=short_blades
+  52. http://www.bat.org/help/skills.php?str=polearms
+  53. http://www.bat.org/help/skills.php?str=consider
+  54. http://www.bat.org/help/skills.php?str=tinning
+  55. http://www.bat.org/help/skills.php?str=torch_creation
+  56. http://www.bat.org/help/skills.php?str=hiking
+  57. http://www.bat.org/help/skills.php?str=hunting
+  58. http://www.bat.org/help/skills.php?str=fire_building
+  59. http://www.bat.org/help/skills.php?str=compare
+  60. http://www.bat.org/help/skills.php?str=first_aid
+  61. http://www.bat.org/help/skills.php?str=camping
+  62. http://www.bat.org/help/skills.php?str=evaluate_mount
+  63. http://www.bat.org/help/skills.php?str=attack
+  64. http://www.bat.org/help/skills.php?str=polearms
+  65. http://www.bat.org/help/skills.php?str=attack
+  66. http://www.bat.org/help/skills.php?str=push
+  67. http://www.bat.org/help/skills.php?str=alertness
+  68. http://www.bat.org/help/skills.php?str=short_blades
+  69. http://www.bat.org/help/skills.php?str=polearms
+  70. http://www.bat.org/help/skills.php?str=consider
+  71. http://www.bat.org/help/skills.php?str=tinning
+  72. http://www.bat.org/help/skills.php?str=torch_creation
+  73. http://www.bat.org/help/skills.php?str=hiking
+  74. http://www.bat.org/help/skills.php?str=hunting
+  75. http://www.bat.org/help/skills.php?str=fire_building
+  76. http://www.bat.org/help/skills.php?str=compare
+  77. http://www.bat.org/help/skills.php?str=first_aid
+  78. http://www.bat.org/help/skills.php?str=camping
+  79. http://www.bat.org/help/skills.php?str=evaluate_mount
+  80. http://www.bat.org/help/skills.php?str=attack
+  81. http://www.bat.org/help/skills.php?str=polearms
+  82. http://www.bat.org/help/skills.php?str=attack
+  83. http://www.bat.org/help/skills.php?str=push
+  84. http://www.bat.org/help/skills.php?str=alertness
+  85. http://www.bat.org/help/skills.php?str=short_blades
+  86. http://www.bat.org/help/skills.php?str=polearms
+  87. http://www.bat.org/help/skills.php?str=consider
+  88. http://www.bat.org/help/skills.php?str=tinning
+  89. http://www.bat.org/help/skills.php?str=torch_creation
+  90. http://www.bat.org/help/skills.php?str=hiking
+  91. http://www.bat.org/help/skills.php?str=hunting
+  92. http://www.bat.org/help/skills.php?str=fire_building
+  93. http://www.bat.org/help/skills.php?str=compare
+  94. http://www.bat.org/help/skills.php?str=first_aid
+  95. http://www.bat.org/help/skills.php?str=camping
+  96. http://www.bat.org/help/skills.php?str=swim
+  97. http://www.bat.org/help/skills.php?str=evaluate_mount
+  98. http://www.bat.org/help/skills.php?str=attack
+  99. http://www.bat.org/help/skills.php?str=polearms
+ 100. http://www.bat.org/help/skills.php?str=attack
+ 101. http://www.bat.org/help/skills.php?str=alertness
+ 102. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 103. http://www.bat.org/help/skills.php?str=short_blades
+ 104. http://www.bat.org/help/skills.php?str=polearms
+ 105. http://www.bat.org/help/skills.php?str=long_blades
+ 106. http://www.bat.org/help/skills.php?str=consider
+ 107. http://www.bat.org/help/skills.php?str=tinning
+ 108. http://www.bat.org/help/skills.php?str=torch_creation
+ 109. http://www.bat.org/help/skills.php?str=hiking
+ 110. http://www.bat.org/help/skills.php?str=hunting
+ 111. http://www.bat.org/help/skills.php?str=fire_building
+ 112. http://www.bat.org/help/skills.php?str=compare
+ 113. http://www.bat.org/help/skills.php?str=first_aid
+ 114. http://www.bat.org/help/skills.php?str=camping
+ 115. http://www.bat.org/help/skills.php?str=swim
+ 116. http://www.bat.org/help/skills.php?str=plant_lore
+ 117. http://www.bat.org/help/skills.php?str=riding
+ 118. http://www.bat.org/help/skills.php?str=combat_riding
+ 119. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 120. http://www.bat.org/help/skills.php?str=attack
+ 121. http://www.bat.org/help/skills.php?str=polearms
+ 122. http://www.bat.org/help/skills.php?str=riding
+ 123. http://www.bat.org/help/skills.php?str=combat_riding
+ 124. http://www.bat.org/help/skills.php?str=attack
+ 125. http://www.bat.org/help/skills.php?str=alertness
+ 126. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 127. http://www.bat.org/help/skills.php?str=kick
+ 128. http://www.bat.org/help/skills.php?str=switch_weapon
+ 129. http://www.bat.org/help/skills.php?str=short_blades
+ 130. http://www.bat.org/help/skills.php?str=polearms
+ 131. http://www.bat.org/help/skills.php?str=long_blades
+ 132. http://www.bat.org/help/skills.php?str=consider
+ 133. http://www.bat.org/help/skills.php?str=tinning
+ 134. http://www.bat.org/help/skills.php?str=torch_creation
+ 135. http://www.bat.org/help/skills.php?str=hiking
+ 136. http://www.bat.org/help/skills.php?str=hunting
+ 137. http://www.bat.org/help/skills.php?str=fire_building
+ 138. http://www.bat.org/help/skills.php?str=compare
+ 139. http://www.bat.org/help/skills.php?str=first_aid
+ 140. http://www.bat.org/help/skills.php?str=camping
+ 141. http://www.bat.org/help/skills.php?str=swim
+ 142. http://www.bat.org/help/skills.php?str=plant_lore
+ 143. http://www.bat.org/help/skills.php?str=riding
+ 144. http://www.bat.org/help/skills.php?str=combat_riding
+ 145. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 146. http://www.bat.org/help/skills.php?str=attack
+ 147. http://www.bat.org/help/skills.php?str=kick
+ 148. http://www.bat.org/help/skills.php?str=polearms
+ 149. http://www.bat.org/help/skills.php?str=riding
+ 150. http://www.bat.org/help/skills.php?str=combat_riding
+ 151. http://www.bat.org/help/skills.php?str=attack
+ 152. http://www.bat.org/help/skills.php?str=alertness
+ 153. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 154. http://www.bat.org/help/skills.php?str=kick
+ 155. http://www.bat.org/help/skills.php?str=switch_weapon
+ 156. http://www.bat.org/help/skills.php?str=short_blades
+ 157. http://www.bat.org/help/skills.php?str=polearms
+ 158. http://www.bat.org/help/skills.php?str=long_blades
+ 159. http://www.bat.org/help/skills.php?str=consider
+ 160. http://www.bat.org/help/skills.php?str=tinning
+ 161. http://www.bat.org/help/skills.php?str=hiking
+ 162. http://www.bat.org/help/skills.php?str=hunting
+ 163. http://www.bat.org/help/skills.php?str=fire_building
+ 164. http://www.bat.org/help/skills.php?str=compare
+ 165. http://www.bat.org/help/skills.php?str=first_aid
+ 166. http://www.bat.org/help/skills.php?str=camping
+ 167. http://www.bat.org/help/skills.php?str=swim
+ 168. http://www.bat.org/help/skills.php?str=plant_lore
+ 169. http://www.bat.org/help/skills.php?str=riding
+ 170. http://www.bat.org/help/skills.php?str=combat_riding
+ 171. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 172. http://www.bat.org/help/skills.php?str=attack
+ 173. http://www.bat.org/help/skills.php?str=kick
+ 174. http://www.bat.org/help/skills.php?str=polearms
+ 175. http://www.bat.org/help/skills.php?str=riding
+ 176. http://www.bat.org/help/skills.php?str=combat_riding
+ 177. http://www.bat.org/help/skills.php?str=attack
+ 178. http://www.bat.org/help/skills.php?str=alertness
+ 179. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 180. http://www.bat.org/help/skills.php?str=kick
+ 181. http://www.bat.org/help/skills.php?str=switch_weapon
+ 182. http://www.bat.org/help/skills.php?str=short_blades
+ 183. http://www.bat.org/help/skills.php?str=polearms
+ 184. http://www.bat.org/help/skills.php?str=long_blades
+ 185. http://www.bat.org/help/skills.php?str=consider
+ 186. http://www.bat.org/help/skills.php?str=hunting
+ 187. http://www.bat.org/help/skills.php?str=fire_building
+ 188. http://www.bat.org/help/skills.php?str=compare
+ 189. http://www.bat.org/help/skills.php?str=first_aid
+ 190. http://www.bat.org/help/skills.php?str=camping
+ 191. http://www.bat.org/help/skills.php?str=swim
+ 192. http://www.bat.org/help/skills.php?str=plant_lore
+ 193. http://www.bat.org/help/skills.php?str=riding
+ 194. http://www.bat.org/help/skills.php?str=combat_riding
+ 195. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 196. http://www.bat.org/help/skills.php?str=attack
+ 197. http://www.bat.org/help/skills.php?str=kick
+ 198. http://www.bat.org/help/skills.php?str=polearms
+ 199. http://www.bat.org/help/skills.php?str=riding
+ 200. http://www.bat.org/help/skills.php?str=combat_riding
+ 201. http://www.bat.org/help/skills.php?str=attack
+ 202. http://www.bat.org/help/skills.php?str=alertness
+ 203. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 204. http://www.bat.org/help/skills.php?str=kick
+ 205. http://www.bat.org/help/skills.php?str=switch_weapon
+ 206. http://www.bat.org/help/skills.php?str=short_blades
+ 207. http://www.bat.org/help/skills.php?str=polearms
+ 208. http://www.bat.org/help/skills.php?str=long_blades
+ 209. http://www.bat.org/help/skills.php?str=consider
+ 210. http://www.bat.org/help/skills.php?str=hunting
+ 211. http://www.bat.org/help/skills.php?str=fire_building
+ 212. http://www.bat.org/help/skills.php?str=compare
+ 213. http://www.bat.org/help/skills.php?str=first_aid
+ 214. http://www.bat.org/help/skills.php?str=camping
+ 215. http://www.bat.org/help/skills.php?str=swim
+ 216. http://www.bat.org/help/skills.php?str=plant_lore
+ 217. http://www.bat.org/help/skills.php?str=riding
+ 218. http://www.bat.org/help/skills.php?str=combat_riding
+ 219. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 220. http://www.bat.org/help/skills.php?str=tame_mount
+ 221. http://www.bat.org/help/skills.php?str=attack
+ 222. http://www.bat.org/help/skills.php?str=kick
+ 223. http://www.bat.org/help/skills.php?str=polearms
+ 224. http://www.bat.org/help/skills.php?str=riding
+ 225. http://www.bat.org/help/skills.php?str=combat_riding
+ 226. http://www.bat.org/help/skills.php?str=attack
+ 227. http://www.bat.org/help/skills.php?str=alertness
+ 228. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 229. http://www.bat.org/help/skills.php?str=kick
+ 230. http://www.bat.org/help/skills.php?str=switch_weapon
+ 231. http://www.bat.org/help/skills.php?str=rescue
+ 232. http://www.bat.org/help/skills.php?str=shield_bash
+ 233. http://www.bat.org/help/skills.php?str=short_blades
+ 234. http://www.bat.org/help/skills.php?str=polearms
+ 235. http://www.bat.org/help/skills.php?str=long_blades
+ 236. http://www.bat.org/help/skills.php?str=consider
+ 237. http://www.bat.org/help/skills.php?str=hunting
+ 238. http://www.bat.org/help/skills.php?str=compare
+ 239. http://www.bat.org/help/skills.php?str=swim
+ 240. http://www.bat.org/help/skills.php?str=riding
+ 241. http://www.bat.org/help/skills.php?str=combat_riding
+ 242. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 243. http://www.bat.org/help/skills.php?str=tame_mount
+ 244. http://www.bat.org/help/skills.php?str=attack
+ 245. http://www.bat.org/help/skills.php?str=kick
+ 246. http://www.bat.org/help/skills.php?str=polearms
+ 247. http://www.bat.org/help/skills.php?str=riding
+ 248. http://www.bat.org/help/skills.php?str=combat_riding
+ 249. http://www.bat.org/help/skills.php?str=attack
+ 250. http://www.bat.org/help/skills.php?str=alertness
+ 251. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 252. http://www.bat.org/help/skills.php?str=kick
+ 253. http://www.bat.org/help/skills.php?str=switch_weapon
+ 254. http://www.bat.org/help/skills.php?str=rescue
+ 255. http://www.bat.org/help/skills.php?str=shield_bash
+ 256. http://www.bat.org/help/skills.php?str=dodge
+ 257. http://www.bat.org/help/skills.php?str=parry
+ 258. http://www.bat.org/help/skills.php?str=brawling
+ 259. http://www.bat.org/help/skills.php?str=short_blades
+ 260. http://www.bat.org/help/skills.php?str=polearms
+ 261. http://www.bat.org/help/skills.php?str=long_blades
+ 262. http://www.bat.org/help/skills.php?str=hunting
+ 263. http://www.bat.org/help/skills.php?str=compare
+ 264. http://www.bat.org/help/skills.php?str=swim
+ 265. http://www.bat.org/help/skills.php?str=riding
+ 266. http://www.bat.org/help/skills.php?str=combat_riding
+ 267. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 268. http://www.bat.org/help/skills.php?str=tame_mount
+ 269. http://www.bat.org/help/skills.php?str=attack
+ 270. http://www.bat.org/help/skills.php?str=kick
+ 271. http://www.bat.org/help/skills.php?str=brawling
+ 272. http://www.bat.org/help/skills.php?str=polearms
+ 273. http://www.bat.org/help/skills.php?str=riding
+ 274. http://www.bat.org/help/skills.php?str=combat_riding
+ 275. http://www.bat.org/help/skills.php?str=attack
+ 276. http://www.bat.org/help/skills.php?str=alertness
+ 277. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 278. http://www.bat.org/help/skills.php?str=kick
+ 279. http://www.bat.org/help/skills.php?str=switch_weapon
+ 280. http://www.bat.org/help/skills.php?str=rescue
+ 281. http://www.bat.org/help/skills.php?str=shield_bash
+ 282. http://www.bat.org/help/skills.php?str=dodge
+ 283. http://www.bat.org/help/skills.php?str=riposte
+ 284. http://www.bat.org/help/skills.php?str=parry
+ 285. http://www.bat.org/help/skills.php?str=brawling
+ 286. http://www.bat.org/help/skills.php?str=short_blades
+ 287. http://www.bat.org/help/skills.php?str=polearms
+ 288. http://www.bat.org/help/skills.php?str=long_blades
+ 289. http://www.bat.org/help/skills.php?str=hunting
+ 290. http://www.bat.org/help/skills.php?str=swim
+ 291. http://www.bat.org/help/skills.php?str=riding
+ 292. http://www.bat.org/help/skills.php?str=combat_riding
+ 293. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 294. http://www.bat.org/help/skills.php?str=tame_mount
+ 295. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 296. http://www.bat.org/help/skills.php?str=attack
+ 297. http://www.bat.org/help/skills.php?str=kick
+ 298. http://www.bat.org/help/skills.php?str=brawling
+ 299. http://www.bat.org/help/skills.php?str=polearms
+ 300. http://www.bat.org/help/skills.php?str=riding
+ 301. http://www.bat.org/help/skills.php?str=combat_riding
+ 302. http://www.bat.org/help/skills.php?str=attack
+ 303. http://www.bat.org/help/skills.php?str=alertness
+ 304. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 305. http://www.bat.org/help/skills.php?str=kick
+ 306. http://www.bat.org/help/skills.php?str=switch_weapon
+ 307. http://www.bat.org/help/skills.php?str=rescue
+ 308. http://www.bat.org/help/skills.php?str=shield_bash
+ 309. http://www.bat.org/help/skills.php?str=dodge
+ 310. http://www.bat.org/help/skills.php?str=riposte
+ 311. http://www.bat.org/help/skills.php?str=stun
+ 312. http://www.bat.org/help/skills.php?str=throw_weight
+ 313. http://www.bat.org/help/skills.php?str=parry
+ 314. http://www.bat.org/help/skills.php?str=brawling
+ 315. http://www.bat.org/help/skills.php?str=short_blades
+ 316. http://www.bat.org/help/skills.php?str=polearms
+ 317. http://www.bat.org/help/skills.php?str=long_blades
+ 318. http://www.bat.org/help/skills.php?str=hunting
+ 319. http://www.bat.org/help/skills.php?str=riding
+ 320. http://www.bat.org/help/skills.php?str=combat_riding
+ 321. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 322. http://www.bat.org/help/skills.php?str=tame_mount
+ 323. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 324. http://www.bat.org/help/skills.php?str=attack
+ 325. http://www.bat.org/help/skills.php?str=kick
+ 326. http://www.bat.org/help/skills.php?str=brawling
+ 327. http://www.bat.org/help/skills.php?str=polearms
+ 328. http://www.bat.org/help/skills.php?str=riding
+ 329. http://www.bat.org/help/skills.php?str=combat_riding
+ 330. http://www.bat.org/help/skills.php?str=attack
+ 331. http://www.bat.org/help/skills.php?str=alertness
+ 332. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 333. http://www.bat.org/help/skills.php?str=kick
+ 334. http://www.bat.org/help/skills.php?str=switch_weapon
+ 335. http://www.bat.org/help/skills.php?str=rescue
+ 336. http://www.bat.org/help/skills.php?str=shield_bash
+ 337. http://www.bat.org/help/skills.php?str=dodge
+ 338. http://www.bat.org/help/skills.php?str=riposte
+ 339. http://www.bat.org/help/skills.php?str=stun
+ 340. http://www.bat.org/help/skills.php?str=throw_weight
+ 341. http://www.bat.org/help/skills.php?str=parry
+ 342. http://www.bat.org/help/skills.php?str=brawling
+ 343. http://www.bat.org/help/skills.php?str=short_blades
+ 344. http://www.bat.org/help/skills.php?str=polearms
+ 345. http://www.bat.org/help/skills.php?str=long_blades
+ 346. http://www.bat.org/help/skills.php?str=riding
+ 347. http://www.bat.org/help/skills.php?str=combat_riding
+ 348. http://www.bat.org/help/skills.php?str=evaluate_mount
+ 349. http://www.bat.org/help/skills.php?str=tame_mount
+ 350. http://www.bat.org/help/skills.php?str=make_mount_feed
+ 351. http://www.bat.org/help/guilds.php
+ 352. mailto:webmaster@bat.org
+
+   Hidden links:
+ 353. http://www.bat.org/bat.php

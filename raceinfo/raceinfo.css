@@ -1,0 +1,144 @@
+/* raceinfo.css (C) Tumi 2001-2004 */
+
+table#raceinfo_main {
+	font-size: 0.7em;
+
+	border: 1px solid Black;
+	text-align: center;
+
+	letter-spacing: 0em;
+	margin-top: 2em;
+	border-collapse: collapse;
+	padding: 0;
+}
+
+
+tr.raceinfo_the_header {
+	font-weight: bold;
+	padding: 0;
+
+	background-color: #f0e68c;
+	color: Black;
+}
+
+
+td.raceinfo_header_race {
+	border-bottom: 1px solid Black;
+	font-weight: bold;
+}
+
+
+td.raceinfo_header {
+	border-left: 1px solid Black;
+	border-bottom: 1px solid Black;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+td.raceinfo_header_special {
+	border-left: 1px solid Black;
+	padding-left: 10px;
+	border-bottom: 1px solid Black;
+	text-align: left;
+}
+
+
+tr.raceinfo_info1 {
+	color: Black;
+	background-color: #fffafa;
+}
+
+tr.raceinfo_info2 {
+	color: Black;
+	background-color: #fff5ee;
+}
+
+tr.raceinfo_info1:hover, tr.raceinfo_info2:hover {
+	background-color: #dddddd;
+	color: Black;
+}
+
+
+td.raceinfo_cell_race {
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+
+	border-bottom: 1px solid Black;
+	font-weight: bold;
+}
+
+td.raceinfo_cell {
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+
+	border-left: 1px solid black;
+	border-bottom: 1px solid Black;
+}
+
+td.raceinfo_cell_special {
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+
+	border-left: 1px solid black;
+	border-bottom: 1px solid Black;
+	text-align: left;
+}
+
+
+table#raceinfo-options {
+	padding: 2px;
+	font-size: 0.8em;
+	border-collapse: collapse;
+	margin-bottom: 2em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table#raceinfo-options td.raceinfo-header {
+	font-size: 1.3em;
+	text-decoration: underline;
+	text-align: center;
+}
+
+table#raceinfo-options tr:hover {
+	background-color: #dddddd;
+	color: Black;
+	border-bottom: 1px slashed Black;
+}
+
+table#raceinfo-options td {
+	border: 1px solid Black;
+	padding-left: 10px;
+
+}
+
+table#raceinfo-options td.raceinfo-attr {
+	font-weight: bold;
+
+}
+
+table#raceinfo-options td.raceinfo-val select {
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+table#raceinfo-options td#raceinfo-submit {
+	text-align: right;
+}
+
+table#raceinfo-options td#raceinfo-submit input {
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+table#raceinfo-options td.align-right {
+	text-align: right;
+	font-weight: bold;
+}

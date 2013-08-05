@@ -1,0 +1,2035 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                      [fonter.php?str=Sisters+of+Las]
+
+                               Sisters of Las
+
+   Command: nun
+   Creator: [22]Zin
+   Maximum level: 35
+   Description:
+   After the attack of daemon hordes to the old convent of the Sisterhood
+   Abbess
+   Abigail, the sole survivor of the assault, founded the convent of
+   White Rose
+   to an abandoned monastery, high at the mountains near Shadowkeep where
+   the
+   re-established Sisterhood of Las resides. Their studies combine weak
+   healing
+   spells, strong offensive spells against evil and undead entities and
+   strong
+   protective auras. The Guild is led by Synod, a holy council consisting
+   of four
+   elected nuns and the Guildleader as the head of the Synod. The Synod
+   has full
+   authority in the guild. Everyone wishing to join the sisterhood must
+   have the
+   blessing of one of the Synod members. Life in the Sisterhood is not
+   always
+   easy but it is said to be most rewarding.
+
+                                 New Member
+                 Background must be good_religious
+                 Alignment must be good
+                 Gender must be female
+                 Receive a gift from Las
+                 May train skill [23]Consider to 10%
+                 May train skill [24]Turn undead to 20%
+                 May train skill [25]Cast dispel to 10%
+                 May train skill [26]Cast generic to 10%
+                 May train skill [27]Attack to 5%
+                 May train skill [28]Bludgeons to 5%
+                 May train skill [29]Cast heal to 5%
+                 May train skill [30]Discipline to 3%
+                 May train skill [31]Sewing to 10%
+                 May train skill [32]Candlestick making to 2%
+                 May study spell [33]Cure light wounds to 10%
+                 May study spell [34]Identify relic to 20%
+                 May study spell [35]Saintly touch to 25%
+
+                                 Level 1
+           Has trained skill [36]Turn undead to at least 10%
+           Has trained skill [37]Cast dispel to at least 10%
+           Has trained skill [38]Cast generic to at least 5%
+           Has trained skill [39]Cast heal to at least 2%
+           Has trained skill [40]Discipline to at least 3%
+           Has trained skill [41]Candlestick making to at least 2%
+           Has trained skill [42]Sewing to at least 3%
+           Has studied spell [43]Identify relic to at least 5%
+           Has studied spell [44]Cure light wounds to at least 5%
+           Has studied spell [45]Saintly touch to at least 5%
+           May train skill [46]Consider to 20%
+           May train skill [47]Turn undead to 30%
+           May train skill [48]Cast generic to 14%
+           May train skill [49]Attack to 10%
+           May train skill [50]Bludgeons to 10%
+           May train skill [51]Discipline to 6%
+           May train skill [52]Sewing to 20%
+           May study spell [53]Cure light wounds to 20%
+           May study spell [54]Detect alignment to 10%
+           May train skill [55]Cast dispel to 15%
+           May train skill [56]Candlestick making to 4%
+           May study spell [57]Identify relic to 30%
+           May train skill [58]Cast heal to 8%
+           May study spell [59]Saintly touch to 35%
+
+                                 Level 2
+           Has trained skill [60]Turn undead to at least 15%
+           Has studied spell [61]Saintly touch to at least 10%
+           Has trained skill [62]Cast generic to at least 10%
+           Has trained skill [63]Discipline to at least 4%
+           Has trained skill [64]Sewing to at least 10%
+           Has studied spell [65]Identify relic to at least 9%
+           Has trained skill [66]Candlestick making to at least 4%
+           Has studied spell [67]Cure light wounds to at least 10%
+           Has trained skill [68]Cast dispel to at least 12%
+           May train skill [69]Consider to 30%
+           May train skill [70]Cast dispel to 20%
+           May train skill [71]Cast generic to 18%
+           May study spell [72]Create food to 10%
+           May train skill [73]Attack to 15%
+           May study spell [74]Light to 20%
+           May train skill [75]Cast heal to 11%
+           May train skill [76]Discipline to 9%
+           May train skill [77]Bludgeons to 15%
+           May train skill [78]Sewing to 30%
+           May train skill [79]Candlestick making to 6%
+           May study spell [80]Identify relic to 40%
+           May study spell [81]Detect alignment to 14%
+           May study spell [82]Cure light wounds to 30%
+           May train skill [83]Turn undead to 40%
+           May study spell [84]Saintly touch to 40%
+
+                                 Level 3
+           Has trained skill [85]Turn undead to at least 17%
+           Has studied spell [86]Light to at least 10%
+           Has trained skill [87]Sewing to at least 15%
+           Has trained skill [88]Candlestick making to at least 6%
+           Has studied spell [89]Cure light wounds to at least 15%
+           Has trained skill [90]Cast dispel to at least 15%
+           May train skill [91]Consider to 40%
+           May train skill [92]Cast dispel to 25%
+           May train skill [93]Attack to 20%
+           May study spell [94]Create food to 18%
+           May train skill [95]Cast heal to 14%
+           May train skill [96]Bludgeons to 20%
+           May train skill [97]Discipline to 12%
+           May study spell [98]Light to 30%
+           May train skill [99]Sewing to 40%
+           May train skill [100]Candlestick making to 8%
+           May train skill [101]Cast generic to 22%
+           May study spell [102]Cure light wounds to 40%
+           May train skill [103]Turn undead to 50%
+           May study spell [104]Detect alignment to 18%
+           May study spell [105]Identify relic to 50%
+           May train skill [106]Bless to 15%
+           May study spell [107]Saintly touch to 45%
+
+                                  Level 4
+           Has trained skill [108]Discipline to at least 9%
+           Has trained skill [109]Bless to at least 12%
+           Has trained skill [110]Sewing to at least 20%
+           Has studied spell [111]Cure light wounds to at least 19%
+           Has trained skill [112]Cast dispel to at least 23%
+           May study spell [113]Create food to 22%
+           May train skill [114]Cast dispel to 30%
+           May train skill [115]Consider to 50%
+           May train skill [116]Attack to 25%
+           May train skill [117]Cast heal to 17%
+           May train skill [118]Discipline to 15%
+           May train skill [119]Bless to 19%
+           May study spell [120]Detect alignment to 22%
+           May train skill [121]Bludgeons to 25%
+           May train skill [122]Candlestick making to 9%
+           May train skill [123]Sewing to 50%
+           May train skill [124]Cast generic to 26%
+           May train skill [125]Turn undead to 60%
+           May study spell [126]Identify relic to 60%
+           May study spell [127]Cure light wounds to 50%
+           May study spell [128]Light to 40%
+           May study spell [129]Saintly touch to 55%
+
+                                  Level 5
+              May study spell [130]Create food to 28%
+              May train skill [131]Cast dispel to 35%
+              May train skill [132]Consider to 60%
+              May train skill [133]Plant lore to 10%
+              May train skill [134]Cast generic to 30%
+              May train skill [135]Attack to 30%
+              May train skill [136]Discipline to 18%
+              May train skill [137]Cast heal to 20%
+              May train skill [138]Candlestick making to 11%
+              May study spell [139]Cure light wounds to 60%
+              May train skill [140]First aid to 20%
+              May train skill [141]Bludgeons to 30%
+              May train skill [142]Sewing to 60%
+              May study spell [143]Identify relic to 70%
+              May study spell [144]Light to 50%
+              May study spell [145]Detect alignment to 26%
+              May train skill [146]Bless to 29%
+              May train skill [147]Turn undead to racial maximum
+              May study spell [148]Saintly touch to 60%
+
+                                 Level 6
+               May study spell [149]Create food to 38%
+               May train skill [150]Ceremony to 10%
+               May train skill [151]Cast dispel to 40%
+               May train skill [152]Consider to racial maximum
+               May train skill [153]Cast heal to 23%
+               May train skill [154]Discipline to 21%
+               May train skill [155]Bless to 39%
+               May study spell [156]Light to 60%
+               May train skill [157]Candlestick making to 14%
+               May study spell [158]Identify relic to 80%
+               May study spell [159]Cure light wounds to 70%
+               May train skill [160]Burial ceremony to 20%
+               May train skill [161]First aid to 28%
+               May train skill [162]Cast generic to 34%
+               May study spell [163]Saintly touch to 65%
+
+                                 Level 7
+          Has trained skill [164]Cast dispel to at least 28%
+          Has trained skill [165]Ceremony to at least 5%
+          Has trained skill [166]Bless to at least 17%
+          Has trained skill [167]Candlestick making to at least 12%
+          Has trained skill [168]Sewing to at least 22%
+          Has trained skill [169]Cast generic to at least 25%
+          May study spell [170]Protection from evil to 20%
+          May study spell [171]Create food to 45%
+          May train skill [172]Cast dispel to 45%
+          May train skill [173]Plant lore to 20%
+          May train skill [174]Ceremony to 20%
+          May train skill [175]Cast generic to 38%
+          May train skill [176]Discipline to 24%
+          May train skill [177]Sewing to 70%
+          May train skill [178]Candlestick making to 18%
+          May train skill [179]Cast heal to 26%
+          May train skill [180]First aid to 36%
+          May study spell [181]Cure light wounds to 80%
+          May study spell [182]Detect alignment to 30%
+          May study spell [183]Light to 70%
+          May train skill [184]Burial ceremony to 27%
+          May train skill [185]Bless to 59%
+          May study spell [186]Identify relic to 90%
+          May train skill [187]Cast protection to 10%
+          May study spell [188]Saintly touch to 75%
+
+                                  Level 8
+          Has studied spell [189]Protection from evil to at least 5%
+          Has trained skill [190]Cast protection to at least 10%
+          Has studied spell [191]Identify relic to at least 10%
+          Has studied spell [192]Cure light wounds to at least 22%
+          Has trained skill [193]Sewing to at least 26%
+          Has studied spell [194]Saintly touch to at least 30%
+          May study spell [195]Protection from evil to 25%
+          May study spell [196]Create food to 59%
+          May train skill [197]Cast dispel to 50%
+          May train skill [198]Plant lore to 30%
+          May train skill [199]Cast protection to 16%
+          May train skill [200]Cast generic to 42%
+          May train skill [201]Discipline to 27%
+          May train skill [202]Cast holy to 10%
+          May train skill [203]Ceremony to 30%
+          May train skill [204]Bless to 69%
+          May train skill [205]Candlestick making to 19%
+          May train skill [206]Sewing to 80%
+          May study spell [207]Cure light wounds to 90%
+          May train skill [208]Cast heal to 29%
+          May train skill [209]Burial ceremony to 34%
+          May study spell [210]Detect alignment to 34%
+          May train skill [211]First aid to 44%
+          May study spell [212]Light to 80%
+          May study spell [213]Identify relic to 100%
+          May study spell [214]Saintly touch to 85%
+          May study spell [215]Holy hand to 10%
+
+                                  Level 9
+          Has studied spell [216]Protection from evil to at least 7%
+          Has trained skill [217]Cast protection to at least 15%
+          Has trained skill [218]Cast heal to at least 11%
+          Has trained skill [219]Ceremony to at least 17%
+          Has trained skill [220]Bless to at least 25%
+          Has trained skill [221]Sewing to at least 29%
+          Has trained skill [222]Cast holy to at least 9%
+          Has studied spell [223]Holy hand to at least 5%
+          May study spell [224]Protection from evil to 30%
+          May study spell [225]Create food to 69%
+          May train skill [226]Cast protection to 22%
+          May train skill [227]Cast dispel to 55%
+          May train skill [228]Candlestick making to 21%
+          May train skill [229]Cast holy to 17%
+          May train skill [230]Cast heal to 31%
+          May train skill [231]Discipline to 30%
+          May study spell [232]Light to 90%
+          May study spell [233]Cure light wounds to 95%
+          May train skill [234]Cast generic to 46%
+          May train skill [235]Ceremony to 40%
+          May study spell [236]Detect alignment to 38%
+          May train skill [237]Burial ceremony to 41%
+          May train skill [238]Bless to 79%
+          May study spell [239]Saintly touch to 95%
+          May study spell [240]Holy hand to 20%
+          May train skill [241]First aid to 52%
+          May study spell [242]Soul shield to 10%
+
+                                 Level 10
+          Has trained skill [243]Cast protection to at least 21%
+          Has trained skill [244]Cast dispel to at least 37%
+          Has studied spell [245]Soul shield to at least 5%
+          Has trained skill [246]Cast generic to at least 29%
+          Has trained skill [247]Sewing to at least 31%
+          Has trained skill [248]Candlestick making to at least 18%
+          Has studied spell [249]Cure light wounds to at least 25%
+          Has studied spell [250]Holy hand to at least 15%
+          May study spell [251]Dispel evil to 10%
+          May study spell [252]Protection from evil to 35%
+          May study spell [253]Create food to 76%
+          May train skill [254]Cast heal to 34%
+          May train skill [255]Cast dispel to 60%
+          May train skill [256]Discipline to 33%
+          May train skill [257]Candlestick making to 23%
+          May train skill [258]Cast holy to 24%
+          May train skill [259]First aid to 60%
+          May train skill [260]Burial ceremony to 48%
+          May study spell [261]Detect alignment to 44%
+          May train skill [262]Cast generic to 50%
+          May train skill [263]Cast protection to 28%
+          May train skill [264]Ceremony to 50%
+          May study spell [265]Saintly touch to 100%
+          May study spell [266]Cure player to 10%
+          May train skill [267]Bless to 89%
+          May study spell [268]Holy hand to 30%
+          May study spell [269]Soul shield to 15%
+
+                                 Level 11
+         Has studied spell [270]Dispel evil to at least 5%
+         Has studied spell [271]Protection from evil to at least 11%
+         Has trained skill [272]Cast holy to at least 14%
+         Has trained skill [273]Discipline to at least 15%
+         Has trained skill [274]Sewing to at least 34%
+         Has trained skill [275]Ceremony to at least 25%
+         Has trained skill [276]Cast protection to at least 25%
+         May study spell [277]Dispel evil to 20%
+         May study spell [278]Protection from evil to 40%
+         May train skill [279]Discipline to 36%
+         May study spell [280]Create food to 83%
+         May train skill [281]Cast dispel to 65%
+         May train skill [282]Cast holy to 31%
+         May train skill [283]Cast heal to 37%
+         May train skill [284]Candlestick making to 25%
+         May train skill [285]Cast generic to 54%
+         May study spell [286]Detect alignment to 49%
+         May train skill [287]Burial ceremony to 55%
+         May study spell [288]Mana shield to 20%
+         May train skill [289]Cast protection to 34%
+         May train skill [290]Ceremony to 60%
+         May study spell [291]Cure player to 15%
+         May study spell [292]Holy hand to 40%
+         May train skill [293]First aid to 68%
+         May study spell [294]Soul shield to 20%
+
+                                 Level 12
+         Has studied spell [295]Protection from evil to at least 15%
+         Has trained skill [296]Cast dispel to at least 41%
+         Has studied spell [297]Light to at least 20%
+         Has trained skill [298]Sewing to at least 38%
+         Has trained skill [299]Burial ceremony to at least 5%
+         Has studied spell [300]Holy hand to at least 20%
+         May study spell [301]Dispel evil to 30%
+         May study spell [302]Protection from evil to 45%
+         May study spell [303]Bless vial to 20%
+         May study spell [304]Detect vial to 20%
+         May train skill [305]Discipline to 39%
+         May train skill [306]Cast dispel to 70%
+         May train skill [307]Cast holy to 38%
+         May train skill [308]Candlestick making to 27%
+         May train skill [309]Cast generic to 58%
+         May train skill [310]Cast information to 20%
+         May study spell [311]Mana shield to 25%
+         May train skill [312]Cast heal to 40%
+         May study spell [313]Cure player to 20%
+         May train skill [314]Burial ceremony to 62%
+         May study spell [315]Detect alignment to 53%
+         May train skill [316]Ceremony to 70%
+         May train skill [317]Bless to 99%
+         May train skill [318]First aid to 76%
+         May train skill [319]Cast protection to 40%
+         May train skill [320]Vial throwing to 18%
+         May study spell [321]Holy hand to 50%
+         May study spell [322]Soul shield to 25%
+
+                                 Level 13
+         Has studied spell [323]Dispel evil to at least 17%
+         Has studied spell [324]Protection from evil to at least 20%
+         Has trained skill [325]Cast holy to at least 19%
+         Has trained skill [326]First aid to at least 20%
+         Has studied spell [327]Bless vial to at least 4%
+         Has trained skill [328]Sewing to at least 40%
+         Has studied spell [329]Cure light wounds to at least 29%
+         Has trained skill [330]Cast generic to at least 39%
+         Has studied spell [331]Saintly touch to at least 35%
+         May study spell [332]Dispel evil to 40%
+         May study spell [333]Protection from evil to 50%
+         May study spell [334]Mana shield to 30%
+         May study spell [335]Bless vial to 25%
+         May train skill [336]Cast holy to 45%
+         May train skill [337]Candlestick making to 29%
+         May train skill [338]Discipline to 42%
+         May train skill [339]Cast heal to 43%
+         May train skill [340]Burial ceremony to 69%
+         May train skill [341]Cast information to 30%
+         May train skill [342]Cast generic to 62%
+         May train skill [343]First aid to 84%
+         May study spell [344]Cure player to 26%
+         May train skill [345]Ceremony to 80%
+         May train skill [346]Cast dispel to 75%
+         May study spell [347]Detect alignment to 57%
+         May train skill [348]Vial throwing to 23%
+         May study spell [349]Water walking to 20%
+         May train skill [350]Cast protection to 46%
+         May study spell [351]Holy hand to 50%
+         May study spell [352]Soul shield to 30%
+
+                                 Level 14
+         Has studied spell [353]Dispel evil to at least 29%
+         Has studied spell [354]Protection from evil to at least 30%
+         Has trained skill [355]Vial throwing to at least 10%
+         Has trained skill [356]Sewing to at least 41%
+         Has studied spell [357]Bless vial to at least 8%
+         Has trained skill [358]Burial ceremony to at least 10%
+         Has studied spell [359]Holy hand to at least 25%
+         May study spell [360]Dispel evil to 50%
+         May study spell [361]Protection from evil to 55%
+         May train skill [362]Cast dispel to 80%
+         May train skill [363]Discipline to 45%
+         May train skill [364]Ceremony to 90%
+         May study spell [365]Bless vial to 30%
+         May train skill [366]Cast heal to 46%
+         May train skill [367]Candlestick making to 31%
+         May study spell [368]Mana shield to 35%
+         May train skill [369]Vial throwing to 28%
+         May train skill [370]First aid to 95%
+         May train skill [371]Cast information to 40%
+         May train skill [372]Cast holy to 52%
+         May train skill [373]Burial ceremony to 76%
+         May study spell [374]Cure player to 37%
+         May train skill [375]Cast generic to 66%
+         May study spell [376]Detect alignment to 61%
+         May study spell [377]Create food to racial maximum
+         May study spell [378]Water walking to 30%
+         May study spell [379]Satiate person to 20%
+         May train skill [380]Cast protection to 52%
+         May study spell [381]Holy hand to 70%
+         May study spell [382]Soul shield to 35%
+
+                                 Level 15
+              May study spell [383]Dispel evil to racial maximum
+              May study spell [384]Protection from evil to 58%
+              May study spell [385]Mana shield to 40%
+              May train skill [386]Cast heal to 49%
+              May study spell [387]Bless vial to 35%
+              May train skill [388]Vial throwing to 33%
+              May train skill [389]Candlestick making to 34%
+              May train skill [390]Cast information to 40%
+              May train skill [391]Quick chant to 5%
+              May train skill [392]Cast holy to 59%
+              May train skill [393]Discipline to 48%
+              May study spell [394]Cure player to 44%
+              May train skill [395]Cast generic to 70%
+              May study spell [396]Detect alignment to 65%
+              May study spell [397]Satiate person to 25%
+              May train skill [398]Cast dispel to 85%
+              May train skill [399]Ceremony to 100%
+              May train skill [400]Burial ceremony to 83%
+              May train skill [401]Cast protection to 58%
+              May study spell [402]Holy hand to 80%
+              May study spell [403]Remove scar to 20%
+              May study spell [404]Soul shield to 40%
+
+                                 Level 16
+         Has studied spell [405]Dispel evil to at least 40%
+         Has trained skill [406]Cast dispel to at least 50%
+         Has trained skill [407]Cast holy to at least 39%
+         Has trained skill [408]Cast heal to at least 22%
+         Has studied spell [409]Bless vial to at least 11%
+         Has trained skill [410]Sewing to at least 44%
+         Has studied spell [411]Cure light wounds to at least 38%
+         Has trained skill [412]First aid to at least 30%
+         Has trained skill [413]Cast generic to at least 50%
+         Has trained skill [414]Cast protection to at least 27%
+         May study spell [415]Protection from evil to racial maximum
+         May train skill [416]Plant lore to 40%
+         May study spell [417]Bless vial to 40%
+         May study spell [418]Remove poison to 20%
+         May train skill [419]Candlestick making to 39%
+         May train skill [420]Vial throwing to 39%
+         May train skill [421]Cast heal to 52%
+         May train skill [422]Cast information to 50%
+         May train skill [423]Quick chant to 10%
+         May train skill [424]Cast generic to 74%
+         May train skill [425]Burial ceremony to 90%
+         May study spell [426]Detect alignment to 69%
+         May train skill [427]Discipline to 51%
+         May train skill [428]Cast dispel to 90%
+         May study spell [429]Cure player to 56%
+         May train skill [430]Cast holy to 66%
+         May study spell [431]Water walking to 40%
+         May study spell [432]Remove scar to 29%
+         May study spell [433]Satiate person to 30%
+         May study spell [434]Mana shield to 45%
+         May train skill [435]Exorcize to 10%
+         May study spell [436]Holy hand to 85%
+         May study spell [437]Aura detection to 15%
+         May study spell [438]Soul shield to 45%
+
+                                 Level 17
+         Has studied spell [439]Protection from evil to at least 50%
+         Has studied spell [440]Bless vial to at least 12%
+         Has trained skill [441]Ceremony to at least 30%
+         Has studied spell [442]Soul shield to at least 10%
+         Has trained skill [443]Sewing to at least 46%
+         Has trained skill [444]Turn undead to at least 30%
+         Has studied spell [445]Holy hand to at least 30%
+         May study spell [446]Bless vial to 45%
+         May study spell [447]Remove poison to 25%
+         May train skill [448]Cast heal to 55%
+         May study spell [449]Satiate person to 34%
+         May train skill [450]Cast protection to racial maximum
+         May train skill [451]Discipline to 54%
+         May study spell [452]Detect alignment to 74%
+         May train skill [453]Cast dispel to 95%
+         May train skill [454]Candlestick making to 45%
+         May train skill [455]Quick chant to 15%
+         May study spell [456]Cure player to 62%
+         May train skill [457]Cast holy to 83%
+         May train skill [458]Burial ceremony to 96%
+         May train skill [459]Cast information to 60%
+         May study spell [460]Aura detection to 26%
+         May study spell [461]Remove scar to 38%
+         May train skill [462]Cast generic to 78%
+         May train skill [463]Vial throwing to 44%
+         May study spell [464]Mana shield to 50%
+         May train skill [465]Mana control to 10%
+         May train skill [466]Exorcize to 19%
+         May train skill [467]Essence eye to 10%
+         May study spell [468]Holy hand to 90%
+         May study spell [469]Guardian angel to 20%
+         May study spell [470]Soul shield to 50%
+
+                                 Level 18
+          Has studied spell [471]Bless vial to at least 15%
+          Has trained skill [472]Mana control to at least 5%
+          Has trained skill [473]Exorcize to at least 15%
+          Has trained skill [474]Candlestick making to at least 30%
+          Has trained skill [475]Sewing to at least 48%
+          Has studied spell [476]Holy hand to at least 35%
+          May study spell [477]Dispel undead to 10%
+          May study spell [478]Bless vial to 50%
+          May study spell [479]Detect vial to 40%
+          May train skill [480]Baptize to 5%
+          May study spell [481]Guardian angel to 30%
+          May train skill [482]Cast holy to 90%
+          May train skill [483]Cast heal to 58%
+          May train skill [484]Cast generic to 82%
+          May train skill [485]Candlestick making to 48%
+          May study spell [486]Mana shield to 55%
+          May train skill [487]Quick chant to 20%
+          May study spell [488]Remove scar to 47%
+          May train skill [489]Burial ceremony to 100%
+          May study spell [490]Detect alignment to 79%
+          May train skill [491]Cast information to 70%
+          May train skill [492]Vial throwing to 49%
+          May study spell [493]Aura detection to 36%
+          May study spell [494]Cure player to 77%
+          May train skill [495]Essence eye to 21%
+          May study spell [496]Remove poison to 30%
+          May train skill [497]Discipline to 57%
+          May study spell [498]Water walking to 50%
+          May study spell [499]Satiate person to 39%
+          May train skill [500]Mana control to 20%
+          May train skill [501]Exorcize to 26%
+          May study spell [502]Holy hand to 95%
+          May study spell [503]Soul shield to 55%
+          May study spell [504]Resist temptation to 20%
+
+                                 Level 19
+            Has studied spell [505]Bless vial to at least 20%
+            Has studied spell [506]Remove poison to at least 5%
+            Has trained skill [507]Mana control to at least 11%
+            Has trained skill [508]Exorcize to at least 21%
+            Has trained skill [509]Sewing to at least 50%
+            Has trained skill [510]Discipline to at least 20%
+            Has studied spell [511]Saintly touch to at least 40%
+            Has trained skill [512]Burial ceremony to at least 20%
+            Has studied spell [513]Holy hand to at least 37%
+            May study spell [514]Dispel undead to 20%
+            May study spell [515]Bless vial to 54%
+            May train skill [516]Baptize to 13%
+            May study spell [517]Mana shield to 60%
+            May train skill [518]Candlestick making to 50%
+            May train skill [519]Cast heal to 61%
+            May train skill [520]Cast generic to 86%
+            May train skill [521]Quick chant to 25%
+            May study spell [522]Cure serious wounds to 10%
+            May study spell [523]Remove scar to 56%
+            May study spell [524]Guardian angel to 40%
+            May study spell [525]Cure player to 85%
+            May train skill [526]Cast holy to 97%
+            May train skill [527]Essence eye to 32%
+            May study spell [528]Detect alignment to 82%
+            May study spell [529]Aura detection to 47%
+            May train skill [530]Cast dispel to 100%
+            May train skill [531]Vial throwing to 53%
+            May study spell [532]Word of recall to 5%
+            May train skill [533]Discipline to 60%
+            May study spell [534]Remove poison to 35%
+            May study spell [535]Water walking to 60%
+            May study spell [536]Satiate person to 44%
+            May train skill [537]Mana control to 32%
+            May train skill [538]Exorcize to 38%
+            May study spell [539]Holy hand to 100%
+            May study spell [540]Soul shield to 60%
+
+                                 Level 20
+         Has studied spell [541]Dispel undead to at least 5%
+         Has studied spell [542]Protection from evil to at least 60%
+         Has studied spell [543]Bless vial to at least 27%
+         Has studied spell [544]Cure serious wounds to at least 8%
+         Has studied spell [545]Mana shield to at least 2%
+         Has trained skill [546]Burial ceremony to at least 30%
+         Has studied spell [547]Identify relic to at least 30%
+         Has trained skill [548]Cast protection to at least 30%
+         Has trained skill [549]First aid to at least 50%
+         Has trained skill [550]Sewing to at least 52%
+         Has trained skill [551]Mana control to at least 13%
+         Has trained skill [552]Exorcize to at least 26%
+         Has studied spell [553]Saintly touch to at least 50%
+         Has studied spell [554]Holy hand to at least 42%
+         May study spell [555]Dispel undead to 30%
+         May study spell [556]Bless vial to 59%
+         May train skill [557]Baptize to 21%
+         May study spell [558]Cure serious wounds to 20%
+         May train skill [559]Quick chant to 30%
+         May train skill [560]Vial throwing to 57%
+         May train skill [561]Cast heal to 64%
+         May study spell [562]Aura detection to 57%
+         May train skill [563]Cast generic to 90%
+         May study spell [564]Detect alignment to 85%
+         May train skill [565]Candlestick making to 52%
+         May study spell [566]Guardian angel to 50%
+         May train skill [567]Cast information to 75%
+         May train skill [568]Essence eye to 43%
+         May study spell [569]Remove scar to 65%
+         May study spell [570]Word of recall to 20%
+         May study spell [571]Cure player to 93%
+         May study spell [572]Mana shield to 65%
+         May train skill [573]Discipline to 63%
+         May study spell [574]Remove poison to 40%
+         May study spell [575]Satiate person to 48%
+         May train skill [576]Mana control to 39%
+         May train skill [577]Exorcize to 46%
+         May study spell [578]Soul shield to 65%
+
+                                 Level 21
+          Has studied spell [579]Dispel undead to at least 10%
+          Has trained skill [580]Cast heal to at least 30%
+          Has studied spell [581]Bless vial to at least 30%
+          Has trained skill [582]Sewing to at least 54%
+          Has trained skill [583]Candlestick making to at least 43%
+          Has studied spell [584]Cure serious wounds to at least 15%
+          May study spell [585]Dispel undead to 40%
+          May train skill [586]Baptize to 29%
+          May study spell [587]Detect vial to 70%
+          May study spell [588]Cure serious wounds to 30%
+          May study spell [589]Guardian angel to 60%
+          May study spell [590]Mana shield to 70%
+          May train skill [591]Cast holy to 100%
+          May train skill [592]Cast generic to 94%
+          May train skill [593]Vial throwing to 66%
+          May study spell [594]Detect alignment to 89%
+          May train skill [595]Cast heal to 67%
+          May study spell [596]Remove scar to 74%
+          May train skill [597]Candlestick making to 56%
+          May train skill [598]Quick chant to 35%
+          May study spell [599]Word of recall to 35%
+          May study spell [600]Remove poison to 45%
+          May study spell [601]Water walking to racial maximum
+          May study spell [602]Satiate person to 57%
+          May study spell [603]Cure player to 100%
+          May train skill [604]Discipline to 68%
+          May study spell [605]Aura detection to 66%
+          May train skill [606]Mana control to 47%
+          May train skill [607]Essence eye to 54%
+          May train skill [608]Exorcize to 53%
+          May study spell [609]Soul shield to 70%
+          May study spell [610]Resist temptation to 40%
+
+                                 Level 22
+          Has studied spell [611]Dispel undead to at least 15%
+          Has studied spell [612]Bless vial to at least 35%
+          Has studied spell [613]Cure serious wounds to at least 22%
+          Has trained skill [614]Vial throwing to at least 14%
+          Has studied spell [615]Mana shield to at least 5%
+          Has studied spell [616]Identify relic to at least 40%
+          Has trained skill [617]Sewing to at least 56%
+          Has studied spell [618]Soul shield to at least 20%
+          Has studied spell [619]Remove poison to at least 10%
+          May study spell [620]Dispel undead to 50%
+          May study spell [621]Bless vial to racial maximum
+          May train skill [622]Baptize to 37%
+          May train skill [623]Cast heal to 70%
+          May train skill [624]Cast generic to 98%
+          May train skill [625]Candlestick making to 58%
+          May study spell [626]Mana shield to 75%
+          May study spell [627]Cure serious wounds to 40%
+          May study spell [628]Guardian angel to 70%
+          May study spell [629]Remove scar to 83%
+          May study spell [630]Detect alignment to 97%
+          May train skill [631]Vial throwing to 71%
+          May study spell [632]Word of recall to 50%
+          May train skill [633]Quick chant to 40%
+          May study spell [634]Remove poison to 50%
+          May train skill [635]Essence eye to 65%
+          May train skill [636]Cast teleportation to 10%
+          May train skill [637]Discipline to 71%
+          May study spell [638]Aura detection to 77%
+          May train skill [639]Mana control to 55%
+          May train skill [640]Exorcize to 59%
+          May study spell [641]Soul shield to 75%
+
+                                 Level 23
+          Has studied spell [642]Dispel undead to at least 21%
+          Has studied spell [643]Cure light wounds to at least 40%
+          Has studied spell [644]Cure serious wounds to at least 28%
+          Has trained skill [645]Vial throwing to at least 19%
+          Has trained skill [646]Turn undead to at least 40%
+          Has trained skill [647]Sewing to at least 58%
+          Has trained skill [648]Candlestick making to at least 52%
+          Has trained skill [649]Discipline to at least 39%
+          Has studied spell [650]Saintly touch to at least 60%
+          May study spell [651]Flames of righteousness to 20%
+          May study spell [652]Dispel undead to 60%
+          May study spell [653]Detect vial to racial maximum
+          May train skill [654]Baptize to 44%
+          May study spell [655]Mana shield to 80%
+          May train skill [656]Candlestick making to 61%
+          May study spell [657]Cure serious wounds to 50%
+          May study spell [658]Guardian angel to 80%
+          May study spell [659]Cleanse heathen to 20%
+          May study spell [660]Satiate person to racial maximum
+          May train skill [661]Cast heal to 72%
+          May study spell [662]Remove scar to 92%
+          May train skill [663]Quick chant to 45%
+          May train skill [664]Vial throwing to 78%
+          May study spell [665]Detect alignment to 100%
+          May train skill [666]Essence eye to 76%
+          May train skill [667]Cast generic to 100%
+          May study spell [668]Aura detection to 88%
+          May train skill [669]Cast teleportation to 20%
+          May study spell [670]Word of recall to 65%
+          May train skill [671]Discipline to 72%
+          May train skill [672]Cast special to 20%
+          May train skill [673]Mana control to 59%
+          May study spell [674]Soul shield to 80%
+
+                                 Level 24
+          Has studied spell [675]Dispel undead to at least 30%
+          Has studied spell [676]Cure serious wounds to at least 30%
+          Has trained skill [677]Bless to at least 39%
+          Has trained skill [678]Cast holy to at least 45%
+          Has trained skill [679]Vial throwing to at least 24%
+          Has trained skill [680]Cast dispel to at least 60%
+          Has trained skill [681]Cast special to at least 4%
+          Has studied spell [682]Mana shield to at least 10%
+          Has trained skill [683]Mana control to at least 15%
+          Has studied spell [684]Identify relic to at least 50%
+          Has studied spell [685]Detect alignment to at least 30%
+          Has studied spell [686]Holy hand to at least 48%
+          May study spell [687]Banish demons to 20%
+          May study spell [688]Flames of righteousness to 35%
+          May study spell [689]Cleanse heathen to 30%
+          May train skill [690]Cast heal to 75%
+          May train skill [691]Candlestick making to 69%
+          May study spell [692]Guardian angel to 90%
+          May study spell [693]Mana shield to 85%
+          May study spell [694]Cure serious wounds to 60%
+          May train skill [695]Vial throwing to 81%
+          May train skill [696]Quick chant to 50%
+          May train skill [697]Essence eye to 87%
+          May study spell [698]Remove poison to 55%
+          May study spell [699]Remove scar to 100%
+          May study spell [700]Aura detection to 99%
+          May train skill [701]Discipline to 78%
+          May study spell [702]Word of recall to 70%
+          May train skill [703]Cast teleportation to 30%
+          May train skill [704]Cast special to 30%
+          May train skill [705]Power of faith to 20%
+          May train skill [706]Exorcize to racial maximum
+          May study spell [707]Soul shield to 85%
+
+                                 Level 25
+        Has studied spell [708]Banish demons to at least 5%
+        Has studied spell [709]Flames of righteousness to at least 1%
+        Has studied spell [710]Dispel undead to at least 35%
+        Has studied spell [711]Mana shield to at least 15%
+        Has trained skill [712]Cast holy to at least 55%
+        Has trained skill [713]Vial throwing to at least 28%
+        Has trained skill [714]Discipline to at least 55%
+        Has studied spell [715]Bless vial to at least 38%
+        Has studied spell [716]Cure serious wounds to at least 35%
+        Has trained skill [717]Cast protection to at least 50%
+        Has trained skill [718]Cast dispel to at least 75%
+        Has trained skill [719]Ceremony to at least 53%
+        Has studied spell [720]Soul shield to at least 30%
+        Has trained skill [721]Mana control to at least 18%
+        May study spell [722]Banish demons to 35%
+        May study spell [723]Flames of righteousness to 40%
+        May study spell [724]Dispel undead to racial maximum
+        May train skill [725]Cast heal to 80%
+        May study spell [726]Mana shield to 90%
+        May train skill [727]Candlestick making to 72%
+        May study spell [728]Cleanse heathen to 40%
+        May train skill [729]Discipline to 83%
+        May train skill [730]Vial throwing to 86%
+        May train skill [731]Essence eye to 98%
+        May study spell [732]Word of recall to 85%
+        May study spell [733]Guardian angel to 100%
+        May study spell [734]Heavy weight to 20%
+        May study spell [735]Cure critical wounds to 10%
+        May study spell [736]Remove poison to 60%
+        May study spell [737]Aura detection to 100%
+        May study spell [738]Restore to 40%
+        May train skill [739]Quick chant to 55%
+        May train skill [740]Cast teleportation to 40%
+        May train skill [741]Cast special to 40%
+        May train skill [742]Mana control to racial maximum
+        May train skill [743]Knowledge of dispelling to 20%
+        May train skill [744]Power of faith to 25%
+        May study spell [745]Soul shield to 90%
+        May study spell [746]Go to 40%
+        May train skill [747]Location memory to 15%
+
+                                 Level 26
+        Has studied spell [748]Banish demons to at least 17%
+        Has studied spell [749]Flames of righteousness to at least 3%
+        Has studied spell [750]Dispel undead to at least 40%
+        Has trained skill [751]Vial throwing to at least 35%
+        Has studied spell [752]Cure serious wounds to at least 40%
+        Has studied spell [753]Mana shield to at least 20%
+        Has trained skill [754]Exorcize to at least 30%
+        Has trained skill [755]Cast generic to at least 60%
+        Has trained skill [756]Turn undead to at least 50%
+        Has studied spell [757]Holy hand to at least 55%
+        May study spell [758]Banish demons to 50%
+        May study spell [759]Flames of righteousness to 55%
+        May study spell [760]Cure serious wounds to racial maximum
+        May study spell [761]Mana shield to 95%
+        May train skill [762]Candlestick making to 80%
+        May train skill [763]Plant lore to 50%
+        May study spell [764]Remove poison to racial maximum
+        May study spell [765]Cleanse heathen to 50%
+        May train skill [766]Vial throwing to 92%
+        May train skill [767]Essence eye to 100%
+        May train skill [768]Quick chant to 60%
+        May study spell [769]Cure critical wounds to 15%
+        May study spell [770]Restore to 55%
+        May study spell [771]Heavy weight to 30%
+        May train skill [772]Cast teleportation to 50%
+        May train skill [773]Knowledge of dispelling to 35%
+        May train skill [774]Cast special to 50%
+        May train skill [775]Discipline to 86%
+        May train skill [776]Power of faith to 35%
+        May study spell [777]Soul shield to 95%
+
+                                 Level 27
+          Has studied spell [778]Banish demons to at least 22%
+          Has studied spell [779]Bless vial to at least 40%
+          Has trained skill [780]Vial throwing to at least 38%
+          Has studied spell [781]Cure serious wounds to at least 40%
+          Has trained skill [782]Cast holy to at least 65%
+          Has studied spell [783]Remove poison to at least 20%
+          Has studied spell [784]Soul shield to at least 40%
+          Has trained skill [785]Cast heal to at least 40%
+          Has trained skill [786]Cast protection to at least 60%
+          May study spell [787]Banish demons to 65%
+          May study spell [788]Flames of righteousness to 60%
+          May study spell [789]Celestial haven to 10%
+          May study spell [790]Cleanse heathen to 60%
+          May study spell [791]Mana shield to 100%
+          May train skill [792]Candlestick making to 85%
+          May train skill [793]Baptize to racial maximum
+          May train skill [794]Vial throwing to 97%
+          May study spell [795]Summon to 20%
+          May study spell [796]Heavy weight to 40%
+          May study spell [797]Restore to 60%
+          May train skill [798]Knowledge of dispelling to 50%
+          May study spell [799]Cure critical wounds to 25%
+          May train skill [800]Quick chant to 65%
+          May train skill [801]Discipline to 90%
+          May study spell [802]Word of recall to 93%
+          May train skill [803]Cast teleportation to 60%
+          May train skill [804]Cast special to 60%
+          May study spell [805]Soul shield to 100%
+
+                                 Level 28
+        Has studied spell [806]Banish demons to at least 26%
+        Has studied spell [807]Flames of righteousness to at least 5%
+        Has trained skill [808]Vial throwing to at least 41%
+        Has studied spell [809]Bless vial to at least 50%
+        Has trained skill [810]Cast generic to at least 70%
+        Has trained skill [811]Cast protection to at least 75%
+        May study spell [812]Holy wind to 33%
+        May study spell [813]Heavenly protection to 20%
+        May study spell [814]Celestial haven to 25%
+        May train skill [815]Candlestick making to 91%
+        May study spell [816]Cleanse heathen to 70%
+        May train skill [817]Cast special to 65%
+        May study spell [818]Cure critical wounds to 30%
+        May train skill [819]Quick chant to 70%
+        May study spell [820]Heavy weight to 51%
+        May study spell [821]Restore to 75%
+        May train skill [822]Knowledge of dispelling to 65%
+        May train skill [823]Power of faith to 40%
+        May train skill [824]Mastery of shielding to 10%
+        May study spell [825]Resist temptation to 70%
+
+                                 Level 29
+        Has studied spell [826]Flames of righteousness to at least 7%
+        Has trained skill [827]Cast special to at least 7%
+        Has trained skill [828]Vial throwing to at least 47%
+        Has trained skill [829]Turn undead to at least 60%
+        May study spell [830]Flames of righteousness to racial maximum
+        May study spell [831]Holy bolt to 40%
+        May study spell [832]Holy wind to 41%
+        May study spell [833]Heavenly protection to 45%
+        May study spell [834]Cleanse heathen to 80%
+        May study spell [835]Celestial haven to 45%
+        May train skill [836]Vial throwing to 100%
+        May study spell [837]Summon to 45%
+        May train skill [838]Plant lore to 62%
+        May train skill [839]Quick chant to 75%
+        May train skill [840]Mastery of holy vials to 20%
+        May study spell [841]Restore to 90%
+        May study spell [842]Heavy weight to 61%
+        May train skill [843]Knowledge of dispelling to 80%
+        May study spell [844]Cure critical wounds to 35%
+        May train skill [845]Cast teleportation to racial maximum
+        May train skill [846]Cast special to racial maximum
+        May train skill [847]Mastery of shielding to 25%
+        May train skill [848]Power of faith to 45%
+
+                                 Level 30
+        Has studied spell [849]Flames of righteousness to at least 10%
+        Has studied spell [850]Holy bolt to at least 3%
+        Has studied spell [851]Holy wind to at least 1%
+        Has studied spell [852]Heavenly protection to at least 2%
+        Has trained skill [853]Cast holy to at least 75%
+        Has trained skill [854]Exorcize to at least 40%
+        Has trained skill [855]Ceremony to at least 55%
+        Has trained skill [856]Discipline to at least 60%
+        Has trained skill [857]Cast generic to at least 80%
+        Has trained skill [858]Vial throwing to at least 50%
+        Has studied spell [859]Soul shield to at least 50%
+        May study spell [860]Banish demons to racial maximum
+        May study spell [861]Holy bolt to 55%
+        May study spell [862]Holy wind to 52%
+        May train skill [863]Quick chant to 80%
+        May study spell [864]Celestial haven to 53%
+        May train skill [865]Mastery of holy vials to 36%
+        May train skill [866]Mastery of shielding to 40%
+        May study spell [867]Restore to 99%
+        May train skill [868]Sewing to 90%
+        May train skill [869]Candlestick making to 100%
+        May train skill [870]Knowledge of dispelling to 95%
+        May train skill [871]Might of the saints to 20%
+        May study spell [872]Heavy weight to 71%
+        May study spell [873]Cure critical wounds to 40%
+        May train skill [874]Power of faith to 50%
+
+                                 Level 31
+          Has studied spell [875]Banish demons to at least 30%
+          Has studied spell [876]Holy bolt to at least 6%
+          Has studied spell [877]Holy wind to at least 3%
+          Has studied spell [878]Heavenly protection to at least 6%
+          Has trained skill [879]Mana control to at least 20%
+          May study spell [880]Holy bolt to 60%
+          May study spell [881]Holy wind to 59%
+          May study spell [882]Heavenly protection to 59%
+          May study spell [883]Celestial haven to 59%
+          May study spell [884]Cleanse heathen to 90%
+          May train skill [885]Quick chant to 85%
+          May study spell [886]Summon to 59%
+          May train skill [887]Sewing to 100%
+          May train skill [888]Plant lore to 69%
+          May study spell [889]Heavy weight to 81%
+          May train skill [890]Knowledge of dispelling to 100%
+          May train skill [891]Mastery of holy vials to 52%
+          May study spell [892]Heavy weight to 81%
+          May train skill [893]Might of the saints to 40%
+          May train skill [894]Mastery of shielding to 55%
+          May train skill [895]Power of faith to 55%
+
+                                 Level 32
+          Has studied spell [896]Holy bolt to at least 10%
+          Has studied spell [897]Holy wind to at least 5%
+          Has studied spell [898]Heavenly protection to at least 11%
+          Has studied spell [899]Holy hand to at least 60%
+          May study spell [900]Holy bolt to 68%
+          May study spell [901]Holy wind to 62%
+          May study spell [902]Cleanse heathen to 95%
+          May train skill [903]Might of the saints to 60%
+          May study spell [904]Summon to racial maximum
+          May study spell [905]Heavy weight to 91%
+          May train skill [906]Quick chant to 90%
+          May train skill [907]Power of faith to 59%
+
+                                 Level 33
+          Has studied spell [908]Holy bolt to at least 15%
+          Has studied spell [909]Holy wind to at least 8%
+          Has trained skill [910]Might of the saints to at least 10%
+          Has studied spell [911]Heavenly protection to at least 15%
+          Has trained skill [912]Turn undead to at least 70%
+          May study spell [913]Holy wind to racial maximum
+          May study spell [914]Heavenly protection to racial maximum
+          May study spell [915]Celestial haven to racial maximum
+          May train skill [916]Power of faith to racial maximum
+          May train skill [917]Might of the saints to 80%
+          May train skill [918]Quick chant to 95%
+          May train skill [919]Plant lore to 75%
+          May train skill [920]Mastery of shielding to 60%
+
+                                 Level 34
+         Has studied spell [921]Holy bolt to at least 20%
+         Has trained skill [922]Cast special to at least 10%
+         Has trained skill [923]Might of the saints to at least 20%
+         Has trained skill [924]Turn undead to at least 72%
+         May study spell [925]Holy bolt to racial maximum
+         May train skill [926]Mastery of holy vials to racial maximum
+         May train skill [927]Quick chant to 100%
+         May train skill [928]Might of the saints to 90%
+         May train skill [929]Mastery of shielding to racial maximum
+
+                                 Level 35
+        Has studied spell [930]Holy bolt to at least 30%
+        Has studied spell [931]Holy wind to at least 10%
+        Has studied spell [932]Heavenly protection to at least 20%
+        Has studied spell [933]Cleanse heathen to at least 10%
+        Has trained skill [934]Mastery of holy vials to at least 5%
+        Has trained skill [935]Candlestick making to at least 60%
+        Has trained skill [936]Turn undead to at least 75%
+        Has trained skill [937]Sewing to at least 60%
+        Has trained skill [938]Quick chant to at least 10%
+        Has trained skill [939]Might of the saints to at least 30%
+        Has trained skill [940]Knowledge of dispelling to at least 40%
+        Has trained skill [941]Power of faith to at least 10%
+        May study spell [942]Wrath of las to racial maximum
+        May train skill [943]Might of the saints to 100%
+        May study spell [944]Guardian to racial maximum
+        May study spell [945]Resist temptation to racial maximum
+
+                   Allows joining to the following guild:
+     Sisters of Las
+     Disallows joining to the following guild:
+                     The Warrior Brotherhood
+
+   [946]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [947]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=Sisters%20of%20Las&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=Sisters%20of%20Las&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=Sisters%20of%20Las&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=zin
+  23. http://www.bat.org/help/skills.php?str=consider
+  24. http://www.bat.org/help/skills.php?str=turn_undead
+  25. http://www.bat.org/help/skills.php?str=cast_dispel
+  26. http://www.bat.org/help/skills.php?str=cast_generic
+  27. http://www.bat.org/help/skills.php?str=attack
+  28. http://www.bat.org/help/skills.php?str=bludgeons
+  29. http://www.bat.org/help/skills.php?str=cast_heal
+  30. http://www.bat.org/help/skills.php?str=discipline
+  31. http://www.bat.org/help/skills.php?str=sewing
+  32. http://www.bat.org/help/skills.php?str=candlestick_making
+  33. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  34. http://www.bat.org/help/spells.php?str=identify_relic
+  35. http://www.bat.org/help/spells.php?str=saintly_touch
+  36. http://www.bat.org/help/skills.php?str=turn_undead
+  37. http://www.bat.org/help/skills.php?str=cast_dispel
+  38. http://www.bat.org/help/skills.php?str=cast_generic
+  39. http://www.bat.org/help/skills.php?str=cast_heal
+  40. http://www.bat.org/help/skills.php?str=discipline
+  41. http://www.bat.org/help/skills.php?str=candlestick_making
+  42. http://www.bat.org/help/skills.php?str=sewing
+  43. http://www.bat.org/help/spells.php?str=identify_relic
+  44. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  45. http://www.bat.org/help/spells.php?str=saintly_touch
+  46. http://www.bat.org/help/skills.php?str=consider
+  47. http://www.bat.org/help/skills.php?str=turn_undead
+  48. http://www.bat.org/help/skills.php?str=cast_generic
+  49. http://www.bat.org/help/skills.php?str=attack
+  50. http://www.bat.org/help/skills.php?str=bludgeons
+  51. http://www.bat.org/help/skills.php?str=discipline
+  52. http://www.bat.org/help/skills.php?str=sewing
+  53. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  54. http://www.bat.org/help/spells.php?str=detect_alignment
+  55. http://www.bat.org/help/skills.php?str=cast_dispel
+  56. http://www.bat.org/help/skills.php?str=candlestick_making
+  57. http://www.bat.org/help/spells.php?str=identify_relic
+  58. http://www.bat.org/help/skills.php?str=cast_heal
+  59. http://www.bat.org/help/spells.php?str=saintly_touch
+  60. http://www.bat.org/help/skills.php?str=turn_undead
+  61. http://www.bat.org/help/spells.php?str=saintly_touch
+  62. http://www.bat.org/help/skills.php?str=cast_generic
+  63. http://www.bat.org/help/skills.php?str=discipline
+  64. http://www.bat.org/help/skills.php?str=sewing
+  65. http://www.bat.org/help/spells.php?str=identify_relic
+  66. http://www.bat.org/help/skills.php?str=candlestick_making
+  67. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  68. http://www.bat.org/help/skills.php?str=cast_dispel
+  69. http://www.bat.org/help/skills.php?str=consider
+  70. http://www.bat.org/help/skills.php?str=cast_dispel
+  71. http://www.bat.org/help/skills.php?str=cast_generic
+  72. http://www.bat.org/help/spells.php?str=create_food
+  73. http://www.bat.org/help/skills.php?str=attack
+  74. http://www.bat.org/help/spells.php?str=light
+  75. http://www.bat.org/help/skills.php?str=cast_heal
+  76. http://www.bat.org/help/skills.php?str=discipline
+  77. http://www.bat.org/help/skills.php?str=bludgeons
+  78. http://www.bat.org/help/skills.php?str=sewing
+  79. http://www.bat.org/help/skills.php?str=candlestick_making
+  80. http://www.bat.org/help/spells.php?str=identify_relic
+  81. http://www.bat.org/help/spells.php?str=detect_alignment
+  82. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  83. http://www.bat.org/help/skills.php?str=turn_undead
+  84. http://www.bat.org/help/spells.php?str=saintly_touch
+  85. http://www.bat.org/help/skills.php?str=turn_undead
+  86. http://www.bat.org/help/spells.php?str=light
+  87. http://www.bat.org/help/skills.php?str=sewing
+  88. http://www.bat.org/help/skills.php?str=candlestick_making
+  89. http://www.bat.org/help/spells.php?str=cure_light_wounds
+  90. http://www.bat.org/help/skills.php?str=cast_dispel
+  91. http://www.bat.org/help/skills.php?str=consider
+  92. http://www.bat.org/help/skills.php?str=cast_dispel
+  93. http://www.bat.org/help/skills.php?str=attack
+  94. http://www.bat.org/help/spells.php?str=create_food
+  95. http://www.bat.org/help/skills.php?str=cast_heal
+  96. http://www.bat.org/help/skills.php?str=bludgeons
+  97. http://www.bat.org/help/skills.php?str=discipline
+  98. http://www.bat.org/help/spells.php?str=light
+  99. http://www.bat.org/help/skills.php?str=sewing
+ 100. http://www.bat.org/help/skills.php?str=candlestick_making
+ 101. http://www.bat.org/help/skills.php?str=cast_generic
+ 102. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 103. http://www.bat.org/help/skills.php?str=turn_undead
+ 104. http://www.bat.org/help/spells.php?str=detect_alignment
+ 105. http://www.bat.org/help/spells.php?str=identify_relic
+ 106. http://www.bat.org/help/skills.php?str=bless
+ 107. http://www.bat.org/help/spells.php?str=saintly_touch
+ 108. http://www.bat.org/help/skills.php?str=discipline
+ 109. http://www.bat.org/help/skills.php?str=bless
+ 110. http://www.bat.org/help/skills.php?str=sewing
+ 111. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 112. http://www.bat.org/help/skills.php?str=cast_dispel
+ 113. http://www.bat.org/help/spells.php?str=create_food
+ 114. http://www.bat.org/help/skills.php?str=cast_dispel
+ 115. http://www.bat.org/help/skills.php?str=consider
+ 116. http://www.bat.org/help/skills.php?str=attack
+ 117. http://www.bat.org/help/skills.php?str=cast_heal
+ 118. http://www.bat.org/help/skills.php?str=discipline
+ 119. http://www.bat.org/help/skills.php?str=bless
+ 120. http://www.bat.org/help/spells.php?str=detect_alignment
+ 121. http://www.bat.org/help/skills.php?str=bludgeons
+ 122. http://www.bat.org/help/skills.php?str=candlestick_making
+ 123. http://www.bat.org/help/skills.php?str=sewing
+ 124. http://www.bat.org/help/skills.php?str=cast_generic
+ 125. http://www.bat.org/help/skills.php?str=turn_undead
+ 126. http://www.bat.org/help/spells.php?str=identify_relic
+ 127. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 128. http://www.bat.org/help/spells.php?str=light
+ 129. http://www.bat.org/help/spells.php?str=saintly_touch
+ 130. http://www.bat.org/help/spells.php?str=create_food
+ 131. http://www.bat.org/help/skills.php?str=cast_dispel
+ 132. http://www.bat.org/help/skills.php?str=consider
+ 133. http://www.bat.org/help/skills.php?str=plant_lore
+ 134. http://www.bat.org/help/skills.php?str=cast_generic
+ 135. http://www.bat.org/help/skills.php?str=attack
+ 136. http://www.bat.org/help/skills.php?str=discipline
+ 137. http://www.bat.org/help/skills.php?str=cast_heal
+ 138. http://www.bat.org/help/skills.php?str=candlestick_making
+ 139. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 140. http://www.bat.org/help/skills.php?str=first_aid
+ 141. http://www.bat.org/help/skills.php?str=bludgeons
+ 142. http://www.bat.org/help/skills.php?str=sewing
+ 143. http://www.bat.org/help/spells.php?str=identify_relic
+ 144. http://www.bat.org/help/spells.php?str=light
+ 145. http://www.bat.org/help/spells.php?str=detect_alignment
+ 146. http://www.bat.org/help/skills.php?str=bless
+ 147. http://www.bat.org/help/skills.php?str=turn_undead
+ 148. http://www.bat.org/help/spells.php?str=saintly_touch
+ 149. http://www.bat.org/help/spells.php?str=create_food
+ 150. http://www.bat.org/help/skills.php?str=ceremony
+ 151. http://www.bat.org/help/skills.php?str=cast_dispel
+ 152. http://www.bat.org/help/skills.php?str=consider
+ 153. http://www.bat.org/help/skills.php?str=cast_heal
+ 154. http://www.bat.org/help/skills.php?str=discipline
+ 155. http://www.bat.org/help/skills.php?str=bless
+ 156. http://www.bat.org/help/spells.php?str=light
+ 157. http://www.bat.org/help/skills.php?str=candlestick_making
+ 158. http://www.bat.org/help/spells.php?str=identify_relic
+ 159. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 160. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 161. http://www.bat.org/help/skills.php?str=first_aid
+ 162. http://www.bat.org/help/skills.php?str=cast_generic
+ 163. http://www.bat.org/help/spells.php?str=saintly_touch
+ 164. http://www.bat.org/help/skills.php?str=cast_dispel
+ 165. http://www.bat.org/help/skills.php?str=ceremony
+ 166. http://www.bat.org/help/skills.php?str=bless
+ 167. http://www.bat.org/help/skills.php?str=candlestick_making
+ 168. http://www.bat.org/help/skills.php?str=sewing
+ 169. http://www.bat.org/help/skills.php?str=cast_generic
+ 170. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 171. http://www.bat.org/help/spells.php?str=create_food
+ 172. http://www.bat.org/help/skills.php?str=cast_dispel
+ 173. http://www.bat.org/help/skills.php?str=plant_lore
+ 174. http://www.bat.org/help/skills.php?str=ceremony
+ 175. http://www.bat.org/help/skills.php?str=cast_generic
+ 176. http://www.bat.org/help/skills.php?str=discipline
+ 177. http://www.bat.org/help/skills.php?str=sewing
+ 178. http://www.bat.org/help/skills.php?str=candlestick_making
+ 179. http://www.bat.org/help/skills.php?str=cast_heal
+ 180. http://www.bat.org/help/skills.php?str=first_aid
+ 181. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 182. http://www.bat.org/help/spells.php?str=detect_alignment
+ 183. http://www.bat.org/help/spells.php?str=light
+ 184. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 185. http://www.bat.org/help/skills.php?str=bless
+ 186. http://www.bat.org/help/spells.php?str=identify_relic
+ 187. http://www.bat.org/help/skills.php?str=cast_protection
+ 188. http://www.bat.org/help/spells.php?str=saintly_touch
+ 189. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 190. http://www.bat.org/help/skills.php?str=cast_protection
+ 191. http://www.bat.org/help/spells.php?str=identify_relic
+ 192. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 193. http://www.bat.org/help/skills.php?str=sewing
+ 194. http://www.bat.org/help/spells.php?str=saintly_touch
+ 195. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 196. http://www.bat.org/help/spells.php?str=create_food
+ 197. http://www.bat.org/help/skills.php?str=cast_dispel
+ 198. http://www.bat.org/help/skills.php?str=plant_lore
+ 199. http://www.bat.org/help/skills.php?str=cast_protection
+ 200. http://www.bat.org/help/skills.php?str=cast_generic
+ 201. http://www.bat.org/help/skills.php?str=discipline
+ 202. http://www.bat.org/help/skills.php?str=cast_holy
+ 203. http://www.bat.org/help/skills.php?str=ceremony
+ 204. http://www.bat.org/help/skills.php?str=bless
+ 205. http://www.bat.org/help/skills.php?str=candlestick_making
+ 206. http://www.bat.org/help/skills.php?str=sewing
+ 207. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 208. http://www.bat.org/help/skills.php?str=cast_heal
+ 209. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 210. http://www.bat.org/help/spells.php?str=detect_alignment
+ 211. http://www.bat.org/help/skills.php?str=first_aid
+ 212. http://www.bat.org/help/spells.php?str=light
+ 213. http://www.bat.org/help/spells.php?str=identify_relic
+ 214. http://www.bat.org/help/spells.php?str=saintly_touch
+ 215. http://www.bat.org/help/spells.php?str=holy_hand
+ 216. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 217. http://www.bat.org/help/skills.php?str=cast_protection
+ 218. http://www.bat.org/help/skills.php?str=cast_heal
+ 219. http://www.bat.org/help/skills.php?str=ceremony
+ 220. http://www.bat.org/help/skills.php?str=bless
+ 221. http://www.bat.org/help/skills.php?str=sewing
+ 222. http://www.bat.org/help/skills.php?str=cast_holy
+ 223. http://www.bat.org/help/spells.php?str=holy_hand
+ 224. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 225. http://www.bat.org/help/spells.php?str=create_food
+ 226. http://www.bat.org/help/skills.php?str=cast_protection
+ 227. http://www.bat.org/help/skills.php?str=cast_dispel
+ 228. http://www.bat.org/help/skills.php?str=candlestick_making
+ 229. http://www.bat.org/help/skills.php?str=cast_holy
+ 230. http://www.bat.org/help/skills.php?str=cast_heal
+ 231. http://www.bat.org/help/skills.php?str=discipline
+ 232. http://www.bat.org/help/spells.php?str=light
+ 233. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 234. http://www.bat.org/help/skills.php?str=cast_generic
+ 235. http://www.bat.org/help/skills.php?str=ceremony
+ 236. http://www.bat.org/help/spells.php?str=detect_alignment
+ 237. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 238. http://www.bat.org/help/skills.php?str=bless
+ 239. http://www.bat.org/help/spells.php?str=saintly_touch
+ 240. http://www.bat.org/help/spells.php?str=holy_hand
+ 241. http://www.bat.org/help/skills.php?str=first_aid
+ 242. http://www.bat.org/help/spells.php?str=soul_shield
+ 243. http://www.bat.org/help/skills.php?str=cast_protection
+ 244. http://www.bat.org/help/skills.php?str=cast_dispel
+ 245. http://www.bat.org/help/spells.php?str=soul_shield
+ 246. http://www.bat.org/help/skills.php?str=cast_generic
+ 247. http://www.bat.org/help/skills.php?str=sewing
+ 248. http://www.bat.org/help/skills.php?str=candlestick_making
+ 249. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 250. http://www.bat.org/help/spells.php?str=holy_hand
+ 251. http://www.bat.org/help/spells.php?str=dispel_evil
+ 252. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 253. http://www.bat.org/help/spells.php?str=create_food
+ 254. http://www.bat.org/help/skills.php?str=cast_heal
+ 255. http://www.bat.org/help/skills.php?str=cast_dispel
+ 256. http://www.bat.org/help/skills.php?str=discipline
+ 257. http://www.bat.org/help/skills.php?str=candlestick_making
+ 258. http://www.bat.org/help/skills.php?str=cast_holy
+ 259. http://www.bat.org/help/skills.php?str=first_aid
+ 260. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 261. http://www.bat.org/help/spells.php?str=detect_alignment
+ 262. http://www.bat.org/help/skills.php?str=cast_generic
+ 263. http://www.bat.org/help/skills.php?str=cast_protection
+ 264. http://www.bat.org/help/skills.php?str=ceremony
+ 265. http://www.bat.org/help/spells.php?str=saintly_touch
+ 266. http://www.bat.org/help/spells.php?str=cure_player
+ 267. http://www.bat.org/help/skills.php?str=bless
+ 268. http://www.bat.org/help/spells.php?str=holy_hand
+ 269. http://www.bat.org/help/spells.php?str=soul_shield
+ 270. http://www.bat.org/help/spells.php?str=dispel_evil
+ 271. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 272. http://www.bat.org/help/skills.php?str=cast_holy
+ 273. http://www.bat.org/help/skills.php?str=discipline
+ 274. http://www.bat.org/help/skills.php?str=sewing
+ 275. http://www.bat.org/help/skills.php?str=ceremony
+ 276. http://www.bat.org/help/skills.php?str=cast_protection
+ 277. http://www.bat.org/help/spells.php?str=dispel_evil
+ 278. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 279. http://www.bat.org/help/skills.php?str=discipline
+ 280. http://www.bat.org/help/spells.php?str=create_food
+ 281. http://www.bat.org/help/skills.php?str=cast_dispel
+ 282. http://www.bat.org/help/skills.php?str=cast_holy
+ 283. http://www.bat.org/help/skills.php?str=cast_heal
+ 284. http://www.bat.org/help/skills.php?str=candlestick_making
+ 285. http://www.bat.org/help/skills.php?str=cast_generic
+ 286. http://www.bat.org/help/spells.php?str=detect_alignment
+ 287. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 288. http://www.bat.org/help/spells.php?str=mana_shield
+ 289. http://www.bat.org/help/skills.php?str=cast_protection
+ 290. http://www.bat.org/help/skills.php?str=ceremony
+ 291. http://www.bat.org/help/spells.php?str=cure_player
+ 292. http://www.bat.org/help/spells.php?str=holy_hand
+ 293. http://www.bat.org/help/skills.php?str=first_aid
+ 294. http://www.bat.org/help/spells.php?str=soul_shield
+ 295. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 296. http://www.bat.org/help/skills.php?str=cast_dispel
+ 297. http://www.bat.org/help/spells.php?str=light
+ 298. http://www.bat.org/help/skills.php?str=sewing
+ 299. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 300. http://www.bat.org/help/spells.php?str=holy_hand
+ 301. http://www.bat.org/help/spells.php?str=dispel_evil
+ 302. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 303. http://www.bat.org/help/spells.php?str=bless_vial
+ 304. http://www.bat.org/help/spells.php?str=detect_vial
+ 305. http://www.bat.org/help/skills.php?str=discipline
+ 306. http://www.bat.org/help/skills.php?str=cast_dispel
+ 307. http://www.bat.org/help/skills.php?str=cast_holy
+ 308. http://www.bat.org/help/skills.php?str=candlestick_making
+ 309. http://www.bat.org/help/skills.php?str=cast_generic
+ 310. http://www.bat.org/help/skills.php?str=cast_information
+ 311. http://www.bat.org/help/spells.php?str=mana_shield
+ 312. http://www.bat.org/help/skills.php?str=cast_heal
+ 313. http://www.bat.org/help/spells.php?str=cure_player
+ 314. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 315. http://www.bat.org/help/spells.php?str=detect_alignment
+ 316. http://www.bat.org/help/skills.php?str=ceremony
+ 317. http://www.bat.org/help/skills.php?str=bless
+ 318. http://www.bat.org/help/skills.php?str=first_aid
+ 319. http://www.bat.org/help/skills.php?str=cast_protection
+ 320. http://www.bat.org/help/skills.php?str=vial_throwing
+ 321. http://www.bat.org/help/spells.php?str=holy_hand
+ 322. http://www.bat.org/help/spells.php?str=soul_shield
+ 323. http://www.bat.org/help/spells.php?str=dispel_evil
+ 324. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 325. http://www.bat.org/help/skills.php?str=cast_holy
+ 326. http://www.bat.org/help/skills.php?str=first_aid
+ 327. http://www.bat.org/help/spells.php?str=bless_vial
+ 328. http://www.bat.org/help/skills.php?str=sewing
+ 329. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 330. http://www.bat.org/help/skills.php?str=cast_generic
+ 331. http://www.bat.org/help/spells.php?str=saintly_touch
+ 332. http://www.bat.org/help/spells.php?str=dispel_evil
+ 333. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 334. http://www.bat.org/help/spells.php?str=mana_shield
+ 335. http://www.bat.org/help/spells.php?str=bless_vial
+ 336. http://www.bat.org/help/skills.php?str=cast_holy
+ 337. http://www.bat.org/help/skills.php?str=candlestick_making
+ 338. http://www.bat.org/help/skills.php?str=discipline
+ 339. http://www.bat.org/help/skills.php?str=cast_heal
+ 340. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 341. http://www.bat.org/help/skills.php?str=cast_information
+ 342. http://www.bat.org/help/skills.php?str=cast_generic
+ 343. http://www.bat.org/help/skills.php?str=first_aid
+ 344. http://www.bat.org/help/spells.php?str=cure_player
+ 345. http://www.bat.org/help/skills.php?str=ceremony
+ 346. http://www.bat.org/help/skills.php?str=cast_dispel
+ 347. http://www.bat.org/help/spells.php?str=detect_alignment
+ 348. http://www.bat.org/help/skills.php?str=vial_throwing
+ 349. http://www.bat.org/help/spells.php?str=water_walking
+ 350. http://www.bat.org/help/skills.php?str=cast_protection
+ 351. http://www.bat.org/help/spells.php?str=holy_hand
+ 352. http://www.bat.org/help/spells.php?str=soul_shield
+ 353. http://www.bat.org/help/spells.php?str=dispel_evil
+ 354. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 355. http://www.bat.org/help/skills.php?str=vial_throwing
+ 356. http://www.bat.org/help/skills.php?str=sewing
+ 357. http://www.bat.org/help/spells.php?str=bless_vial
+ 358. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 359. http://www.bat.org/help/spells.php?str=holy_hand
+ 360. http://www.bat.org/help/spells.php?str=dispel_evil
+ 361. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 362. http://www.bat.org/help/skills.php?str=cast_dispel
+ 363. http://www.bat.org/help/skills.php?str=discipline
+ 364. http://www.bat.org/help/skills.php?str=ceremony
+ 365. http://www.bat.org/help/spells.php?str=bless_vial
+ 366. http://www.bat.org/help/skills.php?str=cast_heal
+ 367. http://www.bat.org/help/skills.php?str=candlestick_making
+ 368. http://www.bat.org/help/spells.php?str=mana_shield
+ 369. http://www.bat.org/help/skills.php?str=vial_throwing
+ 370. http://www.bat.org/help/skills.php?str=first_aid
+ 371. http://www.bat.org/help/skills.php?str=cast_information
+ 372. http://www.bat.org/help/skills.php?str=cast_holy
+ 373. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 374. http://www.bat.org/help/spells.php?str=cure_player
+ 375. http://www.bat.org/help/skills.php?str=cast_generic
+ 376. http://www.bat.org/help/spells.php?str=detect_alignment
+ 377. http://www.bat.org/help/spells.php?str=create_food
+ 378. http://www.bat.org/help/spells.php?str=water_walking
+ 379. http://www.bat.org/help/spells.php?str=satiate_person
+ 380. http://www.bat.org/help/skills.php?str=cast_protection
+ 381. http://www.bat.org/help/spells.php?str=holy_hand
+ 382. http://www.bat.org/help/spells.php?str=soul_shield
+ 383. http://www.bat.org/help/spells.php?str=dispel_evil
+ 384. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 385. http://www.bat.org/help/spells.php?str=mana_shield
+ 386. http://www.bat.org/help/skills.php?str=cast_heal
+ 387. http://www.bat.org/help/spells.php?str=bless_vial
+ 388. http://www.bat.org/help/skills.php?str=vial_throwing
+ 389. http://www.bat.org/help/skills.php?str=candlestick_making
+ 390. http://www.bat.org/help/skills.php?str=cast_information
+ 391. http://www.bat.org/help/skills.php?str=quick_chant
+ 392. http://www.bat.org/help/skills.php?str=cast_holy
+ 393. http://www.bat.org/help/skills.php?str=discipline
+ 394. http://www.bat.org/help/spells.php?str=cure_player
+ 395. http://www.bat.org/help/skills.php?str=cast_generic
+ 396. http://www.bat.org/help/spells.php?str=detect_alignment
+ 397. http://www.bat.org/help/spells.php?str=satiate_person
+ 398. http://www.bat.org/help/skills.php?str=cast_dispel
+ 399. http://www.bat.org/help/skills.php?str=ceremony
+ 400. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 401. http://www.bat.org/help/skills.php?str=cast_protection
+ 402. http://www.bat.org/help/spells.php?str=holy_hand
+ 403. http://www.bat.org/help/spells.php?str=remove_scar
+ 404. http://www.bat.org/help/spells.php?str=soul_shield
+ 405. http://www.bat.org/help/spells.php?str=dispel_evil
+ 406. http://www.bat.org/help/skills.php?str=cast_dispel
+ 407. http://www.bat.org/help/skills.php?str=cast_holy
+ 408. http://www.bat.org/help/skills.php?str=cast_heal
+ 409. http://www.bat.org/help/spells.php?str=bless_vial
+ 410. http://www.bat.org/help/skills.php?str=sewing
+ 411. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 412. http://www.bat.org/help/skills.php?str=first_aid
+ 413. http://www.bat.org/help/skills.php?str=cast_generic
+ 414. http://www.bat.org/help/skills.php?str=cast_protection
+ 415. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 416. http://www.bat.org/help/skills.php?str=plant_lore
+ 417. http://www.bat.org/help/spells.php?str=bless_vial
+ 418. http://www.bat.org/help/spells.php?str=remove_poison
+ 419. http://www.bat.org/help/skills.php?str=candlestick_making
+ 420. http://www.bat.org/help/skills.php?str=vial_throwing
+ 421. http://www.bat.org/help/skills.php?str=cast_heal
+ 422. http://www.bat.org/help/skills.php?str=cast_information
+ 423. http://www.bat.org/help/skills.php?str=quick_chant
+ 424. http://www.bat.org/help/skills.php?str=cast_generic
+ 425. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 426. http://www.bat.org/help/spells.php?str=detect_alignment
+ 427. http://www.bat.org/help/skills.php?str=discipline
+ 428. http://www.bat.org/help/skills.php?str=cast_dispel
+ 429. http://www.bat.org/help/spells.php?str=cure_player
+ 430. http://www.bat.org/help/skills.php?str=cast_holy
+ 431. http://www.bat.org/help/spells.php?str=water_walking
+ 432. http://www.bat.org/help/spells.php?str=remove_scar
+ 433. http://www.bat.org/help/spells.php?str=satiate_person
+ 434. http://www.bat.org/help/spells.php?str=mana_shield
+ 435. http://www.bat.org/help/skills.php?str=exorcize
+ 436. http://www.bat.org/help/spells.php?str=holy_hand
+ 437. http://www.bat.org/help/spells.php?str=aura_detection
+ 438. http://www.bat.org/help/spells.php?str=soul_shield
+ 439. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 440. http://www.bat.org/help/spells.php?str=bless_vial
+ 441. http://www.bat.org/help/skills.php?str=ceremony
+ 442. http://www.bat.org/help/spells.php?str=soul_shield
+ 443. http://www.bat.org/help/skills.php?str=sewing
+ 444. http://www.bat.org/help/skills.php?str=turn_undead
+ 445. http://www.bat.org/help/spells.php?str=holy_hand
+ 446. http://www.bat.org/help/spells.php?str=bless_vial
+ 447. http://www.bat.org/help/spells.php?str=remove_poison
+ 448. http://www.bat.org/help/skills.php?str=cast_heal
+ 449. http://www.bat.org/help/spells.php?str=satiate_person
+ 450. http://www.bat.org/help/skills.php?str=cast_protection
+ 451. http://www.bat.org/help/skills.php?str=discipline
+ 452. http://www.bat.org/help/spells.php?str=detect_alignment
+ 453. http://www.bat.org/help/skills.php?str=cast_dispel
+ 454. http://www.bat.org/help/skills.php?str=candlestick_making
+ 455. http://www.bat.org/help/skills.php?str=quick_chant
+ 456. http://www.bat.org/help/spells.php?str=cure_player
+ 457. http://www.bat.org/help/skills.php?str=cast_holy
+ 458. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 459. http://www.bat.org/help/skills.php?str=cast_information
+ 460. http://www.bat.org/help/spells.php?str=aura_detection
+ 461. http://www.bat.org/help/spells.php?str=remove_scar
+ 462. http://www.bat.org/help/skills.php?str=cast_generic
+ 463. http://www.bat.org/help/skills.php?str=vial_throwing
+ 464. http://www.bat.org/help/spells.php?str=mana_shield
+ 465. http://www.bat.org/help/skills.php?str=mana_control
+ 466. http://www.bat.org/help/skills.php?str=exorcize
+ 467. http://www.bat.org/help/skills.php?str=essence_eye
+ 468. http://www.bat.org/help/spells.php?str=holy_hand
+ 469. http://www.bat.org/help/spells.php?str=guardian_angel
+ 470. http://www.bat.org/help/spells.php?str=soul_shield
+ 471. http://www.bat.org/help/spells.php?str=bless_vial
+ 472. http://www.bat.org/help/skills.php?str=mana_control
+ 473. http://www.bat.org/help/skills.php?str=exorcize
+ 474. http://www.bat.org/help/skills.php?str=candlestick_making
+ 475. http://www.bat.org/help/skills.php?str=sewing
+ 476. http://www.bat.org/help/spells.php?str=holy_hand
+ 477. http://www.bat.org/help/spells.php?str=dispel_undead
+ 478. http://www.bat.org/help/spells.php?str=bless_vial
+ 479. http://www.bat.org/help/spells.php?str=detect_vial
+ 480. http://www.bat.org/help/skills.php?str=baptize
+ 481. http://www.bat.org/help/spells.php?str=guardian_angel
+ 482. http://www.bat.org/help/skills.php?str=cast_holy
+ 483. http://www.bat.org/help/skills.php?str=cast_heal
+ 484. http://www.bat.org/help/skills.php?str=cast_generic
+ 485. http://www.bat.org/help/skills.php?str=candlestick_making
+ 486. http://www.bat.org/help/spells.php?str=mana_shield
+ 487. http://www.bat.org/help/skills.php?str=quick_chant
+ 488. http://www.bat.org/help/spells.php?str=remove_scar
+ 489. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 490. http://www.bat.org/help/spells.php?str=detect_alignment
+ 491. http://www.bat.org/help/skills.php?str=cast_information
+ 492. http://www.bat.org/help/skills.php?str=vial_throwing
+ 493. http://www.bat.org/help/spells.php?str=aura_detection
+ 494. http://www.bat.org/help/spells.php?str=cure_player
+ 495. http://www.bat.org/help/skills.php?str=essence_eye
+ 496. http://www.bat.org/help/spells.php?str=remove_poison
+ 497. http://www.bat.org/help/skills.php?str=discipline
+ 498. http://www.bat.org/help/spells.php?str=water_walking
+ 499. http://www.bat.org/help/spells.php?str=satiate_person
+ 500. http://www.bat.org/help/skills.php?str=mana_control
+ 501. http://www.bat.org/help/skills.php?str=exorcize
+ 502. http://www.bat.org/help/spells.php?str=holy_hand
+ 503. http://www.bat.org/help/spells.php?str=soul_shield
+ 504. http://www.bat.org/help/spells.php?str=resist_temptation
+ 505. http://www.bat.org/help/spells.php?str=bless_vial
+ 506. http://www.bat.org/help/spells.php?str=remove_poison
+ 507. http://www.bat.org/help/skills.php?str=mana_control
+ 508. http://www.bat.org/help/skills.php?str=exorcize
+ 509. http://www.bat.org/help/skills.php?str=sewing
+ 510. http://www.bat.org/help/skills.php?str=discipline
+ 511. http://www.bat.org/help/spells.php?str=saintly_touch
+ 512. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 513. http://www.bat.org/help/spells.php?str=holy_hand
+ 514. http://www.bat.org/help/spells.php?str=dispel_undead
+ 515. http://www.bat.org/help/spells.php?str=bless_vial
+ 516. http://www.bat.org/help/skills.php?str=baptize
+ 517. http://www.bat.org/help/spells.php?str=mana_shield
+ 518. http://www.bat.org/help/skills.php?str=candlestick_making
+ 519. http://www.bat.org/help/skills.php?str=cast_heal
+ 520. http://www.bat.org/help/skills.php?str=cast_generic
+ 521. http://www.bat.org/help/skills.php?str=quick_chant
+ 522. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 523. http://www.bat.org/help/spells.php?str=remove_scar
+ 524. http://www.bat.org/help/spells.php?str=guardian_angel
+ 525. http://www.bat.org/help/spells.php?str=cure_player
+ 526. http://www.bat.org/help/skills.php?str=cast_holy
+ 527. http://www.bat.org/help/skills.php?str=essence_eye
+ 528. http://www.bat.org/help/spells.php?str=detect_alignment
+ 529. http://www.bat.org/help/spells.php?str=aura_detection
+ 530. http://www.bat.org/help/skills.php?str=cast_dispel
+ 531. http://www.bat.org/help/skills.php?str=vial_throwing
+ 532. http://www.bat.org/help/spells.php?str=word_of_recall
+ 533. http://www.bat.org/help/skills.php?str=discipline
+ 534. http://www.bat.org/help/spells.php?str=remove_poison
+ 535. http://www.bat.org/help/spells.php?str=water_walking
+ 536. http://www.bat.org/help/spells.php?str=satiate_person
+ 537. http://www.bat.org/help/skills.php?str=mana_control
+ 538. http://www.bat.org/help/skills.php?str=exorcize
+ 539. http://www.bat.org/help/spells.php?str=holy_hand
+ 540. http://www.bat.org/help/spells.php?str=soul_shield
+ 541. http://www.bat.org/help/spells.php?str=dispel_undead
+ 542. http://www.bat.org/help/spells.php?str=protection_from_evil
+ 543. http://www.bat.org/help/spells.php?str=bless_vial
+ 544. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 545. http://www.bat.org/help/spells.php?str=mana_shield
+ 546. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 547. http://www.bat.org/help/spells.php?str=identify_relic
+ 548. http://www.bat.org/help/skills.php?str=cast_protection
+ 549. http://www.bat.org/help/skills.php?str=first_aid
+ 550. http://www.bat.org/help/skills.php?str=sewing
+ 551. http://www.bat.org/help/skills.php?str=mana_control
+ 552. http://www.bat.org/help/skills.php?str=exorcize
+ 553. http://www.bat.org/help/spells.php?str=saintly_touch
+ 554. http://www.bat.org/help/spells.php?str=holy_hand
+ 555. http://www.bat.org/help/spells.php?str=dispel_undead
+ 556. http://www.bat.org/help/spells.php?str=bless_vial
+ 557. http://www.bat.org/help/skills.php?str=baptize
+ 558. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 559. http://www.bat.org/help/skills.php?str=quick_chant
+ 560. http://www.bat.org/help/skills.php?str=vial_throwing
+ 561. http://www.bat.org/help/skills.php?str=cast_heal
+ 562. http://www.bat.org/help/spells.php?str=aura_detection
+ 563. http://www.bat.org/help/skills.php?str=cast_generic
+ 564. http://www.bat.org/help/spells.php?str=detect_alignment
+ 565. http://www.bat.org/help/skills.php?str=candlestick_making
+ 566. http://www.bat.org/help/spells.php?str=guardian_angel
+ 567. http://www.bat.org/help/skills.php?str=cast_information
+ 568. http://www.bat.org/help/skills.php?str=essence_eye
+ 569. http://www.bat.org/help/spells.php?str=remove_scar
+ 570. http://www.bat.org/help/spells.php?str=word_of_recall
+ 571. http://www.bat.org/help/spells.php?str=cure_player
+ 572. http://www.bat.org/help/spells.php?str=mana_shield
+ 573. http://www.bat.org/help/skills.php?str=discipline
+ 574. http://www.bat.org/help/spells.php?str=remove_poison
+ 575. http://www.bat.org/help/spells.php?str=satiate_person
+ 576. http://www.bat.org/help/skills.php?str=mana_control
+ 577. http://www.bat.org/help/skills.php?str=exorcize
+ 578. http://www.bat.org/help/spells.php?str=soul_shield
+ 579. http://www.bat.org/help/spells.php?str=dispel_undead
+ 580. http://www.bat.org/help/skills.php?str=cast_heal
+ 581. http://www.bat.org/help/spells.php?str=bless_vial
+ 582. http://www.bat.org/help/skills.php?str=sewing
+ 583. http://www.bat.org/help/skills.php?str=candlestick_making
+ 584. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 585. http://www.bat.org/help/spells.php?str=dispel_undead
+ 586. http://www.bat.org/help/skills.php?str=baptize
+ 587. http://www.bat.org/help/spells.php?str=detect_vial
+ 588. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 589. http://www.bat.org/help/spells.php?str=guardian_angel
+ 590. http://www.bat.org/help/spells.php?str=mana_shield
+ 591. http://www.bat.org/help/skills.php?str=cast_holy
+ 592. http://www.bat.org/help/skills.php?str=cast_generic
+ 593. http://www.bat.org/help/skills.php?str=vial_throwing
+ 594. http://www.bat.org/help/spells.php?str=detect_alignment
+ 595. http://www.bat.org/help/skills.php?str=cast_heal
+ 596. http://www.bat.org/help/spells.php?str=remove_scar
+ 597. http://www.bat.org/help/skills.php?str=candlestick_making
+ 598. http://www.bat.org/help/skills.php?str=quick_chant
+ 599. http://www.bat.org/help/spells.php?str=word_of_recall
+ 600. http://www.bat.org/help/spells.php?str=remove_poison
+ 601. http://www.bat.org/help/spells.php?str=water_walking
+ 602. http://www.bat.org/help/spells.php?str=satiate_person
+ 603. http://www.bat.org/help/spells.php?str=cure_player
+ 604. http://www.bat.org/help/skills.php?str=discipline
+ 605. http://www.bat.org/help/spells.php?str=aura_detection
+ 606. http://www.bat.org/help/skills.php?str=mana_control
+ 607. http://www.bat.org/help/skills.php?str=essence_eye
+ 608. http://www.bat.org/help/skills.php?str=exorcize
+ 609. http://www.bat.org/help/spells.php?str=soul_shield
+ 610. http://www.bat.org/help/spells.php?str=resist_temptation
+ 611. http://www.bat.org/help/spells.php?str=dispel_undead
+ 612. http://www.bat.org/help/spells.php?str=bless_vial
+ 613. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 614. http://www.bat.org/help/skills.php?str=vial_throwing
+ 615. http://www.bat.org/help/spells.php?str=mana_shield
+ 616. http://www.bat.org/help/spells.php?str=identify_relic
+ 617. http://www.bat.org/help/skills.php?str=sewing
+ 618. http://www.bat.org/help/spells.php?str=soul_shield
+ 619. http://www.bat.org/help/spells.php?str=remove_poison
+ 620. http://www.bat.org/help/spells.php?str=dispel_undead
+ 621. http://www.bat.org/help/spells.php?str=bless_vial
+ 622. http://www.bat.org/help/skills.php?str=baptize
+ 623. http://www.bat.org/help/skills.php?str=cast_heal
+ 624. http://www.bat.org/help/skills.php?str=cast_generic
+ 625. http://www.bat.org/help/skills.php?str=candlestick_making
+ 626. http://www.bat.org/help/spells.php?str=mana_shield
+ 627. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 628. http://www.bat.org/help/spells.php?str=guardian_angel
+ 629. http://www.bat.org/help/spells.php?str=remove_scar
+ 630. http://www.bat.org/help/spells.php?str=detect_alignment
+ 631. http://www.bat.org/help/skills.php?str=vial_throwing
+ 632. http://www.bat.org/help/spells.php?str=word_of_recall
+ 633. http://www.bat.org/help/skills.php?str=quick_chant
+ 634. http://www.bat.org/help/spells.php?str=remove_poison
+ 635. http://www.bat.org/help/skills.php?str=essence_eye
+ 636. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 637. http://www.bat.org/help/skills.php?str=discipline
+ 638. http://www.bat.org/help/spells.php?str=aura_detection
+ 639. http://www.bat.org/help/skills.php?str=mana_control
+ 640. http://www.bat.org/help/skills.php?str=exorcize
+ 641. http://www.bat.org/help/spells.php?str=soul_shield
+ 642. http://www.bat.org/help/spells.php?str=dispel_undead
+ 643. http://www.bat.org/help/spells.php?str=cure_light_wounds
+ 644. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 645. http://www.bat.org/help/skills.php?str=vial_throwing
+ 646. http://www.bat.org/help/skills.php?str=turn_undead
+ 647. http://www.bat.org/help/skills.php?str=sewing
+ 648. http://www.bat.org/help/skills.php?str=candlestick_making
+ 649. http://www.bat.org/help/skills.php?str=discipline
+ 650. http://www.bat.org/help/spells.php?str=saintly_touch
+ 651. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 652. http://www.bat.org/help/spells.php?str=dispel_undead
+ 653. http://www.bat.org/help/spells.php?str=detect_vial
+ 654. http://www.bat.org/help/skills.php?str=baptize
+ 655. http://www.bat.org/help/spells.php?str=mana_shield
+ 656. http://www.bat.org/help/skills.php?str=candlestick_making
+ 657. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 658. http://www.bat.org/help/spells.php?str=guardian_angel
+ 659. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 660. http://www.bat.org/help/spells.php?str=satiate_person
+ 661. http://www.bat.org/help/skills.php?str=cast_heal
+ 662. http://www.bat.org/help/spells.php?str=remove_scar
+ 663. http://www.bat.org/help/skills.php?str=quick_chant
+ 664. http://www.bat.org/help/skills.php?str=vial_throwing
+ 665. http://www.bat.org/help/spells.php?str=detect_alignment
+ 666. http://www.bat.org/help/skills.php?str=essence_eye
+ 667. http://www.bat.org/help/skills.php?str=cast_generic
+ 668. http://www.bat.org/help/spells.php?str=aura_detection
+ 669. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 670. http://www.bat.org/help/spells.php?str=word_of_recall
+ 671. http://www.bat.org/help/skills.php?str=discipline
+ 672. http://www.bat.org/help/skills.php?str=cast_special
+ 673. http://www.bat.org/help/skills.php?str=mana_control
+ 674. http://www.bat.org/help/spells.php?str=soul_shield
+ 675. http://www.bat.org/help/spells.php?str=dispel_undead
+ 676. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 677. http://www.bat.org/help/skills.php?str=bless
+ 678. http://www.bat.org/help/skills.php?str=cast_holy
+ 679. http://www.bat.org/help/skills.php?str=vial_throwing
+ 680. http://www.bat.org/help/skills.php?str=cast_dispel
+ 681. http://www.bat.org/help/skills.php?str=cast_special
+ 682. http://www.bat.org/help/spells.php?str=mana_shield
+ 683. http://www.bat.org/help/skills.php?str=mana_control
+ 684. http://www.bat.org/help/spells.php?str=identify_relic
+ 685. http://www.bat.org/help/spells.php?str=detect_alignment
+ 686. http://www.bat.org/help/spells.php?str=holy_hand
+ 687. http://www.bat.org/help/spells.php?str=banish_demons
+ 688. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 689. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 690. http://www.bat.org/help/skills.php?str=cast_heal
+ 691. http://www.bat.org/help/skills.php?str=candlestick_making
+ 692. http://www.bat.org/help/spells.php?str=guardian_angel
+ 693. http://www.bat.org/help/spells.php?str=mana_shield
+ 694. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 695. http://www.bat.org/help/skills.php?str=vial_throwing
+ 696. http://www.bat.org/help/skills.php?str=quick_chant
+ 697. http://www.bat.org/help/skills.php?str=essence_eye
+ 698. http://www.bat.org/help/spells.php?str=remove_poison
+ 699. http://www.bat.org/help/spells.php?str=remove_scar
+ 700. http://www.bat.org/help/spells.php?str=aura_detection
+ 701. http://www.bat.org/help/skills.php?str=discipline
+ 702. http://www.bat.org/help/spells.php?str=word_of_recall
+ 703. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 704. http://www.bat.org/help/skills.php?str=cast_special
+ 705. http://www.bat.org/help/skills.php?str=power_of_faith
+ 706. http://www.bat.org/help/skills.php?str=exorcize
+ 707. http://www.bat.org/help/spells.php?str=soul_shield
+ 708. http://www.bat.org/help/spells.php?str=banish_demons
+ 709. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 710. http://www.bat.org/help/spells.php?str=dispel_undead
+ 711. http://www.bat.org/help/spells.php?str=mana_shield
+ 712. http://www.bat.org/help/skills.php?str=cast_holy
+ 713. http://www.bat.org/help/skills.php?str=vial_throwing
+ 714. http://www.bat.org/help/skills.php?str=discipline
+ 715. http://www.bat.org/help/spells.php?str=bless_vial
+ 716. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 717. http://www.bat.org/help/skills.php?str=cast_protection
+ 718. http://www.bat.org/help/skills.php?str=cast_dispel
+ 719. http://www.bat.org/help/skills.php?str=ceremony
+ 720. http://www.bat.org/help/spells.php?str=soul_shield
+ 721. http://www.bat.org/help/skills.php?str=mana_control
+ 722. http://www.bat.org/help/spells.php?str=banish_demons
+ 723. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 724. http://www.bat.org/help/spells.php?str=dispel_undead
+ 725. http://www.bat.org/help/skills.php?str=cast_heal
+ 726. http://www.bat.org/help/spells.php?str=mana_shield
+ 727. http://www.bat.org/help/skills.php?str=candlestick_making
+ 728. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 729. http://www.bat.org/help/skills.php?str=discipline
+ 730. http://www.bat.org/help/skills.php?str=vial_throwing
+ 731. http://www.bat.org/help/skills.php?str=essence_eye
+ 732. http://www.bat.org/help/spells.php?str=word_of_recall
+ 733. http://www.bat.org/help/spells.php?str=guardian_angel
+ 734. http://www.bat.org/help/spells.php?str=heavy_weight
+ 735. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 736. http://www.bat.org/help/spells.php?str=remove_poison
+ 737. http://www.bat.org/help/spells.php?str=aura_detection
+ 738. http://www.bat.org/help/spells.php?str=restore
+ 739. http://www.bat.org/help/skills.php?str=quick_chant
+ 740. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 741. http://www.bat.org/help/skills.php?str=cast_special
+ 742. http://www.bat.org/help/skills.php?str=mana_control
+ 743. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 744. http://www.bat.org/help/skills.php?str=power_of_faith
+ 745. http://www.bat.org/help/spells.php?str=soul_shield
+ 746. http://www.bat.org/help/spells.php?str=go
+ 747. http://www.bat.org/help/skills.php?str=location_memory
+ 748. http://www.bat.org/help/spells.php?str=banish_demons
+ 749. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 750. http://www.bat.org/help/spells.php?str=dispel_undead
+ 751. http://www.bat.org/help/skills.php?str=vial_throwing
+ 752. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 753. http://www.bat.org/help/spells.php?str=mana_shield
+ 754. http://www.bat.org/help/skills.php?str=exorcize
+ 755. http://www.bat.org/help/skills.php?str=cast_generic
+ 756. http://www.bat.org/help/skills.php?str=turn_undead
+ 757. http://www.bat.org/help/spells.php?str=holy_hand
+ 758. http://www.bat.org/help/spells.php?str=banish_demons
+ 759. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 760. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 761. http://www.bat.org/help/spells.php?str=mana_shield
+ 762. http://www.bat.org/help/skills.php?str=candlestick_making
+ 763. http://www.bat.org/help/skills.php?str=plant_lore
+ 764. http://www.bat.org/help/spells.php?str=remove_poison
+ 765. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 766. http://www.bat.org/help/skills.php?str=vial_throwing
+ 767. http://www.bat.org/help/skills.php?str=essence_eye
+ 768. http://www.bat.org/help/skills.php?str=quick_chant
+ 769. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 770. http://www.bat.org/help/spells.php?str=restore
+ 771. http://www.bat.org/help/spells.php?str=heavy_weight
+ 772. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 773. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 774. http://www.bat.org/help/skills.php?str=cast_special
+ 775. http://www.bat.org/help/skills.php?str=discipline
+ 776. http://www.bat.org/help/skills.php?str=power_of_faith
+ 777. http://www.bat.org/help/spells.php?str=soul_shield
+ 778. http://www.bat.org/help/spells.php?str=banish_demons
+ 779. http://www.bat.org/help/spells.php?str=bless_vial
+ 780. http://www.bat.org/help/skills.php?str=vial_throwing
+ 781. http://www.bat.org/help/spells.php?str=cure_serious_wounds
+ 782. http://www.bat.org/help/skills.php?str=cast_holy
+ 783. http://www.bat.org/help/spells.php?str=remove_poison
+ 784. http://www.bat.org/help/spells.php?str=soul_shield
+ 785. http://www.bat.org/help/skills.php?str=cast_heal
+ 786. http://www.bat.org/help/skills.php?str=cast_protection
+ 787. http://www.bat.org/help/spells.php?str=banish_demons
+ 788. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 789. http://www.bat.org/help/spells.php?str=celestial_haven
+ 790. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 791. http://www.bat.org/help/spells.php?str=mana_shield
+ 792. http://www.bat.org/help/skills.php?str=candlestick_making
+ 793. http://www.bat.org/help/skills.php?str=baptize
+ 794. http://www.bat.org/help/skills.php?str=vial_throwing
+ 795. http://www.bat.org/help/spells.php?str=summon
+ 796. http://www.bat.org/help/spells.php?str=heavy_weight
+ 797. http://www.bat.org/help/spells.php?str=restore
+ 798. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 799. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 800. http://www.bat.org/help/skills.php?str=quick_chant
+ 801. http://www.bat.org/help/skills.php?str=discipline
+ 802. http://www.bat.org/help/spells.php?str=word_of_recall
+ 803. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 804. http://www.bat.org/help/skills.php?str=cast_special
+ 805. http://www.bat.org/help/spells.php?str=soul_shield
+ 806. http://www.bat.org/help/spells.php?str=banish_demons
+ 807. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 808. http://www.bat.org/help/skills.php?str=vial_throwing
+ 809. http://www.bat.org/help/spells.php?str=bless_vial
+ 810. http://www.bat.org/help/skills.php?str=cast_generic
+ 811. http://www.bat.org/help/skills.php?str=cast_protection
+ 812. http://www.bat.org/help/spells.php?str=holy_wind
+ 813. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 814. http://www.bat.org/help/spells.php?str=celestial_haven
+ 815. http://www.bat.org/help/skills.php?str=candlestick_making
+ 816. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 817. http://www.bat.org/help/skills.php?str=cast_special
+ 818. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 819. http://www.bat.org/help/skills.php?str=quick_chant
+ 820. http://www.bat.org/help/spells.php?str=heavy_weight
+ 821. http://www.bat.org/help/spells.php?str=restore
+ 822. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 823. http://www.bat.org/help/skills.php?str=power_of_faith
+ 824. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 825. http://www.bat.org/help/spells.php?str=resist_temptation
+ 826. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 827. http://www.bat.org/help/skills.php?str=cast_special
+ 828. http://www.bat.org/help/skills.php?str=vial_throwing
+ 829. http://www.bat.org/help/skills.php?str=turn_undead
+ 830. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 831. http://www.bat.org/help/spells.php?str=holy_bolt
+ 832. http://www.bat.org/help/spells.php?str=holy_wind
+ 833. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 834. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 835. http://www.bat.org/help/spells.php?str=celestial_haven
+ 836. http://www.bat.org/help/skills.php?str=vial_throwing
+ 837. http://www.bat.org/help/spells.php?str=summon
+ 838. http://www.bat.org/help/skills.php?str=plant_lore
+ 839. http://www.bat.org/help/skills.php?str=quick_chant
+ 840. http://www.bat.org/help/skills.php?str=mastery_of_holy_vials
+ 841. http://www.bat.org/help/spells.php?str=restore
+ 842. http://www.bat.org/help/spells.php?str=heavy_weight
+ 843. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 844. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 845. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 846. http://www.bat.org/help/skills.php?str=cast_special
+ 847. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 848. http://www.bat.org/help/skills.php?str=power_of_faith
+ 849. http://www.bat.org/help/spells.php?str=flames_of_righteousness
+ 850. http://www.bat.org/help/spells.php?str=holy_bolt
+ 851. http://www.bat.org/help/spells.php?str=holy_wind
+ 852. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 853. http://www.bat.org/help/skills.php?str=cast_holy
+ 854. http://www.bat.org/help/skills.php?str=exorcize
+ 855. http://www.bat.org/help/skills.php?str=ceremony
+ 856. http://www.bat.org/help/skills.php?str=discipline
+ 857. http://www.bat.org/help/skills.php?str=cast_generic
+ 858. http://www.bat.org/help/skills.php?str=vial_throwing
+ 859. http://www.bat.org/help/spells.php?str=soul_shield
+ 860. http://www.bat.org/help/spells.php?str=banish_demons
+ 861. http://www.bat.org/help/spells.php?str=holy_bolt
+ 862. http://www.bat.org/help/spells.php?str=holy_wind
+ 863. http://www.bat.org/help/skills.php?str=quick_chant
+ 864. http://www.bat.org/help/spells.php?str=celestial_haven
+ 865. http://www.bat.org/help/skills.php?str=mastery_of_holy_vials
+ 866. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 867. http://www.bat.org/help/spells.php?str=restore
+ 868. http://www.bat.org/help/skills.php?str=sewing
+ 869. http://www.bat.org/help/skills.php?str=candlestick_making
+ 870. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 871. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 872. http://www.bat.org/help/spells.php?str=heavy_weight
+ 873. http://www.bat.org/help/spells.php?str=cure_critical_wounds
+ 874. http://www.bat.org/help/skills.php?str=power_of_faith
+ 875. http://www.bat.org/help/spells.php?str=banish_demons
+ 876. http://www.bat.org/help/spells.php?str=holy_bolt
+ 877. http://www.bat.org/help/spells.php?str=holy_wind
+ 878. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 879. http://www.bat.org/help/skills.php?str=mana_control
+ 880. http://www.bat.org/help/spells.php?str=holy_bolt
+ 881. http://www.bat.org/help/spells.php?str=holy_wind
+ 882. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 883. http://www.bat.org/help/spells.php?str=celestial_haven
+ 884. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 885. http://www.bat.org/help/skills.php?str=quick_chant
+ 886. http://www.bat.org/help/spells.php?str=summon
+ 887. http://www.bat.org/help/skills.php?str=sewing
+ 888. http://www.bat.org/help/skills.php?str=plant_lore
+ 889. http://www.bat.org/help/spells.php?str=heavy_weight
+ 890. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 891. http://www.bat.org/help/skills.php?str=mastery_of_holy_vials
+ 892. http://www.bat.org/help/spells.php?str=heavy_weight
+ 893. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 894. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 895. http://www.bat.org/help/skills.php?str=power_of_faith
+ 896. http://www.bat.org/help/spells.php?str=holy_bolt
+ 897. http://www.bat.org/help/spells.php?str=holy_wind
+ 898. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 899. http://www.bat.org/help/spells.php?str=holy_hand
+ 900. http://www.bat.org/help/spells.php?str=holy_bolt
+ 901. http://www.bat.org/help/spells.php?str=holy_wind
+ 902. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 903. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 904. http://www.bat.org/help/spells.php?str=summon
+ 905. http://www.bat.org/help/spells.php?str=heavy_weight
+ 906. http://www.bat.org/help/skills.php?str=quick_chant
+ 907. http://www.bat.org/help/skills.php?str=power_of_faith
+ 908. http://www.bat.org/help/spells.php?str=holy_bolt
+ 909. http://www.bat.org/help/spells.php?str=holy_wind
+ 910. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 911. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 912. http://www.bat.org/help/skills.php?str=turn_undead
+ 913. http://www.bat.org/help/spells.php?str=holy_wind
+ 914. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 915. http://www.bat.org/help/spells.php?str=celestial_haven
+ 916. http://www.bat.org/help/skills.php?str=power_of_faith
+ 917. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 918. http://www.bat.org/help/skills.php?str=quick_chant
+ 919. http://www.bat.org/help/skills.php?str=plant_lore
+ 920. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 921. http://www.bat.org/help/spells.php?str=holy_bolt
+ 922. http://www.bat.org/help/skills.php?str=cast_special
+ 923. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 924. http://www.bat.org/help/skills.php?str=turn_undead
+ 925. http://www.bat.org/help/spells.php?str=holy_bolt
+ 926. http://www.bat.org/help/skills.php?str=mastery_of_holy_vials
+ 927. http://www.bat.org/help/skills.php?str=quick_chant
+ 928. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 929. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 930. http://www.bat.org/help/spells.php?str=holy_bolt
+ 931. http://www.bat.org/help/spells.php?str=holy_wind
+ 932. http://www.bat.org/help/spells.php?str=heavenly_protection
+ 933. http://www.bat.org/help/spells.php?str=cleanse_heathen
+ 934. http://www.bat.org/help/skills.php?str=mastery_of_holy_vials
+ 935. http://www.bat.org/help/skills.php?str=candlestick_making
+ 936. http://www.bat.org/help/skills.php?str=turn_undead
+ 937. http://www.bat.org/help/skills.php?str=sewing
+ 938. http://www.bat.org/help/skills.php?str=quick_chant
+ 939. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 940. http://www.bat.org/help/skills.php?str=knowledge_of_dispelling
+ 941. http://www.bat.org/help/skills.php?str=power_of_faith
+ 942. http://www.bat.org/help/spells.php?str=wrath_of_las
+ 943. http://www.bat.org/help/skills.php?str=might_of_the_saints
+ 944. http://www.bat.org/help/spells.php?str=guardian
+ 945. http://www.bat.org/help/spells.php?str=resist_temptation
+ 946. http://www.bat.org/help/guilds.php
+ 947. mailto:webmaster@bat.org
+
+   Hidden links:
+ 948. http://www.bat.org/bat.php

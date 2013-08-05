@@ -1,0 +1,101 @@
+Name: Erimaankielenpuhumista
+Command: swe+
+Guild masters: Demerzel, Desos, Gotrek, Spid, Doughnut and Ruffneck
+Maximum level: 16
+
+Description:
+Default description
+Abilities gained when joining:
+ Receive guild item
+
+Abilities and requirements at each level:
+ Level 1:
+  Abilities:
+   Skillmax of all +1
+   Statmax of str +3
+   Spellmax of all +1
+   Statmax of con +3
+   Statmax of dex +3
+   Statmax of wis +3
+   Skillmax of dodge +2
+ Level 2:
+  Abilities:
+   Statmax of con +4
+   Statmax of dex +4
+   Statmax of int +4
+   Skillmax of all +1
+   Skillmax of dodge +3
+ Level 3:
+  Abilities:
+   Statmax of con +5
+   Statmax of dex +5
+   Skillmax of all +1
+   Statmax of int +5
+ Level 4:
+  Abilities:
+   Statmax of con +6
+   Statmax of dex +6
+   Skillmax of all +1
+   Statmax of int +6
+ Level 5:
+  Abilities:
+   Statmax of dex +8
+   Statmax of con +8
+   Skillmax of all +1
+   Statmax of int +8
+ Level 6:
+  Abilities:
+   Statmax of con +4
+   Skillmax of all +1
+   Skillmax of dodge +3
+ Level 7:
+  Abilities:
+   Statmax of con +5
+   Skillmax of parry +4
+   Skillmax of all +1
+   Statmax of dex +5
+ Level 8:
+  Abilities:
+   Statmax of con +6
+   Statmax of wis +6
+ Level 9:
+  Abilities:
+   Statmax of dex +8
+   Statmax of int +8
+   Skillmax of parry +6
+ Level 10:
+  Abilities:
+   Statmax of dex +9
+   Skillmax of all +2
+   Statmax of wis +9
+ Level 11:
+  Abilities:
+   Statmax of dex +5
+   Skillmax of all +1
+   Statmax of wis +5
+ Level 12:
+  Abilities:
+   Statmax of con +6
+   Statmax of wis +6
+ Level 13:
+  Abilities:
+   Statmax of str +8
+   Statmax of con +8
+   Statmax of wis +8
+ Level 14:
+  Abilities:
+   Statmax of con +9
+   Statmax of str +9
+   Statmax of int +9
+ Level 15:
+  Abilities:
+   Statmax of dex +10
+   Statmax of str +10
+   Skillmax of all +3
+ Level 16:
+  Abilities:
+   Statmax of str +6
+
+Allows joining to the following guild:
+ Erimaankielenpuhumista
+

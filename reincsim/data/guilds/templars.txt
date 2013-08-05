@@ -1,0 +1,3249 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                  [fonter.php?str=The+Templars+of+Faerwon]
+
+                          The Templars of Faerwon
+
+   Command: templar
+   Creators: [22]Grimsh, [23]Dragoness
+   Maximum level: 30
+   Description:
+   Templars of Faerwon are an organization of knights devoted to Good.
+   They
+   wander around the world in teams of two and slay evil where it spawns.
+   Their
+   order has a tradition, that no templar should ever fight alone. The
+   templars
+   guide each other in the path of Goodness and guard their brother in
+   arms that
+   he should not get lost. Often the younger templar acts as the squire
+   of the
+   older templar.Faerwon frowns upon selfish deeds.
+
+                                 New Member
+                 Alignment must be good
+                 Background must be good_religious
+                 Strength from your faith
+                 May train skill [24]Attack to 15%
+                 May train skill [25]Baptize to 15%
+                 May train skill [26]Bludgeons to 20%
+                 May train skill [27]Combat sense to 10%
+                 May train skill [28]Consider to 15%
+                 May train skill [29]Controlled panic to 20%
+                 May train skill [30]Discipline to 10%
+                 May train skill [31]Endurance to 1%
+                 May train skill [32]First aid to 15%
+                 May train skill [33]Hiking to 1%
+                 May train skill [34]Parry to 10%
+                 May train skill [35]Rescue to 20%
+                 May train skill [36]Stunned maneuvers to 20%
+                 May train skill [37]Swim to 20%
+                 May train skill [38]Tempt to 20%
+
+                                 Level 2
+               Has trained skill [39]Attack to at least 11%
+               Has trained skill [40]Baptize to at least 9%
+               Has trained skill [41]Bludgeons to at least 15%
+               Has trained skill [42]Discipline to at least 6%
+               Has trained skill [43]First aid to at least 7%
+               Has trained skill [44]Parry to at least 8%
+               Has trained skill [45]Rescue to at least 12%
+               Has trained skill [46]Tempt to at least 12%
+               May train skill [47]Attack to 21%
+               May train skill [48]Baptize to 21%
+               May train skill [49]Bludgeons to 24%
+               May train skill [50]Combat sense to 12%
+               May train skill [51]Consider to 21%
+               May train skill [52]Controlled panic to 21%
+               May train skill [53]Discipline to 12%
+               May train skill [54]Endurance to 2%
+               May train skill [55]First aid to 20%
+               May train skill [56]Hiking to 2%
+               May train skill [57]Parry to 12%
+               May train skill [58]Rescue to 22%
+               May train skill [59]Stunned maneuvers to 22%
+               May train skill [60]Swim to 23%
+               May train skill [61]Tempt to 22%
+
+                                 Level 3
+               Has trained skill [62]Attack to at least 15%
+               Has trained skill [63]Baptize to at least 12%
+               Has trained skill [64]Bludgeons to at least 18%
+               Has trained skill [65]Discipline to at least 7%
+               Has trained skill [66]First aid to at least 10%
+               Has trained skill [67]Parry to at least 9%
+               Has trained skill [68]Rescue to at least 13%
+               Has trained skill [69]Tempt to at least 13%
+               May train skill [70]Attack to 27%
+               May train skill [71]Baptize to 27%
+               May train skill [72]Bludgeons to 28%
+               May train skill [73]Combat sense to 14%
+               May train skill [74]Consider to 27%
+               May train skill [75]Controlled panic to 22%
+               May train skill [76]Discipline to 15%
+               May train skill [77]Endurance to 3%
+               May train skill [78]First aid to 25%
+               May train skill [79]Hiking to 3%
+               May train skill [80]Parry to 15%
+               May train skill [81]Rescue to 25%
+               May train skill [82]Stunned maneuvers to 24%
+               May train skill [83]Swim to 27%
+               May train skill [84]Tempt to 25%
+
+                                 Level 4
+               Has trained skill [85]Attack to at least 20%
+               Has trained skill [86]Baptize to at least 16%
+               Has trained skill [87]Bludgeons to at least 21%
+               Has trained skill [88]Discipline to at least 9%
+               Has trained skill [89]First aid to at least 12%
+               Has trained skill [90]Parry to at least 12%
+               Has trained skill [91]Rescue to at least 15%
+               Has trained skill [92]Tempt to at least 15%
+               May train skill [93]Attack to 33%
+               May train skill [94]Baptize to 33%
+               May train skill [95]Bludgeons to 32%
+               May train skill [96]Combat sense to 17%
+               May train skill [97]Consider to 33%
+               May train skill [98]Controlled panic to 24%
+               May train skill [99]Discipline to 18%
+               May train skill [100]Endurance to 4%
+               May train skill [101]First aid to 31%
+               May train skill [102]Hiking to 4%
+               May train skill [103]Parry to 18%
+               May train skill [104]Rescue to 28%
+               May train skill [105]Stunned maneuvers to 27%
+               May train skill [106]Swim to 31%
+               May train skill [107]Tempt to 28%
+
+                                 Level 5
+              Has trained skill [108]Attack to at least 24%
+              Has trained skill [109]Baptize to at least 19%
+              Has trained skill [110]Bludgeons to at least 24%
+              Has trained skill [111]Discipline to at least 10%
+              Has trained skill [112]First aid to at least 15%
+              Has trained skill [113]Parry to at least 14%
+              Has trained skill [114]Rescue to at least 16%
+              Has trained skill [115]Tempt to at least 16%
+              May train skill [116]Alertness to 10%
+              May train skill [117]Attack to 39%
+              May train skill [118]Baptize to 39%
+              May train skill [119]Bash to 15%
+              May train skill [120]Bludgeons to 36%
+              May train skill [121]Combat sense to 19%
+              May train skill [122]Consider to 39%
+              May train skill [123]Controlled panic to 25%
+              May train skill [124]Discipline to 21%
+              May train skill [125]Dodge to 5%
+              May train skill [126]Endurance to 5%
+              May train skill [127]First aid to 36%
+              May train skill [128]Hiking to 5%
+              May train skill [129]Leadership to 10%
+              May train skill [130]Parry to 21%
+              May train skill [131]Rescue to 31%
+              May train skill [132]Stunned maneuvers to 29%
+              May train skill [133]Swim to 34%
+              May train skill [134]Tempt to 31%
+
+                                 Level 6
+              Has trained skill [135]Attack to at least 29%
+              Has trained skill [136]Baptize to at least 23%
+              Has trained skill [137]Bludgeons to at least 27%
+              Has trained skill [138]Discipline to at least 12%
+              Has trained skill [139]Dodge to at least 3%
+              Has trained skill [140]First aid to at least 18%
+              Has trained skill [141]Parry to at least 16%
+              Has trained skill [142]Rescue to at least 18%
+              Has trained skill [143]Tempt to at least 18%
+              May train skill [144]Alertness to 11%
+              May train skill [145]Attack to 45%
+              May train skill [146]Baptize to 45%
+              May train skill [147]Bash to 23%
+              May train skill [148]Bludgeons to 41%
+              May train skill [149]Combat sense to 22%
+              May train skill [150]Consider to 45%
+              May train skill [151]Controlled panic to 26%
+              May train skill [152]Discipline to 23%
+              May train skill [153]Dodge to 6%
+              May train skill [154]Endurance to 6%
+              May train skill [155]First aid to 41%
+              May train skill [156]Hiking to 6%
+              May train skill [157]Leadership to 11%
+              May train skill [158]Parry to 23%
+              May train skill [159]Rescue to 33%
+              May train skill [160]Stunned maneuvers to 32%
+              May train skill [161]Swim to 38%
+              May train skill [162]Tempt to 33%
+
+                                 Level 7
+              Has trained skill [163]Attack to at least 33%
+              Has trained skill [164]Baptize to at least 27%
+              Has trained skill [165]Bludgeons to at least 30%
+              Has trained skill [166]Discipline to at least 13%
+              Has trained skill [167]Dodge to at least 3%
+              Has trained skill [168]First aid to at least 20%
+              Has trained skill [169]Parry to at least 18%
+              Has trained skill [170]Rescue to at least 19%
+              Has trained skill [171]Tempt to at least 19%
+              May train skill [172]Alertness to 13%
+              May train skill [173]Attack to 51%
+              May train skill [174]Baptize to 51%
+              May train skill [175]Bash to 32%
+              May train skill [176]Bludgeons to 45%
+              May train skill [177]Combat sense to 24%
+              May train skill [178]Consider to 51%
+              May train skill [179]Controlled panic to 28%
+              May train skill [180]Discipline to 26%
+              May train skill [181]Dodge to 8%
+              May train skill [182]Endurance to 7%
+              May train skill [183]First aid to 47%
+              May train skill [184]Hiking to 7%
+              May train skill [185]Leadership to 12%
+              May train skill [186]Parry to 26%
+              May train skill [187]Rescue to 36%
+              May train skill [188]Stunned maneuvers to 34%
+              May train skill [189]Swim to 42%
+              May train skill [190]Tempt to 36%
+
+                                 Level 8
+              Has trained skill [191]Attack to at least 38%
+              Has trained skill [192]Baptize to at least 30%
+              Has trained skill [193]Bludgeons to at least 33%
+              Has trained skill [194]Discipline to at least 15%
+              Has trained skill [195]Dodge to at least 4%
+              Has trained skill [196]First aid to at least 23%
+              Has trained skill [197]Parry to at least 20%
+              Has trained skill [198]Rescue to at least 21%
+              Has trained skill [199]Tempt to at least 21%
+              May train skill [200]Alertness to 14%
+              May train skill [201]Attack to 57%
+              May train skill [202]Baptize to 57%
+              May train skill [203]Bash to 40%
+              May train skill [204]Bludgeons to 49%
+              May train skill [205]Combat sense to 26%
+              May train skill [206]Consider to 57%
+              May train skill [207]Controlled panic to 29%
+              May train skill [208]Discipline to 29%
+              May train skill [209]Dodge to 10%
+              May train skill [210]Endurance to 8%
+              May train skill [211]First aid to 52%
+              May train skill [212]Hiking to 8%
+              May train skill [213]Leadership to 13%
+              May train skill [214]Parry to 29%
+              May train skill [215]Rescue to 39%
+              May train skill [216]Stunned maneuvers to 36%
+              May train skill [217]Swim to 45%
+              May train skill [218]Tempt to 39%
+
+                                 Level 9
+              Has trained skill [219]Attack to at least 42%
+              Has trained skill [220]Baptize to at least 34%
+              Has trained skill [221]Bludgeons to at least 36%
+              Has trained skill [222]Discipline to at least 17%
+              Has trained skill [223]Dodge to at least 6%
+              Has trained skill [224]First aid to at least 26%
+              Has trained skill [225]Parry to at least 23%
+              Has trained skill [226]Rescue to at least 23%
+              Has trained skill [227]Tempt to at least 23%
+              May train skill [228]Alertness to 16%
+              May train skill [229]Attack to 63%
+              May train skill [230]Baptize to 63%
+              May train skill [231]Bash to 49%
+              May train skill [232]Bludgeons to 53%
+              May train skill [233]Combat sense to 29%
+              May train skill [234]Consider to 63%
+              May train skill [235]Controlled panic to 31%
+              May train skill [236]Discipline to 32%
+              May train skill [237]Dodge to 12%
+              May train skill [238]Endurance to 9%
+              May train skill [239]First aid to 57%
+              May train skill [240]Hiking to 9%
+              May train skill [241]Leadership to 14%
+              May train skill [242]Parry to 32%
+              May train skill [243]Rescue to 42%
+              May train skill [244]Stunned maneuvers to 39%
+              May train skill [245]Swim to 49%
+              May train skill [246]Tempt to 42%
+
+                                 Level 10
+             Has trained skill [247]Attack to at least 47%
+             Has trained skill [248]Baptize to at least 37%
+             Has trained skill [249]Bludgeons to at least 39%
+             Has trained skill [250]Discipline to at least 19%
+             Has trained skill [251]Dodge to at least 7%
+             Has trained skill [252]First aid to at least 28%
+             Has trained skill [253]Parry to at least 25%
+             Has trained skill [254]Rescue to at least 25%
+             Has trained skill [255]Tempt to at least 25%
+             May train skill [256]Alertness to 17%
+             May train skill [257]Attack to 69%
+             May train skill [258]Baptize to 69%
+             May train skill [259]Bash to 57%
+             May train skill [260]Bless to 30%
+             May train skill [261]Prayer to 10%
+             May train skill [262]Bludgeons to 57%
+             May train skill [263]Burial ceremony to 30%
+             May train skill [264]Cast generic to 30%
+             May train skill [265]Cast protection to 30%
+             May train skill [266]Cast heal to 15%
+             May train skill [267]Cast information to 15%
+             May train skill [268]Cast special to 15%
+             May train skill [269]Combat sense to 31%
+             May train skill [270]Consider to 69%
+             May train skill [271]Controlled panic to 32%
+             May train skill [272]Discipline to 34%
+             May train skill [273]Dodge to 13%
+             May train skill [274]Endurance to 10%
+             May train skill [275]First aid to 63%
+             May train skill [276]Hiking to 10%
+             May train skill [277]Leadership to 15%
+             May train skill [278]Mastery of shielding to 20%
+             May train skill [279]Parry to 34%
+             May train skill [280]Rescue to 44%
+             May train skill [281]Shield bash to 10%
+             May train skill [282]Stunned maneuvers to 41%
+             May train skill [283]Swim to 53%
+             May train skill [284]Tempt to 44%
+             May train skill [285]Throw weight to 20%
+             May study spell [286]Shield of faith to 40%
+             May study spell [287]Laying on hands to 40%
+             May study spell [288]Remove poison to 40%
+             May study spell [289]Detect alignment to 40%
+             May study spell [290]Bless armament to 40%
+             May study spell [291]Light to 40%
+             May train skill [292]Combat damage analysis to 10%
+             May train skill [293]Protection by sacrifice to 10%
+             May study spell [294]Blessing of faerwon to 10%
+             May study spell [295]Divine enhancement to 10%
+             May train skill [296]Holy warfare to 5%
+
+                                 Level 11
+        Has trained skill [297]Attack to at least 51%
+        Has trained skill [298]Baptize to at least 41%
+        Has trained skill [299]Bless to at least 22%
+        Has trained skill [300]Prayer to at least 7%
+        Has trained skill [301]Bludgeons to at least 42%
+        Has trained skill [302]Burial ceremony to at least 18%
+        Has trained skill [303]Cast generic to at least 18%
+        Has trained skill [304]Cast protection to at least 18%
+        Has trained skill [305]Cast heal to at least 7%
+        Has trained skill [306]Cast special to at least 7%
+        Has trained skill [307]Discipline to at least 20%
+        Has trained skill [308]Dodge to at least 7%
+        Has trained skill [309]First aid to at least 31%
+        Has trained skill [310]Mastery of shielding to at least 12%
+        Has trained skill [311]Parry to at least 27%
+        Has trained skill [312]Rescue to at least 26%
+        Has trained skill [313]Tempt to at least 26%
+        Has studied spell [314]Shield of faith to at least 24%
+        Has studied spell [315]Laying on hands to at least 24%
+        Has studied spell [316]Remove poison to at least 24%
+        Has studied spell [317]Detect alignment to at least 24%
+        Has studied spell [318]Bless armament to at least 24%
+        Has trained skill [319]Protection by sacrifice to at least 6%
+        Has studied spell [320]Blessing of faerwon to at least 6%
+        Has studied spell [321]Divine enhancement to at least 7%
+        May train skill [322]Alertness to 19%
+        May train skill [323]Attack to 75%
+        May train skill [324]Baptize to 75%
+        May train skill [325]Bash to 66%
+        May train skill [326]Bless to 33%
+        May train skill [327]Prayer to 16%
+        May train skill [328]Bludgeons to 62%
+        May train skill [329]Burial ceremony to 33%
+        May train skill [330]Cast generic to 33%
+        May train skill [331]Cast protection to 33%
+        May train skill [332]Cast heal to 16%
+        May train skill [333]Cast information to 16%
+        May train skill [334]Cast special to 16%
+        May train skill [335]Combat sense to 34%
+        May train skill [336]Consider to 75%
+        May train skill [337]Controlled panic to 33%
+        May train skill [338]Discipline to 37%
+        May train skill [339]Dodge to 15%
+        May train skill [340]Endurance to 11%
+        May train skill [341]First aid to 68%
+        May train skill [342]Hiking to 11%
+        May train skill [343]Kick to 20%
+        May train skill [344]Leadership to 17%
+        May train skill [345]Mastery of shielding to 24%
+        May train skill [346]Parry to 37%
+        May train skill [347]Rescue to 47%
+        May train skill [348]Shield bash to 14%
+        May train skill [349]Stunned maneuvers to 44%
+        May train skill [350]Swim to 56%
+        May train skill [351]Tempt to 47%
+        May train skill [352]Throw weight to 22%
+        May study spell [353]Shield of faith to 43%
+        May study spell [354]Laying on hands to 43%
+        May study spell [355]Remove poison to 43%
+        May study spell [356]Detect alignment to 43%
+        May study spell [357]Bless armament to 43%
+        May study spell [358]Light to 43%
+        May train skill [359]Combat damage analysis to 14%
+        May train skill [360]Protection by sacrifice to 14%
+        May study spell [361]Blessing of faerwon to 19%
+        May study spell [362]Divine enhancement to 19%
+        May train skill [363]Holy warfare to 9%
+
+                                 Level 12
+        Has trained skill [364]Attack to at least 56%
+        Has trained skill [365]Baptize to at least 45%
+        Has trained skill [366]Bless to at least 24%
+        Has trained skill [367]Prayer to at least 12%
+        Has trained skill [368]Bludgeons to at least 46%
+        Has trained skill [369]Burial ceremony to at least 19%
+        Has trained skill [370]Cast generic to at least 19%
+        Has trained skill [371]Cast protection to at least 19%
+        Has trained skill [372]Cast heal to at least 8%
+        Has trained skill [373]Cast special to at least 8%
+        Has trained skill [374]Discipline to at least 22%
+        Has trained skill [375]Dodge to at least 9%
+        Has trained skill [376]First aid to at least 34%
+        Has trained skill [377]Mastery of shielding to at least 14%
+        Has trained skill [378]Parry to at least 29%
+        Has trained skill [379]Rescue to at least 28%
+        Has trained skill [380]Tempt to at least 28%
+        Has studied spell [381]Shield of faith to at least 25%
+        Has studied spell [382]Laying on hands to at least 25%
+        Has studied spell [383]Remove poison to at least 25%
+        Has studied spell [384]Detect alignment to at least 25%
+        Has studied spell [385]Bless armament to at least 25%
+        Has trained skill [386]Protection by sacrifice to at least 8%
+        Has studied spell [387]Blessing of faerwon to at least 11%
+        Has studied spell [388]Divine enhancement to at least 14%
+        May train skill [389]Alertness to 21%
+        May train skill [390]Attack to 81%
+        May train skill [391]Baptize to 81%
+        May train skill [392]Bash to 74%
+        May train skill [393]Bless to 37%
+        May train skill [394]Prayer to 22%
+        May train skill [395]Bludgeons to 66%
+        May train skill [396]Burial ceremony to 37%
+        May train skill [397]Cast generic to 37%
+        May train skill [398]Cast protection to 37%
+        May train skill [399]Cast heal to 18%
+        May train skill [400]Cast information to 18%
+        May train skill [401]Cast special to 18%
+        May train skill [402]Combat sense to 36%
+        May train skill [403]Consider to 81%
+        May train skill [404]Controlled panic to 35%
+        May train skill [405]Discipline to 40%
+        May train skill [406]Dodge to 17%
+        May train skill [407]Endurance to 12%
+        May train skill [408]First aid to 73%
+        May train skill [409]Hiking to 12%
+        May train skill [410]Kick to 27%
+        May train skill [411]Leadership to 18%
+        May train skill [412]Mastery of shielding to 28%
+        May train skill [413]Parry to 40%
+        May train skill [414]Rescue to 50%
+        May train skill [415]Shield bash to 18%
+        May train skill [416]Stunned maneuvers to 46%
+        May train skill [417]Swim to 60%
+        May train skill [418]Tempt to 50%
+        May train skill [419]Throw weight to 24%
+        May study spell [420]Shield of faith to 46%
+        May study spell [421]Laying on hands to 46%
+        May study spell [422]Remove poison to 46%
+        May study spell [423]Detect alignment to 46%
+        May study spell [424]Bless armament to 46%
+        May study spell [425]Light to 46%
+        May train skill [426]Combat damage analysis to 19%
+        May train skill [427]Protection by sacrifice to 19%
+        May study spell [428]Blessing of faerwon to 28%
+        May study spell [429]Divine enhancement to 28%
+        May train skill [430]Holy warfare to 14%
+
+                                 Level 13
+        Has trained skill [431]Attack to at least 60%
+        Has trained skill [432]Baptize to at least 48%
+        Has trained skill [433]Bless to at least 27%
+        Has trained skill [434]Prayer to at least 16%
+        Has trained skill [435]Bludgeons to at least 49%
+        Has trained skill [436]Burial ceremony to at least 22%
+        Has trained skill [437]Cast generic to at least 22%
+        Has trained skill [438]Cast protection to at least 22%
+        Has trained skill [439]Cast heal to at least 9%
+        Has trained skill [440]Cast special to at least 9%
+        Has trained skill [441]Discipline to at least 24%
+        Has trained skill [442]Dodge to at least 10%
+        Has trained skill [443]First aid to at least 36%
+        Has trained skill [444]Mastery of shielding to at least 16%
+        Has trained skill [445]Parry to at least 32%
+        Has trained skill [446]Rescue to at least 30%
+        Has trained skill [447]Tempt to at least 30%
+        Has studied spell [448]Shield of faith to at least 27%
+        Has studied spell [449]Laying on hands to at least 27%
+        Has studied spell [450]Remove poison to at least 27%
+        Has studied spell [451]Detect alignment to at least 27%
+        Has studied spell [452]Bless armament to at least 27%
+        Has trained skill [453]Protection by sacrifice to at least 11%
+        Has studied spell [454]Blessing of faerwon to at least 16%
+        Has studied spell [455]Divine enhancement to at least 21%
+        May train skill [456]Alertness to 22%
+        May train skill [457]Attack to 87%
+        May train skill [458]Baptize to 87%
+        May train skill [459]Bash to 83%
+        May train skill [460]Bless to 40%
+        May train skill [461]Prayer to 28%
+        May train skill [462]Bludgeons to 70%
+        May train skill [463]Burial ceremony to 40%
+        May train skill [464]Cast generic to 40%
+        May train skill [465]Cast protection to 40%
+        May train skill [466]Cast heal to 20%
+        May train skill [467]Cast information to 20%
+        May train skill [468]Cast special to 20%
+        May train skill [469]Combat sense to 38%
+        May train skill [470]Consider to 87%
+        May train skill [471]Controlled panic to 36%
+        May train skill [472]Discipline to 43%
+        May train skill [473]Dodge to 19%
+        May train skill [474]Endurance to 13%
+        May train skill [475]First aid to 79%
+        May train skill [476]Hiking to 13%
+        May train skill [477]Kick to 35%
+        May train skill [478]Leadership to 19%
+        May train skill [479]Mastery of shielding to 32%
+        May train skill [480]Parry to 43%
+        May train skill [481]Rescue to 53%
+        May train skill [482]Shield bash to 22%
+        May train skill [483]Stunned maneuvers to 48%
+        May train skill [484]Swim to 64%
+        May train skill [485]Tempt to 53%
+        May train skill [486]Throw weight to 26%
+        May study spell [487]Shield of faith to 49%
+        May study spell [488]Laying on hands to 49%
+        May study spell [489]Remove poison to 49%
+        May study spell [490]Detect alignment to 49%
+        May study spell [491]Bless armament to 49%
+        May study spell [492]Light to 49%
+        May train skill [493]Combat damage analysis to 23%
+        May train skill [494]Protection by sacrifice to 23%
+        May study spell [495]Blessing of faerwon to 37%
+        May study spell [496]Divine enhancement to 37%
+        May train skill [497]Holy warfare to 19%
+
+                                 Level 14
+        Has trained skill [498]Attack to at least 65%
+        Has trained skill [499]Baptize to at least 52%
+        Has trained skill [500]Bless to at least 30%
+        Has trained skill [501]Prayer to at least 21%
+        Has trained skill [502]Bludgeons to at least 52%
+        Has trained skill [503]Burial ceremony to at least 24%
+        Has trained skill [504]Cast generic to at least 24%
+        Has trained skill [505]Cast protection to at least 24%
+        Has trained skill [506]Cast heal to at least 10%
+        Has trained skill [507]Cast special to at least 10%
+        Has trained skill [508]Discipline to at least 25%
+        Has trained skill [509]Dodge to at least 11%
+        Has trained skill [510]First aid to at least 39%
+        Has trained skill [511]Mastery of shielding to at least 19%
+        Has trained skill [512]Parry to at least 34%
+        Has trained skill [513]Rescue to at least 31%
+        Has trained skill [514]Tempt to at least 31%
+        Has studied spell [515]Shield of faith to at least 29%
+        Has studied spell [516]Laying on hands to at least 29%
+        Has studied spell [517]Remove poison to at least 29%
+        Has studied spell [518]Detect alignment to at least 29%
+        Has studied spell [519]Bless armament to at least 29%
+        Has trained skill [520]Protection by sacrifice to at least 13%
+        Has studied spell [521]Blessing of faerwon to at least 22%
+        Has studied spell [522]Divine enhancement to at least 27%
+        May train skill [523]Alertness to 24%
+        May train skill [524]Attack to 93%
+        May train skill [525]Baptize to 93%
+        May train skill [526]Bash to 91%
+        May train skill [527]Bless to 44%
+        May train skill [528]Prayer to 34%
+        May train skill [529]Bludgeons to 74%
+        May train skill [530]Burial ceremony to 44%
+        May train skill [531]Cast generic to 44%
+        May train skill [532]Cast protection to 44%
+        May train skill [533]Cast heal to 22%
+        May train skill [534]Cast information to 22%
+        May train skill [535]Cast special to 22%
+        May train skill [536]Combat sense to 41%
+        May train skill [537]Consider to 93%
+        May train skill [538]Controlled panic to 37%
+        May train skill [539]Discipline to 45%
+        May train skill [540]Dodge to 21%
+        May train skill [541]Endurance to 14%
+        May train skill [542]First aid to 84%
+        May train skill [543]Hiking to 14%
+        May train skill [544]Kick to 43%
+        May train skill [545]Leadership to 20%
+        May train skill [546]Mastery of shielding to 36%
+        May train skill [547]Parry to 45%
+        May train skill [548]Rescue to 55%
+        May train skill [549]Shield bash to 26%
+        May train skill [550]Stunned maneuvers to 51%
+        May train skill [551]Swim to 67%
+        May train skill [552]Tempt to 55%
+        May train skill [553]Throw weight to 28%
+        May study spell [554]Shield of faith to 52%
+        May study spell [555]Laying on hands to 52%
+        May study spell [556]Remove poison to 52%
+        May study spell [557]Detect alignment to 52%
+        May study spell [558]Bless armament to 52%
+        May study spell [559]Light to 52%
+        May train skill [560]Combat damage analysis to 28%
+        May train skill [561]Protection by sacrifice to 28%
+        May study spell [562]Blessing of faerwon to 46%
+        May study spell [563]Divine enhancement to 46%
+        May train skill [564]Holy warfare to 24%
+
+                                 Level 15
+        Has trained skill [565]Attack to at least 69%
+        Has trained skill [566]Baptize to at least 55%
+        Has trained skill [567]Bless to at least 33%
+        Has trained skill [568]Prayer to at least 25%
+        Has trained skill [569]Bludgeons to at least 55%
+        Has trained skill [570]Burial ceremony to at least 26%
+        Has trained skill [571]Cast generic to at least 26%
+        Has trained skill [572]Cast protection to at least 26%
+        Has trained skill [573]Cast heal to at least 11%
+        Has trained skill [574]Cast special to at least 11%
+        Has trained skill [575]Discipline to at least 27%
+        Has trained skill [576]Dodge to at least 12%
+        Has trained skill [577]First aid to at least 42%
+        Has trained skill [578]Mastery of shielding to at least 21%
+        Has trained skill [579]Parry to at least 36%
+        Has trained skill [580]Rescue to at least 33%
+        Has trained skill [581]Tempt to at least 33%
+        Has studied spell [582]Shield of faith to at least 31%
+        Has studied spell [583]Laying on hands to at least 31%
+        Has studied spell [584]Remove poison to at least 31%
+        Has studied spell [585]Detect alignment to at least 31%
+        Has studied spell [586]Bless armament to at least 31%
+        Has trained skill [587]Protection by sacrifice to at least 16%
+        Has studied spell [588]Blessing of faerwon to at least 27%
+        Has studied spell [589]Divine enhancement to at least 34%
+        May train skill [590]Alertness to 25%
+        May train skill [591]Attack to 100%
+        May train skill [592]Baptize to 100%
+        May train skill [593]Bash to 100%
+        May train skill [594]Bless to 47%
+        May train skill [595]Prayer to 40%
+        May train skill [596]Bludgeons to 78%
+        May train skill [597]Burial ceremony to 47%
+        May train skill [598]Cast generic to 47%
+        May train skill [599]Cast protection to 47%
+        May train skill [600]Cast heal to 23%
+        May train skill [601]Cast information to 23%
+        May train skill [602]Cast special to 23%
+        May train skill [603]Combat sense to 43%
+        May train skill [604]Consider to 100%
+        May train skill [605]Controlled panic to 39%
+        May train skill [606]Discipline to 48%
+        May train skill [607]Dodge to 22%
+        May train skill [608]Endurance to 15%
+        May train skill [609]First aid to 90%
+        May train skill [610]Hiking to 15%
+        May train skill [611]Kick to 51%
+        May train skill [612]Leadership to 21%
+        May train skill [613]Mastery of shielding to 40%
+        May train skill [614]Parry to 48%
+        May train skill [615]Rescue to 58%
+        May train skill [616]Shield bash to 30%
+        May train skill [617]Stunned maneuvers to 53%
+        May train skill [618]Swim to 71%
+        May train skill [619]Tempt to 58%
+        May train skill [620]Throw weight to 30%
+        May train skill [621]Holy smite to 10%
+        May study spell [622]Shield of faith to 55%
+        May study spell [623]Laying on hands to 55%
+        May study spell [624]Remove poison to 55%
+        May study spell [625]Detect alignment to 55%
+        May study spell [626]Bless armament to 55%
+        May study spell [627]Light to 55%
+        May train skill [628]Combat damage analysis to 32%
+        May train skill [629]Protection by sacrifice to 32%
+        May study spell [630]Blessing of faerwon to 55%
+        May study spell [631]Divine enhancement to 55%
+        May train skill [632]Holy warfare to 28%
+
+                                 Level 16
+        Has trained skill [633]Bless to at least 35%
+        Has trained skill [634]Prayer to at least 30%
+        Has trained skill [635]Bludgeons to at least 58%
+        Has trained skill [636]Burial ceremony to at least 28%
+        Has trained skill [637]Cast generic to at least 28%
+        Has trained skill [638]Cast protection to at least 28%
+        Has trained skill [639]Cast heal to at least 11%
+        Has trained skill [640]Cast special to at least 11%
+        Has trained skill [641]Discipline to at least 28%
+        Has trained skill [642]Dodge to at least 13%
+        Has trained skill [643]Mastery of shielding to at least 24%
+        Has trained skill [644]Parry to at least 38%
+        Has trained skill [645]Rescue to at least 34%
+        Has trained skill [646]Tempt to at least 34%
+        Has studied spell [647]Shield of faith to at least 33%
+        Has studied spell [648]Laying on hands to at least 33%
+        Has studied spell [649]Remove poison to at least 33%
+        Has studied spell [650]Detect alignment to at least 33%
+        Has studied spell [651]Bless armament to at least 33%
+        Has trained skill [652]Protection by sacrifice to at least 19%
+        Has studied spell [653]Blessing of faerwon to at least 33%
+        Has studied spell [654]Divine enhancement to at least 41%
+        May train skill [655]Alertness to 27%
+        May train skill [656]Bless to 51%
+        May train skill [657]Prayer to 46%
+        May train skill [658]Bludgeons to 83%
+        May train skill [659]Burial ceremony to 51%
+        May train skill [660]Cast generic to 51%
+        May train skill [661]Cast protection to 51%
+        May train skill [662]Cast heal to 25%
+        May train skill [663]Cast information to 25%
+        May train skill [664]Cast special to 25%
+        May train skill [665]Combat sense to 46%
+        May train skill [666]Controlled panic to 40%
+        May train skill [667]Discipline to 51%
+        May train skill [668]Dodge to 24%
+        May train skill [669]Endurance to 16%
+        May train skill [670]Hiking to 16%
+        May train skill [671]Kick to 58%
+        May train skill [672]Leadership to 23%
+        May train skill [673]Mastery of shielding to 44%
+        May train skill [674]Parry to 51%
+        May train skill [675]Rescue to 61%
+        May train skill [676]Shield bash to 34%
+        May train skill [677]Stunned maneuvers to 56%
+        May train skill [678]Swim to 75%
+        May train skill [679]Tempt to 61%
+        May train skill [680]Throw weight to 32%
+        May train skill [681]Holy smite to 20%
+        May study spell [682]Shield of faith to 58%
+        May study spell [683]Laying on hands to 58%
+        May study spell [684]Remove poison to 58%
+        May study spell [685]Detect alignment to 58%
+        May study spell [686]Bless armament to 58%
+        May study spell [687]Light to 58%
+        May train skill [688]Combat damage analysis to 37%
+        May train skill [689]Protection by sacrifice to 37%
+        May study spell [690]Blessing of faerwon to 64%
+        May study spell [691]Divine enhancement to 64%
+        May train skill [692]Holy warfare to 33%
+
+                                 Level 17
+        Has trained skill [693]Bless to at least 38%
+        Has trained skill [694]Prayer to at least 34%
+        Has trained skill [695]Bludgeons to at least 62%
+        Has trained skill [696]Burial ceremony to at least 30%
+        Has trained skill [697]Cast generic to at least 30%
+        Has trained skill [698]Cast protection to at least 30%
+        Has trained skill [699]Cast heal to at least 12%
+        Has trained skill [700]Cast special to at least 12%
+        Has trained skill [701]Discipline to at least 30%
+        Has trained skill [702]Dodge to at least 14%
+        Has trained skill [703]Mastery of shielding to at least 26%
+        Has trained skill [704]Parry to at least 40%
+        Has trained skill [705]Rescue to at least 36%
+        Has trained skill [706]Tempt to at least 36%
+        Has studied spell [707]Shield of faith to at least 34%
+        Has studied spell [708]Laying on hands to at least 34%
+        Has studied spell [709]Remove poison to at least 34%
+        Has studied spell [710]Detect alignment to at least 34%
+        Has studied spell [711]Bless armament to at least 34%
+        Has trained skill [712]Protection by sacrifice to at least 22%
+        Has studied spell [713]Blessing of faerwon to at least 38%
+        Has studied spell [714]Divine enhancement to at least 48%
+        May train skill [715]Alertness to 29%
+        May train skill [716]Bless to 54%
+        May train skill [717]Prayer to 52%
+        May train skill [718]Bludgeons to 87%
+        May train skill [719]Burial ceremony to 54%
+        May train skill [720]Cast generic to 54%
+        May train skill [721]Cast protection to 54%
+        May train skill [722]Cast heal to 27%
+        May train skill [723]Cast information to 27%
+        May train skill [724]Cast special to 27%
+        May train skill [725]Combat sense to 48%
+        May train skill [726]Controlled panic to 42%
+        May train skill [727]Discipline to 54%
+        May train skill [728]Dodge to 26%
+        May train skill [729]Endurance to 17%
+        May train skill [730]Hiking to 17%
+        May train skill [731]Kick to 66%
+        May train skill [732]Leadership to 24%
+        May train skill [733]Mastery of shielding to 48%
+        May train skill [734]Parry to 54%
+        May train skill [735]Rescue to 64%
+        May train skill [736]Shield bash to 38%
+        May train skill [737]Stunned maneuvers to 58%
+        May train skill [738]Swim to 78%
+        May train skill [739]Tempt to 64%
+        May train skill [740]Throw weight to 34%
+        May train skill [741]Holy smite to 30%
+        May study spell [742]Shield of faith to 61%
+        May study spell [743]Laying on hands to 61%
+        May study spell [744]Remove poison to 61%
+        May study spell [745]Detect alignment to 61%
+        May study spell [746]Bless armament to 61%
+        May study spell [747]Light to 61%
+        May train skill [748]Combat damage analysis to 41%
+        May train skill [749]Protection by sacrifice to 41%
+        May study spell [750]Blessing of faerwon to 73%
+        May study spell [751]Divine enhancement to 73%
+        May train skill [752]Holy warfare to 38%
+
+                                 Level 18
+        Has trained skill [753]Bless to at least 40%
+        Has trained skill [754]Prayer to at least 39%
+        Has trained skill [755]Bludgeons to at least 65%
+        Has trained skill [756]Burial ceremony to at least 32%
+        Has trained skill [757]Cast generic to at least 32%
+        Has trained skill [758]Cast protection to at least 32%
+        Has trained skill [759]Cast heal to at least 13%
+        Has trained skill [760]Cast special to at least 13%
+        Has trained skill [761]Discipline to at least 32%
+        Has trained skill [762]Dodge to at least 15%
+        Has trained skill [763]Mastery of shielding to at least 28%
+        Has trained skill [764]Parry to at least 43%
+        Has trained skill [765]Rescue to at least 38%
+        Has trained skill [766]Tempt to at least 38%
+        Has studied spell [767]Shield of faith to at least 36%
+        Has studied spell [768]Laying on hands to at least 36%
+        Has studied spell [769]Remove poison to at least 36%
+        Has studied spell [770]Detect alignment to at least 36%
+        Has studied spell [771]Bless armament to at least 36%
+        Has trained skill [772]Protection by sacrifice to at least 24%
+        Has studied spell [773]Blessing of faerwon to at least 43%
+        Has studied spell [774]Divine enhancement to at least 54%
+        May train skill [775]Alertness to 30%
+        May train skill [776]Bless to 58%
+        May train skill [777]Prayer to 58%
+        May train skill [778]Bludgeons to 91%
+        May train skill [779]Burial ceremony to 58%
+        May train skill [780]Cast generic to 58%
+        May train skill [781]Cast protection to 58%
+        May train skill [782]Cast heal to 29%
+        May train skill [783]Cast information to 29%
+        May train skill [784]Cast special to 29%
+        May train skill [785]Combat sense to 51%
+        May train skill [786]Controlled panic to 43%
+        May train skill [787]Discipline to 56%
+        May train skill [788]Dodge to 28%
+        May train skill [789]Endurance to 18%
+        May train skill [790]Hiking to 18%
+        May train skill [791]Kick to 74%
+        May train skill [792]Leadership to 25%
+        May train skill [793]Mastery of shielding to 52%
+        May train skill [794]Parry to 56%
+        May train skill [795]Rescue to 66%
+        May train skill [796]Shield bash to 42%
+        May train skill [797]Stunned maneuvers to 61%
+        May train skill [798]Swim to 82%
+        May train skill [799]Tempt to 66%
+        May train skill [800]Throw weight to 36%
+        May train skill [801]Holy smite to 40%
+        May study spell [802]Shield of faith to 64%
+        May study spell [803]Laying on hands to 64%
+        May study spell [804]Remove poison to 64%
+        May study spell [805]Detect alignment to 64%
+        May study spell [806]Bless armament to 64%
+        May study spell [807]Light to 64%
+        May train skill [808]Combat damage analysis to 46%
+        May train skill [809]Protection by sacrifice to 46%
+        May study spell [810]Blessing of faerwon to 82%
+        May study spell [811]Divine enhancement to 82%
+        May train skill [812]Holy warfare to 43%
+
+                                 Level 19
+        Has trained skill [813]Bless to at least 43%
+        Has trained skill [814]Prayer to at least 43%
+        Has trained skill [815]Bludgeons to at least 68%
+        Has trained skill [816]Burial ceremony to at least 34%
+        Has trained skill [817]Cast generic to at least 34%
+        Has trained skill [818]Cast protection to at least 34%
+        Has trained skill [819]Cast heal to at least 14%
+        Has trained skill [820]Cast special to at least 14%
+        Has trained skill [821]Discipline to at least 33%
+        Has trained skill [822]Dodge to at least 16%
+        Has trained skill [823]Mastery of shielding to at least 31%
+        Has trained skill [824]Parry to at least 44%
+        Has trained skill [825]Rescue to at least 39%
+        Has trained skill [826]Tempt to at least 39%
+        Has studied spell [827]Shield of faith to at least 38%
+        Has studied spell [828]Laying on hands to at least 38%
+        Has studied spell [829]Remove poison to at least 38%
+        Has studied spell [830]Detect alignment to at least 38%
+        Has studied spell [831]Bless armament to at least 38%
+        Has trained skill [832]Protection by sacrifice to at least 27%
+        Has studied spell [833]Blessing of faerwon to at least 49%
+        Has studied spell [834]Divine enhancement to at least 61%
+        May train skill [835]Alertness to 32%
+        May train skill [836]Bless to 61%
+        May train skill [837]Prayer to 64%
+        May train skill [838]Bludgeons to 95%
+        May train skill [839]Burial ceremony to 61%
+        May train skill [840]Cast generic to 61%
+        May train skill [841]Cast protection to 61%
+        May train skill [842]Cast heal to 30%
+        May train skill [843]Cast information to 30%
+        May train skill [844]Cast special to 30%
+        May train skill [845]Combat sense to 53%
+        May train skill [846]Controlled panic to 44%
+        May train skill [847]Discipline to 59%
+        May train skill [848]Dodge to 30%
+        May train skill [849]Endurance to 19%
+        May train skill [850]Hiking to 19%
+        May train skill [851]Kick to 82%
+        May train skill [852]Leadership to 26%
+        May train skill [853]Mastery of shielding to 56%
+        May train skill [854]Parry to 59%
+        May train skill [855]Rescue to 69%
+        May train skill [856]Shield bash to 46%
+        May train skill [857]Stunned maneuvers to 63%
+        May train skill [858]Swim to 86%
+        May train skill [859]Tempt to 69%
+        May train skill [860]Throw weight to 38%
+        May train skill [861]Holy smite to 50%
+        May study spell [862]Shield of faith to 67%
+        May study spell [863]Laying on hands to 67%
+        May study spell [864]Remove poison to 67%
+        May study spell [865]Detect alignment to 67%
+        May study spell [866]Bless armament to 67%
+        May study spell [867]Light to 67%
+        May train skill [868]Combat damage analysis to 50%
+        May train skill [869]Protection by sacrifice to 50%
+        May study spell [870]Blessing of faerwon to 91%
+        May study spell [871]Divine enhancement to 91%
+        May train skill [872]Holy warfare to 47%
+
+                                 Level 20
+        Has trained skill [873]Bless to at least 45%
+        Has trained skill [874]Prayer to at least 48%
+        Has trained skill [875]Bludgeons to at least 71%
+        Has trained skill [876]Burial ceremony to at least 36%
+        Has trained skill [877]Cast generic to at least 36%
+        Has trained skill [878]Cast protection to at least 36%
+        Has trained skill [879]Cast heal to at least 15%
+        Has trained skill [880]Cast special to at least 15%
+        Has trained skill [881]Discipline to at least 35%
+        Has trained skill [882]Dodge to at least 18%
+        Has trained skill [883]Mastery of shielding to at least 33%
+        Has trained skill [884]Parry to at least 47%
+        Has trained skill [885]Rescue to at least 41%
+        Has trained skill [886]Tempt to at least 41%
+        Has studied spell [887]Shield of faith to at least 40%
+        Has studied spell [888]Laying on hands to at least 40%
+        Has studied spell [889]Remove poison to at least 40%
+        Has studied spell [890]Detect alignment to at least 40%
+        Has studied spell [891]Bless armament to at least 40%
+        Has trained skill [892]Protection by sacrifice to at least 30%
+        Has studied spell [893]Blessing of faerwon to at least 54%
+        Has studied spell [894]Divine enhancement to at least 68%
+        May train skill [895]Alertness to 33%
+        May train skill [896]Bless to 65%
+        May train skill [897]Prayer to 70%
+        May train skill [898]Bludgeons to 100%
+        May train skill [899]Burial ceremony to 65%
+        May train skill [900]Cast generic to 65%
+        May train skill [901]Cast protection to 65%
+        May train skill [902]Cast heal to 32%
+        May train skill [903]Cast information to 32%
+        May train skill [904]Cast special to 32%
+        May train skill [905]Combat sense to 55%
+        May train skill [906]Controlled panic to 46%
+        May train skill [907]Discipline to 62%
+        May train skill [908]Dodge to 31%
+        May train skill [909]Endurance to 20%
+        May train skill [910]Enhance criticals to 15%
+        May train skill [911]Hiking to 20%
+        May train skill [912]Kick to 90%
+        May train skill [913]Leadership to 27%
+        May train skill [914]Mastery of shielding to 60%
+        May train skill [915]Parry to 62%
+        May train skill [916]Pound to 30%
+        May train skill [917]Rescue to 72%
+        May train skill [918]Riposte to 10%
+        May train skill [919]Shield bash to 50%
+        May train skill [920]Stun to 10%
+        May train skill [921]Stunned maneuvers to 65%
+        May train skill [922]Swim to 90%
+        May train skill [923]Tempt to 72%
+        May train skill [924]Throw weight to 40%
+        May train skill [925]Holy smite to 60%
+        May train skill [926]Holy blaze to 20%
+        May study spell [927]Shield of faith to 70%
+        May study spell [928]Laying on hands to 70%
+        May study spell [929]Remove poison to 70%
+        May study spell [930]Detect alignment to 70%
+        May study spell [931]Bless armament to 70%
+        May study spell [932]Light to 70%
+        May train skill [933]Holy strike to 10%
+        May train skill [934]Combat damage analysis to 55%
+        May train skill [935]Protection by sacrifice to 55%
+        May study spell [936]Blessing of faerwon to 100%
+        May study spell [937]Divine enhancement to 100%
+        May train skill [938]Holy warfare to 52%
+        May train skill [939]Righteousness to 5%
+
+                                 Level 21
+        Has trained skill [940]Bless to at least 48%
+        Has trained skill [941]Prayer to at least 52%
+        Has trained skill [942]Burial ceremony to at least 39%
+        Has trained skill [943]Cast generic to at least 39%
+        Has trained skill [944]Cast protection to at least 39%
+        Has trained skill [945]Cast heal to at least 16%
+        Has trained skill [946]Cast special to at least 16%
+        Has trained skill [947]Discipline to at least 37%
+        Has trained skill [948]Dodge to at least 18%
+        Has trained skill [949]Mastery of shielding to at least 36%
+        Has trained skill [950]Parry to at least 49%
+        Has trained skill [951]Pound to at least 22%
+        Has trained skill [952]Rescue to at least 43%
+        Has trained skill [953]Tempt to at least 43%
+        Has studied spell [954]Shield of faith to at least 42%
+        Has studied spell [955]Laying on hands to at least 42%
+        Has studied spell [956]Remove poison to at least 42%
+        Has studied spell [957]Detect alignment to at least 42%
+        Has studied spell [958]Bless armament to at least 42%
+        Has trained skill [959]Holy strike to at least 7%
+        Has trained skill [960]Protection by sacrifice to at least 33%
+        May train skill [961]Alertness to 35%
+        May train skill [962]Bless to 68%
+        May train skill [963]Prayer to 76%
+        May train skill [964]Burial ceremony to 68%
+        May train skill [965]Cast generic to 68%
+        May train skill [966]Cast protection to 68%
+        May train skill [967]Cast heal to 34%
+        May train skill [968]Cast information to 34%
+        May train skill [969]Cast special to 34%
+        May train skill [970]Combat sense to 58%
+        May train skill [971]Controlled panic to 47%
+        May train skill [972]Discipline to 65%
+        May train skill [973]Dodge to 33%
+        May train skill [974]Endurance to 21%
+        May train skill [975]Enhance criticals to 17%
+        May train skill [976]Hiking to 21%
+        May train skill [977]Leadership to 29%
+        May train skill [978]Mastery of shielding to 64%
+        May train skill [979]Parry to 65%
+        May train skill [980]Pound to 37%
+        May train skill [981]Rescue to 75%
+        May train skill [982]Riposte to 18%
+        May train skill [983]Shield bash to 54%
+        May train skill [984]Stun to 15%
+        May train skill [985]Stunned maneuvers to 68%
+        May train skill [986]Tempt to 75%
+        May train skill [987]Throw weight to 42%
+        May train skill [988]Find weakness to 5%
+        May train skill [989]Holy smite to 70%
+        May train skill [990]Holy blaze to 28%
+        May train skill [991]Stance of the righteous to 10%
+        May study spell [992]Shield of faith to 73%
+        May study spell [993]Laying on hands to 73%
+        May study spell [994]Remove poison to 73%
+        May study spell [995]Detect alignment to 73%
+        May study spell [996]Bless armament to 73%
+        May study spell [997]Light to 73%
+        May train skill [998]Holy strike to 19%
+        May train skill [999]Combat damage analysis to 59%
+        May train skill [1000]Protection by sacrifice to 59%
+        May train skill [1001]Holy warfare to 57%
+        May train skill [1002]Righteousness to 14%
+
+                                 Level 22
+       Has trained skill [1003]Bless to at least 51%
+       Has trained skill [1004]Prayer to at least 57%
+       Has trained skill [1005]Burial ceremony to at least 40%
+       Has trained skill [1006]Cast generic to at least 40%
+       Has trained skill [1007]Cast protection to at least 40%
+       Has trained skill [1008]Cast heal to at least 17%
+       Has trained skill [1009]Cast special to at least 17%
+       Has trained skill [1010]Discipline to at least 39%
+       Has trained skill [1011]Dodge to at least 19%
+       Has trained skill [1012]Mastery of shielding to at least 38%
+       Has trained skill [1013]Parry to at least 52%
+       Has trained skill [1014]Pound to at least 27%
+       Has trained skill [1015]Rescue to at least 45%
+       Has trained skill [1016]Tempt to at least 45%
+       Has studied spell [1017]Shield of faith to at least 43%
+       Has studied spell [1018]Laying on hands to at least 43%
+       Has studied spell [1019]Remove poison to at least 43%
+       Has studied spell [1020]Detect alignment to at least 43%
+       Has studied spell [1021]Bless armament to at least 43%
+       Has trained skill [1022]Holy strike to at least 14%
+       Has trained skill [1023]Protection by sacrifice to at least 35%
+       May train skill [1024]Alertness to 37%
+       May train skill [1025]Bless to 72%
+       May train skill [1026]Prayer to 82%
+       May train skill [1027]Burial ceremony to 72%
+       May train skill [1028]Cast generic to 72%
+       May train skill [1029]Cast protection to 72%
+       May train skill [1030]Cast heal to 36%
+       May train skill [1031]Cast information to 36%
+       May train skill [1032]Cast special to 36%
+       May train skill [1033]Combat sense to 60%
+       May train skill [1034]Controlled panic to 48%
+       May train skill [1035]Discipline to 67%
+       May train skill [1036]Dodge to 35%
+       May train skill [1037]Endurance to 22%
+       May train skill [1038]Enhance criticals to 20%
+       May train skill [1039]Hiking to 22%
+       May train skill [1040]Leadership to 30%
+       May train skill [1041]Mastery of shielding to 68%
+       May train skill [1042]Parry to 67%
+       May train skill [1043]Pound to 44%
+       May train skill [1044]Rescue to 77%
+       May train skill [1045]Riposte to 26%
+       May train skill [1046]Shield bash to 58%
+       May train skill [1047]Stun to 20%
+       May train skill [1048]Stunned maneuvers to 70%
+       May train skill [1049]Tempt to 77%
+       May train skill [1050]Throw weight to 44%
+       May train skill [1051]Find weakness to 7%
+       May train skill [1052]Holy smite to 80%
+       May train skill [1053]Holy blaze to 36%
+       May train skill [1054]Stance of the righteous to 20%
+       May study spell [1055]Shield of faith to 76%
+       May study spell [1056]Laying on hands to 76%
+       May study spell [1057]Remove poison to 76%
+       May study spell [1058]Detect alignment to 76%
+       May study spell [1059]Bless armament to 76%
+       May study spell [1060]Light to 76%
+       May train skill [1061]Holy strike to 28%
+       May train skill [1062]Combat damage analysis to 64%
+       May train skill [1063]Protection by sacrifice to 64%
+       May train skill [1064]Holy warfare to 62%
+       May train skill [1065]Righteousness to 24%
+
+                                 Level 23
+       Has trained skill [1066]Bless to at least 54%
+       Has trained skill [1067]Prayer to at least 61%
+       Has trained skill [1068]Burial ceremony to at least 43%
+       Has trained skill [1069]Cast generic to at least 43%
+       Has trained skill [1070]Cast protection to at least 43%
+       Has trained skill [1071]Cast heal to at least 18%
+       Has trained skill [1072]Cast special to at least 18%
+       Has trained skill [1073]Discipline to at least 40%
+       Has trained skill [1074]Dodge to at least 21%
+       Has trained skill [1075]Mastery of shielding to at least 40%
+       Has trained skill [1076]Parry to at least 53%
+       Has trained skill [1077]Pound to at least 33%
+       Has trained skill [1078]Rescue to at least 46%
+       Has trained skill [1079]Tempt to at least 46%
+       Has studied spell [1080]Shield of faith to at least 45%
+       Has studied spell [1081]Laying on hands to at least 45%
+       Has studied spell [1082]Remove poison to at least 45%
+       Has studied spell [1083]Detect alignment to at least 45%
+       Has studied spell [1084]Bless armament to at least 45%
+       Has trained skill [1085]Holy strike to at least 21%
+       Has trained skill [1086]Protection by sacrifice to at least 38%
+       May train skill [1087]Alertness to 38%
+       May train skill [1088]Bless to 75%
+       May train skill [1089]Prayer to 88%
+       May train skill [1090]Burial ceremony to 75%
+       May train skill [1091]Cast generic to 75%
+       May train skill [1092]Cast protection to 75%
+       May train skill [1093]Cast heal to 37%
+       May train skill [1094]Cast information to 37%
+       May train skill [1095]Cast special to 37%
+       May train skill [1096]Combat sense to 63%
+       May train skill [1097]Controlled panic to 50%
+       May train skill [1098]Discipline to 70%
+       May train skill [1099]Dodge to 37%
+       May train skill [1100]Endurance to 23%
+       May train skill [1101]Enhance criticals to 22%
+       May train skill [1102]Hiking to 23%
+       May train skill [1103]Leadership to 31%
+       May train skill [1104]Mastery of shielding to 72%
+       May train skill [1105]Parry to 70%
+       May train skill [1106]Pound to 51%
+       May train skill [1107]Rescue to 80%
+       May train skill [1108]Riposte to 34%
+       May train skill [1109]Shield bash to 62%
+       May train skill [1110]Stun to 25%
+       May train skill [1111]Stunned maneuvers to 73%
+       May train skill [1112]Tempt to 80%
+       May train skill [1113]Throw weight to 46%
+       May train skill [1114]Find weakness to 10%
+       May train skill [1115]Holy smite to 90%
+       May train skill [1116]Holy blaze to 44%
+       May train skill [1117]Stance of the righteous to 30%
+       May study spell [1118]Shield of faith to 79%
+       May study spell [1119]Laying on hands to 79%
+       May study spell [1120]Remove poison to 79%
+       May study spell [1121]Detect alignment to 79%
+       May study spell [1122]Bless armament to 79%
+       May study spell [1123]Light to 79%
+       May train skill [1124]Holy strike to 37%
+       May train skill [1125]Combat damage analysis to 68%
+       May train skill [1126]Protection by sacrifice to 68%
+       May train skill [1127]Holy warfare to 66%
+       May train skill [1128]Righteousness to 33%
+
+                                 Level 24
+       Has trained skill [1129]Bless to at least 56%
+       Has trained skill [1130]Prayer to at least 66%
+       Has trained skill [1131]Burial ceremony to at least 45%
+       Has trained skill [1132]Cast generic to at least 45%
+       Has trained skill [1133]Cast protection to at least 45%
+       Has trained skill [1134]Cast heal to at least 18%
+       Has trained skill [1135]Cast special to at least 18%
+       Has trained skill [1136]Discipline to at least 42%
+       Has trained skill [1137]Dodge to at least 22%
+       Has trained skill [1138]Mastery of shielding to at least 43%
+       Has trained skill [1139]Parry to at least 56%
+       Has trained skill [1140]Pound to at least 38%
+       Has trained skill [1141]Rescue to at least 48%
+       Has trained skill [1142]Tempt to at least 48%
+       Has studied spell [1143]Shield of faith to at least 47%
+       Has studied spell [1144]Laying on hands to at least 47%
+       Has studied spell [1145]Remove poison to at least 47%
+       Has studied spell [1146]Detect alignment to at least 47%
+       Has studied spell [1147]Bless armament to at least 47%
+       Has trained skill [1148]Holy strike to at least 27%
+       Has trained skill [1149]Protection by sacrifice to at least 40%
+       May train skill [1150]Alertness to 40%
+       May train skill [1151]Bless to 79%
+       May train skill [1152]Prayer to 94%
+       May train skill [1153]Burial ceremony to 79%
+       May train skill [1154]Cast generic to 79%
+       May train skill [1155]Cast protection to 79%
+       May train skill [1156]Cast heal to 39%
+       May train skill [1157]Cast information to 39%
+       May train skill [1158]Cast special to 39%
+       May train skill [1159]Combat sense to 65%
+       May train skill [1160]Controlled panic to 51%
+       May train skill [1161]Discipline to 73%
+       May train skill [1162]Dodge to 39%
+       May train skill [1163]Endurance to 24%
+       May train skill [1164]Enhance criticals to 25%
+       May train skill [1165]Hiking to 24%
+       May train skill [1166]Leadership to 32%
+       May train skill [1167]Mastery of shielding to 76%
+       May train skill [1168]Parry to 73%
+       May train skill [1169]Pound to 58%
+       May train skill [1170]Rescue to 83%
+       May train skill [1171]Riposte to 42%
+       May train skill [1172]Shield bash to 66%
+       May train skill [1173]Stun to 30%
+       May train skill [1174]Stunned maneuvers to 75%
+       May train skill [1175]Tempt to 83%
+       May train skill [1176]Throw weight to 48%
+       May train skill [1177]Find weakness to 13%
+       May train skill [1178]Holy smite to 100%
+       May train skill [1179]Holy blaze to 52%
+       May train skill [1180]Stance of the righteous to 40%
+       May study spell [1181]Shield of faith to 82%
+       May study spell [1182]Laying on hands to 82%
+       May study spell [1183]Remove poison to 82%
+       May study spell [1184]Detect alignment to 82%
+       May study spell [1185]Bless armament to 82%
+       May study spell [1186]Light to 82%
+       May train skill [1187]Holy strike to 46%
+       May train skill [1188]Combat damage analysis to 73%
+       May train skill [1189]Protection by sacrifice to 73%
+       May train skill [1190]Holy warfare to 71%
+       May train skill [1191]Righteousness to 43%
+
+                                 Level 25
+       Has trained skill [1192]Bless to at least 59%
+       Has trained skill [1193]Prayer to at least 70%
+       Has trained skill [1194]Burial ceremony to at least 47%
+       Has trained skill [1195]Cast generic to at least 47%
+       Has trained skill [1196]Cast protection to at least 47%
+       Has trained skill [1197]Cast heal to at least 19%
+       Has trained skill [1198]Cast special to at least 19%
+       Has trained skill [1199]Discipline to at least 43%
+       Has trained skill [1200]Dodge to at least 23%
+       Has trained skill [1201]Mastery of shielding to at least 45%
+       Has trained skill [1202]Parry to at least 58%
+       Has trained skill [1203]Pound to at least 43%
+       Has trained skill [1204]Rescue to at least 49%
+       Has trained skill [1205]Tempt to at least 49%
+       Has studied spell [1206]Shield of faith to at least 49%
+       Has studied spell [1207]Laying on hands to at least 49%
+       Has studied spell [1208]Remove poison to at least 49%
+       Has studied spell [1209]Detect alignment to at least 49%
+       Has studied spell [1210]Bless armament to at least 49%
+       Has trained skill [1211]Holy strike to at least 34%
+       Has trained skill [1212]Protection by sacrifice to at least 43%
+       May train skill [1213]Alertness to 41%
+       May train skill [1214]Bless to 82%
+       May train skill [1215]Prayer to 100%
+       May train skill [1216]Burial ceremony to 82%
+       May train skill [1217]Cast generic to 82%
+       May train skill [1218]Cast protection to 82%
+       May train skill [1219]Cast heal to 41%
+       May train skill [1220]Cast information to 41%
+       May train skill [1221]Cast special to 41%
+       May train skill [1222]Combat sense to 67%
+       May train skill [1223]Controlled panic to 53%
+       May train skill [1224]Discipline to 76%
+       May train skill [1225]Dodge to 40%
+       May train skill [1226]Endurance to 25%
+       May train skill [1227]Enhance criticals to 27%
+       May train skill [1228]Hiking to 25%
+       May train skill [1229]Leadership to 33%
+       May train skill [1230]Mastery of shielding to 80%
+       May train skill [1231]Parry to 76%
+       May train skill [1232]Pound to 65%
+       May train skill [1233]Pulverize to 20%
+       May train skill [1234]Rescue to 86%
+       May train skill [1235]Riposte to 50%
+       May train skill [1236]Shield bash to 70%
+       May train skill [1237]Stun to 35%
+       May train skill [1238]Stunned maneuvers to 77%
+       May train skill [1239]Tempt to 86%
+       May train skill [1240]Throw weight to 50%
+       May train skill [1241]Find weakness to 16%
+       May train skill [1242]Holy blaze to 60%
+       May train skill [1243]Stance of the righteous to 50%
+       May study spell [1244]Shield of faith to 85%
+       May study spell [1245]Laying on hands to 85%
+       May study spell [1246]Remove poison to 85%
+       May study spell [1247]Detect alignment to 85%
+       May study spell [1248]Bless armament to 85%
+       May study spell [1249]Light to 85%
+       May train skill [1250]Holy strike to 55%
+       May train skill [1251]Combat damage analysis to 77%
+       May train skill [1252]Protection by sacrifice to 77%
+       May train skill [1253]Holy warfare to 76%
+       May train skill [1254]Righteousness to 52%
+
+                                 Level 26
+       Has trained skill [1255]Bless to at least 61%
+       Has trained skill [1256]Burial ceremony to at least 49%
+       Has trained skill [1257]Cast generic to at least 49%
+       Has trained skill [1258]Cast protection to at least 49%
+       Has trained skill [1259]Cast heal to at least 20%
+       Has trained skill [1260]Cast special to at least 20%
+       Has trained skill [1261]Discipline to at least 45%
+       Has trained skill [1262]Dodge to at least 24%
+       Has trained skill [1263]Mastery of shielding to at least 48%
+       Has trained skill [1264]Parry to at least 60%
+       Has trained skill [1265]Pound to at least 48%
+       Has trained skill [1266]Pulverize to at least 12%
+       Has trained skill [1267]Rescue to at least 51%
+       Has trained skill [1268]Tempt to at least 51%
+       Has studied spell [1269]Shield of faith to at least 51%
+       Has studied spell [1270]Laying on hands to at least 51%
+       Has studied spell [1271]Remove poison to at least 51%
+       Has studied spell [1272]Detect alignment to at least 51%
+       Has studied spell [1273]Bless armament to at least 51%
+       Has trained skill [1274]Holy strike to at least 41%
+       Has trained skill [1275]Protection by sacrifice to at least 46%
+       May train skill [1276]Alertness to 43%
+       May train skill [1277]Bless to 86%
+       May train skill [1278]Burial ceremony to 86%
+       May train skill [1279]Cast generic to 86%
+       May train skill [1280]Cast protection to 86%
+       May train skill [1281]Cast heal to 43%
+       May train skill [1282]Cast information to 43%
+       May train skill [1283]Cast special to 43%
+       May train skill [1284]Combat sense to 70%
+       May train skill [1285]Controlled panic to 54%
+       May train skill [1286]Discipline to 78%
+       May train skill [1287]Dodge to 42%
+       May train skill [1288]Endurance to 26%
+       May train skill [1289]Enhance criticals to 30%
+       May train skill [1290]Hiking to 26%
+       May train skill [1291]Leadership to 35%
+       May train skill [1292]Mastery of shielding to 84%
+       May train skill [1293]Parry to 78%
+       May train skill [1294]Pound to 72%
+       May train skill [1295]Pulverize to 31%
+       May train skill [1296]Rescue to 88%
+       May train skill [1297]Riposte to 58%
+       May train skill [1298]Shield bash to 74%
+       May train skill [1299]Stun to 40%
+       May train skill [1300]Stunned maneuvers to 80%
+       May train skill [1301]Tempt to 88%
+       May train skill [1302]Throw weight to 52%
+       May train skill [1303]Find weakness to 18%
+       May train skill [1304]Holy blaze to 68%
+       May train skill [1305]Stance of the righteous to 60%
+       May study spell [1306]Shield of faith to 88%
+       May study spell [1307]Laying on hands to 88%
+       May study spell [1308]Remove poison to 88%
+       May study spell [1309]Detect alignment to 88%
+       May study spell [1310]Bless armament to 88%
+       May study spell [1311]Light to 88%
+       May train skill [1312]Holy strike to 64%
+       May train skill [1313]Combat damage analysis to 82%
+       May train skill [1314]Protection by sacrifice to 82%
+       May train skill [1315]Holy warfare to 81%
+       May train skill [1316]Righteousness to 62%
+
+                                 Level 27
+       Has trained skill [1317]Bless to at least 64%
+       Has trained skill [1318]Burial ceremony to at least 51%
+       Has trained skill [1319]Cast generic to at least 51%
+       Has trained skill [1320]Cast protection to at least 51%
+       Has trained skill [1321]Cast heal to at least 21%
+       Has trained skill [1322]Cast special to at least 21%
+       Has trained skill [1323]Discipline to at least 46%
+       Has trained skill [1324]Dodge to at least 25%
+       Has trained skill [1325]Mastery of shielding to at least 50%
+       Has trained skill [1326]Parry to at least 62%
+       Has trained skill [1327]Pound to at least 54%
+       Has trained skill [1328]Pulverize to at least 18%
+       Has trained skill [1329]Rescue to at least 52%
+       Has trained skill [1330]Tempt to at least 52%
+       Has studied spell [1331]Shield of faith to at least 52%
+       Has studied spell [1332]Laying on hands to at least 52%
+       Has studied spell [1333]Remove poison to at least 52%
+       Has studied spell [1334]Detect alignment to at least 52%
+       Has studied spell [1335]Bless armament to at least 52%
+       Has trained skill [1336]Holy strike to at least 48%
+       Has trained skill [1337]Protection by sacrifice to at least 49%
+       May train skill [1338]Alertness to 45%
+       May train skill [1339]Bless to 89%
+       May train skill [1340]Burial ceremony to 89%
+       May train skill [1341]Cast generic to 89%
+       May train skill [1342]Cast protection to 89%
+       May train skill [1343]Cast heal to 44%
+       May train skill [1344]Cast information to 44%
+       May train skill [1345]Cast special to 44%
+       May train skill [1346]Combat sense to 72%
+       May train skill [1347]Controlled panic to 55%
+       May train skill [1348]Discipline to 81%
+       May train skill [1349]Dodge to 44%
+       May train skill [1350]Endurance to 27%
+       May train skill [1351]Enhance criticals to 32%
+       May train skill [1352]Hiking to 27%
+       May train skill [1353]Leadership to 36%
+       May train skill [1354]Mastery of shielding to 88%
+       May train skill [1355]Parry to 81%
+       May train skill [1356]Pound to 79%
+       May train skill [1357]Pulverize to 42%
+       May train skill [1358]Rescue to 91%
+       May train skill [1359]Riposte to 66%
+       May train skill [1360]Shield bash to 78%
+       May train skill [1361]Stun to 45%
+       May train skill [1362]Stunned maneuvers to 82%
+       May train skill [1363]Tempt to 91%
+       May train skill [1364]Throw weight to 54%
+       May train skill [1365]Find weakness to 21%
+       May train skill [1366]Holy blaze to 76%
+       May train skill [1367]Stance of the righteous to 70%
+       May study spell [1368]Shield of faith to 91%
+       May study spell [1369]Laying on hands to 91%
+       May study spell [1370]Remove poison to 91%
+       May study spell [1371]Detect alignment to 91%
+       May study spell [1372]Bless armament to 91%
+       May study spell [1373]Light to 91%
+       May train skill [1374]Holy strike to 73%
+       May train skill [1375]Combat damage analysis to 86%
+       May train skill [1376]Protection by sacrifice to 86%
+       May train skill [1377]Holy warfare to 85%
+       May train skill [1378]Righteousness to 71%
+
+                                 Level 28
+       Has trained skill [1379]Bless to at least 66%
+       Has trained skill [1380]Burial ceremony to at least 53%
+       Has trained skill [1381]Cast generic to at least 53%
+       Has trained skill [1382]Cast protection to at least 53%
+       Has trained skill [1383]Cast heal to at least 22%
+       Has trained skill [1384]Cast special to at least 22%
+       Has trained skill [1385]Discipline to at least 48%
+       Has trained skill [1386]Dodge to at least 26%
+       Has trained skill [1387]Mastery of shielding to at least 52%
+       Has trained skill [1388]Parry to at least 64%
+       Has trained skill [1389]Pound to at least 59%
+       Has trained skill [1390]Pulverize to at least 25%
+       Has trained skill [1391]Rescue to at least 54%
+       Has trained skill [1392]Tempt to at least 54%
+       Has studied spell [1393]Shield of faith to at least 54%
+       Has studied spell [1394]Laying on hands to at least 54%
+       Has studied spell [1395]Remove poison to at least 54%
+       Has studied spell [1396]Detect alignment to at least 54%
+       Has studied spell [1397]Bless armament to at least 54%
+       Has trained skill [1398]Holy strike to at least 54%
+       Has trained skill [1399]Protection by sacrifice to at least 51%
+       May train skill [1400]Alertness to 46%
+       May train skill [1401]Bless to 93%
+       May train skill [1402]Burial ceremony to 93%
+       May train skill [1403]Cast generic to 93%
+       May train skill [1404]Cast protection to 93%
+       May train skill [1405]Cast heal to 46%
+       May train skill [1406]Cast information to 46%
+       May train skill [1407]Cast special to 46%
+       May train skill [1408]Combat sense to 75%
+       May train skill [1409]Controlled panic to 57%
+       May train skill [1410]Discipline to 84%
+       May train skill [1411]Dodge to 46%
+       May train skill [1412]Endurance to 28%
+       May train skill [1413]Enhance criticals to 35%
+       May train skill [1414]Hiking to 28%
+       May train skill [1415]Leadership to 37%
+       May train skill [1416]Mastery of shielding to 92%
+       May train skill [1417]Parry to 84%
+       May train skill [1418]Pound to 86%
+       May train skill [1419]Pulverize to 53%
+       May train skill [1420]Rescue to 94%
+       May train skill [1421]Riposte to 74%
+       May train skill [1422]Shield bash to 82%
+       May train skill [1423]Stun to 50%
+       May train skill [1424]Stunned maneuvers to 85%
+       May train skill [1425]Tempt to 94%
+       May train skill [1426]Throw weight to 56%
+       May train skill [1427]Find weakness to 24%
+       May train skill [1428]Holy blaze to 84%
+       May train skill [1429]Stance of the righteous to 80%
+       May study spell [1430]Shield of faith to 94%
+       May study spell [1431]Laying on hands to 94%
+       May study spell [1432]Remove poison to 94%
+       May study spell [1433]Detect alignment to 94%
+       May study spell [1434]Bless armament to 94%
+       May study spell [1435]Light to 94%
+       May train skill [1436]Holy strike to 82%
+       May train skill [1437]Combat damage analysis to 91%
+       May train skill [1438]Protection by sacrifice to 91%
+       May train skill [1439]Holy warfare to 90%
+       May train skill [1440]Righteousness to 81%
+
+                                 Level 29
+       Has trained skill [1441]Bless to at least 69%
+       Has trained skill [1442]Burial ceremony to at least 55%
+       Has trained skill [1443]Cast generic to at least 55%
+       Has trained skill [1444]Cast protection to at least 55%
+       Has trained skill [1445]Cast heal to at least 23%
+       Has trained skill [1446]Cast special to at least 23%
+       Has trained skill [1447]Discipline to at least 50%
+       Has trained skill [1448]Dodge to at least 27%
+       Has trained skill [1449]Mastery of shielding to at least 55%
+       Has trained skill [1450]Parry to at least 67%
+       Has trained skill [1451]Pound to at least 64%
+       Has trained skill [1452]Pulverize to at least 31%
+       Has trained skill [1453]Rescue to at least 56%
+       Has trained skill [1454]Tempt to at least 56%
+       Has studied spell [1455]Shield of faith to at least 56%
+       Has studied spell [1456]Laying on hands to at least 56%
+       Has studied spell [1457]Remove poison to at least 56%
+       Has studied spell [1458]Detect alignment to at least 56%
+       Has studied spell [1459]Bless armament to at least 56%
+       Has trained skill [1460]Holy strike to at least 61%
+       Has trained skill [1461]Protection by sacrifice to at least 54%
+       May train skill [1462]Alertness to 48%
+       May train skill [1463]Bless to 96%
+       May train skill [1464]Burial ceremony to 96%
+       May train skill [1465]Cast generic to 96%
+       May train skill [1466]Cast protection to 96%
+       May train skill [1467]Cast heal to 48%
+       May train skill [1468]Cast information to 48%
+       May train skill [1469]Cast special to 48%
+       May train skill [1470]Combat sense to 77%
+       May train skill [1471]Controlled panic to 58%
+       May train skill [1472]Discipline to 87%
+       May train skill [1473]Dodge to 48%
+       May train skill [1474]Endurance to 29%
+       May train skill [1475]Enhance criticals to 37%
+       May train skill [1476]Hiking to 29%
+       May train skill [1477]Leadership to 38%
+       May train skill [1478]Mastery of shielding to 96%
+       May train skill [1479]Parry to 87%
+       May train skill [1480]Pound to 93%
+       May train skill [1481]Pulverize to 64%
+       May train skill [1482]Rescue to 97%
+       May train skill [1483]Riposte to 82%
+       May train skill [1484]Shield bash to 86%
+       May train skill [1485]Stun to 55%
+       May train skill [1486]Stunned maneuvers to 87%
+       May train skill [1487]Tempt to 97%
+       May train skill [1488]Throw weight to 58%
+       May train skill [1489]Find weakness to 27%
+       May train skill [1490]Holy blaze to 92%
+       May train skill [1491]Stance of the righteous to 90%
+       May study spell [1492]Shield of faith to 97%
+       May study spell [1493]Laying on hands to 97%
+       May study spell [1494]Remove poison to 97%
+       May study spell [1495]Detect alignment to 97%
+       May study spell [1496]Bless armament to 97%
+       May study spell [1497]Light to 97%
+       May train skill [1498]Holy strike to 91%
+       May train skill [1499]Combat damage analysis to 95%
+       May train skill [1500]Protection by sacrifice to 95%
+       May train skill [1501]Holy warfare to 95%
+       May train skill [1502]Righteousness to 90%
+
+                                 Level 30
+       Has trained skill [1503]Bless to at least 72%
+       Has trained skill [1504]Burial ceremony to at least 57%
+       Has trained skill [1505]Cast generic to at least 57%
+       Has trained skill [1506]Cast protection to at least 57%
+       Has trained skill [1507]Cast heal to at least 24%
+       Has trained skill [1508]Cast special to at least 24%
+       Has trained skill [1509]Discipline to at least 52%
+       Has trained skill [1510]Dodge to at least 28%
+       Has trained skill [1511]Mastery of shielding to at least 57%
+       Has trained skill [1512]Parry to at least 69%
+       Has trained skill [1513]Pound to at least 69%
+       Has trained skill [1514]Pulverize to at least 38%
+       Has trained skill [1515]Rescue to at least 58%
+       Has trained skill [1516]Tempt to at least 58%
+       Has studied spell [1517]Shield of faith to at least 58%
+       Has studied spell [1518]Laying on hands to at least 58%
+       Has studied spell [1519]Remove poison to at least 58%
+       Has studied spell [1520]Detect alignment to at least 58%
+       Has studied spell [1521]Bless armament to at least 58%
+       Has trained skill [1522]Holy strike to at least 68%
+       Has trained skill [1523]Protection by sacrifice to at least 57%
+       May train skill [1524]Alertness to 50%
+       May train skill [1525]Bless to 100%
+       May train skill [1526]Burial ceremony to 100%
+       May train skill [1527]Cast generic to 100%
+       May train skill [1528]Cast protection to 100%
+       May train skill [1529]Cast heal to 50%
+       May train skill [1530]Cast information to 50%
+       May train skill [1531]Cast special to 50%
+       May train skill [1532]Combat sense to 80%
+       May train skill [1533]Controlled panic to 60%
+       May train skill [1534]Discipline to 90%
+       May train skill [1535]Dodge to 50%
+       May train skill [1536]Endurance to 30%
+       May train skill [1537]Enhance criticals to 40%
+       May train skill [1538]Hiking to 30%
+       May train skill [1539]Leadership to 40%
+       May train skill [1540]Mastery of shielding to 100%
+       May train skill [1541]Parry to 90%
+       May train skill [1542]Pound to 100%
+       May train skill [1543]Pulverize to 75%
+       May train skill [1544]Rescue to 100%
+       May train skill [1545]Riposte to 90%
+       May train skill [1546]Shield bash to 90%
+       May train skill [1547]Stun to 60%
+       May train skill [1548]Stunned maneuvers to 90%
+       May train skill [1549]Tempt to 100%
+       May train skill [1550]Throw weight to 60%
+       May train skill [1551]Find weakness to 30%
+       May train skill [1552]Holy blaze to 100%
+       May train skill [1553]Stance of the righteous to 100%
+       May study spell [1554]Shield of faith to 100%
+       May study spell [1555]Laying on hands to 100%
+       May study spell [1556]Remove poison to 100%
+       May study spell [1557]Detect alignment to 100%
+       May study spell [1558]Bless armament to 100%
+       May study spell [1559]Light to 100%
+       May train skill [1560]Holy strike to 100%
+       May train skill [1561]Combat damage analysis to 100%
+       May train skill [1562]Protection by sacrifice to 100%
+       May train skill [1563]Holy warfare to 100%
+       May train skill [1564]Righteousness to 100%
+
+                   Allows joining to the following guild:
+                     The Templars of Faerwon
+
+   [1565]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [1566]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Templars%20of%20Faerwon&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Templars%20of%20Faerwon&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Templars%20of%20Faerwon&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=grimsh
+  23. http://www.bat.org/help/finger.php?str=dragoness
+  24. http://www.bat.org/help/skills.php?str=attack
+  25. http://www.bat.org/help/skills.php?str=baptize
+  26. http://www.bat.org/help/skills.php?str=bludgeons
+  27. http://www.bat.org/help/skills.php?str=combat_sense
+  28. http://www.bat.org/help/skills.php?str=consider
+  29. http://www.bat.org/help/skills.php?str=controlled_panic
+  30. http://www.bat.org/help/skills.php?str=discipline
+  31. http://www.bat.org/help/skills.php?str=endurance
+  32. http://www.bat.org/help/skills.php?str=first_aid
+  33. http://www.bat.org/help/skills.php?str=hiking
+  34. http://www.bat.org/help/skills.php?str=parry
+  35. http://www.bat.org/help/skills.php?str=rescue
+  36. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+  37. http://www.bat.org/help/skills.php?str=swim
+  38. http://www.bat.org/help/skills.php?str=tempt
+  39. http://www.bat.org/help/skills.php?str=attack
+  40. http://www.bat.org/help/skills.php?str=baptize
+  41. http://www.bat.org/help/skills.php?str=bludgeons
+  42. http://www.bat.org/help/skills.php?str=discipline
+  43. http://www.bat.org/help/skills.php?str=first_aid
+  44. http://www.bat.org/help/skills.php?str=parry
+  45. http://www.bat.org/help/skills.php?str=rescue
+  46. http://www.bat.org/help/skills.php?str=tempt
+  47. http://www.bat.org/help/skills.php?str=attack
+  48. http://www.bat.org/help/skills.php?str=baptize
+  49. http://www.bat.org/help/skills.php?str=bludgeons
+  50. http://www.bat.org/help/skills.php?str=combat_sense
+  51. http://www.bat.org/help/skills.php?str=consider
+  52. http://www.bat.org/help/skills.php?str=controlled_panic
+  53. http://www.bat.org/help/skills.php?str=discipline
+  54. http://www.bat.org/help/skills.php?str=endurance
+  55. http://www.bat.org/help/skills.php?str=first_aid
+  56. http://www.bat.org/help/skills.php?str=hiking
+  57. http://www.bat.org/help/skills.php?str=parry
+  58. http://www.bat.org/help/skills.php?str=rescue
+  59. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+  60. http://www.bat.org/help/skills.php?str=swim
+  61. http://www.bat.org/help/skills.php?str=tempt
+  62. http://www.bat.org/help/skills.php?str=attack
+  63. http://www.bat.org/help/skills.php?str=baptize
+  64. http://www.bat.org/help/skills.php?str=bludgeons
+  65. http://www.bat.org/help/skills.php?str=discipline
+  66. http://www.bat.org/help/skills.php?str=first_aid
+  67. http://www.bat.org/help/skills.php?str=parry
+  68. http://www.bat.org/help/skills.php?str=rescue
+  69. http://www.bat.org/help/skills.php?str=tempt
+  70. http://www.bat.org/help/skills.php?str=attack
+  71. http://www.bat.org/help/skills.php?str=baptize
+  72. http://www.bat.org/help/skills.php?str=bludgeons
+  73. http://www.bat.org/help/skills.php?str=combat_sense
+  74. http://www.bat.org/help/skills.php?str=consider
+  75. http://www.bat.org/help/skills.php?str=controlled_panic
+  76. http://www.bat.org/help/skills.php?str=discipline
+  77. http://www.bat.org/help/skills.php?str=endurance
+  78. http://www.bat.org/help/skills.php?str=first_aid
+  79. http://www.bat.org/help/skills.php?str=hiking
+  80. http://www.bat.org/help/skills.php?str=parry
+  81. http://www.bat.org/help/skills.php?str=rescue
+  82. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+  83. http://www.bat.org/help/skills.php?str=swim
+  84. http://www.bat.org/help/skills.php?str=tempt
+  85. http://www.bat.org/help/skills.php?str=attack
+  86. http://www.bat.org/help/skills.php?str=baptize
+  87. http://www.bat.org/help/skills.php?str=bludgeons
+  88. http://www.bat.org/help/skills.php?str=discipline
+  89. http://www.bat.org/help/skills.php?str=first_aid
+  90. http://www.bat.org/help/skills.php?str=parry
+  91. http://www.bat.org/help/skills.php?str=rescue
+  92. http://www.bat.org/help/skills.php?str=tempt
+  93. http://www.bat.org/help/skills.php?str=attack
+  94. http://www.bat.org/help/skills.php?str=baptize
+  95. http://www.bat.org/help/skills.php?str=bludgeons
+  96. http://www.bat.org/help/skills.php?str=combat_sense
+  97. http://www.bat.org/help/skills.php?str=consider
+  98. http://www.bat.org/help/skills.php?str=controlled_panic
+  99. http://www.bat.org/help/skills.php?str=discipline
+ 100. http://www.bat.org/help/skills.php?str=endurance
+ 101. http://www.bat.org/help/skills.php?str=first_aid
+ 102. http://www.bat.org/help/skills.php?str=hiking
+ 103. http://www.bat.org/help/skills.php?str=parry
+ 104. http://www.bat.org/help/skills.php?str=rescue
+ 105. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 106. http://www.bat.org/help/skills.php?str=swim
+ 107. http://www.bat.org/help/skills.php?str=tempt
+ 108. http://www.bat.org/help/skills.php?str=attack
+ 109. http://www.bat.org/help/skills.php?str=baptize
+ 110. http://www.bat.org/help/skills.php?str=bludgeons
+ 111. http://www.bat.org/help/skills.php?str=discipline
+ 112. http://www.bat.org/help/skills.php?str=first_aid
+ 113. http://www.bat.org/help/skills.php?str=parry
+ 114. http://www.bat.org/help/skills.php?str=rescue
+ 115. http://www.bat.org/help/skills.php?str=tempt
+ 116. http://www.bat.org/help/skills.php?str=alertness
+ 117. http://www.bat.org/help/skills.php?str=attack
+ 118. http://www.bat.org/help/skills.php?str=baptize
+ 119. http://www.bat.org/help/skills.php?str=bash
+ 120. http://www.bat.org/help/skills.php?str=bludgeons
+ 121. http://www.bat.org/help/skills.php?str=combat_sense
+ 122. http://www.bat.org/help/skills.php?str=consider
+ 123. http://www.bat.org/help/skills.php?str=controlled_panic
+ 124. http://www.bat.org/help/skills.php?str=discipline
+ 125. http://www.bat.org/help/skills.php?str=dodge
+ 126. http://www.bat.org/help/skills.php?str=endurance
+ 127. http://www.bat.org/help/skills.php?str=first_aid
+ 128. http://www.bat.org/help/skills.php?str=hiking
+ 129. http://www.bat.org/help/skills.php?str=leadership
+ 130. http://www.bat.org/help/skills.php?str=parry
+ 131. http://www.bat.org/help/skills.php?str=rescue
+ 132. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 133. http://www.bat.org/help/skills.php?str=swim
+ 134. http://www.bat.org/help/skills.php?str=tempt
+ 135. http://www.bat.org/help/skills.php?str=attack
+ 136. http://www.bat.org/help/skills.php?str=baptize
+ 137. http://www.bat.org/help/skills.php?str=bludgeons
+ 138. http://www.bat.org/help/skills.php?str=discipline
+ 139. http://www.bat.org/help/skills.php?str=dodge
+ 140. http://www.bat.org/help/skills.php?str=first_aid
+ 141. http://www.bat.org/help/skills.php?str=parry
+ 142. http://www.bat.org/help/skills.php?str=rescue
+ 143. http://www.bat.org/help/skills.php?str=tempt
+ 144. http://www.bat.org/help/skills.php?str=alertness
+ 145. http://www.bat.org/help/skills.php?str=attack
+ 146. http://www.bat.org/help/skills.php?str=baptize
+ 147. http://www.bat.org/help/skills.php?str=bash
+ 148. http://www.bat.org/help/skills.php?str=bludgeons
+ 149. http://www.bat.org/help/skills.php?str=combat_sense
+ 150. http://www.bat.org/help/skills.php?str=consider
+ 151. http://www.bat.org/help/skills.php?str=controlled_panic
+ 152. http://www.bat.org/help/skills.php?str=discipline
+ 153. http://www.bat.org/help/skills.php?str=dodge
+ 154. http://www.bat.org/help/skills.php?str=endurance
+ 155. http://www.bat.org/help/skills.php?str=first_aid
+ 156. http://www.bat.org/help/skills.php?str=hiking
+ 157. http://www.bat.org/help/skills.php?str=leadership
+ 158. http://www.bat.org/help/skills.php?str=parry
+ 159. http://www.bat.org/help/skills.php?str=rescue
+ 160. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 161. http://www.bat.org/help/skills.php?str=swim
+ 162. http://www.bat.org/help/skills.php?str=tempt
+ 163. http://www.bat.org/help/skills.php?str=attack
+ 164. http://www.bat.org/help/skills.php?str=baptize
+ 165. http://www.bat.org/help/skills.php?str=bludgeons
+ 166. http://www.bat.org/help/skills.php?str=discipline
+ 167. http://www.bat.org/help/skills.php?str=dodge
+ 168. http://www.bat.org/help/skills.php?str=first_aid
+ 169. http://www.bat.org/help/skills.php?str=parry
+ 170. http://www.bat.org/help/skills.php?str=rescue
+ 171. http://www.bat.org/help/skills.php?str=tempt
+ 172. http://www.bat.org/help/skills.php?str=alertness
+ 173. http://www.bat.org/help/skills.php?str=attack
+ 174. http://www.bat.org/help/skills.php?str=baptize
+ 175. http://www.bat.org/help/skills.php?str=bash
+ 176. http://www.bat.org/help/skills.php?str=bludgeons
+ 177. http://www.bat.org/help/skills.php?str=combat_sense
+ 178. http://www.bat.org/help/skills.php?str=consider
+ 179. http://www.bat.org/help/skills.php?str=controlled_panic
+ 180. http://www.bat.org/help/skills.php?str=discipline
+ 181. http://www.bat.org/help/skills.php?str=dodge
+ 182. http://www.bat.org/help/skills.php?str=endurance
+ 183. http://www.bat.org/help/skills.php?str=first_aid
+ 184. http://www.bat.org/help/skills.php?str=hiking
+ 185. http://www.bat.org/help/skills.php?str=leadership
+ 186. http://www.bat.org/help/skills.php?str=parry
+ 187. http://www.bat.org/help/skills.php?str=rescue
+ 188. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 189. http://www.bat.org/help/skills.php?str=swim
+ 190. http://www.bat.org/help/skills.php?str=tempt
+ 191. http://www.bat.org/help/skills.php?str=attack
+ 192. http://www.bat.org/help/skills.php?str=baptize
+ 193. http://www.bat.org/help/skills.php?str=bludgeons
+ 194. http://www.bat.org/help/skills.php?str=discipline
+ 195. http://www.bat.org/help/skills.php?str=dodge
+ 196. http://www.bat.org/help/skills.php?str=first_aid
+ 197. http://www.bat.org/help/skills.php?str=parry
+ 198. http://www.bat.org/help/skills.php?str=rescue
+ 199. http://www.bat.org/help/skills.php?str=tempt
+ 200. http://www.bat.org/help/skills.php?str=alertness
+ 201. http://www.bat.org/help/skills.php?str=attack
+ 202. http://www.bat.org/help/skills.php?str=baptize
+ 203. http://www.bat.org/help/skills.php?str=bash
+ 204. http://www.bat.org/help/skills.php?str=bludgeons
+ 205. http://www.bat.org/help/skills.php?str=combat_sense
+ 206. http://www.bat.org/help/skills.php?str=consider
+ 207. http://www.bat.org/help/skills.php?str=controlled_panic
+ 208. http://www.bat.org/help/skills.php?str=discipline
+ 209. http://www.bat.org/help/skills.php?str=dodge
+ 210. http://www.bat.org/help/skills.php?str=endurance
+ 211. http://www.bat.org/help/skills.php?str=first_aid
+ 212. http://www.bat.org/help/skills.php?str=hiking
+ 213. http://www.bat.org/help/skills.php?str=leadership
+ 214. http://www.bat.org/help/skills.php?str=parry
+ 215. http://www.bat.org/help/skills.php?str=rescue
+ 216. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 217. http://www.bat.org/help/skills.php?str=swim
+ 218. http://www.bat.org/help/skills.php?str=tempt
+ 219. http://www.bat.org/help/skills.php?str=attack
+ 220. http://www.bat.org/help/skills.php?str=baptize
+ 221. http://www.bat.org/help/skills.php?str=bludgeons
+ 222. http://www.bat.org/help/skills.php?str=discipline
+ 223. http://www.bat.org/help/skills.php?str=dodge
+ 224. http://www.bat.org/help/skills.php?str=first_aid
+ 225. http://www.bat.org/help/skills.php?str=parry
+ 226. http://www.bat.org/help/skills.php?str=rescue
+ 227. http://www.bat.org/help/skills.php?str=tempt
+ 228. http://www.bat.org/help/skills.php?str=alertness
+ 229. http://www.bat.org/help/skills.php?str=attack
+ 230. http://www.bat.org/help/skills.php?str=baptize
+ 231. http://www.bat.org/help/skills.php?str=bash
+ 232. http://www.bat.org/help/skills.php?str=bludgeons
+ 233. http://www.bat.org/help/skills.php?str=combat_sense
+ 234. http://www.bat.org/help/skills.php?str=consider
+ 235. http://www.bat.org/help/skills.php?str=controlled_panic
+ 236. http://www.bat.org/help/skills.php?str=discipline
+ 237. http://www.bat.org/help/skills.php?str=dodge
+ 238. http://www.bat.org/help/skills.php?str=endurance
+ 239. http://www.bat.org/help/skills.php?str=first_aid
+ 240. http://www.bat.org/help/skills.php?str=hiking
+ 241. http://www.bat.org/help/skills.php?str=leadership
+ 242. http://www.bat.org/help/skills.php?str=parry
+ 243. http://www.bat.org/help/skills.php?str=rescue
+ 244. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 245. http://www.bat.org/help/skills.php?str=swim
+ 246. http://www.bat.org/help/skills.php?str=tempt
+ 247. http://www.bat.org/help/skills.php?str=attack
+ 248. http://www.bat.org/help/skills.php?str=baptize
+ 249. http://www.bat.org/help/skills.php?str=bludgeons
+ 250. http://www.bat.org/help/skills.php?str=discipline
+ 251. http://www.bat.org/help/skills.php?str=dodge
+ 252. http://www.bat.org/help/skills.php?str=first_aid
+ 253. http://www.bat.org/help/skills.php?str=parry
+ 254. http://www.bat.org/help/skills.php?str=rescue
+ 255. http://www.bat.org/help/skills.php?str=tempt
+ 256. http://www.bat.org/help/skills.php?str=alertness
+ 257. http://www.bat.org/help/skills.php?str=attack
+ 258. http://www.bat.org/help/skills.php?str=baptize
+ 259. http://www.bat.org/help/skills.php?str=bash
+ 260. http://www.bat.org/help/skills.php?str=bless
+ 261. http://www.bat.org/help/skills.php?str=prayer
+ 262. http://www.bat.org/help/skills.php?str=bludgeons
+ 263. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 264. http://www.bat.org/help/skills.php?str=cast_generic
+ 265. http://www.bat.org/help/skills.php?str=cast_protection
+ 266. http://www.bat.org/help/skills.php?str=cast_heal
+ 267. http://www.bat.org/help/skills.php?str=cast_information
+ 268. http://www.bat.org/help/skills.php?str=cast_special
+ 269. http://www.bat.org/help/skills.php?str=combat_sense
+ 270. http://www.bat.org/help/skills.php?str=consider
+ 271. http://www.bat.org/help/skills.php?str=controlled_panic
+ 272. http://www.bat.org/help/skills.php?str=discipline
+ 273. http://www.bat.org/help/skills.php?str=dodge
+ 274. http://www.bat.org/help/skills.php?str=endurance
+ 275. http://www.bat.org/help/skills.php?str=first_aid
+ 276. http://www.bat.org/help/skills.php?str=hiking
+ 277. http://www.bat.org/help/skills.php?str=leadership
+ 278. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 279. http://www.bat.org/help/skills.php?str=parry
+ 280. http://www.bat.org/help/skills.php?str=rescue
+ 281. http://www.bat.org/help/skills.php?str=shield_bash
+ 282. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 283. http://www.bat.org/help/skills.php?str=swim
+ 284. http://www.bat.org/help/skills.php?str=tempt
+ 285. http://www.bat.org/help/skills.php?str=throw_weight
+ 286. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 287. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 288. http://www.bat.org/help/spells.php?str=remove_poison
+ 289. http://www.bat.org/help/spells.php?str=detect_alignment
+ 290. http://www.bat.org/help/spells.php?str=bless_armament
+ 291. http://www.bat.org/help/spells.php?str=light
+ 292. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 293. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 294. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 295. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 296. http://www.bat.org/help/skills.php?str=holy_warfare
+ 297. http://www.bat.org/help/skills.php?str=attack
+ 298. http://www.bat.org/help/skills.php?str=baptize
+ 299. http://www.bat.org/help/skills.php?str=bless
+ 300. http://www.bat.org/help/skills.php?str=prayer
+ 301. http://www.bat.org/help/skills.php?str=bludgeons
+ 302. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 303. http://www.bat.org/help/skills.php?str=cast_generic
+ 304. http://www.bat.org/help/skills.php?str=cast_protection
+ 305. http://www.bat.org/help/skills.php?str=cast_heal
+ 306. http://www.bat.org/help/skills.php?str=cast_special
+ 307. http://www.bat.org/help/skills.php?str=discipline
+ 308. http://www.bat.org/help/skills.php?str=dodge
+ 309. http://www.bat.org/help/skills.php?str=first_aid
+ 310. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 311. http://www.bat.org/help/skills.php?str=parry
+ 312. http://www.bat.org/help/skills.php?str=rescue
+ 313. http://www.bat.org/help/skills.php?str=tempt
+ 314. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 315. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 316. http://www.bat.org/help/spells.php?str=remove_poison
+ 317. http://www.bat.org/help/spells.php?str=detect_alignment
+ 318. http://www.bat.org/help/spells.php?str=bless_armament
+ 319. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 320. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 321. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 322. http://www.bat.org/help/skills.php?str=alertness
+ 323. http://www.bat.org/help/skills.php?str=attack
+ 324. http://www.bat.org/help/skills.php?str=baptize
+ 325. http://www.bat.org/help/skills.php?str=bash
+ 326. http://www.bat.org/help/skills.php?str=bless
+ 327. http://www.bat.org/help/skills.php?str=prayer
+ 328. http://www.bat.org/help/skills.php?str=bludgeons
+ 329. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 330. http://www.bat.org/help/skills.php?str=cast_generic
+ 331. http://www.bat.org/help/skills.php?str=cast_protection
+ 332. http://www.bat.org/help/skills.php?str=cast_heal
+ 333. http://www.bat.org/help/skills.php?str=cast_information
+ 334. http://www.bat.org/help/skills.php?str=cast_special
+ 335. http://www.bat.org/help/skills.php?str=combat_sense
+ 336. http://www.bat.org/help/skills.php?str=consider
+ 337. http://www.bat.org/help/skills.php?str=controlled_panic
+ 338. http://www.bat.org/help/skills.php?str=discipline
+ 339. http://www.bat.org/help/skills.php?str=dodge
+ 340. http://www.bat.org/help/skills.php?str=endurance
+ 341. http://www.bat.org/help/skills.php?str=first_aid
+ 342. http://www.bat.org/help/skills.php?str=hiking
+ 343. http://www.bat.org/help/skills.php?str=kick
+ 344. http://www.bat.org/help/skills.php?str=leadership
+ 345. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 346. http://www.bat.org/help/skills.php?str=parry
+ 347. http://www.bat.org/help/skills.php?str=rescue
+ 348. http://www.bat.org/help/skills.php?str=shield_bash
+ 349. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 350. http://www.bat.org/help/skills.php?str=swim
+ 351. http://www.bat.org/help/skills.php?str=tempt
+ 352. http://www.bat.org/help/skills.php?str=throw_weight
+ 353. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 354. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 355. http://www.bat.org/help/spells.php?str=remove_poison
+ 356. http://www.bat.org/help/spells.php?str=detect_alignment
+ 357. http://www.bat.org/help/spells.php?str=bless_armament
+ 358. http://www.bat.org/help/spells.php?str=light
+ 359. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 360. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 361. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 362. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 363. http://www.bat.org/help/skills.php?str=holy_warfare
+ 364. http://www.bat.org/help/skills.php?str=attack
+ 365. http://www.bat.org/help/skills.php?str=baptize
+ 366. http://www.bat.org/help/skills.php?str=bless
+ 367. http://www.bat.org/help/skills.php?str=prayer
+ 368. http://www.bat.org/help/skills.php?str=bludgeons
+ 369. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 370. http://www.bat.org/help/skills.php?str=cast_generic
+ 371. http://www.bat.org/help/skills.php?str=cast_protection
+ 372. http://www.bat.org/help/skills.php?str=cast_heal
+ 373. http://www.bat.org/help/skills.php?str=cast_special
+ 374. http://www.bat.org/help/skills.php?str=discipline
+ 375. http://www.bat.org/help/skills.php?str=dodge
+ 376. http://www.bat.org/help/skills.php?str=first_aid
+ 377. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 378. http://www.bat.org/help/skills.php?str=parry
+ 379. http://www.bat.org/help/skills.php?str=rescue
+ 380. http://www.bat.org/help/skills.php?str=tempt
+ 381. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 382. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 383. http://www.bat.org/help/spells.php?str=remove_poison
+ 384. http://www.bat.org/help/spells.php?str=detect_alignment
+ 385. http://www.bat.org/help/spells.php?str=bless_armament
+ 386. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 387. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 388. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 389. http://www.bat.org/help/skills.php?str=alertness
+ 390. http://www.bat.org/help/skills.php?str=attack
+ 391. http://www.bat.org/help/skills.php?str=baptize
+ 392. http://www.bat.org/help/skills.php?str=bash
+ 393. http://www.bat.org/help/skills.php?str=bless
+ 394. http://www.bat.org/help/skills.php?str=prayer
+ 395. http://www.bat.org/help/skills.php?str=bludgeons
+ 396. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 397. http://www.bat.org/help/skills.php?str=cast_generic
+ 398. http://www.bat.org/help/skills.php?str=cast_protection
+ 399. http://www.bat.org/help/skills.php?str=cast_heal
+ 400. http://www.bat.org/help/skills.php?str=cast_information
+ 401. http://www.bat.org/help/skills.php?str=cast_special
+ 402. http://www.bat.org/help/skills.php?str=combat_sense
+ 403. http://www.bat.org/help/skills.php?str=consider
+ 404. http://www.bat.org/help/skills.php?str=controlled_panic
+ 405. http://www.bat.org/help/skills.php?str=discipline
+ 406. http://www.bat.org/help/skills.php?str=dodge
+ 407. http://www.bat.org/help/skills.php?str=endurance
+ 408. http://www.bat.org/help/skills.php?str=first_aid
+ 409. http://www.bat.org/help/skills.php?str=hiking
+ 410. http://www.bat.org/help/skills.php?str=kick
+ 411. http://www.bat.org/help/skills.php?str=leadership
+ 412. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 413. http://www.bat.org/help/skills.php?str=parry
+ 414. http://www.bat.org/help/skills.php?str=rescue
+ 415. http://www.bat.org/help/skills.php?str=shield_bash
+ 416. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 417. http://www.bat.org/help/skills.php?str=swim
+ 418. http://www.bat.org/help/skills.php?str=tempt
+ 419. http://www.bat.org/help/skills.php?str=throw_weight
+ 420. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 421. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 422. http://www.bat.org/help/spells.php?str=remove_poison
+ 423. http://www.bat.org/help/spells.php?str=detect_alignment
+ 424. http://www.bat.org/help/spells.php?str=bless_armament
+ 425. http://www.bat.org/help/spells.php?str=light
+ 426. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 427. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 428. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 429. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 430. http://www.bat.org/help/skills.php?str=holy_warfare
+ 431. http://www.bat.org/help/skills.php?str=attack
+ 432. http://www.bat.org/help/skills.php?str=baptize
+ 433. http://www.bat.org/help/skills.php?str=bless
+ 434. http://www.bat.org/help/skills.php?str=prayer
+ 435. http://www.bat.org/help/skills.php?str=bludgeons
+ 436. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 437. http://www.bat.org/help/skills.php?str=cast_generic
+ 438. http://www.bat.org/help/skills.php?str=cast_protection
+ 439. http://www.bat.org/help/skills.php?str=cast_heal
+ 440. http://www.bat.org/help/skills.php?str=cast_special
+ 441. http://www.bat.org/help/skills.php?str=discipline
+ 442. http://www.bat.org/help/skills.php?str=dodge
+ 443. http://www.bat.org/help/skills.php?str=first_aid
+ 444. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 445. http://www.bat.org/help/skills.php?str=parry
+ 446. http://www.bat.org/help/skills.php?str=rescue
+ 447. http://www.bat.org/help/skills.php?str=tempt
+ 448. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 449. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 450. http://www.bat.org/help/spells.php?str=remove_poison
+ 451. http://www.bat.org/help/spells.php?str=detect_alignment
+ 452. http://www.bat.org/help/spells.php?str=bless_armament
+ 453. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 454. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 455. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 456. http://www.bat.org/help/skills.php?str=alertness
+ 457. http://www.bat.org/help/skills.php?str=attack
+ 458. http://www.bat.org/help/skills.php?str=baptize
+ 459. http://www.bat.org/help/skills.php?str=bash
+ 460. http://www.bat.org/help/skills.php?str=bless
+ 461. http://www.bat.org/help/skills.php?str=prayer
+ 462. http://www.bat.org/help/skills.php?str=bludgeons
+ 463. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 464. http://www.bat.org/help/skills.php?str=cast_generic
+ 465. http://www.bat.org/help/skills.php?str=cast_protection
+ 466. http://www.bat.org/help/skills.php?str=cast_heal
+ 467. http://www.bat.org/help/skills.php?str=cast_information
+ 468. http://www.bat.org/help/skills.php?str=cast_special
+ 469. http://www.bat.org/help/skills.php?str=combat_sense
+ 470. http://www.bat.org/help/skills.php?str=consider
+ 471. http://www.bat.org/help/skills.php?str=controlled_panic
+ 472. http://www.bat.org/help/skills.php?str=discipline
+ 473. http://www.bat.org/help/skills.php?str=dodge
+ 474. http://www.bat.org/help/skills.php?str=endurance
+ 475. http://www.bat.org/help/skills.php?str=first_aid
+ 476. http://www.bat.org/help/skills.php?str=hiking
+ 477. http://www.bat.org/help/skills.php?str=kick
+ 478. http://www.bat.org/help/skills.php?str=leadership
+ 479. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 480. http://www.bat.org/help/skills.php?str=parry
+ 481. http://www.bat.org/help/skills.php?str=rescue
+ 482. http://www.bat.org/help/skills.php?str=shield_bash
+ 483. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 484. http://www.bat.org/help/skills.php?str=swim
+ 485. http://www.bat.org/help/skills.php?str=tempt
+ 486. http://www.bat.org/help/skills.php?str=throw_weight
+ 487. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 488. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 489. http://www.bat.org/help/spells.php?str=remove_poison
+ 490. http://www.bat.org/help/spells.php?str=detect_alignment
+ 491. http://www.bat.org/help/spells.php?str=bless_armament
+ 492. http://www.bat.org/help/spells.php?str=light
+ 493. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 494. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 495. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 496. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 497. http://www.bat.org/help/skills.php?str=holy_warfare
+ 498. http://www.bat.org/help/skills.php?str=attack
+ 499. http://www.bat.org/help/skills.php?str=baptize
+ 500. http://www.bat.org/help/skills.php?str=bless
+ 501. http://www.bat.org/help/skills.php?str=prayer
+ 502. http://www.bat.org/help/skills.php?str=bludgeons
+ 503. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 504. http://www.bat.org/help/skills.php?str=cast_generic
+ 505. http://www.bat.org/help/skills.php?str=cast_protection
+ 506. http://www.bat.org/help/skills.php?str=cast_heal
+ 507. http://www.bat.org/help/skills.php?str=cast_special
+ 508. http://www.bat.org/help/skills.php?str=discipline
+ 509. http://www.bat.org/help/skills.php?str=dodge
+ 510. http://www.bat.org/help/skills.php?str=first_aid
+ 511. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 512. http://www.bat.org/help/skills.php?str=parry
+ 513. http://www.bat.org/help/skills.php?str=rescue
+ 514. http://www.bat.org/help/skills.php?str=tempt
+ 515. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 516. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 517. http://www.bat.org/help/spells.php?str=remove_poison
+ 518. http://www.bat.org/help/spells.php?str=detect_alignment
+ 519. http://www.bat.org/help/spells.php?str=bless_armament
+ 520. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 521. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 522. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 523. http://www.bat.org/help/skills.php?str=alertness
+ 524. http://www.bat.org/help/skills.php?str=attack
+ 525. http://www.bat.org/help/skills.php?str=baptize
+ 526. http://www.bat.org/help/skills.php?str=bash
+ 527. http://www.bat.org/help/skills.php?str=bless
+ 528. http://www.bat.org/help/skills.php?str=prayer
+ 529. http://www.bat.org/help/skills.php?str=bludgeons
+ 530. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 531. http://www.bat.org/help/skills.php?str=cast_generic
+ 532. http://www.bat.org/help/skills.php?str=cast_protection
+ 533. http://www.bat.org/help/skills.php?str=cast_heal
+ 534. http://www.bat.org/help/skills.php?str=cast_information
+ 535. http://www.bat.org/help/skills.php?str=cast_special
+ 536. http://www.bat.org/help/skills.php?str=combat_sense
+ 537. http://www.bat.org/help/skills.php?str=consider
+ 538. http://www.bat.org/help/skills.php?str=controlled_panic
+ 539. http://www.bat.org/help/skills.php?str=discipline
+ 540. http://www.bat.org/help/skills.php?str=dodge
+ 541. http://www.bat.org/help/skills.php?str=endurance
+ 542. http://www.bat.org/help/skills.php?str=first_aid
+ 543. http://www.bat.org/help/skills.php?str=hiking
+ 544. http://www.bat.org/help/skills.php?str=kick
+ 545. http://www.bat.org/help/skills.php?str=leadership
+ 546. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 547. http://www.bat.org/help/skills.php?str=parry
+ 548. http://www.bat.org/help/skills.php?str=rescue
+ 549. http://www.bat.org/help/skills.php?str=shield_bash
+ 550. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 551. http://www.bat.org/help/skills.php?str=swim
+ 552. http://www.bat.org/help/skills.php?str=tempt
+ 553. http://www.bat.org/help/skills.php?str=throw_weight
+ 554. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 555. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 556. http://www.bat.org/help/spells.php?str=remove_poison
+ 557. http://www.bat.org/help/spells.php?str=detect_alignment
+ 558. http://www.bat.org/help/spells.php?str=bless_armament
+ 559. http://www.bat.org/help/spells.php?str=light
+ 560. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 561. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 562. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 563. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 564. http://www.bat.org/help/skills.php?str=holy_warfare
+ 565. http://www.bat.org/help/skills.php?str=attack
+ 566. http://www.bat.org/help/skills.php?str=baptize
+ 567. http://www.bat.org/help/skills.php?str=bless
+ 568. http://www.bat.org/help/skills.php?str=prayer
+ 569. http://www.bat.org/help/skills.php?str=bludgeons
+ 570. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 571. http://www.bat.org/help/skills.php?str=cast_generic
+ 572. http://www.bat.org/help/skills.php?str=cast_protection
+ 573. http://www.bat.org/help/skills.php?str=cast_heal
+ 574. http://www.bat.org/help/skills.php?str=cast_special
+ 575. http://www.bat.org/help/skills.php?str=discipline
+ 576. http://www.bat.org/help/skills.php?str=dodge
+ 577. http://www.bat.org/help/skills.php?str=first_aid
+ 578. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 579. http://www.bat.org/help/skills.php?str=parry
+ 580. http://www.bat.org/help/skills.php?str=rescue
+ 581. http://www.bat.org/help/skills.php?str=tempt
+ 582. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 583. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 584. http://www.bat.org/help/spells.php?str=remove_poison
+ 585. http://www.bat.org/help/spells.php?str=detect_alignment
+ 586. http://www.bat.org/help/spells.php?str=bless_armament
+ 587. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 588. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 589. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 590. http://www.bat.org/help/skills.php?str=alertness
+ 591. http://www.bat.org/help/skills.php?str=attack
+ 592. http://www.bat.org/help/skills.php?str=baptize
+ 593. http://www.bat.org/help/skills.php?str=bash
+ 594. http://www.bat.org/help/skills.php?str=bless
+ 595. http://www.bat.org/help/skills.php?str=prayer
+ 596. http://www.bat.org/help/skills.php?str=bludgeons
+ 597. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 598. http://www.bat.org/help/skills.php?str=cast_generic
+ 599. http://www.bat.org/help/skills.php?str=cast_protection
+ 600. http://www.bat.org/help/skills.php?str=cast_heal
+ 601. http://www.bat.org/help/skills.php?str=cast_information
+ 602. http://www.bat.org/help/skills.php?str=cast_special
+ 603. http://www.bat.org/help/skills.php?str=combat_sense
+ 604. http://www.bat.org/help/skills.php?str=consider
+ 605. http://www.bat.org/help/skills.php?str=controlled_panic
+ 606. http://www.bat.org/help/skills.php?str=discipline
+ 607. http://www.bat.org/help/skills.php?str=dodge
+ 608. http://www.bat.org/help/skills.php?str=endurance
+ 609. http://www.bat.org/help/skills.php?str=first_aid
+ 610. http://www.bat.org/help/skills.php?str=hiking
+ 611. http://www.bat.org/help/skills.php?str=kick
+ 612. http://www.bat.org/help/skills.php?str=leadership
+ 613. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 614. http://www.bat.org/help/skills.php?str=parry
+ 615. http://www.bat.org/help/skills.php?str=rescue
+ 616. http://www.bat.org/help/skills.php?str=shield_bash
+ 617. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 618. http://www.bat.org/help/skills.php?str=swim
+ 619. http://www.bat.org/help/skills.php?str=tempt
+ 620. http://www.bat.org/help/skills.php?str=throw_weight
+ 621. http://www.bat.org/help/skills.php?str=holy_smite
+ 622. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 623. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 624. http://www.bat.org/help/spells.php?str=remove_poison
+ 625. http://www.bat.org/help/spells.php?str=detect_alignment
+ 626. http://www.bat.org/help/spells.php?str=bless_armament
+ 627. http://www.bat.org/help/spells.php?str=light
+ 628. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 629. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 630. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 631. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 632. http://www.bat.org/help/skills.php?str=holy_warfare
+ 633. http://www.bat.org/help/skills.php?str=bless
+ 634. http://www.bat.org/help/skills.php?str=prayer
+ 635. http://www.bat.org/help/skills.php?str=bludgeons
+ 636. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 637. http://www.bat.org/help/skills.php?str=cast_generic
+ 638. http://www.bat.org/help/skills.php?str=cast_protection
+ 639. http://www.bat.org/help/skills.php?str=cast_heal
+ 640. http://www.bat.org/help/skills.php?str=cast_special
+ 641. http://www.bat.org/help/skills.php?str=discipline
+ 642. http://www.bat.org/help/skills.php?str=dodge
+ 643. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 644. http://www.bat.org/help/skills.php?str=parry
+ 645. http://www.bat.org/help/skills.php?str=rescue
+ 646. http://www.bat.org/help/skills.php?str=tempt
+ 647. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 648. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 649. http://www.bat.org/help/spells.php?str=remove_poison
+ 650. http://www.bat.org/help/spells.php?str=detect_alignment
+ 651. http://www.bat.org/help/spells.php?str=bless_armament
+ 652. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 653. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 654. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 655. http://www.bat.org/help/skills.php?str=alertness
+ 656. http://www.bat.org/help/skills.php?str=bless
+ 657. http://www.bat.org/help/skills.php?str=prayer
+ 658. http://www.bat.org/help/skills.php?str=bludgeons
+ 659. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 660. http://www.bat.org/help/skills.php?str=cast_generic
+ 661. http://www.bat.org/help/skills.php?str=cast_protection
+ 662. http://www.bat.org/help/skills.php?str=cast_heal
+ 663. http://www.bat.org/help/skills.php?str=cast_information
+ 664. http://www.bat.org/help/skills.php?str=cast_special
+ 665. http://www.bat.org/help/skills.php?str=combat_sense
+ 666. http://www.bat.org/help/skills.php?str=controlled_panic
+ 667. http://www.bat.org/help/skills.php?str=discipline
+ 668. http://www.bat.org/help/skills.php?str=dodge
+ 669. http://www.bat.org/help/skills.php?str=endurance
+ 670. http://www.bat.org/help/skills.php?str=hiking
+ 671. http://www.bat.org/help/skills.php?str=kick
+ 672. http://www.bat.org/help/skills.php?str=leadership
+ 673. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 674. http://www.bat.org/help/skills.php?str=parry
+ 675. http://www.bat.org/help/skills.php?str=rescue
+ 676. http://www.bat.org/help/skills.php?str=shield_bash
+ 677. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 678. http://www.bat.org/help/skills.php?str=swim
+ 679. http://www.bat.org/help/skills.php?str=tempt
+ 680. http://www.bat.org/help/skills.php?str=throw_weight
+ 681. http://www.bat.org/help/skills.php?str=holy_smite
+ 682. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 683. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 684. http://www.bat.org/help/spells.php?str=remove_poison
+ 685. http://www.bat.org/help/spells.php?str=detect_alignment
+ 686. http://www.bat.org/help/spells.php?str=bless_armament
+ 687. http://www.bat.org/help/spells.php?str=light
+ 688. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 689. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 690. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 691. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 692. http://www.bat.org/help/skills.php?str=holy_warfare
+ 693. http://www.bat.org/help/skills.php?str=bless
+ 694. http://www.bat.org/help/skills.php?str=prayer
+ 695. http://www.bat.org/help/skills.php?str=bludgeons
+ 696. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 697. http://www.bat.org/help/skills.php?str=cast_generic
+ 698. http://www.bat.org/help/skills.php?str=cast_protection
+ 699. http://www.bat.org/help/skills.php?str=cast_heal
+ 700. http://www.bat.org/help/skills.php?str=cast_special
+ 701. http://www.bat.org/help/skills.php?str=discipline
+ 702. http://www.bat.org/help/skills.php?str=dodge
+ 703. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 704. http://www.bat.org/help/skills.php?str=parry
+ 705. http://www.bat.org/help/skills.php?str=rescue
+ 706. http://www.bat.org/help/skills.php?str=tempt
+ 707. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 708. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 709. http://www.bat.org/help/spells.php?str=remove_poison
+ 710. http://www.bat.org/help/spells.php?str=detect_alignment
+ 711. http://www.bat.org/help/spells.php?str=bless_armament
+ 712. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 713. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 714. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 715. http://www.bat.org/help/skills.php?str=alertness
+ 716. http://www.bat.org/help/skills.php?str=bless
+ 717. http://www.bat.org/help/skills.php?str=prayer
+ 718. http://www.bat.org/help/skills.php?str=bludgeons
+ 719. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 720. http://www.bat.org/help/skills.php?str=cast_generic
+ 721. http://www.bat.org/help/skills.php?str=cast_protection
+ 722. http://www.bat.org/help/skills.php?str=cast_heal
+ 723. http://www.bat.org/help/skills.php?str=cast_information
+ 724. http://www.bat.org/help/skills.php?str=cast_special
+ 725. http://www.bat.org/help/skills.php?str=combat_sense
+ 726. http://www.bat.org/help/skills.php?str=controlled_panic
+ 727. http://www.bat.org/help/skills.php?str=discipline
+ 728. http://www.bat.org/help/skills.php?str=dodge
+ 729. http://www.bat.org/help/skills.php?str=endurance
+ 730. http://www.bat.org/help/skills.php?str=hiking
+ 731. http://www.bat.org/help/skills.php?str=kick
+ 732. http://www.bat.org/help/skills.php?str=leadership
+ 733. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 734. http://www.bat.org/help/skills.php?str=parry
+ 735. http://www.bat.org/help/skills.php?str=rescue
+ 736. http://www.bat.org/help/skills.php?str=shield_bash
+ 737. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 738. http://www.bat.org/help/skills.php?str=swim
+ 739. http://www.bat.org/help/skills.php?str=tempt
+ 740. http://www.bat.org/help/skills.php?str=throw_weight
+ 741. http://www.bat.org/help/skills.php?str=holy_smite
+ 742. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 743. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 744. http://www.bat.org/help/spells.php?str=remove_poison
+ 745. http://www.bat.org/help/spells.php?str=detect_alignment
+ 746. http://www.bat.org/help/spells.php?str=bless_armament
+ 747. http://www.bat.org/help/spells.php?str=light
+ 748. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 749. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 750. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 751. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 752. http://www.bat.org/help/skills.php?str=holy_warfare
+ 753. http://www.bat.org/help/skills.php?str=bless
+ 754. http://www.bat.org/help/skills.php?str=prayer
+ 755. http://www.bat.org/help/skills.php?str=bludgeons
+ 756. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 757. http://www.bat.org/help/skills.php?str=cast_generic
+ 758. http://www.bat.org/help/skills.php?str=cast_protection
+ 759. http://www.bat.org/help/skills.php?str=cast_heal
+ 760. http://www.bat.org/help/skills.php?str=cast_special
+ 761. http://www.bat.org/help/skills.php?str=discipline
+ 762. http://www.bat.org/help/skills.php?str=dodge
+ 763. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 764. http://www.bat.org/help/skills.php?str=parry
+ 765. http://www.bat.org/help/skills.php?str=rescue
+ 766. http://www.bat.org/help/skills.php?str=tempt
+ 767. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 768. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 769. http://www.bat.org/help/spells.php?str=remove_poison
+ 770. http://www.bat.org/help/spells.php?str=detect_alignment
+ 771. http://www.bat.org/help/spells.php?str=bless_armament
+ 772. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 773. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 774. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 775. http://www.bat.org/help/skills.php?str=alertness
+ 776. http://www.bat.org/help/skills.php?str=bless
+ 777. http://www.bat.org/help/skills.php?str=prayer
+ 778. http://www.bat.org/help/skills.php?str=bludgeons
+ 779. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 780. http://www.bat.org/help/skills.php?str=cast_generic
+ 781. http://www.bat.org/help/skills.php?str=cast_protection
+ 782. http://www.bat.org/help/skills.php?str=cast_heal
+ 783. http://www.bat.org/help/skills.php?str=cast_information
+ 784. http://www.bat.org/help/skills.php?str=cast_special
+ 785. http://www.bat.org/help/skills.php?str=combat_sense
+ 786. http://www.bat.org/help/skills.php?str=controlled_panic
+ 787. http://www.bat.org/help/skills.php?str=discipline
+ 788. http://www.bat.org/help/skills.php?str=dodge
+ 789. http://www.bat.org/help/skills.php?str=endurance
+ 790. http://www.bat.org/help/skills.php?str=hiking
+ 791. http://www.bat.org/help/skills.php?str=kick
+ 792. http://www.bat.org/help/skills.php?str=leadership
+ 793. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 794. http://www.bat.org/help/skills.php?str=parry
+ 795. http://www.bat.org/help/skills.php?str=rescue
+ 796. http://www.bat.org/help/skills.php?str=shield_bash
+ 797. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 798. http://www.bat.org/help/skills.php?str=swim
+ 799. http://www.bat.org/help/skills.php?str=tempt
+ 800. http://www.bat.org/help/skills.php?str=throw_weight
+ 801. http://www.bat.org/help/skills.php?str=holy_smite
+ 802. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 803. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 804. http://www.bat.org/help/spells.php?str=remove_poison
+ 805. http://www.bat.org/help/spells.php?str=detect_alignment
+ 806. http://www.bat.org/help/spells.php?str=bless_armament
+ 807. http://www.bat.org/help/spells.php?str=light
+ 808. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 809. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 810. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 811. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 812. http://www.bat.org/help/skills.php?str=holy_warfare
+ 813. http://www.bat.org/help/skills.php?str=bless
+ 814. http://www.bat.org/help/skills.php?str=prayer
+ 815. http://www.bat.org/help/skills.php?str=bludgeons
+ 816. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 817. http://www.bat.org/help/skills.php?str=cast_generic
+ 818. http://www.bat.org/help/skills.php?str=cast_protection
+ 819. http://www.bat.org/help/skills.php?str=cast_heal
+ 820. http://www.bat.org/help/skills.php?str=cast_special
+ 821. http://www.bat.org/help/skills.php?str=discipline
+ 822. http://www.bat.org/help/skills.php?str=dodge
+ 823. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 824. http://www.bat.org/help/skills.php?str=parry
+ 825. http://www.bat.org/help/skills.php?str=rescue
+ 826. http://www.bat.org/help/skills.php?str=tempt
+ 827. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 828. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 829. http://www.bat.org/help/spells.php?str=remove_poison
+ 830. http://www.bat.org/help/spells.php?str=detect_alignment
+ 831. http://www.bat.org/help/spells.php?str=bless_armament
+ 832. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 833. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 834. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 835. http://www.bat.org/help/skills.php?str=alertness
+ 836. http://www.bat.org/help/skills.php?str=bless
+ 837. http://www.bat.org/help/skills.php?str=prayer
+ 838. http://www.bat.org/help/skills.php?str=bludgeons
+ 839. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 840. http://www.bat.org/help/skills.php?str=cast_generic
+ 841. http://www.bat.org/help/skills.php?str=cast_protection
+ 842. http://www.bat.org/help/skills.php?str=cast_heal
+ 843. http://www.bat.org/help/skills.php?str=cast_information
+ 844. http://www.bat.org/help/skills.php?str=cast_special
+ 845. http://www.bat.org/help/skills.php?str=combat_sense
+ 846. http://www.bat.org/help/skills.php?str=controlled_panic
+ 847. http://www.bat.org/help/skills.php?str=discipline
+ 848. http://www.bat.org/help/skills.php?str=dodge
+ 849. http://www.bat.org/help/skills.php?str=endurance
+ 850. http://www.bat.org/help/skills.php?str=hiking
+ 851. http://www.bat.org/help/skills.php?str=kick
+ 852. http://www.bat.org/help/skills.php?str=leadership
+ 853. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 854. http://www.bat.org/help/skills.php?str=parry
+ 855. http://www.bat.org/help/skills.php?str=rescue
+ 856. http://www.bat.org/help/skills.php?str=shield_bash
+ 857. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 858. http://www.bat.org/help/skills.php?str=swim
+ 859. http://www.bat.org/help/skills.php?str=tempt
+ 860. http://www.bat.org/help/skills.php?str=throw_weight
+ 861. http://www.bat.org/help/skills.php?str=holy_smite
+ 862. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 863. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 864. http://www.bat.org/help/spells.php?str=remove_poison
+ 865. http://www.bat.org/help/spells.php?str=detect_alignment
+ 866. http://www.bat.org/help/spells.php?str=bless_armament
+ 867. http://www.bat.org/help/spells.php?str=light
+ 868. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 869. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 870. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 871. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 872. http://www.bat.org/help/skills.php?str=holy_warfare
+ 873. http://www.bat.org/help/skills.php?str=bless
+ 874. http://www.bat.org/help/skills.php?str=prayer
+ 875. http://www.bat.org/help/skills.php?str=bludgeons
+ 876. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 877. http://www.bat.org/help/skills.php?str=cast_generic
+ 878. http://www.bat.org/help/skills.php?str=cast_protection
+ 879. http://www.bat.org/help/skills.php?str=cast_heal
+ 880. http://www.bat.org/help/skills.php?str=cast_special
+ 881. http://www.bat.org/help/skills.php?str=discipline
+ 882. http://www.bat.org/help/skills.php?str=dodge
+ 883. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 884. http://www.bat.org/help/skills.php?str=parry
+ 885. http://www.bat.org/help/skills.php?str=rescue
+ 886. http://www.bat.org/help/skills.php?str=tempt
+ 887. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 888. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 889. http://www.bat.org/help/spells.php?str=remove_poison
+ 890. http://www.bat.org/help/spells.php?str=detect_alignment
+ 891. http://www.bat.org/help/spells.php?str=bless_armament
+ 892. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 893. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 894. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 895. http://www.bat.org/help/skills.php?str=alertness
+ 896. http://www.bat.org/help/skills.php?str=bless
+ 897. http://www.bat.org/help/skills.php?str=prayer
+ 898. http://www.bat.org/help/skills.php?str=bludgeons
+ 899. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 900. http://www.bat.org/help/skills.php?str=cast_generic
+ 901. http://www.bat.org/help/skills.php?str=cast_protection
+ 902. http://www.bat.org/help/skills.php?str=cast_heal
+ 903. http://www.bat.org/help/skills.php?str=cast_information
+ 904. http://www.bat.org/help/skills.php?str=cast_special
+ 905. http://www.bat.org/help/skills.php?str=combat_sense
+ 906. http://www.bat.org/help/skills.php?str=controlled_panic
+ 907. http://www.bat.org/help/skills.php?str=discipline
+ 908. http://www.bat.org/help/skills.php?str=dodge
+ 909. http://www.bat.org/help/skills.php?str=endurance
+ 910. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 911. http://www.bat.org/help/skills.php?str=hiking
+ 912. http://www.bat.org/help/skills.php?str=kick
+ 913. http://www.bat.org/help/skills.php?str=leadership
+ 914. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 915. http://www.bat.org/help/skills.php?str=parry
+ 916. http://www.bat.org/help/skills.php?str=pound
+ 917. http://www.bat.org/help/skills.php?str=rescue
+ 918. http://www.bat.org/help/skills.php?str=riposte
+ 919. http://www.bat.org/help/skills.php?str=shield_bash
+ 920. http://www.bat.org/help/skills.php?str=stun
+ 921. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 922. http://www.bat.org/help/skills.php?str=swim
+ 923. http://www.bat.org/help/skills.php?str=tempt
+ 924. http://www.bat.org/help/skills.php?str=throw_weight
+ 925. http://www.bat.org/help/skills.php?str=holy_smite
+ 926. http://www.bat.org/help/skills.php?str=holy_blaze
+ 927. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 928. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 929. http://www.bat.org/help/spells.php?str=remove_poison
+ 930. http://www.bat.org/help/spells.php?str=detect_alignment
+ 931. http://www.bat.org/help/spells.php?str=bless_armament
+ 932. http://www.bat.org/help/spells.php?str=light
+ 933. http://www.bat.org/help/skills.php?str=holy_strike
+ 934. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 935. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 936. http://www.bat.org/help/spells.php?str=blessing_of_faerwon
+ 937. http://www.bat.org/help/spells.php?str=divine_enhancement
+ 938. http://www.bat.org/help/skills.php?str=holy_warfare
+ 939. http://www.bat.org/help/skills.php?str=righteousness
+ 940. http://www.bat.org/help/skills.php?str=bless
+ 941. http://www.bat.org/help/skills.php?str=prayer
+ 942. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 943. http://www.bat.org/help/skills.php?str=cast_generic
+ 944. http://www.bat.org/help/skills.php?str=cast_protection
+ 945. http://www.bat.org/help/skills.php?str=cast_heal
+ 946. http://www.bat.org/help/skills.php?str=cast_special
+ 947. http://www.bat.org/help/skills.php?str=discipline
+ 948. http://www.bat.org/help/skills.php?str=dodge
+ 949. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 950. http://www.bat.org/help/skills.php?str=parry
+ 951. http://www.bat.org/help/skills.php?str=pound
+ 952. http://www.bat.org/help/skills.php?str=rescue
+ 953. http://www.bat.org/help/skills.php?str=tempt
+ 954. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 955. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 956. http://www.bat.org/help/spells.php?str=remove_poison
+ 957. http://www.bat.org/help/spells.php?str=detect_alignment
+ 958. http://www.bat.org/help/spells.php?str=bless_armament
+ 959. http://www.bat.org/help/skills.php?str=holy_strike
+ 960. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+ 961. http://www.bat.org/help/skills.php?str=alertness
+ 962. http://www.bat.org/help/skills.php?str=bless
+ 963. http://www.bat.org/help/skills.php?str=prayer
+ 964. http://www.bat.org/help/skills.php?str=burial_ceremony
+ 965. http://www.bat.org/help/skills.php?str=cast_generic
+ 966. http://www.bat.org/help/skills.php?str=cast_protection
+ 967. http://www.bat.org/help/skills.php?str=cast_heal
+ 968. http://www.bat.org/help/skills.php?str=cast_information
+ 969. http://www.bat.org/help/skills.php?str=cast_special
+ 970. http://www.bat.org/help/skills.php?str=combat_sense
+ 971. http://www.bat.org/help/skills.php?str=controlled_panic
+ 972. http://www.bat.org/help/skills.php?str=discipline
+ 973. http://www.bat.org/help/skills.php?str=dodge
+ 974. http://www.bat.org/help/skills.php?str=endurance
+ 975. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 976. http://www.bat.org/help/skills.php?str=hiking
+ 977. http://www.bat.org/help/skills.php?str=leadership
+ 978. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+ 979. http://www.bat.org/help/skills.php?str=parry
+ 980. http://www.bat.org/help/skills.php?str=pound
+ 981. http://www.bat.org/help/skills.php?str=rescue
+ 982. http://www.bat.org/help/skills.php?str=riposte
+ 983. http://www.bat.org/help/skills.php?str=shield_bash
+ 984. http://www.bat.org/help/skills.php?str=stun
+ 985. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 986. http://www.bat.org/help/skills.php?str=tempt
+ 987. http://www.bat.org/help/skills.php?str=throw_weight
+ 988. http://www.bat.org/help/skills.php?str=find_weakness
+ 989. http://www.bat.org/help/skills.php?str=holy_smite
+ 990. http://www.bat.org/help/skills.php?str=holy_blaze
+ 991. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+ 992. http://www.bat.org/help/spells.php?str=shield_of_faith
+ 993. http://www.bat.org/help/spells.php?str=laying_on_hands
+ 994. http://www.bat.org/help/spells.php?str=remove_poison
+ 995. http://www.bat.org/help/spells.php?str=detect_alignment
+ 996. http://www.bat.org/help/spells.php?str=bless_armament
+ 997. http://www.bat.org/help/spells.php?str=light
+ 998. http://www.bat.org/help/skills.php?str=holy_strike
+ 999. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1000. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1001. http://www.bat.org/help/skills.php?str=holy_warfare
+1002. http://www.bat.org/help/skills.php?str=righteousness
+1003. http://www.bat.org/help/skills.php?str=bless
+1004. http://www.bat.org/help/skills.php?str=prayer
+1005. http://www.bat.org/help/skills.php?str=burial_ceremony
+1006. http://www.bat.org/help/skills.php?str=cast_generic
+1007. http://www.bat.org/help/skills.php?str=cast_protection
+1008. http://www.bat.org/help/skills.php?str=cast_heal
+1009. http://www.bat.org/help/skills.php?str=cast_special
+1010. http://www.bat.org/help/skills.php?str=discipline
+1011. http://www.bat.org/help/skills.php?str=dodge
+1012. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1013. http://www.bat.org/help/skills.php?str=parry
+1014. http://www.bat.org/help/skills.php?str=pound
+1015. http://www.bat.org/help/skills.php?str=rescue
+1016. http://www.bat.org/help/skills.php?str=tempt
+1017. http://www.bat.org/help/spells.php?str=shield_of_faith
+1018. http://www.bat.org/help/spells.php?str=laying_on_hands
+1019. http://www.bat.org/help/spells.php?str=remove_poison
+1020. http://www.bat.org/help/spells.php?str=detect_alignment
+1021. http://www.bat.org/help/spells.php?str=bless_armament
+1022. http://www.bat.org/help/skills.php?str=holy_strike
+1023. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1024. http://www.bat.org/help/skills.php?str=alertness
+1025. http://www.bat.org/help/skills.php?str=bless
+1026. http://www.bat.org/help/skills.php?str=prayer
+1027. http://www.bat.org/help/skills.php?str=burial_ceremony
+1028. http://www.bat.org/help/skills.php?str=cast_generic
+1029. http://www.bat.org/help/skills.php?str=cast_protection
+1030. http://www.bat.org/help/skills.php?str=cast_heal
+1031. http://www.bat.org/help/skills.php?str=cast_information
+1032. http://www.bat.org/help/skills.php?str=cast_special
+1033. http://www.bat.org/help/skills.php?str=combat_sense
+1034. http://www.bat.org/help/skills.php?str=controlled_panic
+1035. http://www.bat.org/help/skills.php?str=discipline
+1036. http://www.bat.org/help/skills.php?str=dodge
+1037. http://www.bat.org/help/skills.php?str=endurance
+1038. http://www.bat.org/help/skills.php?str=enhance_criticals
+1039. http://www.bat.org/help/skills.php?str=hiking
+1040. http://www.bat.org/help/skills.php?str=leadership
+1041. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1042. http://www.bat.org/help/skills.php?str=parry
+1043. http://www.bat.org/help/skills.php?str=pound
+1044. http://www.bat.org/help/skills.php?str=rescue
+1045. http://www.bat.org/help/skills.php?str=riposte
+1046. http://www.bat.org/help/skills.php?str=shield_bash
+1047. http://www.bat.org/help/skills.php?str=stun
+1048. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1049. http://www.bat.org/help/skills.php?str=tempt
+1050. http://www.bat.org/help/skills.php?str=throw_weight
+1051. http://www.bat.org/help/skills.php?str=find_weakness
+1052. http://www.bat.org/help/skills.php?str=holy_smite
+1053. http://www.bat.org/help/skills.php?str=holy_blaze
+1054. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1055. http://www.bat.org/help/spells.php?str=shield_of_faith
+1056. http://www.bat.org/help/spells.php?str=laying_on_hands
+1057. http://www.bat.org/help/spells.php?str=remove_poison
+1058. http://www.bat.org/help/spells.php?str=detect_alignment
+1059. http://www.bat.org/help/spells.php?str=bless_armament
+1060. http://www.bat.org/help/spells.php?str=light
+1061. http://www.bat.org/help/skills.php?str=holy_strike
+1062. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1063. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1064. http://www.bat.org/help/skills.php?str=holy_warfare
+1065. http://www.bat.org/help/skills.php?str=righteousness
+1066. http://www.bat.org/help/skills.php?str=bless
+1067. http://www.bat.org/help/skills.php?str=prayer
+1068. http://www.bat.org/help/skills.php?str=burial_ceremony
+1069. http://www.bat.org/help/skills.php?str=cast_generic
+1070. http://www.bat.org/help/skills.php?str=cast_protection
+1071. http://www.bat.org/help/skills.php?str=cast_heal
+1072. http://www.bat.org/help/skills.php?str=cast_special
+1073. http://www.bat.org/help/skills.php?str=discipline
+1074. http://www.bat.org/help/skills.php?str=dodge
+1075. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1076. http://www.bat.org/help/skills.php?str=parry
+1077. http://www.bat.org/help/skills.php?str=pound
+1078. http://www.bat.org/help/skills.php?str=rescue
+1079. http://www.bat.org/help/skills.php?str=tempt
+1080. http://www.bat.org/help/spells.php?str=shield_of_faith
+1081. http://www.bat.org/help/spells.php?str=laying_on_hands
+1082. http://www.bat.org/help/spells.php?str=remove_poison
+1083. http://www.bat.org/help/spells.php?str=detect_alignment
+1084. http://www.bat.org/help/spells.php?str=bless_armament
+1085. http://www.bat.org/help/skills.php?str=holy_strike
+1086. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1087. http://www.bat.org/help/skills.php?str=alertness
+1088. http://www.bat.org/help/skills.php?str=bless
+1089. http://www.bat.org/help/skills.php?str=prayer
+1090. http://www.bat.org/help/skills.php?str=burial_ceremony
+1091. http://www.bat.org/help/skills.php?str=cast_generic
+1092. http://www.bat.org/help/skills.php?str=cast_protection
+1093. http://www.bat.org/help/skills.php?str=cast_heal
+1094. http://www.bat.org/help/skills.php?str=cast_information
+1095. http://www.bat.org/help/skills.php?str=cast_special
+1096. http://www.bat.org/help/skills.php?str=combat_sense
+1097. http://www.bat.org/help/skills.php?str=controlled_panic
+1098. http://www.bat.org/help/skills.php?str=discipline
+1099. http://www.bat.org/help/skills.php?str=dodge
+1100. http://www.bat.org/help/skills.php?str=endurance
+1101. http://www.bat.org/help/skills.php?str=enhance_criticals
+1102. http://www.bat.org/help/skills.php?str=hiking
+1103. http://www.bat.org/help/skills.php?str=leadership
+1104. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1105. http://www.bat.org/help/skills.php?str=parry
+1106. http://www.bat.org/help/skills.php?str=pound
+1107. http://www.bat.org/help/skills.php?str=rescue
+1108. http://www.bat.org/help/skills.php?str=riposte
+1109. http://www.bat.org/help/skills.php?str=shield_bash
+1110. http://www.bat.org/help/skills.php?str=stun
+1111. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1112. http://www.bat.org/help/skills.php?str=tempt
+1113. http://www.bat.org/help/skills.php?str=throw_weight
+1114. http://www.bat.org/help/skills.php?str=find_weakness
+1115. http://www.bat.org/help/skills.php?str=holy_smite
+1116. http://www.bat.org/help/skills.php?str=holy_blaze
+1117. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1118. http://www.bat.org/help/spells.php?str=shield_of_faith
+1119. http://www.bat.org/help/spells.php?str=laying_on_hands
+1120. http://www.bat.org/help/spells.php?str=remove_poison
+1121. http://www.bat.org/help/spells.php?str=detect_alignment
+1122. http://www.bat.org/help/spells.php?str=bless_armament
+1123. http://www.bat.org/help/spells.php?str=light
+1124. http://www.bat.org/help/skills.php?str=holy_strike
+1125. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1126. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1127. http://www.bat.org/help/skills.php?str=holy_warfare
+1128. http://www.bat.org/help/skills.php?str=righteousness
+1129. http://www.bat.org/help/skills.php?str=bless
+1130. http://www.bat.org/help/skills.php?str=prayer
+1131. http://www.bat.org/help/skills.php?str=burial_ceremony
+1132. http://www.bat.org/help/skills.php?str=cast_generic
+1133. http://www.bat.org/help/skills.php?str=cast_protection
+1134. http://www.bat.org/help/skills.php?str=cast_heal
+1135. http://www.bat.org/help/skills.php?str=cast_special
+1136. http://www.bat.org/help/skills.php?str=discipline
+1137. http://www.bat.org/help/skills.php?str=dodge
+1138. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1139. http://www.bat.org/help/skills.php?str=parry
+1140. http://www.bat.org/help/skills.php?str=pound
+1141. http://www.bat.org/help/skills.php?str=rescue
+1142. http://www.bat.org/help/skills.php?str=tempt
+1143. http://www.bat.org/help/spells.php?str=shield_of_faith
+1144. http://www.bat.org/help/spells.php?str=laying_on_hands
+1145. http://www.bat.org/help/spells.php?str=remove_poison
+1146. http://www.bat.org/help/spells.php?str=detect_alignment
+1147. http://www.bat.org/help/spells.php?str=bless_armament
+1148. http://www.bat.org/help/skills.php?str=holy_strike
+1149. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1150. http://www.bat.org/help/skills.php?str=alertness
+1151. http://www.bat.org/help/skills.php?str=bless
+1152. http://www.bat.org/help/skills.php?str=prayer
+1153. http://www.bat.org/help/skills.php?str=burial_ceremony
+1154. http://www.bat.org/help/skills.php?str=cast_generic
+1155. http://www.bat.org/help/skills.php?str=cast_protection
+1156. http://www.bat.org/help/skills.php?str=cast_heal
+1157. http://www.bat.org/help/skills.php?str=cast_information
+1158. http://www.bat.org/help/skills.php?str=cast_special
+1159. http://www.bat.org/help/skills.php?str=combat_sense
+1160. http://www.bat.org/help/skills.php?str=controlled_panic
+1161. http://www.bat.org/help/skills.php?str=discipline
+1162. http://www.bat.org/help/skills.php?str=dodge
+1163. http://www.bat.org/help/skills.php?str=endurance
+1164. http://www.bat.org/help/skills.php?str=enhance_criticals
+1165. http://www.bat.org/help/skills.php?str=hiking
+1166. http://www.bat.org/help/skills.php?str=leadership
+1167. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1168. http://www.bat.org/help/skills.php?str=parry
+1169. http://www.bat.org/help/skills.php?str=pound
+1170. http://www.bat.org/help/skills.php?str=rescue
+1171. http://www.bat.org/help/skills.php?str=riposte
+1172. http://www.bat.org/help/skills.php?str=shield_bash
+1173. http://www.bat.org/help/skills.php?str=stun
+1174. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1175. http://www.bat.org/help/skills.php?str=tempt
+1176. http://www.bat.org/help/skills.php?str=throw_weight
+1177. http://www.bat.org/help/skills.php?str=find_weakness
+1178. http://www.bat.org/help/skills.php?str=holy_smite
+1179. http://www.bat.org/help/skills.php?str=holy_blaze
+1180. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1181. http://www.bat.org/help/spells.php?str=shield_of_faith
+1182. http://www.bat.org/help/spells.php?str=laying_on_hands
+1183. http://www.bat.org/help/spells.php?str=remove_poison
+1184. http://www.bat.org/help/spells.php?str=detect_alignment
+1185. http://www.bat.org/help/spells.php?str=bless_armament
+1186. http://www.bat.org/help/spells.php?str=light
+1187. http://www.bat.org/help/skills.php?str=holy_strike
+1188. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1189. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1190. http://www.bat.org/help/skills.php?str=holy_warfare
+1191. http://www.bat.org/help/skills.php?str=righteousness
+1192. http://www.bat.org/help/skills.php?str=bless
+1193. http://www.bat.org/help/skills.php?str=prayer
+1194. http://www.bat.org/help/skills.php?str=burial_ceremony
+1195. http://www.bat.org/help/skills.php?str=cast_generic
+1196. http://www.bat.org/help/skills.php?str=cast_protection
+1197. http://www.bat.org/help/skills.php?str=cast_heal
+1198. http://www.bat.org/help/skills.php?str=cast_special
+1199. http://www.bat.org/help/skills.php?str=discipline
+1200. http://www.bat.org/help/skills.php?str=dodge
+1201. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1202. http://www.bat.org/help/skills.php?str=parry
+1203. http://www.bat.org/help/skills.php?str=pound
+1204. http://www.bat.org/help/skills.php?str=rescue
+1205. http://www.bat.org/help/skills.php?str=tempt
+1206. http://www.bat.org/help/spells.php?str=shield_of_faith
+1207. http://www.bat.org/help/spells.php?str=laying_on_hands
+1208. http://www.bat.org/help/spells.php?str=remove_poison
+1209. http://www.bat.org/help/spells.php?str=detect_alignment
+1210. http://www.bat.org/help/spells.php?str=bless_armament
+1211. http://www.bat.org/help/skills.php?str=holy_strike
+1212. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1213. http://www.bat.org/help/skills.php?str=alertness
+1214. http://www.bat.org/help/skills.php?str=bless
+1215. http://www.bat.org/help/skills.php?str=prayer
+1216. http://www.bat.org/help/skills.php?str=burial_ceremony
+1217. http://www.bat.org/help/skills.php?str=cast_generic
+1218. http://www.bat.org/help/skills.php?str=cast_protection
+1219. http://www.bat.org/help/skills.php?str=cast_heal
+1220. http://www.bat.org/help/skills.php?str=cast_information
+1221. http://www.bat.org/help/skills.php?str=cast_special
+1222. http://www.bat.org/help/skills.php?str=combat_sense
+1223. http://www.bat.org/help/skills.php?str=controlled_panic
+1224. http://www.bat.org/help/skills.php?str=discipline
+1225. http://www.bat.org/help/skills.php?str=dodge
+1226. http://www.bat.org/help/skills.php?str=endurance
+1227. http://www.bat.org/help/skills.php?str=enhance_criticals
+1228. http://www.bat.org/help/skills.php?str=hiking
+1229. http://www.bat.org/help/skills.php?str=leadership
+1230. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1231. http://www.bat.org/help/skills.php?str=parry
+1232. http://www.bat.org/help/skills.php?str=pound
+1233. http://www.bat.org/help/skills.php?str=pulverize
+1234. http://www.bat.org/help/skills.php?str=rescue
+1235. http://www.bat.org/help/skills.php?str=riposte
+1236. http://www.bat.org/help/skills.php?str=shield_bash
+1237. http://www.bat.org/help/skills.php?str=stun
+1238. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1239. http://www.bat.org/help/skills.php?str=tempt
+1240. http://www.bat.org/help/skills.php?str=throw_weight
+1241. http://www.bat.org/help/skills.php?str=find_weakness
+1242. http://www.bat.org/help/skills.php?str=holy_blaze
+1243. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1244. http://www.bat.org/help/spells.php?str=shield_of_faith
+1245. http://www.bat.org/help/spells.php?str=laying_on_hands
+1246. http://www.bat.org/help/spells.php?str=remove_poison
+1247. http://www.bat.org/help/spells.php?str=detect_alignment
+1248. http://www.bat.org/help/spells.php?str=bless_armament
+1249. http://www.bat.org/help/spells.php?str=light
+1250. http://www.bat.org/help/skills.php?str=holy_strike
+1251. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1252. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1253. http://www.bat.org/help/skills.php?str=holy_warfare
+1254. http://www.bat.org/help/skills.php?str=righteousness
+1255. http://www.bat.org/help/skills.php?str=bless
+1256. http://www.bat.org/help/skills.php?str=burial_ceremony
+1257. http://www.bat.org/help/skills.php?str=cast_generic
+1258. http://www.bat.org/help/skills.php?str=cast_protection
+1259. http://www.bat.org/help/skills.php?str=cast_heal
+1260. http://www.bat.org/help/skills.php?str=cast_special
+1261. http://www.bat.org/help/skills.php?str=discipline
+1262. http://www.bat.org/help/skills.php?str=dodge
+1263. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1264. http://www.bat.org/help/skills.php?str=parry
+1265. http://www.bat.org/help/skills.php?str=pound
+1266. http://www.bat.org/help/skills.php?str=pulverize
+1267. http://www.bat.org/help/skills.php?str=rescue
+1268. http://www.bat.org/help/skills.php?str=tempt
+1269. http://www.bat.org/help/spells.php?str=shield_of_faith
+1270. http://www.bat.org/help/spells.php?str=laying_on_hands
+1271. http://www.bat.org/help/spells.php?str=remove_poison
+1272. http://www.bat.org/help/spells.php?str=detect_alignment
+1273. http://www.bat.org/help/spells.php?str=bless_armament
+1274. http://www.bat.org/help/skills.php?str=holy_strike
+1275. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1276. http://www.bat.org/help/skills.php?str=alertness
+1277. http://www.bat.org/help/skills.php?str=bless
+1278. http://www.bat.org/help/skills.php?str=burial_ceremony
+1279. http://www.bat.org/help/skills.php?str=cast_generic
+1280. http://www.bat.org/help/skills.php?str=cast_protection
+1281. http://www.bat.org/help/skills.php?str=cast_heal
+1282. http://www.bat.org/help/skills.php?str=cast_information
+1283. http://www.bat.org/help/skills.php?str=cast_special
+1284. http://www.bat.org/help/skills.php?str=combat_sense
+1285. http://www.bat.org/help/skills.php?str=controlled_panic
+1286. http://www.bat.org/help/skills.php?str=discipline
+1287. http://www.bat.org/help/skills.php?str=dodge
+1288. http://www.bat.org/help/skills.php?str=endurance
+1289. http://www.bat.org/help/skills.php?str=enhance_criticals
+1290. http://www.bat.org/help/skills.php?str=hiking
+1291. http://www.bat.org/help/skills.php?str=leadership
+1292. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1293. http://www.bat.org/help/skills.php?str=parry
+1294. http://www.bat.org/help/skills.php?str=pound
+1295. http://www.bat.org/help/skills.php?str=pulverize
+1296. http://www.bat.org/help/skills.php?str=rescue
+1297. http://www.bat.org/help/skills.php?str=riposte
+1298. http://www.bat.org/help/skills.php?str=shield_bash
+1299. http://www.bat.org/help/skills.php?str=stun
+1300. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1301. http://www.bat.org/help/skills.php?str=tempt
+1302. http://www.bat.org/help/skills.php?str=throw_weight
+1303. http://www.bat.org/help/skills.php?str=find_weakness
+1304. http://www.bat.org/help/skills.php?str=holy_blaze
+1305. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1306. http://www.bat.org/help/spells.php?str=shield_of_faith
+1307. http://www.bat.org/help/spells.php?str=laying_on_hands
+1308. http://www.bat.org/help/spells.php?str=remove_poison
+1309. http://www.bat.org/help/spells.php?str=detect_alignment
+1310. http://www.bat.org/help/spells.php?str=bless_armament
+1311. http://www.bat.org/help/spells.php?str=light
+1312. http://www.bat.org/help/skills.php?str=holy_strike
+1313. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1314. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1315. http://www.bat.org/help/skills.php?str=holy_warfare
+1316. http://www.bat.org/help/skills.php?str=righteousness
+1317. http://www.bat.org/help/skills.php?str=bless
+1318. http://www.bat.org/help/skills.php?str=burial_ceremony
+1319. http://www.bat.org/help/skills.php?str=cast_generic
+1320. http://www.bat.org/help/skills.php?str=cast_protection
+1321. http://www.bat.org/help/skills.php?str=cast_heal
+1322. http://www.bat.org/help/skills.php?str=cast_special
+1323. http://www.bat.org/help/skills.php?str=discipline
+1324. http://www.bat.org/help/skills.php?str=dodge
+1325. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1326. http://www.bat.org/help/skills.php?str=parry
+1327. http://www.bat.org/help/skills.php?str=pound
+1328. http://www.bat.org/help/skills.php?str=pulverize
+1329. http://www.bat.org/help/skills.php?str=rescue
+1330. http://www.bat.org/help/skills.php?str=tempt
+1331. http://www.bat.org/help/spells.php?str=shield_of_faith
+1332. http://www.bat.org/help/spells.php?str=laying_on_hands
+1333. http://www.bat.org/help/spells.php?str=remove_poison
+1334. http://www.bat.org/help/spells.php?str=detect_alignment
+1335. http://www.bat.org/help/spells.php?str=bless_armament
+1336. http://www.bat.org/help/skills.php?str=holy_strike
+1337. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1338. http://www.bat.org/help/skills.php?str=alertness
+1339. http://www.bat.org/help/skills.php?str=bless
+1340. http://www.bat.org/help/skills.php?str=burial_ceremony
+1341. http://www.bat.org/help/skills.php?str=cast_generic
+1342. http://www.bat.org/help/skills.php?str=cast_protection
+1343. http://www.bat.org/help/skills.php?str=cast_heal
+1344. http://www.bat.org/help/skills.php?str=cast_information
+1345. http://www.bat.org/help/skills.php?str=cast_special
+1346. http://www.bat.org/help/skills.php?str=combat_sense
+1347. http://www.bat.org/help/skills.php?str=controlled_panic
+1348. http://www.bat.org/help/skills.php?str=discipline
+1349. http://www.bat.org/help/skills.php?str=dodge
+1350. http://www.bat.org/help/skills.php?str=endurance
+1351. http://www.bat.org/help/skills.php?str=enhance_criticals
+1352. http://www.bat.org/help/skills.php?str=hiking
+1353. http://www.bat.org/help/skills.php?str=leadership
+1354. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1355. http://www.bat.org/help/skills.php?str=parry
+1356. http://www.bat.org/help/skills.php?str=pound
+1357. http://www.bat.org/help/skills.php?str=pulverize
+1358. http://www.bat.org/help/skills.php?str=rescue
+1359. http://www.bat.org/help/skills.php?str=riposte
+1360. http://www.bat.org/help/skills.php?str=shield_bash
+1361. http://www.bat.org/help/skills.php?str=stun
+1362. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1363. http://www.bat.org/help/skills.php?str=tempt
+1364. http://www.bat.org/help/skills.php?str=throw_weight
+1365. http://www.bat.org/help/skills.php?str=find_weakness
+1366. http://www.bat.org/help/skills.php?str=holy_blaze
+1367. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1368. http://www.bat.org/help/spells.php?str=shield_of_faith
+1369. http://www.bat.org/help/spells.php?str=laying_on_hands
+1370. http://www.bat.org/help/spells.php?str=remove_poison
+1371. http://www.bat.org/help/spells.php?str=detect_alignment
+1372. http://www.bat.org/help/spells.php?str=bless_armament
+1373. http://www.bat.org/help/spells.php?str=light
+1374. http://www.bat.org/help/skills.php?str=holy_strike
+1375. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1376. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1377. http://www.bat.org/help/skills.php?str=holy_warfare
+1378. http://www.bat.org/help/skills.php?str=righteousness
+1379. http://www.bat.org/help/skills.php?str=bless
+1380. http://www.bat.org/help/skills.php?str=burial_ceremony
+1381. http://www.bat.org/help/skills.php?str=cast_generic
+1382. http://www.bat.org/help/skills.php?str=cast_protection
+1383. http://www.bat.org/help/skills.php?str=cast_heal
+1384. http://www.bat.org/help/skills.php?str=cast_special
+1385. http://www.bat.org/help/skills.php?str=discipline
+1386. http://www.bat.org/help/skills.php?str=dodge
+1387. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1388. http://www.bat.org/help/skills.php?str=parry
+1389. http://www.bat.org/help/skills.php?str=pound
+1390. http://www.bat.org/help/skills.php?str=pulverize
+1391. http://www.bat.org/help/skills.php?str=rescue
+1392. http://www.bat.org/help/skills.php?str=tempt
+1393. http://www.bat.org/help/spells.php?str=shield_of_faith
+1394. http://www.bat.org/help/spells.php?str=laying_on_hands
+1395. http://www.bat.org/help/spells.php?str=remove_poison
+1396. http://www.bat.org/help/spells.php?str=detect_alignment
+1397. http://www.bat.org/help/spells.php?str=bless_armament
+1398. http://www.bat.org/help/skills.php?str=holy_strike
+1399. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1400. http://www.bat.org/help/skills.php?str=alertness
+1401. http://www.bat.org/help/skills.php?str=bless
+1402. http://www.bat.org/help/skills.php?str=burial_ceremony
+1403. http://www.bat.org/help/skills.php?str=cast_generic
+1404. http://www.bat.org/help/skills.php?str=cast_protection
+1405. http://www.bat.org/help/skills.php?str=cast_heal
+1406. http://www.bat.org/help/skills.php?str=cast_information
+1407. http://www.bat.org/help/skills.php?str=cast_special
+1408. http://www.bat.org/help/skills.php?str=combat_sense
+1409. http://www.bat.org/help/skills.php?str=controlled_panic
+1410. http://www.bat.org/help/skills.php?str=discipline
+1411. http://www.bat.org/help/skills.php?str=dodge
+1412. http://www.bat.org/help/skills.php?str=endurance
+1413. http://www.bat.org/help/skills.php?str=enhance_criticals
+1414. http://www.bat.org/help/skills.php?str=hiking
+1415. http://www.bat.org/help/skills.php?str=leadership
+1416. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1417. http://www.bat.org/help/skills.php?str=parry
+1418. http://www.bat.org/help/skills.php?str=pound
+1419. http://www.bat.org/help/skills.php?str=pulverize
+1420. http://www.bat.org/help/skills.php?str=rescue
+1421. http://www.bat.org/help/skills.php?str=riposte
+1422. http://www.bat.org/help/skills.php?str=shield_bash
+1423. http://www.bat.org/help/skills.php?str=stun
+1424. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1425. http://www.bat.org/help/skills.php?str=tempt
+1426. http://www.bat.org/help/skills.php?str=throw_weight
+1427. http://www.bat.org/help/skills.php?str=find_weakness
+1428. http://www.bat.org/help/skills.php?str=holy_blaze
+1429. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1430. http://www.bat.org/help/spells.php?str=shield_of_faith
+1431. http://www.bat.org/help/spells.php?str=laying_on_hands
+1432. http://www.bat.org/help/spells.php?str=remove_poison
+1433. http://www.bat.org/help/spells.php?str=detect_alignment
+1434. http://www.bat.org/help/spells.php?str=bless_armament
+1435. http://www.bat.org/help/spells.php?str=light
+1436. http://www.bat.org/help/skills.php?str=holy_strike
+1437. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1438. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1439. http://www.bat.org/help/skills.php?str=holy_warfare
+1440. http://www.bat.org/help/skills.php?str=righteousness
+1441. http://www.bat.org/help/skills.php?str=bless
+1442. http://www.bat.org/help/skills.php?str=burial_ceremony
+1443. http://www.bat.org/help/skills.php?str=cast_generic
+1444. http://www.bat.org/help/skills.php?str=cast_protection
+1445. http://www.bat.org/help/skills.php?str=cast_heal
+1446. http://www.bat.org/help/skills.php?str=cast_special
+1447. http://www.bat.org/help/skills.php?str=discipline
+1448. http://www.bat.org/help/skills.php?str=dodge
+1449. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1450. http://www.bat.org/help/skills.php?str=parry
+1451. http://www.bat.org/help/skills.php?str=pound
+1452. http://www.bat.org/help/skills.php?str=pulverize
+1453. http://www.bat.org/help/skills.php?str=rescue
+1454. http://www.bat.org/help/skills.php?str=tempt
+1455. http://www.bat.org/help/spells.php?str=shield_of_faith
+1456. http://www.bat.org/help/spells.php?str=laying_on_hands
+1457. http://www.bat.org/help/spells.php?str=remove_poison
+1458. http://www.bat.org/help/spells.php?str=detect_alignment
+1459. http://www.bat.org/help/spells.php?str=bless_armament
+1460. http://www.bat.org/help/skills.php?str=holy_strike
+1461. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1462. http://www.bat.org/help/skills.php?str=alertness
+1463. http://www.bat.org/help/skills.php?str=bless
+1464. http://www.bat.org/help/skills.php?str=burial_ceremony
+1465. http://www.bat.org/help/skills.php?str=cast_generic
+1466. http://www.bat.org/help/skills.php?str=cast_protection
+1467. http://www.bat.org/help/skills.php?str=cast_heal
+1468. http://www.bat.org/help/skills.php?str=cast_information
+1469. http://www.bat.org/help/skills.php?str=cast_special
+1470. http://www.bat.org/help/skills.php?str=combat_sense
+1471. http://www.bat.org/help/skills.php?str=controlled_panic
+1472. http://www.bat.org/help/skills.php?str=discipline
+1473. http://www.bat.org/help/skills.php?str=dodge
+1474. http://www.bat.org/help/skills.php?str=endurance
+1475. http://www.bat.org/help/skills.php?str=enhance_criticals
+1476. http://www.bat.org/help/skills.php?str=hiking
+1477. http://www.bat.org/help/skills.php?str=leadership
+1478. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1479. http://www.bat.org/help/skills.php?str=parry
+1480. http://www.bat.org/help/skills.php?str=pound
+1481. http://www.bat.org/help/skills.php?str=pulverize
+1482. http://www.bat.org/help/skills.php?str=rescue
+1483. http://www.bat.org/help/skills.php?str=riposte
+1484. http://www.bat.org/help/skills.php?str=shield_bash
+1485. http://www.bat.org/help/skills.php?str=stun
+1486. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1487. http://www.bat.org/help/skills.php?str=tempt
+1488. http://www.bat.org/help/skills.php?str=throw_weight
+1489. http://www.bat.org/help/skills.php?str=find_weakness
+1490. http://www.bat.org/help/skills.php?str=holy_blaze
+1491. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1492. http://www.bat.org/help/spells.php?str=shield_of_faith
+1493. http://www.bat.org/help/spells.php?str=laying_on_hands
+1494. http://www.bat.org/help/spells.php?str=remove_poison
+1495. http://www.bat.org/help/spells.php?str=detect_alignment
+1496. http://www.bat.org/help/spells.php?str=bless_armament
+1497. http://www.bat.org/help/spells.php?str=light
+1498. http://www.bat.org/help/skills.php?str=holy_strike
+1499. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1500. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1501. http://www.bat.org/help/skills.php?str=holy_warfare
+1502. http://www.bat.org/help/skills.php?str=righteousness
+1503. http://www.bat.org/help/skills.php?str=bless
+1504. http://www.bat.org/help/skills.php?str=burial_ceremony
+1505. http://www.bat.org/help/skills.php?str=cast_generic
+1506. http://www.bat.org/help/skills.php?str=cast_protection
+1507. http://www.bat.org/help/skills.php?str=cast_heal
+1508. http://www.bat.org/help/skills.php?str=cast_special
+1509. http://www.bat.org/help/skills.php?str=discipline
+1510. http://www.bat.org/help/skills.php?str=dodge
+1511. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1512. http://www.bat.org/help/skills.php?str=parry
+1513. http://www.bat.org/help/skills.php?str=pound
+1514. http://www.bat.org/help/skills.php?str=pulverize
+1515. http://www.bat.org/help/skills.php?str=rescue
+1516. http://www.bat.org/help/skills.php?str=tempt
+1517. http://www.bat.org/help/spells.php?str=shield_of_faith
+1518. http://www.bat.org/help/spells.php?str=laying_on_hands
+1519. http://www.bat.org/help/spells.php?str=remove_poison
+1520. http://www.bat.org/help/spells.php?str=detect_alignment
+1521. http://www.bat.org/help/spells.php?str=bless_armament
+1522. http://www.bat.org/help/skills.php?str=holy_strike
+1523. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1524. http://www.bat.org/help/skills.php?str=alertness
+1525. http://www.bat.org/help/skills.php?str=bless
+1526. http://www.bat.org/help/skills.php?str=burial_ceremony
+1527. http://www.bat.org/help/skills.php?str=cast_generic
+1528. http://www.bat.org/help/skills.php?str=cast_protection
+1529. http://www.bat.org/help/skills.php?str=cast_heal
+1530. http://www.bat.org/help/skills.php?str=cast_information
+1531. http://www.bat.org/help/skills.php?str=cast_special
+1532. http://www.bat.org/help/skills.php?str=combat_sense
+1533. http://www.bat.org/help/skills.php?str=controlled_panic
+1534. http://www.bat.org/help/skills.php?str=discipline
+1535. http://www.bat.org/help/skills.php?str=dodge
+1536. http://www.bat.org/help/skills.php?str=endurance
+1537. http://www.bat.org/help/skills.php?str=enhance_criticals
+1538. http://www.bat.org/help/skills.php?str=hiking
+1539. http://www.bat.org/help/skills.php?str=leadership
+1540. http://www.bat.org/help/skills.php?str=mastery_of_shielding
+1541. http://www.bat.org/help/skills.php?str=parry
+1542. http://www.bat.org/help/skills.php?str=pound
+1543. http://www.bat.org/help/skills.php?str=pulverize
+1544. http://www.bat.org/help/skills.php?str=rescue
+1545. http://www.bat.org/help/skills.php?str=riposte
+1546. http://www.bat.org/help/skills.php?str=shield_bash
+1547. http://www.bat.org/help/skills.php?str=stun
+1548. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+1549. http://www.bat.org/help/skills.php?str=tempt
+1550. http://www.bat.org/help/skills.php?str=throw_weight
+1551. http://www.bat.org/help/skills.php?str=find_weakness
+1552. http://www.bat.org/help/skills.php?str=holy_blaze
+1553. http://www.bat.org/help/skills.php?str=stance_of_the_righteous
+1554. http://www.bat.org/help/spells.php?str=shield_of_faith
+1555. http://www.bat.org/help/spells.php?str=laying_on_hands
+1556. http://www.bat.org/help/spells.php?str=remove_poison
+1557. http://www.bat.org/help/spells.php?str=detect_alignment
+1558. http://www.bat.org/help/spells.php?str=bless_armament
+1559. http://www.bat.org/help/spells.php?str=light
+1560. http://www.bat.org/help/skills.php?str=holy_strike
+1561. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+1562. http://www.bat.org/help/skills.php?str=protection_by_sacrifice
+1563. http://www.bat.org/help/skills.php?str=holy_warfare
+1564. http://www.bat.org/help/skills.php?str=righteousness
+1565. http://www.bat.org/help/guilds.php
+1566. mailto:webmaster@bat.org
+
+   Hidden links:
+1567. http://www.bat.org/bat.php

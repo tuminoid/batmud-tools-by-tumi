@@ -1,0 +1,28 @@
+                               ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Stargazing                    |  40 |  82 |      424 |
+| Cast generic                  |  85 | 100 |    46856 |
+| Cast teleportation            |  57 | 100 |     4195 |
+| Mastery of locating           |  50 | 100 |     8055 |
+| Location memory               |  45 |  82 |    19313 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |  80 |  98 |     5972 |
+| Dimension door                |  60 |  98 |     4085 |
+| Summon                        |  60 |  98 |     4829 |
+| Teleport with error           |  40 |  98 |      861 |
+| Teleport without error        |  45 |  60 |     1645 |
+| Wizard eye                    |  52 |  98 |     3006 |
+| Heavy weight                  |  60 |  98 |     8724 |
+| Banish                        |  45 |  98 |     2869 |
+| Relocate                      |  60 |  98 |    12798 |
+| Go                            |  60 |  98 |    23404 |
+| Mobile cannon                 |  45 |  98 |     7678 |
+`------------------------------------------------------'

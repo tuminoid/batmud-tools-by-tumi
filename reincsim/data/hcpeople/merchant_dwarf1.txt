@@ -1,0 +1,89 @@
+Dwarf
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Appraise                      | 100 | 100 |    (n/a) |
+| Essence eye                   |  52 | 100 |      297 |
+| Tinning                       |   0 | 100 |        2 |
+| Compare                       |  60 | 100 |      999 |
+| Skinning                      | 100 | 100 |    (n/a) |
+| Exchange money                | 100 | 100 |    (n/a) |
+| Lumberjacking                 | 100 | 100 |    (n/a) |
+| Mining                        | 100 | 100 |    (n/a) |
+| Plastic surgery               |  92 | 100 |    31313 |
+| Plant lore                    |  50 |  50 |    (n/a) |
+| Torch creation                |  50 |  70 |     1079 |
+| Carpentry                     | 100 | 100 |    (n/a) |
+| Fresh pants                   |   0 | 100 |       16 |
+| Leather craft                 |  70 | 100 |     7307 |
+| Law                           |  50 | 100 |     1410 |
+| Cast control                  |   0 | 100 |       25 |
+| Cast generic                  | 100 | 100 |    (n/a) |
+| Cast help                     |  37 | 100 |      623 |
+| Cast information              |  95 | 100 |    92439 |
+| Cast protection               |  85 | 100 |    39047 |
+| Cast special                  |   0 | 100 |       25 |
+| Cast teleportation            |  69 |  80 |     9834 |
+| Cast transformation           | 100 | 100 |    (n/a) |
+| Labeling                      |  60 |  99 |     4527 |
+| Mineral cutting               |  75 | 100 |    16493 |
+| Bargain                       | 100 | 100 |    (n/a) |
+| Cannibalize                   |  65 |  65 |    (n/a) |
+| Sewing                        | 100 | 100 |    (n/a) |
+| Alloying                      |  75 |  75 |    (n/a) |
+| Amalgamate                    | 100 | 100 |    (n/a) |
+| Attack                        |  50 |  45 |    (n/a) |
+| Loan sharking                 |   0 | 100 |       31 |
+| Masonry                       |  99 | 100 |   179801 |
+| Make reagent                  | 100 | 100 |    (n/a) |
+| Repair armour                 | 100 | 100 |    (n/a) |
+| Repair item                   |  52 | 100 |     3332 |
+| Repair weapon                 |  80 | 100 |    37224 |
+| Sculpture                     |  80 | 100 |    37224 |
+| Blacksmithing                 | 100 | 100 |    (n/a) |
+| Refining                      | 100 | 100 |    (n/a) |
+| Gem cutting                   | 100 | 100 |    (n/a) |
+| Insider trading               |  65 | 100 |    17187 |
+| Glassblowing                  | 100 | 100 |    (n/a) |
+| Shopkeeping                   |  70 | 100 |    30320 |
+| Create armour                 |  70 | 100 |    32196 |
+| Create weapon                 |  70 | 100 |    32196 |
+| Axes                          |  51 |  45 |    (n/a) |
+| Knowledge of identification   | 100 | 100 |    (n/a) |
+| Knowledge of metamorphosis    | 100 | 100 |    (n/a) |
+| Bludgeons                     |  51 |  45 |    (n/a) |
+| Quick chant                   |  52 |  50 |    (n/a) |
+| Chest creation                |  77 |  70 |    (n/a) |
+| Chest lock creation           |  72 |  70 |    (n/a) |
+| Chest trap creation           |  70 |  70 |    (n/a) |
+| Shipbuilding                  |  68 | 100 |    62956 |
+| Double mine                   | 100 | 100 |    (n/a) |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Create money                  |  70 |  70 |    (n/a) |
+| Cash flow                     |  50 |  70 |     1512 |
+| Detect alignment              |   0 |  70 |       19 |
+| Satiate person                |   0 |  70 |       19 |
+| Darkness                      |   0 |  70 |       22 |
+| Light                         |   0 |  70 |       22 |
+| Call pigeon                   |   0 |  70 |       27 |
+| Credit check                  |  50 |  70 |     2052 |
+| Remote banking                |  70 |  70 |    (n/a) |
+| Create food                   |  40 |  70 |     1270 |
+| Feather weight                |  70 |  70 |    (n/a) |
+| Floating disc                 |  70 |  70 |    (n/a) |
+| Identify                      |  70 |  70 |    (n/a) |
+| Preserve corpse               |   0 |  70 |       39 |
+| Remove scar                   |  57 |  70 |     5501 |
+| Money is power                |  70 |  70 |    (n/a) |
+| Aura detection                |  40 |  70 |     4627 |
+| Protect armour                |  70 |  70 |    (n/a) |
+| Protect item                  |  50 |  70 |    21202 |
+| Protect weapon                |  70 |  70 |    (n/a) |
+`------------------------------------------------------'

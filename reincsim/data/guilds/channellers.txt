@@ -1,0 +1,1339 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]150 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                 [fonter.php?str=The+Guild+of+Channellers]
+
+                          The Guild of Channellers
+
+   Command: channellers
+   Creator: [22]Shinarae
+   Maximum level: 30
+   Description:
+   Channellers are those to whom the manipulation of magical forces is
+   more
+   instinctive than learned. They are masters of their domain, the
+   directing of
+   magical energies from one source to another. Not only can they use
+   their
+   powers in combat, but they can place magical powers into mundane
+   items, and
+   even drain magical energy from other places into themselves.
+   At the dawning of this day, the leader was Glaurung.
+
+                                 New Member
+                Background must be magical
+                May study spell [23]Darkness to 20%
+                May study spell [24]Light to 20%
+                May study spell [25]Energy aura to 20%
+                May study spell [26]See magic to 20%
+                May train skill [27]Attack to 10%
+                May train skill [28]Cast generic to 10%
+                May train skill [29]Essence eye to 20%
+                May train skill [30]Short blades to 10%
+                May train skill [31]Bludgeons to 10%
+                May train skill [32]Consider to 20%
+                Receive the channeller guild insignia
+                Receive the reward for your continued progress
+
+                                 Level 2
+                 May study spell [33]Darkness to 40%
+                 May study spell [34]Light to 40%
+                 May study spell [35]Energy aura to 30%
+                 May study spell [36]Drain room to 20%
+                 May study spell [37]See magic to 40%
+                 May train skill [38]Attack to 20%
+                 May train skill [39]Cast generic to 20%
+                 May train skill [40]Cast channelling to 10%
+                 May train skill [41]Short blades to 20%
+                 May train skill [42]Bludgeons to 20%
+                 May train skill [43]Mana control to 30%
+                 May train skill [44]Consider to 40%
+
+                                 Level 3
+                May study spell [45]Darkness to 60%
+                May study spell [46]Light to 60%
+                May study spell [47]Energy aura to 40%
+                May study spell [48]Drain room to 30%
+                May study spell [49]Magic missile to 10%
+                May study spell [50]Word of recall to 10%
+                May study spell [51]See magic to 60%
+                May study spell [52]Floating to 10%
+                May train skill [53]Attack to 30%
+                May train skill [54]Plant lore to 10%
+                May train skill [55]Cast generic to 30%
+                May train skill [56]Cast teleportation to 10%
+                May train skill [57]Cast channelling to 20%
+                May train skill [58]Essence eye to 40%
+                May train skill [59]Short blades to 30%
+                May train skill [60]Bludgeons to 30%
+                May train skill [61]Mana control to 40%
+                May train skill [62]Consider to 60%
+
+                                 Level 4
+                May study spell [63]Darkness to 80%
+                May study spell [64]Light to 80%
+                May study spell [65]Energy aura to 50%
+                May study spell [66]Drain room to 40%
+                May study spell [67]Magic missile to 20%
+                May study spell [68]Word of recall to 20%
+                May study spell [69]Floating to 20%
+                May study spell [70]See magic to 80%
+                May train skill [71]Attack to 40%
+                May train skill [72]Short blades to 40%
+                May train skill [73]Bludgeons to 40%
+                May train skill [74]Cast magical to 20%
+                May train skill [75]Cast generic to 40%
+                May train skill [76]Plant lore to 20%
+                May train skill [77]Cast teleportation to 20%
+                May train skill [78]Cast channelling to 30%
+                May train skill [79]Essence eye to 50%
+                May train skill [80]Mana control to 50%
+                May train skill [81]Consider to 80%
+                May train skill [82]Zapping to 10%
+
+                                  Level 5
+              Has trained skill [83]Cast generic to at least 30%
+              Has trained skill [84]Mana control to at least 40%
+              Has studied spell [85]Energy aura to at least 40%
+              May study spell [86]Flame arrow to 10%
+              May study spell [87]Magic missile to 30%
+              May study spell [88]Light to racial maximum
+              May study spell [89]Darkness to racial maximum
+              May study spell [90]See magic to racial maximum
+              May study spell [91]Energy aura to 60%
+              May study spell [92]Drain room to 50%
+              May study spell [93]Word of recall to 30%
+              May study spell [94]Floating to 30%
+              May train skill [95]Attack to 50%
+              May train skill [96]Short blades to 50%
+              May train skill [97]Bludgeons to 50%
+              May train skill [98]Cast generic to 50%
+              May train skill [99]Plant lore to 30%
+              May train skill [100]Cast teleportation to 30%
+              May train skill [101]Cast channelling to 40%
+              May train skill [102]Cast magical to 30%
+              May train skill [103]Essence eye to 60%
+              May train skill [104]Mana control to 60%
+              May train skill [105]Zapping to 20%
+              May train skill [106]Craft orb to 10%
+
+                                  Level 6
+                May study spell [107]Energy aura to 70%
+                May study spell [108]Drain room to 60%
+                May study spell [109]Flame arrow to 20%
+                May study spell [110]Magic missile to 40%
+                May study spell [111]Word of recall to 40%
+                May study spell [112]Floating to 40%
+                May train skill [113]Cast generic to 60%
+                May train skill [114]Cast teleportation to 40%
+                May train skill [115]Cast channelling to 50%
+                May train skill [116]Plant lore to 40%
+                May train skill [117]Cast magical to 40%
+                May train skill [118]Cast fire to 20%
+                May train skill [119]Mana control to 70%
+                May train skill [120]Essence eye to 70%
+                May train skill [121]Damage criticality to 5%
+                May train skill [122]Zapping to 30%
+                May train skill [123]Craft orb to 20%
+
+                                 Level 7
+             May study spell [124]Energy aura to racial maximum
+             May study spell [125]Drain room to 70%
+             May study spell [126]Shocking grasp to 10%
+             May study spell [127]Flame arrow to 30%
+             May study spell [128]Magic missile to 50%
+             May study spell [129]Word of recall to 50%
+             May study spell [130]Floating to 50%
+             May train skill [131]Cast generic to 70%
+             May train skill [132]Plant lore to 50%
+             May train skill [133]Cast teleportation to 50%
+             May train skill [134]Cast magical to 50%
+             May train skill [135]Cast fire to 30%
+             May train skill [136]Mana control to racial maximum
+             May train skill [137]Essence eye to racial maximum
+             May train skill [138]Zapping to 40%
+             May train skill [139]Craft orb to 30%
+
+                                 Level 8
+             May study spell [140]Drain room to racial maximum
+             May study spell [141]Shocking grasp to 20%
+             May study spell [142]Flame arrow to 40%
+             May study spell [143]Magic missile to 60%
+             May study spell [144]Summon lesser spores to 10%
+             May study spell [145]Word of recall to 55%
+             May study spell [146]Floating to 60%
+             May train skill [147]Cast generic to racial maximum
+             May train skill [148]Plant lore to 60%
+             May train skill [149]Cast magical to 60%
+             May train skill [150]Cast channelling to 60%
+             May train skill [151]Cast fire to 40%
+             May train skill [152]Cast electricity to 20%
+             May train skill [153]Zapping to 50%
+             May train skill [154]Damage criticality to 10%
+             May train skill [155]Craft orb to 40%
+
+                                  Level 9
+               May study spell [156]Drain item to 10%
+               May study spell [157]Shocking grasp to 30%
+               May study spell [158]Flame arrow to 50%
+               May study spell [159]Magic missile to 70%
+               May study spell [160]Summon lesser spores to 20%
+               May study spell [161]Word of recall to 65%
+               May study spell [162]Floating to 70%
+               May train skill [163]Plant lore to 70%
+               May train skill [164]Cast magical to 70%
+               May train skill [165]Cast channelling to 65%
+               May train skill [166]Cast fire to 50%
+               May train skill [167]Cast electricity to 30%
+               May train skill [168]Zapping to 60%
+               May train skill [169]Craft orb to 50%
+
+                                 Level 10
+           Has studied spell [170]Drain room to at least 40%
+           Has trained skill [171]Cast channelling to at least 40%
+           Has trained skill [172]Zapping to at least 40%
+           May study spell [173]Drain item to 20%
+           May study spell [174]Shocking grasp to 40%
+           May study spell [175]Flame arrow to 60%
+           May study spell [176]Magic missile to racial maximum
+           May study spell [177]Firebolt to 10%
+           May study spell [178]Identify to 10%
+           May study spell [179]Summon lesser spores to 30%
+           May study spell [180]Word of recall to 75%
+           May study spell [181]Floating to racial maximum
+           May train skill [182]Plant lore to 80%
+           May train skill [183]Cast magical to 80%
+           May train skill [184]Cast channelling to 70%
+           May train skill [185]Cast fire to 60%
+           May train skill [186]Cast electricity to 40%
+           May train skill [187]Zapping to 70%
+           May train skill [188]Damage criticality to 15%
+           May train skill [189]Craft orb to 60%
+           May train skill [190]Cast information to 10%
+
+                                 Level 11
+               May study spell [191]Drain item to 30%
+               May study spell [192]Shocking grasp to 50%
+               May study spell [193]Flame arrow to 70%
+               May study spell [194]Firebolt to 20%
+               May study spell [195]Identify to 20%
+               May study spell [196]Summon lesser spores to 40%
+               May train skill [197]Cast channelling to 75%
+               May train skill [198]Quick chant to 5%
+               May train skill [199]Plant lore to 90%
+               May train skill [200]Cast fire to 70%
+               May train skill [201]Cast electricity to 50%
+               May train skill [202]Zapping to racial maximum
+               May train skill [203]Craft orb to 70%
+               May train skill [204]Cast information to 20%
+
+                                       Level 12
+              May study spell [205]Drain item to 40%
+              May study spell [206]Shocking grasp to 60%
+              May study spell [207]Flame arrow to racial maximum
+     May study spell [208]Channelball to 10%, special requirements:
+       * Has trained skill [209]Cast magical to at least 10%
+     May study spell [210]Create herb to 10%, special requirements:
+       * Has trained skill [211]Plant lore to at least 20%
+              May study spell [212]Lightning bolt to 10%
+              May study spell [213]Firebolt to 30%
+              May study spell [214]Identify to 30%
+              May study spell [215]Summon lesser spores to 50%
+              May train skill [216]Cast channelling to 80%
+              May train skill [217]Quick chant to 10%
+              May train skill [218]Damage criticality to 20%
+              May train skill [219]Plant lore to racial maximum
+              May train skill [220]Cast fire to 80%
+              May train skill [221]Cast electricity to 60%
+              May train skill [222]Wandmaking to 10%
+              May train skill [223]Craft orb to racial maximum
+              May train skill [224]Cast information to 30%
+
+                                     Level 13
+           May study spell [225]Drain ally to 10%
+     May study spell [226]Energy vortex to 5%, special requirements:
+       * Has studied spell [227]Drain ally to at least 5%
+           May study spell [228]Drain item to 50%
+           May study spell [229]Shocking grasp to 70%
+     May study spell [230]Channelball to 20%, special requirements:
+       * Has trained skill [231]Cast magical to at least 20%
+     May study spell [232]Create herb to 20%, special requirements:
+       * Has trained skill [233]Plant lore to at least 35%
+           May study spell [234]Lightning bolt to 20%
+           May study spell [235]Firebolt to 40%
+           May study spell [236]Identify to 40%
+           May study spell [237]Summon lesser spores to 60%
+           May train skill [238]Cast channelling to racial maximum
+           May train skill [239]Quick chant to 15%
+           May train skill [240]Cast electricity to 70%
+           May train skill [241]Cast information to 40%
+           May train skill [242]Wandmaking to 20%
+
+                                      Level 14
+            May study spell [243]Drain ally to 20%
+     May study spell [244]Energy vortex to 10%, special requirements:
+       * Has studied spell [245]Drain ally to at least 15%
+            May study spell [246]Drain item to 60%
+            May study spell [247]Shocking grasp to racial maximum
+     May study spell [248]Channelball to 30%, special requirements:
+       * Has trained skill [249]Cast magical to at least 30%
+     May study spell [250]Create herb to 30%, special requirements:
+       * Has trained skill [251]Plant lore to at least 50%
+     May study spell [252]Channelburn to 10%, special requirements:
+       * Has trained skill [253]Cast fire to at least 10%
+            May study spell [254]Lightning bolt to 30%
+            May study spell [255]Firebolt to 50%
+            May study spell [256]Identify to 50%
+            May study spell [257]Summon lesser spores to 70%
+            May study spell [258]Transform golem to 10%
+            May train skill [259]Cast transformation to 10%
+            May train skill [260]Quick chant to 20%
+            May train skill [261]Damage criticality to 25%
+            May train skill [262]Cast electricity to 80%
+            May train skill [263]Cast information to 50%
+            May train skill [264]Wandmaking to 30%
+
+                                   Level 15
+         Has studied spell [265]Drain item to at least 40%
+         Has trained skill [266]Craft orb to at least 40%
+         May study spell [267]Drain ally to 30%
+     May study spell [268]Energy vortex to 15%, special requirements:
+       * Has studied spell [269]Drain ally to at least 25%
+         May study spell [270]Replenish ally to 10%
+         May study spell [271]Drain item to 70%
+     May study spell [272]Channelball to 40%, special requirements:
+       * Has trained skill [273]Cast magical to at least 40%
+     May study spell [274]Create herb to 40%, special requirements:
+       * Has trained skill [275]Plant lore to at least 65%
+     May study spell [276]Channelburn to 20%, special requirements:
+       * Has trained skill [277]Cast fire to at least 20%
+         May study spell [278]Lightning bolt to 40%
+         May study spell [279]Firebolt to 60%
+         May study spell [280]Summon lesser spores to racial maximum
+         May study spell [281]Transform golem to 20%
+         May train skill [282]Quick chant to 25%
+         May train skill [283]Mix salve to 15%
+         May train skill [284]Wandmaking to 40%
+         May train skill [285]Cast transformation to 20%
+
+                                        Level 16
+              May study spell [286]Drain ally to 40%
+     May study spell [287]Energy vortex to 20%, special requirements:
+       * Has studied spell [288]Drain ally to at least 35%
+              May study spell [289]Replenish ally to 20%
+              May study spell [290]Drain item to racial maximum
+     May study spell [291]Channelball to 50%, special requirements:
+       * Has trained skill [292]Cast magical to at least 50%
+     May study spell [293]Create herb to 50%, special requirements:
+       * Has trained skill [294]Plant lore to at least 80%
+     May study spell [295]Channelburn to 30%, special requirements:
+       * Has trained skill [296]Cast fire to at least 30%
+     May study spell [297]Channelbolt to 10%, special requirements:
+       * Has trained skill [298]Cast electricity to at least 10%
+              May study spell [299]Lightning bolt to 50%
+              May study spell [300]Firebolt to 70%
+              May study spell [301]Transform golem to 30%
+              May train skill [302]Quick chant to 30%
+              May train skill [303]Damage criticality to 30%
+              May train skill [304]Mix salve to 25%
+              May train skill [305]Wandmaking to 50%
+              May train skill [306]Cast transformation to 30%
+
+                                         Level 17
+               May study spell [307]Drain ally to 50%
+     May study spell [308]Energy vortex to 25%, special requirements:
+       * Has studied spell [309]Drain ally to at least 45%
+               May study spell [310]Replenish ally to 30%
+     May study spell [311]Channelball to 60%, special requirements:
+       * Has trained skill [312]Cast magical to at least 60%
+     May study spell [313]Channelburn to 40%, special requirements:
+       * Has trained skill [314]Cast fire to at least 40%
+     May study spell [315]Channelbolt to 20%, special requirements:
+       * Has trained skill [316]Cast electricity to at least 20%
+               May study spell [317]Lightning bolt to 60%
+               May study spell [318]Firebolt to racial maximum
+               May study spell [319]Transform golem to 40%
+               May study spell [320]Feather weight to 10%
+               May study spell [321]Golem heal to 20%
+               May train skill [322]Quick chant to 35%
+               May train skill [323]Mix salve to 35%
+               May train skill [324]Wandmaking to 60%
+               May train skill [325]Cast transformation to 40%
+
+                                           Level 18
+               May study spell [326]Drain ally to 60%
+     May study spell [327]Energy vortex to 30%, special requirements:
+       * Has studied spell [328]Drain ally to at least 55%
+               May study spell [329]Replenish ally to 40%
+     May study spell [330]Channelball to 70%, special requirements:
+       * Has trained skill [331]Cast magical to at least 70%
+     May study spell [332]Channelburn to 50%, special requirements:
+       * Has trained skill [333]Cast fire to at least 50%
+     May study spell [334]Channelbolt to 30%, special requirements:
+       * Has trained skill [335]Cast electricity to at least 30%
+               May study spell [336]Lightning bolt to 70%
+               May study spell [337]Transform golem to 50%
+               May study spell [338]Feather weight to 20%
+     May study spell [339]Greater light to 10%, special requirements:
+       * Has studied spell [340]Light to at least 10%
+     May study spell [341]Greater darkness to 10%, special requirements:
+       * Has studied spell [342]Darkness to at least 10%
+               May study spell [343]Golem heal to 30%
+               May train skill [344]Quick chant to 40%
+               May train skill [345]Damage criticality to 35%
+               May train skill [346]Cast transformation to 50%
+               May train skill [347]Mix salve to 50%
+               May train skill [348]Wandmaking to 70%
+               May train skill [349]Cast alchemy to 10%
+
+                                        Level 19
+            May study spell [350]Drain enemy to 10%
+            May study spell [351]Drain ally to 70%
+     May study spell [352]Energy vortex to 35%, special requirements:
+       * Has studied spell [353]Drain ally to at least 65%
+       * Has studied spell [354]Drain enemy to at least 5%
+            May study spell [355]Replenish ally to 50%
+     May study spell [356]Channelball to racial maximum, special
+   requirements:
+       * Has trained skill [357]Cast magical to at least 75%
+     May study spell [358]Channelburn to 60%, special requirements:
+       * Has trained skill [359]Cast fire to at least 60%
+     May study spell [360]Channelbolt to 40%, special requirements:
+       * Has trained skill [361]Cast electricity to at least 40%
+            May study spell [362]Lightning bolt to racial maximum
+            May study spell [363]Transform golem to 60%
+            May study spell [364]Feather weight to 30%
+     May study spell [365]Greater light to 20%, special requirements:
+       * Has studied spell [366]Light to at least 20%
+     May study spell [367]Greater darkness to 20%, special requirements:
+       * Has studied spell [368]Darkness to at least 20%
+            May study spell [369]Golem heal to 40%
+            May train skill [370]Quick chant to 45%
+            May train skill [371]Cast transformation to 60%
+            May train skill [372]Mix salve to 60%
+            May train skill [373]Wandmaking to racial maximum
+            May train skill [374]Cast alchemy to 20%
+
+                                          Level 20
+              Has studied spell [375]Channelball to at least 40%
+              Has studied spell [376]Drain ally to at least 40%
+              Has trained skill [377]Wandmaking to at least 40%
+              May study spell [378]Drain enemy to 20%
+              May study spell [379]Drain ally to racial maximum
+     May study spell [380]Energy vortex to 40%, special requirements:
+       * Has studied spell [381]Drain ally to at least 75%
+       * Has studied spell [382]Drain enemy to at least 15%
+              May study spell [383]Replenish ally to 60%
+     May study spell [384]Channelburn to 70%, special requirements:
+       * Has trained skill [385]Cast fire to at least 70%
+     May study spell [386]Channelbolt to 50%, special requirements:
+       * Has trained skill [387]Cast electricity to at least 50%
+     May study spell [388]Channelray to 10%, special requirements:
+       * Has studied spell [389]Channelball to at least 10%
+              May study spell [390]Transform golem to 70%
+              May study spell [391]Feather weight to 40%
+     May study spell [392]Greater light to 30%, special requirements:
+       * Has studied spell [393]Light to at least 30%
+     May study spell [394]Greater darkness to 30%, special requirements:
+       * Has studied spell [395]Darkness to at least 30%
+     May study spell [396]Item dispersion shield to 10%, special
+   requirements:
+       * Has studied spell [397]Drain item to at least 10%
+              May study spell [398]Personal force field to 10%
+              May study spell [399]Golem heal to 50%
+              May train skill [400]Quick chant to 50%
+              May train skill [401]Damage criticality to 40%
+              May train skill [402]Analysis of magic lore to 5%
+              May train skill [403]Mix salve to 70%
+              May train skill [404]Cast transformation to 70%
+              May train skill [405]Cast alchemy to 30%
+
+                                      Level 21
+          May study spell [406]Drain enemy to 30%
+     May study spell [407]Energy vortex to 45%, special requirements:
+       * Has studied spell [408]Drain ally to at least 75%
+       * Has studied spell [409]Drain enemy to at least 25%
+          May study spell [410]Replenish ally to 70%
+     May study spell [411]Channelburn to racial maximum, special
+   requirements:
+       * Has trained skill [412]Cast fire to at least 75%
+     May study spell [413]Channelbolt to 60%, special requirements:
+       * Has trained skill [414]Cast electricity to at least 60%
+     May study spell [415]Channelray to 20%, special requirements:
+       * Has studied spell [416]Channelball to at least 20%
+          May study spell [417]Transform golem to racial maximum
+          May study spell [418]Feather weight to 50%
+     May study spell [419]Greater light to 40%, special requirements:
+       * Has studied spell [420]Light to at least 40%
+     May study spell [421]Greater darkness to 40%, special requirements:
+       * Has studied spell [422]Darkness to at least 40%
+     May study spell [423]Item dispersion shield to 20%, special
+   requirements:
+       * Has studied spell [424]Drain item to at least 20%
+          May study spell [425]Personal force field to 20%
+          May study spell [426]Golem heal to 60%
+          May train skill [427]Quick chant to 55%
+          May train skill [428]Analysis of magic lore to 15%
+          May train skill [429]Mix salve to 80%
+          May train skill [430]Cast alchemy to 40%
+          May train skill [431]Cast transformation to racial maximum
+          May train skill [432]Flow of magic to 10%
+
+                                          Level 22
+              May study spell [433]Drain enemy to 40%
+     May study spell [434]Energy vortex to 50%, special requirements:
+       * Has studied spell [435]Drain ally to at least 75%
+       * Has studied spell [436]Drain enemy to at least 35%
+              May study spell [437]Replenish ally to 80%
+     May study spell [438]Channelbolt to 70%, special requirements:
+       * Has trained skill [439]Cast electricity to at least 70%
+     May study spell [440]Channelray to 30%, special requirements:
+       * Has studied spell [441]Channelball to at least 30%
+     May study spell [442]Channelspray to 10%, special requirements:
+       * Has studied spell [443]Channelburn to at least 10%
+              May study spell [444]Feather weight to 60%
+     May study spell [445]Greater light to 50%, special requirements:
+       * Has studied spell [446]Light to at least 50%
+     May study spell [447]Greater darkness to 50%, special requirements:
+       * Has studied spell [448]Darkness to at least 50%
+     May study spell [449]Item dispersion shield to 30%, special
+   requirements:
+       * Has studied spell [450]Drain item to at least 30%
+              May study spell [451]Personal force field to 30%
+              May study spell [452]Golem heal to 70%
+              May train skill [453]Quick chant to 60%
+              May train skill [454]Damage criticality to 45%
+              May train skill [455]Analysis of magic lore to 25%
+              May train skill [456]Mix salve to 90%
+              May train skill [457]Cast alchemy to 50%
+              May train skill [458]Flow of magic to 20%
+
+                                      Level 23
+            May study spell [459]Drain enemy to 50%
+     May study spell [460]Energy vortex to 55%, special requirements:
+       * Has studied spell [461]Drain ally to at least 75%
+       * Has studied spell [462]Drain enemy to at least 45%
+            May study spell [463]Replenish ally to racial maximum
+     May study spell [464]Channelbolt to 70%, special requirements:
+       * Has trained skill [465]Cast electricity to at least 70%
+     May study spell [466]Channelray to 40%, special requirements:
+       * Has studied spell [467]Channelball to at least 40%
+     May study spell [468]Channelspray to 20%, special requirements:
+       * Has studied spell [469]Channelburn to at least 20%
+            May study spell [470]Feather weight to 60%
+     May study spell [471]Item dispersion shield to 40%, special
+   requirements:
+       * Has studied spell [472]Drain item to at least 40%
+            May study spell [473]Personal force field to 40%
+            May study spell [474]Golem heal to 70%
+            May study spell [475]Animate golem to 10%
+            May train skill [476]Quick chant to 65%
+            May train skill [477]Analysis of magic lore to 25%
+            May train skill [478]Mix salve to 90%
+            May train skill [479]Flow of magic to 20%
+            May train skill [480]Mastery of channelling to 10%
+            May train skill [481]Mastery of draining to 10%
+
+                                        Level 24
+              May study spell [482]Drain enemy to 60%
+     May study spell [483]Energy vortex to 60%, special requirements:
+       * Has studied spell [484]Drain ally to at least 75%
+       * Has studied spell [485]Drain enemy to at least 55%
+     May study spell [486]Channelbolt to racial maximum, special
+   requirements:
+       * Has trained skill [487]Cast electricity to at least 75%
+     May study spell [488]Channelray to 50%, special requirements:
+       * Has studied spell [489]Channelball to at least 50%
+     May study spell [490]Channelspray to 30%, special requirements:
+       * Has studied spell [491]Channelburn to at least 30%
+              May study spell [492]Feather weight to 70%
+     May study spell [493]Item dispersion shield to 50%, special
+   requirements:
+       * Has studied spell [494]Drain item to at least 50%
+              May study spell [495]Personal force field to 50%
+              May study spell [496]Summon to 10%
+              May study spell [497]Golem heal to racial maximum
+              May study spell [498]Animate golem to 20%
+              May train skill [499]Quick chant to 70%
+              May train skill [500]Damage criticality to 50%
+              May train skill [501]Analysis of magic lore to 35%
+              May train skill [502]Mix salve to racial maximum
+              May train skill [503]Flow of magic to 30%
+              May train skill [504]Mastery of channelling to 20%
+              May train skill [505]Mastery of draining to 20%
+
+                                      Level 25
+            Has studied spell [506]Drain enemy to at least 40%
+            Has trained skill [507]Flow of magic to at least 20%
+            Has trained skill [508]Cast alchemy to at least 40%
+            May study spell [509]Drain enemy to 70%
+     May study spell [510]Energy vortex to 65%, special requirements:
+       * Has studied spell [511]Drain ally to at least 75%
+       * Has studied spell [512]Drain enemy to at least 65%
+     May study spell [513]Channelray to 60%, special requirements:
+       * Has studied spell [514]Channelball to at least 60%
+     May study spell [515]Channelspray to 40%, special requirements:
+       * Has studied spell [516]Channelburn to at least 40%
+            May study spell [517]Feather weight to racial maximum
+     May study spell [518]Item dispersion shield to 60%, special
+   requirements:
+       * Has studied spell [519]Drain item to at least 60%
+            May study spell [520]Personal force field to 60%
+            May study spell [521]Summon to 20%
+            May study spell [522]Animate golem to 30%
+            May train skill [523]Quick chant to 75%
+            May train skill [524]Analysis of magic lore to 45%
+            May train skill [525]Flow of magic to 40%
+            May train skill [526]Mastery of channelling to 30%
+            May train skill [527]Mastery of draining to 30%
+
+                                        Level 26
+              May study spell [528]Drain enemy to 80%
+     May study spell [529]Energy vortex to 70%, special requirements:
+       * Has studied spell [530]Drain ally to at least 75%
+       * Has studied spell [531]Drain enemy to at least 75%
+     May study spell [532]Channelray to 70%, special requirements:
+       * Has studied spell [533]Channelball to at least 70%
+     May study spell [534]Channelspray to 50%, special requirements:
+       * Has studied spell [535]Channelburn to at least 50%
+     May study spell [536]Item dispersion shield to 70%, special
+   requirements:
+       * Has studied spell [537]Drain item to at least 70%
+              May study spell [538]Personal force field to 70%
+              May study spell [539]Summon to 30%
+              May study spell [540]Animate golem to 40%
+              May train skill [541]Damage criticality to 55%
+              May train skill [542]Analysis of magic lore to 55%
+              May train skill [543]Flow of magic to 50%
+              May train skill [544]Mastery of channelling to 40%
+              May train skill [545]Mastery of draining to 40%
+
+                                   Level 27
+         May study spell [546]Drain enemy to racial maximum
+     May study spell [547]Energy vortex to 75%, special requirements:
+       * Has studied spell [548]Drain ally to at least 75%
+       * Has studied spell [549]Drain enemy to at least 75%
+     May study spell [550]Channelray to 80%, special requirements:
+       * Has studied spell [551]Channelball to at least 80%
+     May study spell [552]Channelspray to 60%, special requirements:
+       * Has studied spell [553]Channelburn to at least 60%
+     May study spell [554]Item dispersion shield to racial maximum,
+   special requirements:
+       * Has studied spell [555]Drain item to at least 80%
+         May study spell [556]Personal force field to racial maximum
+         May study spell [557]Summon to 40%
+         May study spell [558]Animate golem to 50%
+         May train skill [559]Analysis of magic lore to 65%
+         May train skill [560]Damage criticality to 60%
+         May train skill [561]Flow of magic to 60%
+         May train skill [562]Mastery of channelling to 50%
+         May train skill [563]Mastery of draining to 50%
+
+                                        Level 28
+     May study spell [564]Energy vortex to 80%, special requirements:
+       * Has studied spell [565]Drain ally to at least 75%
+       * Has studied spell [566]Drain enemy to at least 75%
+     May study spell [567]Channelray to racial maximum, special
+   requirements:
+       * Has studied spell [568]Channelball to at least 80%
+     May study spell [569]Channelspray to 70%, special requirements:
+       * Has studied spell [570]Channelburn to at least 70%
+              May study spell [571]Summon to 50%
+              May study spell [572]Animate golem to 60%
+              May train skill [573]Analysis of magic lore to 75%
+              May train skill [574]Damage criticality to 65%
+              May train skill [575]Flow of magic to 70%
+              May train skill [576]Mastery of channelling to 60%
+              May train skill [577]Mastery of draining to 60%
+
+                                  Level 29
+     May study spell [578]Energy vortex to 85%, special requirements:
+       * Has studied spell [579]Drain ally to at least 75%
+       * Has studied spell [580]Drain enemy to at least 75%
+     May study spell [581]Channelspray to 80%, special requirements:
+       * Has studied spell [582]Channelburn to at least 80%
+        May study spell [583]Animate golem to 70%
+        May train skill [584]Analysis of magic lore to racial maximum
+        May train skill [585]Damage criticality to 70%
+        May train skill [586]Flow of magic to 80%
+        May train skill [587]Mastery of channelling to 75%
+        May train skill [588]Mastery of draining to 75%
+
+                                 Level 30
+        Has studied spell [589]Channelray to at least 40%
+        Has studied spell [590]Animate golem to at least 40%
+        Has trained skill [591]Mastery of channelling to at least 40%
+        Has trained skill [592]Mastery of draining to at least 40%
+     May study spell [593]Energy vortex to racial maximum, special
+   requirements:
+       * Has studied spell [594]Drain ally to at least 75%
+       * Has studied spell [595]Drain enemy to at least 75%
+     May study spell [596]Channelspray to racial maximum, special
+   requirements:
+       * Has studied spell [597]Channelburn to at least 80%
+        May study spell [598]Animate golem to racial maximum
+        May train skill [599]Flow of magic to racial maximum
+        May train skill [600]Damage criticality to 75%
+        May train skill [601]Mastery of channelling to racial maximum
+        May train skill [602]Mastery of draining to racial maximum
+
+                   Allows joining to the following guild:
+                     The Guild of Channellers
+
+   [603]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [604]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Guild%20of%20Channellers&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Guild%20of%20Channellers&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Guild%20of%20Channellers&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=shinarae
+  23. http://www.bat.org/help/spells.php?str=darkness
+  24. http://www.bat.org/help/spells.php?str=light
+  25. http://www.bat.org/help/spells.php?str=energy_aura
+  26. http://www.bat.org/help/spells.php?str=see_magic
+  27. http://www.bat.org/help/skills.php?str=attack
+  28. http://www.bat.org/help/skills.php?str=cast_generic
+  29. http://www.bat.org/help/skills.php?str=essence_eye
+  30. http://www.bat.org/help/skills.php?str=short_blades
+  31. http://www.bat.org/help/skills.php?str=bludgeons
+  32. http://www.bat.org/help/skills.php?str=consider
+  33. http://www.bat.org/help/spells.php?str=darkness
+  34. http://www.bat.org/help/spells.php?str=light
+  35. http://www.bat.org/help/spells.php?str=energy_aura
+  36. http://www.bat.org/help/spells.php?str=drain_room
+  37. http://www.bat.org/help/spells.php?str=see_magic
+  38. http://www.bat.org/help/skills.php?str=attack
+  39. http://www.bat.org/help/skills.php?str=cast_generic
+  40. http://www.bat.org/help/skills.php?str=cast_channelling
+  41. http://www.bat.org/help/skills.php?str=short_blades
+  42. http://www.bat.org/help/skills.php?str=bludgeons
+  43. http://www.bat.org/help/skills.php?str=mana_control
+  44. http://www.bat.org/help/skills.php?str=consider
+  45. http://www.bat.org/help/spells.php?str=darkness
+  46. http://www.bat.org/help/spells.php?str=light
+  47. http://www.bat.org/help/spells.php?str=energy_aura
+  48. http://www.bat.org/help/spells.php?str=drain_room
+  49. http://www.bat.org/help/spells.php?str=magic_missile
+  50. http://www.bat.org/help/spells.php?str=word_of_recall
+  51. http://www.bat.org/help/spells.php?str=see_magic
+  52. http://www.bat.org/help/spells.php?str=floating
+  53. http://www.bat.org/help/skills.php?str=attack
+  54. http://www.bat.org/help/skills.php?str=plant_lore
+  55. http://www.bat.org/help/skills.php?str=cast_generic
+  56. http://www.bat.org/help/skills.php?str=cast_teleportation
+  57. http://www.bat.org/help/skills.php?str=cast_channelling
+  58. http://www.bat.org/help/skills.php?str=essence_eye
+  59. http://www.bat.org/help/skills.php?str=short_blades
+  60. http://www.bat.org/help/skills.php?str=bludgeons
+  61. http://www.bat.org/help/skills.php?str=mana_control
+  62. http://www.bat.org/help/skills.php?str=consider
+  63. http://www.bat.org/help/spells.php?str=darkness
+  64. http://www.bat.org/help/spells.php?str=light
+  65. http://www.bat.org/help/spells.php?str=energy_aura
+  66. http://www.bat.org/help/spells.php?str=drain_room
+  67. http://www.bat.org/help/spells.php?str=magic_missile
+  68. http://www.bat.org/help/spells.php?str=word_of_recall
+  69. http://www.bat.org/help/spells.php?str=floating
+  70. http://www.bat.org/help/spells.php?str=see_magic
+  71. http://www.bat.org/help/skills.php?str=attack
+  72. http://www.bat.org/help/skills.php?str=short_blades
+  73. http://www.bat.org/help/skills.php?str=bludgeons
+  74. http://www.bat.org/help/skills.php?str=cast_magical
+  75. http://www.bat.org/help/skills.php?str=cast_generic
+  76. http://www.bat.org/help/skills.php?str=plant_lore
+  77. http://www.bat.org/help/skills.php?str=cast_teleportation
+  78. http://www.bat.org/help/skills.php?str=cast_channelling
+  79. http://www.bat.org/help/skills.php?str=essence_eye
+  80. http://www.bat.org/help/skills.php?str=mana_control
+  81. http://www.bat.org/help/skills.php?str=consider
+  82. http://www.bat.org/help/skills.php?str=zapping
+  83. http://www.bat.org/help/skills.php?str=cast_generic
+  84. http://www.bat.org/help/skills.php?str=mana_control
+  85. http://www.bat.org/help/spells.php?str=energy_aura
+  86. http://www.bat.org/help/spells.php?str=flame_arrow
+  87. http://www.bat.org/help/spells.php?str=magic_missile
+  88. http://www.bat.org/help/spells.php?str=light
+  89. http://www.bat.org/help/spells.php?str=darkness
+  90. http://www.bat.org/help/spells.php?str=see_magic
+  91. http://www.bat.org/help/spells.php?str=energy_aura
+  92. http://www.bat.org/help/spells.php?str=drain_room
+  93. http://www.bat.org/help/spells.php?str=word_of_recall
+  94. http://www.bat.org/help/spells.php?str=floating
+  95. http://www.bat.org/help/skills.php?str=attack
+  96. http://www.bat.org/help/skills.php?str=short_blades
+  97. http://www.bat.org/help/skills.php?str=bludgeons
+  98. http://www.bat.org/help/skills.php?str=cast_generic
+  99. http://www.bat.org/help/skills.php?str=plant_lore
+ 100. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 101. http://www.bat.org/help/skills.php?str=cast_channelling
+ 102. http://www.bat.org/help/skills.php?str=cast_magical
+ 103. http://www.bat.org/help/skills.php?str=essence_eye
+ 104. http://www.bat.org/help/skills.php?str=mana_control
+ 105. http://www.bat.org/help/skills.php?str=zapping
+ 106. http://www.bat.org/help/skills.php?str=craft_orb
+ 107. http://www.bat.org/help/spells.php?str=energy_aura
+ 108. http://www.bat.org/help/spells.php?str=drain_room
+ 109. http://www.bat.org/help/spells.php?str=flame_arrow
+ 110. http://www.bat.org/help/spells.php?str=magic_missile
+ 111. http://www.bat.org/help/spells.php?str=word_of_recall
+ 112. http://www.bat.org/help/spells.php?str=floating
+ 113. http://www.bat.org/help/skills.php?str=cast_generic
+ 114. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 115. http://www.bat.org/help/skills.php?str=cast_channelling
+ 116. http://www.bat.org/help/skills.php?str=plant_lore
+ 117. http://www.bat.org/help/skills.php?str=cast_magical
+ 118. http://www.bat.org/help/skills.php?str=cast_fire
+ 119. http://www.bat.org/help/skills.php?str=mana_control
+ 120. http://www.bat.org/help/skills.php?str=essence_eye
+ 121. http://www.bat.org/help/skills.php?str=damage_criticality
+ 122. http://www.bat.org/help/skills.php?str=zapping
+ 123. http://www.bat.org/help/skills.php?str=craft_orb
+ 124. http://www.bat.org/help/spells.php?str=energy_aura
+ 125. http://www.bat.org/help/spells.php?str=drain_room
+ 126. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 127. http://www.bat.org/help/spells.php?str=flame_arrow
+ 128. http://www.bat.org/help/spells.php?str=magic_missile
+ 129. http://www.bat.org/help/spells.php?str=word_of_recall
+ 130. http://www.bat.org/help/spells.php?str=floating
+ 131. http://www.bat.org/help/skills.php?str=cast_generic
+ 132. http://www.bat.org/help/skills.php?str=plant_lore
+ 133. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 134. http://www.bat.org/help/skills.php?str=cast_magical
+ 135. http://www.bat.org/help/skills.php?str=cast_fire
+ 136. http://www.bat.org/help/skills.php?str=mana_control
+ 137. http://www.bat.org/help/skills.php?str=essence_eye
+ 138. http://www.bat.org/help/skills.php?str=zapping
+ 139. http://www.bat.org/help/skills.php?str=craft_orb
+ 140. http://www.bat.org/help/spells.php?str=drain_room
+ 141. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 142. http://www.bat.org/help/spells.php?str=flame_arrow
+ 143. http://www.bat.org/help/spells.php?str=magic_missile
+ 144. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 145. http://www.bat.org/help/spells.php?str=word_of_recall
+ 146. http://www.bat.org/help/spells.php?str=floating
+ 147. http://www.bat.org/help/skills.php?str=cast_generic
+ 148. http://www.bat.org/help/skills.php?str=plant_lore
+ 149. http://www.bat.org/help/skills.php?str=cast_magical
+ 150. http://www.bat.org/help/skills.php?str=cast_channelling
+ 151. http://www.bat.org/help/skills.php?str=cast_fire
+ 152. http://www.bat.org/help/skills.php?str=cast_electricity
+ 153. http://www.bat.org/help/skills.php?str=zapping
+ 154. http://www.bat.org/help/skills.php?str=damage_criticality
+ 155. http://www.bat.org/help/skills.php?str=craft_orb
+ 156. http://www.bat.org/help/spells.php?str=drain_item
+ 157. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 158. http://www.bat.org/help/spells.php?str=flame_arrow
+ 159. http://www.bat.org/help/spells.php?str=magic_missile
+ 160. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 161. http://www.bat.org/help/spells.php?str=word_of_recall
+ 162. http://www.bat.org/help/spells.php?str=floating
+ 163. http://www.bat.org/help/skills.php?str=plant_lore
+ 164. http://www.bat.org/help/skills.php?str=cast_magical
+ 165. http://www.bat.org/help/skills.php?str=cast_channelling
+ 166. http://www.bat.org/help/skills.php?str=cast_fire
+ 167. http://www.bat.org/help/skills.php?str=cast_electricity
+ 168. http://www.bat.org/help/skills.php?str=zapping
+ 169. http://www.bat.org/help/skills.php?str=craft_orb
+ 170. http://www.bat.org/help/spells.php?str=drain_room
+ 171. http://www.bat.org/help/skills.php?str=cast_channelling
+ 172. http://www.bat.org/help/skills.php?str=zapping
+ 173. http://www.bat.org/help/spells.php?str=drain_item
+ 174. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 175. http://www.bat.org/help/spells.php?str=flame_arrow
+ 176. http://www.bat.org/help/spells.php?str=magic_missile
+ 177. http://www.bat.org/help/spells.php?str=firebolt
+ 178. http://www.bat.org/help/spells.php?str=identify
+ 179. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 180. http://www.bat.org/help/spells.php?str=word_of_recall
+ 181. http://www.bat.org/help/spells.php?str=floating
+ 182. http://www.bat.org/help/skills.php?str=plant_lore
+ 183. http://www.bat.org/help/skills.php?str=cast_magical
+ 184. http://www.bat.org/help/skills.php?str=cast_channelling
+ 185. http://www.bat.org/help/skills.php?str=cast_fire
+ 186. http://www.bat.org/help/skills.php?str=cast_electricity
+ 187. http://www.bat.org/help/skills.php?str=zapping
+ 188. http://www.bat.org/help/skills.php?str=damage_criticality
+ 189. http://www.bat.org/help/skills.php?str=craft_orb
+ 190. http://www.bat.org/help/skills.php?str=cast_information
+ 191. http://www.bat.org/help/spells.php?str=drain_item
+ 192. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 193. http://www.bat.org/help/spells.php?str=flame_arrow
+ 194. http://www.bat.org/help/spells.php?str=firebolt
+ 195. http://www.bat.org/help/spells.php?str=identify
+ 196. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 197. http://www.bat.org/help/skills.php?str=cast_channelling
+ 198. http://www.bat.org/help/skills.php?str=quick_chant
+ 199. http://www.bat.org/help/skills.php?str=plant_lore
+ 200. http://www.bat.org/help/skills.php?str=cast_fire
+ 201. http://www.bat.org/help/skills.php?str=cast_electricity
+ 202. http://www.bat.org/help/skills.php?str=zapping
+ 203. http://www.bat.org/help/skills.php?str=craft_orb
+ 204. http://www.bat.org/help/skills.php?str=cast_information
+ 205. http://www.bat.org/help/spells.php?str=drain_item
+ 206. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 207. http://www.bat.org/help/spells.php?str=flame_arrow
+ 208. http://www.bat.org/help/spells.php?str=channelball
+ 209. http://www.bat.org/help/skills.php?str=cast_magical
+ 210. http://www.bat.org/help/spells.php?str=create_herb
+ 211. http://www.bat.org/help/skills.php?str=plant_lore
+ 212. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 213. http://www.bat.org/help/spells.php?str=firebolt
+ 214. http://www.bat.org/help/spells.php?str=identify
+ 215. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 216. http://www.bat.org/help/skills.php?str=cast_channelling
+ 217. http://www.bat.org/help/skills.php?str=quick_chant
+ 218. http://www.bat.org/help/skills.php?str=damage_criticality
+ 219. http://www.bat.org/help/skills.php?str=plant_lore
+ 220. http://www.bat.org/help/skills.php?str=cast_fire
+ 221. http://www.bat.org/help/skills.php?str=cast_electricity
+ 222. http://www.bat.org/help/skills.php?str=wandmaking
+ 223. http://www.bat.org/help/skills.php?str=craft_orb
+ 224. http://www.bat.org/help/skills.php?str=cast_information
+ 225. http://www.bat.org/help/spells.php?str=drain_ally
+ 226. http://www.bat.org/help/spells.php?str=energy_vortex
+ 227. http://www.bat.org/help/spells.php?str=drain_ally
+ 228. http://www.bat.org/help/spells.php?str=drain_item
+ 229. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 230. http://www.bat.org/help/spells.php?str=channelball
+ 231. http://www.bat.org/help/skills.php?str=cast_magical
+ 232. http://www.bat.org/help/spells.php?str=create_herb
+ 233. http://www.bat.org/help/skills.php?str=plant_lore
+ 234. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 235. http://www.bat.org/help/spells.php?str=firebolt
+ 236. http://www.bat.org/help/spells.php?str=identify
+ 237. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 238. http://www.bat.org/help/skills.php?str=cast_channelling
+ 239. http://www.bat.org/help/skills.php?str=quick_chant
+ 240. http://www.bat.org/help/skills.php?str=cast_electricity
+ 241. http://www.bat.org/help/skills.php?str=cast_information
+ 242. http://www.bat.org/help/skills.php?str=wandmaking
+ 243. http://www.bat.org/help/spells.php?str=drain_ally
+ 244. http://www.bat.org/help/spells.php?str=energy_vortex
+ 245. http://www.bat.org/help/spells.php?str=drain_ally
+ 246. http://www.bat.org/help/spells.php?str=drain_item
+ 247. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 248. http://www.bat.org/help/spells.php?str=channelball
+ 249. http://www.bat.org/help/skills.php?str=cast_magical
+ 250. http://www.bat.org/help/spells.php?str=create_herb
+ 251. http://www.bat.org/help/skills.php?str=plant_lore
+ 252. http://www.bat.org/help/spells.php?str=channelburn
+ 253. http://www.bat.org/help/skills.php?str=cast_fire
+ 254. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 255. http://www.bat.org/help/spells.php?str=firebolt
+ 256. http://www.bat.org/help/spells.php?str=identify
+ 257. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 258. http://www.bat.org/help/spells.php?str=transform_golem
+ 259. http://www.bat.org/help/skills.php?str=cast_transformation
+ 260. http://www.bat.org/help/skills.php?str=quick_chant
+ 261. http://www.bat.org/help/skills.php?str=damage_criticality
+ 262. http://www.bat.org/help/skills.php?str=cast_electricity
+ 263. http://www.bat.org/help/skills.php?str=cast_information
+ 264. http://www.bat.org/help/skills.php?str=wandmaking
+ 265. http://www.bat.org/help/spells.php?str=drain_item
+ 266. http://www.bat.org/help/skills.php?str=craft_orb
+ 267. http://www.bat.org/help/spells.php?str=drain_ally
+ 268. http://www.bat.org/help/spells.php?str=energy_vortex
+ 269. http://www.bat.org/help/spells.php?str=drain_ally
+ 270. http://www.bat.org/help/spells.php?str=replenish_ally
+ 271. http://www.bat.org/help/spells.php?str=drain_item
+ 272. http://www.bat.org/help/spells.php?str=channelball
+ 273. http://www.bat.org/help/skills.php?str=cast_magical
+ 274. http://www.bat.org/help/spells.php?str=create_herb
+ 275. http://www.bat.org/help/skills.php?str=plant_lore
+ 276. http://www.bat.org/help/spells.php?str=channelburn
+ 277. http://www.bat.org/help/skills.php?str=cast_fire
+ 278. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 279. http://www.bat.org/help/spells.php?str=firebolt
+ 280. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 281. http://www.bat.org/help/spells.php?str=transform_golem
+ 282. http://www.bat.org/help/skills.php?str=quick_chant
+ 283. http://www.bat.org/help/skills.php?str=mix_salve
+ 284. http://www.bat.org/help/skills.php?str=wandmaking
+ 285. http://www.bat.org/help/skills.php?str=cast_transformation
+ 286. http://www.bat.org/help/spells.php?str=drain_ally
+ 287. http://www.bat.org/help/spells.php?str=energy_vortex
+ 288. http://www.bat.org/help/spells.php?str=drain_ally
+ 289. http://www.bat.org/help/spells.php?str=replenish_ally
+ 290. http://www.bat.org/help/spells.php?str=drain_item
+ 291. http://www.bat.org/help/spells.php?str=channelball
+ 292. http://www.bat.org/help/skills.php?str=cast_magical
+ 293. http://www.bat.org/help/spells.php?str=create_herb
+ 294. http://www.bat.org/help/skills.php?str=plant_lore
+ 295. http://www.bat.org/help/spells.php?str=channelburn
+ 296. http://www.bat.org/help/skills.php?str=cast_fire
+ 297. http://www.bat.org/help/spells.php?str=channelbolt
+ 298. http://www.bat.org/help/skills.php?str=cast_electricity
+ 299. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 300. http://www.bat.org/help/spells.php?str=firebolt
+ 301. http://www.bat.org/help/spells.php?str=transform_golem
+ 302. http://www.bat.org/help/skills.php?str=quick_chant
+ 303. http://www.bat.org/help/skills.php?str=damage_criticality
+ 304. http://www.bat.org/help/skills.php?str=mix_salve
+ 305. http://www.bat.org/help/skills.php?str=wandmaking
+ 306. http://www.bat.org/help/skills.php?str=cast_transformation
+ 307. http://www.bat.org/help/spells.php?str=drain_ally
+ 308. http://www.bat.org/help/spells.php?str=energy_vortex
+ 309. http://www.bat.org/help/spells.php?str=drain_ally
+ 310. http://www.bat.org/help/spells.php?str=replenish_ally
+ 311. http://www.bat.org/help/spells.php?str=channelball
+ 312. http://www.bat.org/help/skills.php?str=cast_magical
+ 313. http://www.bat.org/help/spells.php?str=channelburn
+ 314. http://www.bat.org/help/skills.php?str=cast_fire
+ 315. http://www.bat.org/help/spells.php?str=channelbolt
+ 316. http://www.bat.org/help/skills.php?str=cast_electricity
+ 317. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 318. http://www.bat.org/help/spells.php?str=firebolt
+ 319. http://www.bat.org/help/spells.php?str=transform_golem
+ 320. http://www.bat.org/help/spells.php?str=feather_weight
+ 321. http://www.bat.org/help/spells.php?str=golem_heal
+ 322. http://www.bat.org/help/skills.php?str=quick_chant
+ 323. http://www.bat.org/help/skills.php?str=mix_salve
+ 324. http://www.bat.org/help/skills.php?str=wandmaking
+ 325. http://www.bat.org/help/skills.php?str=cast_transformation
+ 326. http://www.bat.org/help/spells.php?str=drain_ally
+ 327. http://www.bat.org/help/spells.php?str=energy_vortex
+ 328. http://www.bat.org/help/spells.php?str=drain_ally
+ 329. http://www.bat.org/help/spells.php?str=replenish_ally
+ 330. http://www.bat.org/help/spells.php?str=channelball
+ 331. http://www.bat.org/help/skills.php?str=cast_magical
+ 332. http://www.bat.org/help/spells.php?str=channelburn
+ 333. http://www.bat.org/help/skills.php?str=cast_fire
+ 334. http://www.bat.org/help/spells.php?str=channelbolt
+ 335. http://www.bat.org/help/skills.php?str=cast_electricity
+ 336. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 337. http://www.bat.org/help/spells.php?str=transform_golem
+ 338. http://www.bat.org/help/spells.php?str=feather_weight
+ 339. http://www.bat.org/help/spells.php?str=greater_light
+ 340. http://www.bat.org/help/spells.php?str=light
+ 341. http://www.bat.org/help/spells.php?str=greater_darkness
+ 342. http://www.bat.org/help/spells.php?str=darkness
+ 343. http://www.bat.org/help/spells.php?str=golem_heal
+ 344. http://www.bat.org/help/skills.php?str=quick_chant
+ 345. http://www.bat.org/help/skills.php?str=damage_criticality
+ 346. http://www.bat.org/help/skills.php?str=cast_transformation
+ 347. http://www.bat.org/help/skills.php?str=mix_salve
+ 348. http://www.bat.org/help/skills.php?str=wandmaking
+ 349. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 350. http://www.bat.org/help/spells.php?str=drain_enemy
+ 351. http://www.bat.org/help/spells.php?str=drain_ally
+ 352. http://www.bat.org/help/spells.php?str=energy_vortex
+ 353. http://www.bat.org/help/spells.php?str=drain_ally
+ 354. http://www.bat.org/help/spells.php?str=drain_enemy
+ 355. http://www.bat.org/help/spells.php?str=replenish_ally
+ 356. http://www.bat.org/help/spells.php?str=channelball
+ 357. http://www.bat.org/help/skills.php?str=cast_magical
+ 358. http://www.bat.org/help/spells.php?str=channelburn
+ 359. http://www.bat.org/help/skills.php?str=cast_fire
+ 360. http://www.bat.org/help/spells.php?str=channelbolt
+ 361. http://www.bat.org/help/skills.php?str=cast_electricity
+ 362. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 363. http://www.bat.org/help/spells.php?str=transform_golem
+ 364. http://www.bat.org/help/spells.php?str=feather_weight
+ 365. http://www.bat.org/help/spells.php?str=greater_light
+ 366. http://www.bat.org/help/spells.php?str=light
+ 367. http://www.bat.org/help/spells.php?str=greater_darkness
+ 368. http://www.bat.org/help/spells.php?str=darkness
+ 369. http://www.bat.org/help/spells.php?str=golem_heal
+ 370. http://www.bat.org/help/skills.php?str=quick_chant
+ 371. http://www.bat.org/help/skills.php?str=cast_transformation
+ 372. http://www.bat.org/help/skills.php?str=mix_salve
+ 373. http://www.bat.org/help/skills.php?str=wandmaking
+ 374. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 375. http://www.bat.org/help/spells.php?str=channelball
+ 376. http://www.bat.org/help/spells.php?str=drain_ally
+ 377. http://www.bat.org/help/skills.php?str=wandmaking
+ 378. http://www.bat.org/help/spells.php?str=drain_enemy
+ 379. http://www.bat.org/help/spells.php?str=drain_ally
+ 380. http://www.bat.org/help/spells.php?str=energy_vortex
+ 381. http://www.bat.org/help/spells.php?str=drain_ally
+ 382. http://www.bat.org/help/spells.php?str=drain_enemy
+ 383. http://www.bat.org/help/spells.php?str=replenish_ally
+ 384. http://www.bat.org/help/spells.php?str=channelburn
+ 385. http://www.bat.org/help/skills.php?str=cast_fire
+ 386. http://www.bat.org/help/spells.php?str=channelbolt
+ 387. http://www.bat.org/help/skills.php?str=cast_electricity
+ 388. http://www.bat.org/help/spells.php?str=channelray
+ 389. http://www.bat.org/help/spells.php?str=channelball
+ 390. http://www.bat.org/help/spells.php?str=transform_golem
+ 391. http://www.bat.org/help/spells.php?str=feather_weight
+ 392. http://www.bat.org/help/spells.php?str=greater_light
+ 393. http://www.bat.org/help/spells.php?str=light
+ 394. http://www.bat.org/help/spells.php?str=greater_darkness
+ 395. http://www.bat.org/help/spells.php?str=darkness
+ 396. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 397. http://www.bat.org/help/spells.php?str=drain_item
+ 398. http://www.bat.org/help/spells.php?str=personal_force_field
+ 399. http://www.bat.org/help/spells.php?str=golem_heal
+ 400. http://www.bat.org/help/skills.php?str=quick_chant
+ 401. http://www.bat.org/help/skills.php?str=damage_criticality
+ 402. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 403. http://www.bat.org/help/skills.php?str=mix_salve
+ 404. http://www.bat.org/help/skills.php?str=cast_transformation
+ 405. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 406. http://www.bat.org/help/spells.php?str=drain_enemy
+ 407. http://www.bat.org/help/spells.php?str=energy_vortex
+ 408. http://www.bat.org/help/spells.php?str=drain_ally
+ 409. http://www.bat.org/help/spells.php?str=drain_enemy
+ 410. http://www.bat.org/help/spells.php?str=replenish_ally
+ 411. http://www.bat.org/help/spells.php?str=channelburn
+ 412. http://www.bat.org/help/skills.php?str=cast_fire
+ 413. http://www.bat.org/help/spells.php?str=channelbolt
+ 414. http://www.bat.org/help/skills.php?str=cast_electricity
+ 415. http://www.bat.org/help/spells.php?str=channelray
+ 416. http://www.bat.org/help/spells.php?str=channelball
+ 417. http://www.bat.org/help/spells.php?str=transform_golem
+ 418. http://www.bat.org/help/spells.php?str=feather_weight
+ 419. http://www.bat.org/help/spells.php?str=greater_light
+ 420. http://www.bat.org/help/spells.php?str=light
+ 421. http://www.bat.org/help/spells.php?str=greater_darkness
+ 422. http://www.bat.org/help/spells.php?str=darkness
+ 423. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 424. http://www.bat.org/help/spells.php?str=drain_item
+ 425. http://www.bat.org/help/spells.php?str=personal_force_field
+ 426. http://www.bat.org/help/spells.php?str=golem_heal
+ 427. http://www.bat.org/help/skills.php?str=quick_chant
+ 428. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 429. http://www.bat.org/help/skills.php?str=mix_salve
+ 430. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 431. http://www.bat.org/help/skills.php?str=cast_transformation
+ 432. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 433. http://www.bat.org/help/spells.php?str=drain_enemy
+ 434. http://www.bat.org/help/spells.php?str=energy_vortex
+ 435. http://www.bat.org/help/spells.php?str=drain_ally
+ 436. http://www.bat.org/help/spells.php?str=drain_enemy
+ 437. http://www.bat.org/help/spells.php?str=replenish_ally
+ 438. http://www.bat.org/help/spells.php?str=channelbolt
+ 439. http://www.bat.org/help/skills.php?str=cast_electricity
+ 440. http://www.bat.org/help/spells.php?str=channelray
+ 441. http://www.bat.org/help/spells.php?str=channelball
+ 442. http://www.bat.org/help/spells.php?str=channelspray
+ 443. http://www.bat.org/help/spells.php?str=channelburn
+ 444. http://www.bat.org/help/spells.php?str=feather_weight
+ 445. http://www.bat.org/help/spells.php?str=greater_light
+ 446. http://www.bat.org/help/spells.php?str=light
+ 447. http://www.bat.org/help/spells.php?str=greater_darkness
+ 448. http://www.bat.org/help/spells.php?str=darkness
+ 449. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 450. http://www.bat.org/help/spells.php?str=drain_item
+ 451. http://www.bat.org/help/spells.php?str=personal_force_field
+ 452. http://www.bat.org/help/spells.php?str=golem_heal
+ 453. http://www.bat.org/help/skills.php?str=quick_chant
+ 454. http://www.bat.org/help/skills.php?str=damage_criticality
+ 455. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 456. http://www.bat.org/help/skills.php?str=mix_salve
+ 457. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 458. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 459. http://www.bat.org/help/spells.php?str=drain_enemy
+ 460. http://www.bat.org/help/spells.php?str=energy_vortex
+ 461. http://www.bat.org/help/spells.php?str=drain_ally
+ 462. http://www.bat.org/help/spells.php?str=drain_enemy
+ 463. http://www.bat.org/help/spells.php?str=replenish_ally
+ 464. http://www.bat.org/help/spells.php?str=channelbolt
+ 465. http://www.bat.org/help/skills.php?str=cast_electricity
+ 466. http://www.bat.org/help/spells.php?str=channelray
+ 467. http://www.bat.org/help/spells.php?str=channelball
+ 468. http://www.bat.org/help/spells.php?str=channelspray
+ 469. http://www.bat.org/help/spells.php?str=channelburn
+ 470. http://www.bat.org/help/spells.php?str=feather_weight
+ 471. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 472. http://www.bat.org/help/spells.php?str=drain_item
+ 473. http://www.bat.org/help/spells.php?str=personal_force_field
+ 474. http://www.bat.org/help/spells.php?str=golem_heal
+ 475. http://www.bat.org/help/spells.php?str=animate_golem
+ 476. http://www.bat.org/help/skills.php?str=quick_chant
+ 477. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 478. http://www.bat.org/help/skills.php?str=mix_salve
+ 479. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 480. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 481. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 482. http://www.bat.org/help/spells.php?str=drain_enemy
+ 483. http://www.bat.org/help/spells.php?str=energy_vortex
+ 484. http://www.bat.org/help/spells.php?str=drain_ally
+ 485. http://www.bat.org/help/spells.php?str=drain_enemy
+ 486. http://www.bat.org/help/spells.php?str=channelbolt
+ 487. http://www.bat.org/help/skills.php?str=cast_electricity
+ 488. http://www.bat.org/help/spells.php?str=channelray
+ 489. http://www.bat.org/help/spells.php?str=channelball
+ 490. http://www.bat.org/help/spells.php?str=channelspray
+ 491. http://www.bat.org/help/spells.php?str=channelburn
+ 492. http://www.bat.org/help/spells.php?str=feather_weight
+ 493. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 494. http://www.bat.org/help/spells.php?str=drain_item
+ 495. http://www.bat.org/help/spells.php?str=personal_force_field
+ 496. http://www.bat.org/help/spells.php?str=summon
+ 497. http://www.bat.org/help/spells.php?str=golem_heal
+ 498. http://www.bat.org/help/spells.php?str=animate_golem
+ 499. http://www.bat.org/help/skills.php?str=quick_chant
+ 500. http://www.bat.org/help/skills.php?str=damage_criticality
+ 501. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 502. http://www.bat.org/help/skills.php?str=mix_salve
+ 503. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 504. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 505. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 506. http://www.bat.org/help/spells.php?str=drain_enemy
+ 507. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 508. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 509. http://www.bat.org/help/spells.php?str=drain_enemy
+ 510. http://www.bat.org/help/spells.php?str=energy_vortex
+ 511. http://www.bat.org/help/spells.php?str=drain_ally
+ 512. http://www.bat.org/help/spells.php?str=drain_enemy
+ 513. http://www.bat.org/help/spells.php?str=channelray
+ 514. http://www.bat.org/help/spells.php?str=channelball
+ 515. http://www.bat.org/help/spells.php?str=channelspray
+ 516. http://www.bat.org/help/spells.php?str=channelburn
+ 517. http://www.bat.org/help/spells.php?str=feather_weight
+ 518. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 519. http://www.bat.org/help/spells.php?str=drain_item
+ 520. http://www.bat.org/help/spells.php?str=personal_force_field
+ 521. http://www.bat.org/help/spells.php?str=summon
+ 522. http://www.bat.org/help/spells.php?str=animate_golem
+ 523. http://www.bat.org/help/skills.php?str=quick_chant
+ 524. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 525. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 526. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 527. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 528. http://www.bat.org/help/spells.php?str=drain_enemy
+ 529. http://www.bat.org/help/spells.php?str=energy_vortex
+ 530. http://www.bat.org/help/spells.php?str=drain_ally
+ 531. http://www.bat.org/help/spells.php?str=drain_enemy
+ 532. http://www.bat.org/help/spells.php?str=channelray
+ 533. http://www.bat.org/help/spells.php?str=channelball
+ 534. http://www.bat.org/help/spells.php?str=channelspray
+ 535. http://www.bat.org/help/spells.php?str=channelburn
+ 536. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 537. http://www.bat.org/help/spells.php?str=drain_item
+ 538. http://www.bat.org/help/spells.php?str=personal_force_field
+ 539. http://www.bat.org/help/spells.php?str=summon
+ 540. http://www.bat.org/help/spells.php?str=animate_golem
+ 541. http://www.bat.org/help/skills.php?str=damage_criticality
+ 542. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 543. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 544. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 545. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 546. http://www.bat.org/help/spells.php?str=drain_enemy
+ 547. http://www.bat.org/help/spells.php?str=energy_vortex
+ 548. http://www.bat.org/help/spells.php?str=drain_ally
+ 549. http://www.bat.org/help/spells.php?str=drain_enemy
+ 550. http://www.bat.org/help/spells.php?str=channelray
+ 551. http://www.bat.org/help/spells.php?str=channelball
+ 552. http://www.bat.org/help/spells.php?str=channelspray
+ 553. http://www.bat.org/help/spells.php?str=channelburn
+ 554. http://www.bat.org/help/spells.php?str=item_dispersion_shield
+ 555. http://www.bat.org/help/spells.php?str=drain_item
+ 556. http://www.bat.org/help/spells.php?str=personal_force_field
+ 557. http://www.bat.org/help/spells.php?str=summon
+ 558. http://www.bat.org/help/spells.php?str=animate_golem
+ 559. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 560. http://www.bat.org/help/skills.php?str=damage_criticality
+ 561. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 562. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 563. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 564. http://www.bat.org/help/spells.php?str=energy_vortex
+ 565. http://www.bat.org/help/spells.php?str=drain_ally
+ 566. http://www.bat.org/help/spells.php?str=drain_enemy
+ 567. http://www.bat.org/help/spells.php?str=channelray
+ 568. http://www.bat.org/help/spells.php?str=channelball
+ 569. http://www.bat.org/help/spells.php?str=channelspray
+ 570. http://www.bat.org/help/spells.php?str=channelburn
+ 571. http://www.bat.org/help/spells.php?str=summon
+ 572. http://www.bat.org/help/spells.php?str=animate_golem
+ 573. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 574. http://www.bat.org/help/skills.php?str=damage_criticality
+ 575. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 576. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 577. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 578. http://www.bat.org/help/spells.php?str=energy_vortex
+ 579. http://www.bat.org/help/spells.php?str=drain_ally
+ 580. http://www.bat.org/help/spells.php?str=drain_enemy
+ 581. http://www.bat.org/help/spells.php?str=channelspray
+ 582. http://www.bat.org/help/spells.php?str=channelburn
+ 583. http://www.bat.org/help/spells.php?str=animate_golem
+ 584. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 585. http://www.bat.org/help/skills.php?str=damage_criticality
+ 586. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 587. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 588. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 589. http://www.bat.org/help/spells.php?str=channelray
+ 590. http://www.bat.org/help/spells.php?str=animate_golem
+ 591. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 592. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 593. http://www.bat.org/help/spells.php?str=energy_vortex
+ 594. http://www.bat.org/help/spells.php?str=drain_ally
+ 595. http://www.bat.org/help/spells.php?str=drain_enemy
+ 596. http://www.bat.org/help/spells.php?str=channelspray
+ 597. http://www.bat.org/help/spells.php?str=channelburn
+ 598. http://www.bat.org/help/spells.php?str=animate_golem
+ 599. http://www.bat.org/help/skills.php?str=flow_of_magic
+ 600. http://www.bat.org/help/skills.php?str=damage_criticality
+ 601. http://www.bat.org/help/skills.php?str=mastery_of_channelling
+ 602. http://www.bat.org/help/skills.php?str=mastery_of_draining
+ 603. http://www.bat.org/help/guilds.php
+ 604. mailto:webmaster@bat.org
+
+   Hidden links:
+ 605. http://www.bat.org/bat.php

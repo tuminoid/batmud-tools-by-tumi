@@ -1,0 +1,1328 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                     [fonter.php?str=Guild+of+Alchemy]
+
+                              Guild of Alchemy
+
+   Command: alchemists
+   Creator: [22]Lanfear
+   Maximum level: 30
+   Description:
+   Alchemists are born to create things. Being the inquisitive type they
+   love to
+   experiment. Often found wandering around searching for new forms of
+   minerals
+   and plant life, they strive to produce powerful potions and invent new
+   wonderful items. They have the ability to manipulate minerals to such
+   an
+   extent, that often people refer to them as magic-hands. Alchemists
+   tend to be
+   pacifist, and will prefer to defend themselves using powers learnt
+   through
+   their experiments. Despite being somewhat secretive, the alchemist
+   guild
+   always welcomes new members.
+
+                                 New Member
+                   Background must be civilized
+                   Receive a gift from the Guild of Alchemy
+                   May train skill [23]Plant lore to 20%
+                   May train skill [24]Cast generic to 20%
+                   May train skill [25]Attack to 10%
+                   May train skill [26]Dissection to 10%
+                   May train skill [27]Short blades to 10%
+                   May train skill [28]Gutblade to 5%
+                   May study spell [29]Detect race to 10%
+                   May train skill [30]Mix juice to 20%
+
+                                  Level 2
+               Has trained skill [31]Plant lore to at least 16%
+               Has trained skill [32]Dissection to at least 8%
+               May train skill [33]Plant lore to 40%
+               May train skill [34]Cast generic to 40%
+               May train skill [35]Attack to 20%
+               May train skill [36]Dissection to 20%
+               May train skill [37]Long blades to 10%
+               May train skill [38]Short blades to 20%
+               May train skill [39]Gutblade to 10%
+               May train skill [40]Consider to 10%
+               May study spell [41]Detect race to 20%
+               May train skill [42]Mix juice to 30%
+
+                                  Level 3
+               Has trained skill [43]Plant lore to at least 32%
+               Has trained skill [44]Dissection to at least 16%
+               May train skill [45]Plant lore to 60%
+               May train skill [46]Cast generic to 60%
+               May train skill [47]Attack to 30%
+               May train skill [48]Dissection to 30%
+               May train skill [49]Long blades to 20%
+               May train skill [50]Short blades to 30%
+               May train skill [51]Gutblade to 15%
+               May train skill [52]Consider to 20%
+               May study spell [53]Preserve corpse to 20%
+               May study spell [54]Detect race to 30%
+               May train skill [55]Mix juice to 40%
+
+                                  Level 4
+               Has trained skill [56]Plant lore to at least 48%
+               Has trained skill [57]Dissection to at least 24%
+               May train skill [58]Plant lore to 80%
+               May train skill [59]Cast generic to 80%
+               May train skill [60]Attack to 40%
+               May train skill [61]Dissection to 40%
+               May train skill [62]Long blades to 30%
+               May train skill [63]Short blades to 40%
+               May train skill [64]Gutblade to 20%
+               May train skill [65]Consider to 30%
+               May study spell [66]Preserve corpse to 40%
+               May study spell [67]Create money to 20%
+               May study spell [68]Detect race to 40%
+               May train skill [69]Mix juice to 50%
+
+                                  Level 5
+               Has trained skill [70]Plant lore to at least 64%
+               Has trained skill [71]Dissection to at least 32%
+               May train skill [72]Plant lore to 100%
+               May train skill [73]Cast generic to 100%
+               May train skill [74]Attack to 50%
+               May train skill [75]Dissection to 50%
+               May train skill [76]Long blades to 40%
+               May train skill [77]Short blades to 50%
+               May train skill [78]Gutblade to 25%
+               May train skill [79]Consider to 40%
+               May study spell [80]Preserve corpse to 60%
+               May study spell [81]Create money to 40%
+               May train skill [82]Mana control to 10%
+               May study spell [83]Detect race to 50%
+               May train skill [84]Mix juice to 60%
+
+                                  Level 6
+               Has trained skill [85]Dissection to at least 40%
+               May train skill [86]Attack to 60%
+               May train skill [87]Dissection to 60%
+               May train skill [88]Long blades to 50%
+               May train skill [89]Short blades to 60%
+               May train skill [90]Gutblade to 30%
+               May train skill [91]Consider to 50%
+               May study spell [92]Preserve corpse to 80%
+               May study spell [93]Create money to 60%
+               May train skill [94]Mana control to 20%
+               May study spell [95]Create herb to 5%
+               May train skill [96]Cast special to 10%
+               May study spell [97]Detect race to 60%
+               May train skill [98]Mix juice to 70%
+
+                                  Level 7
+               Has trained skill [99]Dissection to at least 48%
+               May train skill [100]Attack to 70%
+               May train skill [101]Dissection to 70%
+               May train skill [102]Long blades to 60%
+               May train skill [103]Short blades to 70%
+               May train skill [104]Gutblade to 35%
+               May train skill [105]Consider to 60%
+               May study spell [106]Preserve corpse to 100%
+               May study spell [107]Create money to 80%
+               May train skill [108]Mana control to 30%
+               May study spell [109]Create herb to 10%
+               May train skill [110]Cast special to 20%
+               May train skill [111]Cast information to 10%
+               May study spell [112]Detect race to 70%
+               May train skill [113]Mix juice to 80%
+
+                                 Level 8
+              Has trained skill [114]Dissection to at least 56%
+              May train skill [115]Dissection to 80%
+              May train skill [116]Long blades to 70%
+              May train skill [117]Short blades to 80%
+              May train skill [118]Gutblade to 40%
+              May train skill [119]Consider to 70%
+              May study spell [120]Create money to 100%
+              May train skill [121]Mana control to 40%
+              May study spell [122]Create herb to 15%
+              May train skill [123]Cast special to 30%
+              May train skill [124]Cast information to 20%
+              May train skill [125]Ceremony to 20%
+              May study spell [126]Detect race to 80%
+              May train skill [127]Mix juice to 90%
+
+                                 Level 9
+              Has trained skill [128]Dissection to at least 64%
+              May train skill [129]Dissection to 90%
+              May train skill [130]Gutblade to 45%
+              May train skill [131]Consider to 80%
+              May train skill [132]Mana control to 50%
+              May study spell [133]Create herb to 20%
+              May train skill [134]Cast special to 40%
+              May train skill [135]Cast information to 30%
+              May train skill [136]Ceremony to 40%
+              May study spell [137]Identify to 10%
+              May study spell [138]Detect race to 90%
+              May study spell [139]Aura detection to 10%
+              May train skill [140]Mix juice to 100%
+
+                                 Level 10
+              Has trained skill [141]Dissection to at least 72%
+              May train skill [142]Dissection to 100%
+              May train skill [143]Gutblade to 50%
+              May train skill [144]Consider to 90%
+              May train skill [145]Mana control to 60%
+              May study spell [146]Create herb to 25%
+              May train skill [147]Cast special to 50%
+              May train skill [148]Cast information to 40%
+              May train skill [149]Ceremony to 60%
+              May study spell [150]Identify to 20%
+              May study spell [151]Detect race to 100%
+              May study spell [152]Aura detection to 20%
+              May train skill [153]Mix drug to 10%
+              May train skill [154]Throw control to 5%
+              May study spell [155]Instant fermentation to 10%
+
+                                 Level 11
+             Has trained skill [156]Throw control to at least 4%
+             May train skill [157]Gutblade to 55%
+             May train skill [158]Consider to 100%
+             May study spell [159]Create herb to 30%
+             May train skill [160]Cast special to 60%
+             May train skill [161]Cast information to 50%
+             May train skill [162]Ceremony to 80%
+             May study spell [163]Identify to 30%
+             May study spell [164]Aura detection to 30%
+             May train skill [165]Make reagent to 10%
+             May train skill [166]Mix drug to 20%
+             May train skill [167]Throw control to 10%
+             May train skill [168]Mix potion to 5%
+             May train skill [169]Knowledge of alchemy to 5%
+             May study spell [170]Instant fermentation to 20%
+
+                                 Level 12
+          Has trained skill [171]Throw control to at least 8%
+          Has trained skill [172]Mix potion to at least 4%
+          Has trained skill [173]Knowledge of alchemy to at least 4%
+          May train skill [174]Gutblade to 60%
+          May study spell [175]Create herb to 35%
+          May train skill [176]Cast special to 70%
+          May train skill [177]Cast information to 60%
+          May train skill [178]Ceremony to 100%
+          May study spell [179]Identify to 40%
+          May study spell [180]Aura detection to 40%
+          May train skill [181]Make reagent to 20%
+          May train skill [182]Mix drug to 30%
+          May train skill [183]Throw control to 15%
+          May train skill [184]Mix potion to 10%
+          May train skill [185]Knowledge of alchemy to 10%
+          May train skill [186]Swift scalpel to 10%
+          May study spell [187]Instant fermentation to 30%
+
+                                 Level 13
+          Has trained skill [188]Throw control to at least 12%
+          Has trained skill [189]Mix potion to at least 8%
+          Has trained skill [190]Knowledge of alchemy to at least 8%
+          May train skill [191]Gutblade to 65%
+          May study spell [192]Create herb to 40%
+          May train skill [193]Cast special to 80%
+          May train skill [194]Cast information to 70%
+          May study spell [195]Identify to 50%
+          May study spell [196]Aura detection to 50%
+          May train skill [197]Make reagent to 30%
+          May train skill [198]Mix drug to 40%
+          May train skill [199]Throw control to 20%
+          May train skill [200]Mix potion to 15%
+          May train skill [201]Knowledge of alchemy to 15%
+          May train skill [202]Swift scalpel to 20%
+          May train skill [203]Decanting to 10%
+          May train skill [204]Recanting to 10%
+          May train skill [205]Mix salve to 10%
+          May study spell [206]Instant fermentation to 40%
+
+                                 Level 14
+         Has trained skill [207]Throw control to at least 16%
+         Has trained skill [208]Mix potion to at least 12%
+         Has trained skill [209]Knowledge of alchemy to at least 12%
+         May train skill [210]Gutblade to 70%
+         May study spell [211]Create herb to 45%
+         May train skill [212]Cast special to 90%
+         May train skill [213]Cast information to 80%
+         May study spell [214]Identify to 60%
+         May study spell [215]Aura detection to 60%
+         May train skill [216]Make reagent to 40%
+         May train skill [217]Mix drug to 50%
+         May train skill [218]Throw control to 25%
+         May train skill [219]Mix potion to 20%
+         May train skill [220]Knowledge of alchemy to 20%
+         May train skill [221]Swift scalpel to 30%
+         May train skill [222]Decanting to 20%
+         May train skill [223]Recanting to 20%
+         May train skill [224]Mix salve to 20%
+         May train skill [225]Cast alchemy to 20%
+         May study spell [226]Prepare flask to 10%
+         May study spell [227]Floating disc to 10%
+         May study spell [228]Instant fermentation to 50%
+
+                                 Level 15
+         Has trained skill [229]Throw control to at least 20%
+         Has trained skill [230]Mix potion to at least 16%
+         Has trained skill [231]Knowledge of alchemy to at least 16%
+         Has trained skill [232]Cast alchemy to at least 16%
+         Has studied spell [233]Prepare flask to at least 8%
+         May train skill [234]Gutblade to 75%
+         May study spell [235]Create herb to 50%
+         May train skill [236]Cast special to 100%
+         May train skill [237]Cast information to 90%
+         May study spell [238]Identify to 70%
+         May study spell [239]Aura detection to 70%
+         May train skill [240]Make reagent to 50%
+         May train skill [241]Mix drug to 60%
+         May train skill [242]Throw control to 30%
+         May train skill [243]Mix potion to 25%
+         May train skill [244]Knowledge of alchemy to 25%
+         May train skill [245]Swift scalpel to 40%
+         May train skill [246]Decanting to 30%
+         May train skill [247]Recanting to 30%
+         May train skill [248]Mix salve to 30%
+         May train skill [249]Cast alchemy to 40%
+         May study spell [250]Prepare flask to 20%
+         May study spell [251]Floating disc to 20%
+         May study spell [252]Patch item to 10%
+         May study spell [253]Water walking to 10%
+         May study spell [254]Instant fermentation to 60%
+
+                                 Level 16
+         Has trained skill [255]Throw control to at least 24%
+         Has trained skill [256]Mix potion to at least 20%
+         Has trained skill [257]Knowledge of alchemy to at least 20%
+         Has trained skill [258]Cast alchemy to at least 32%
+         Has studied spell [259]Prepare flask to at least 16%
+         May train skill [260]Gutblade to 80%
+         May study spell [261]Create herb to 55%
+         May train skill [262]Cast information to 100%
+         May study spell [263]Identify to 80%
+         May study spell [264]Aura detection to 80%
+         May train skill [265]Make reagent to 60%
+         May train skill [266]Mix drug to 70%
+         May train skill [267]Throw control to 35%
+         May train skill [268]Mix potion to 30%
+         May train skill [269]Knowledge of alchemy to 30%
+         May train skill [270]Swift scalpel to 50%
+         May train skill [271]Decanting to 40%
+         May train skill [272]Recanting to 40%
+         May train skill [273]Mix salve to 40%
+         May train skill [274]Cast alchemy to 60%
+         May study spell [275]Prepare flask to 30%
+         May study spell [276]Floating disc to 30%
+         May study spell [277]Patch item to 20%
+         May study spell [278]Water walking to 20%
+         May study spell [279]Instant fermentation to 70%
+
+                                 Level 17
+         Has trained skill [280]Throw control to at least 28%
+         Has trained skill [281]Mix potion to at least 24%
+         Has trained skill [282]Knowledge of alchemy to at least 24%
+         Has trained skill [283]Cast alchemy to at least 48%
+         Has studied spell [284]Prepare flask to at least 24%
+         May train skill [285]Gutblade to 85%
+         May study spell [286]Create herb to 60%
+         May study spell [287]Identify to 90%
+         May study spell [288]Aura detection to 90%
+         May train skill [289]Make reagent to 70%
+         May train skill [290]Mix drug to 80%
+         May train skill [291]Throw control to 40%
+         May train skill [292]Mix potion to 35%
+         May train skill [293]Knowledge of alchemy to 35%
+         May train skill [294]Swift scalpel to 60%
+         May train skill [295]Decanting to 50%
+         May train skill [296]Recanting to 50%
+         May train skill [297]Mix salve to 50%
+         May train skill [298]Cast alchemy to 80%
+         May study spell [299]Prepare flask to 40%
+         May study spell [300]Floating disc to 40%
+         May study spell [301]Patch item to 30%
+         May study spell [302]Water walking to 30%
+         May study spell [303]Dim to 10%
+         May study spell [304]Instant fermentation to 80%
+
+                                 Level 18
+         Has trained skill [305]Throw control to at least 32%
+         Has trained skill [306]Mix potion to at least 28%
+         Has trained skill [307]Knowledge of alchemy to at least 28%
+         Has trained skill [308]Cast alchemy to at least 64%
+         Has studied spell [309]Prepare flask to at least 32%
+         May train skill [310]Gutblade to 90%
+         May study spell [311]Create herb to 65%
+         May study spell [312]Identify to 100%
+         May study spell [313]Aura detection to 100%
+         May train skill [314]Make reagent to 80%
+         May train skill [315]Mix drug to 90%
+         May train skill [316]Throw control to 45%
+         May train skill [317]Mix potion to 40%
+         May train skill [318]Knowledge of alchemy to 40%
+         May train skill [319]Swift scalpel to 70%
+         May train skill [320]Decanting to 60%
+         May train skill [321]Recanting to 60%
+         May train skill [322]Mix salve to 60%
+         May train skill [323]Cast alchemy to 100%
+         May study spell [324]Prepare flask to 50%
+         May study spell [325]Floating disc to 50%
+         May study spell [326]Patch item to 40%
+         May study spell [327]Water walking to 40%
+         May study spell [328]Dim to 20%
+         May study spell [329]Glow to 10%
+         May study spell [330]Instant fermentation to 90%
+         May study spell [331]Blessing of intoxication to 10%
+         May study spell [332]Drunken stupor to 10%
+
+                                 Level 19
+         Has trained skill [333]Throw control to at least 36%
+         Has trained skill [334]Mix potion to at least 32%
+         Has trained skill [335]Knowledge of alchemy to at least 32%
+         Has studied spell [336]Prepare flask to at least 40%
+         May train skill [337]Gutblade to 95%
+         May study spell [338]Create herb to 70%
+         May train skill [339]Make reagent to 90%
+         May train skill [340]Mix drug to 100%
+         May train skill [341]Throw control to 50%
+         May train skill [342]Mix potion to 45%
+         May train skill [343]Knowledge of alchemy to 45%
+         May train skill [344]Swift scalpel to 80%
+         May train skill [345]Decanting to 70%
+         May train skill [346]Recanting to 70%
+         May train skill [347]Mix salve to 70%
+         May study spell [348]Prepare flask to 60%
+         May study spell [349]Floating disc to 60%
+         May study spell [350]Patch item to 50%
+         May study spell [351]Water walking to 50%
+         May study spell [352]Dim to 30%
+         May study spell [353]Glow to 20%
+         May study spell [354]Feather weight to 10%
+         May study spell [355]Instant fermentation to 100%
+         May study spell [356]Blessing of intoxication to 20%
+         May study spell [357]Drunken stupor to 20%
+
+                                 Level 20
+         Has trained skill [358]Throw control to at least 40%
+         Has trained skill [359]Mix potion to at least 36%
+         Has trained skill [360]Knowledge of alchemy to at least 36%
+         Has studied spell [361]Prepare flask to at least 48%
+         May train skill [362]Gutblade to 100%
+         May study spell [363]Create herb to 75%
+         May study spell [364]Lift of load to 10%
+         May train skill [365]Make reagent to 100%
+         May train skill [366]Throw control to 55%
+         May train skill [367]Mix potion to 50%
+         May train skill [368]Knowledge of alchemy to 50%
+         May train skill [369]Swift scalpel to 90%
+         May train skill [370]Decanting to 80%
+         May train skill [371]Recanting to 80%
+         May train skill [372]Mix salve to 80%
+         May study spell [373]Prepare flask to 70%
+         May study spell [374]Floating disc to 70%
+         May study spell [375]Patch item to 60%
+         May study spell [376]Water walking to 60%
+         May study spell [377]Dim to 40%
+         May study spell [378]Glow to 30%
+         May study spell [379]Feather weight to 20%
+         May study spell [380]Aegis to 10%
+         May study spell [381]Blessing of intoxication to 30%
+         May study spell [382]Drunken stupor to 30%
+
+                                 Level 21
+         Has trained skill [383]Throw control to at least 44%
+         Has trained skill [384]Mix potion to at least 40%
+         Has trained skill [385]Knowledge of alchemy to at least 40%
+         Has studied spell [386]Prepare flask to at least 56%
+         May study spell [387]Create herb to 80%
+         May study spell [388]Lift of load to 18%
+         May train skill [389]Throw control to 60%
+         May train skill [390]Mix potion to 55%
+         May train skill [391]Knowledge of alchemy to 55%
+         May train skill [392]Swift scalpel to 100%
+         May train skill [393]Decanting to 90%
+         May train skill [394]Recanting to 90%
+         May train skill [395]Mix salve to 90%
+         May study spell [396]Prepare flask to 80%
+         May study spell [397]Floating disc to 80%
+         May study spell [398]Patch item to 70%
+         May study spell [399]Water walking to 70%
+         May study spell [400]Dim to 50%
+         May study spell [401]Glow to 40%
+         May study spell [402]Feather weight to 30%
+         May study spell [403]Aegis to 20%
+         May study spell [404]Shift blade to 10%
+         May study spell [405]Summon homonculus to 10%
+         May study spell [406]Hangover cure to 10%
+         May study spell [407]Blessing of intoxication to 40%
+         May study spell [408]Drunken stupor to 40%
+         May train skill [409]Mix elixir to 10%
+
+                                 Level 22
+         Has trained skill [410]Throw control to at least 48%
+         Has trained skill [411]Mix potion to at least 44%
+         Has trained skill [412]Knowledge of alchemy to at least 44%
+         Has studied spell [413]Prepare flask to at least 64%
+         May study spell [414]Create herb to 85%
+         May study spell [415]Lift of load to 26%
+         May train skill [416]Throw control to 65%
+         May train skill [417]Mix potion to 60%
+         May train skill [418]Knowledge of alchemy to 60%
+         May train skill [419]Decanting to 100%
+         May train skill [420]Recanting to 100%
+         May train skill [421]Mix salve to 100%
+         May study spell [422]Prepare flask to 90%
+         May study spell [423]Floating disc to 90%
+         May study spell [424]Patch item to 80%
+         May study spell [425]Water walking to 80%
+         May study spell [426]Dim to 60%
+         May study spell [427]Glow to 50%
+         May study spell [428]Feather weight to 40%
+         May study spell [429]Aegis to 30%
+         May study spell [430]Shift blade to 20%
+         May study spell [431]Summon homonculus to 20%
+         May train skill [432]Essence eye to 20%
+         May study spell [433]Hangover cure to 20%
+         May study spell [434]Blessing of intoxication to 50%
+         May study spell [435]Drunken stupor to 50%
+         May train skill [436]Mix elixir to 20%
+
+                                 Level 23
+         Has trained skill [437]Throw control to at least 52%
+         Has trained skill [438]Mix potion to at least 48%
+         Has trained skill [439]Knowledge of alchemy to at least 48%
+         Has studied spell [440]Prepare flask to at least 72%
+         May study spell [441]Create herb to 90%
+         May study spell [442]Lift of load to 34%
+         May train skill [443]Throw control to 70%
+         May train skill [444]Mix potion to 65%
+         May train skill [445]Knowledge of alchemy to 65%
+         May study spell [446]Prepare flask to 100%
+         May study spell [447]Floating disc to 100%
+         May study spell [448]Patch item to 90%
+         May study spell [449]Water walking to 90%
+         May study spell [450]Dim to 70%
+         May study spell [451]Glow to 60%
+         May study spell [452]Feather weight to 50%
+         May study spell [453]Aegis to 40%
+         May train skill [454]Refining to 20%
+         May study spell [455]Shift blade to 30%
+         May study spell [456]Summon homonculus to 30%
+         May train skill [457]Essence eye to 40%
+         May train skill [458]Quick chant to 20%
+         May study spell [459]Hangover cure to 30%
+         May study spell [460]Blessing of intoxication to 60%
+         May study spell [461]Drunken stupor to 60%
+         May train skill [462]Mix elixir to 30%
+
+                                 Level 24
+         Has trained skill [463]Throw control to at least 56%
+         Has trained skill [464]Mix potion to at least 52%
+         Has trained skill [465]Knowledge of alchemy to at least 52%
+         May study spell [466]Create herb to 95%
+         May study spell [467]Lift of load to 42%
+         May train skill [468]Throw control to 75%
+         May train skill [469]Mix potion to 70%
+         May train skill [470]Knowledge of alchemy to 70%
+         May study spell [471]Patch item to 100%
+         May study spell [472]Water walking to 100%
+         May study spell [473]Dim to 80%
+         May study spell [474]Glow to 70%
+         May study spell [475]Feather weight to 60%
+         May study spell [476]Aegis to 50%
+         May train skill [477]Refining to 27%
+         May study spell [478]Shift blade to 40%
+         May study spell [479]Summon homonculus to 40%
+         May train skill [480]Essence eye to 60%
+         May train skill [481]Quick chant to 40%
+         May study spell [482]Hangover cure to 40%
+         May study spell [483]Blessing of intoxication to 70%
+         May study spell [484]Drunken stupor to 70%
+         May train skill [485]Mix elixir to 40%
+
+                                 Level 25
+         Has trained skill [486]Throw control to at least 60%
+         Has trained skill [487]Mix potion to at least 56%
+         Has trained skill [488]Knowledge of alchemy to at least 56%
+         May study spell [489]Create herb to 100%
+         May study spell [490]Lift of load to 50%
+         May train skill [491]Throw control to 80%
+         May train skill [492]Mix potion to 75%
+         May train skill [493]Knowledge of alchemy to 75%
+         May study spell [494]Dim to 90%
+         May study spell [495]Glow to 80%
+         May study spell [496]Feather weight to 70%
+         May study spell [497]Aegis to 60%
+         May train skill [498]Refining to 35%
+         May study spell [499]Shift blade to 50%
+         May study spell [500]Summon homonculus to 50%
+         May train skill [501]Essence eye to 80%
+         May train skill [502]Quick chant to 60%
+         May study spell [503]Hangover cure to 50%
+         May study spell [504]Blessing of intoxication to 80%
+         May study spell [505]Drunken stupor to 80%
+         May train skill [506]Mix elixir to 50%
+
+                                 Level 26
+         Has trained skill [507]Throw control to at least 64%
+         Has trained skill [508]Mix potion to at least 60%
+         Has trained skill [509]Knowledge of alchemy to at least 60%
+         May train skill [510]Throw control to 85%
+         May train skill [511]Mix potion to 80%
+         May train skill [512]Knowledge of alchemy to 80%
+         May study spell [513]Dim to 100%
+         May study spell [514]Glow to 90%
+         May study spell [515]Feather weight to 80%
+         May study spell [516]Aegis to 70%
+         May train skill [517]Refining to 43%
+         May study spell [518]Shift blade to 60%
+         May study spell [519]Summon homonculus to 60%
+         May train skill [520]Essence eye to 100%
+         May train skill [521]Blacksmithing to 10%
+         May train skill [522]Alloying to 20%
+         May train skill [523]Amalgamate to 20%
+         May train skill [524]Cannibalize to 20%
+         May study spell [525]Hangover cure to 60%
+         May study spell [526]Blessing of intoxication to 90%
+         May study spell [527]Drunken stupor to 90%
+         May train skill [528]Mix elixir to 60%
+
+                                 Level 27
+         Has trained skill [529]Throw control to at least 68%
+         Has trained skill [530]Mix potion to at least 64%
+         Has trained skill [531]Knowledge of alchemy to at least 64%
+         May train skill [532]Throw control to 90%
+         May train skill [533]Mix potion to 85%
+         May train skill [534]Knowledge of alchemy to 85%
+         May study spell [535]Glow to 100%
+         May study spell [536]Feather weight to 90%
+         May study spell [537]Aegis to 80%
+         May train skill [538]Refining to 51%
+         May study spell [539]Shift blade to 70%
+         May study spell [540]Summon homonculus to 70%
+         May train skill [541]Blacksmithing to 20%
+         May train skill [542]Alloying to 40%
+         May train skill [543]Amalgamate to 40%
+         May train skill [544]Cannibalize to 40%
+         May study spell [545]Mould ring to 25%
+         May study spell [546]Sneezing powder to 25%
+         May study spell [547]Hangover cure to 70%
+         May study spell [548]Blessing of intoxication to 100%
+         May study spell [549]Drunken stupor to 100%
+         May train skill [550]Mix elixir to 70%
+
+                                 Level 28
+         Has trained skill [551]Throw control to at least 72%
+         Has trained skill [552]Mix potion to at least 68%
+         Has trained skill [553]Knowledge of alchemy to at least 68%
+         May train skill [554]Throw control to 95%
+         May train skill [555]Mix potion to 90%
+         May train skill [556]Knowledge of alchemy to 90%
+         May study spell [557]Feather weight to 100%
+         May study spell [558]Aegis to 90%
+         May train skill [559]Refining to 59%
+         May study spell [560]Shift blade to 80%
+         May study spell [561]Summon homonculus to 80%
+         May train skill [562]Blacksmithing to 30%
+         May train skill [563]Alloying to 60%
+         May train skill [564]Amalgamate to 60%
+         May train skill [565]Cannibalize to 60%
+         May study spell [566]Mould ring to 50%
+         May study spell [567]Sneezing powder to 50%
+         May study spell [568]Hangover cure to 80%
+         May train skill [569]Mix elixir to 80%
+
+                                 Level 29
+         Has trained skill [570]Throw control to at least 76%
+         Has trained skill [571]Mix potion to at least 72%
+         Has trained skill [572]Knowledge of alchemy to at least 72%
+         May train skill [573]Throw control to 100%
+         May train skill [574]Mix potion to 95%
+         May train skill [575]Knowledge of alchemy to 95%
+         May study spell [576]Aegis to 100%
+         May train skill [577]Refining to 67%
+         May study spell [578]Shift blade to 90%
+         May study spell [579]Summon homonculus to 90%
+         May train skill [580]Blacksmithing to 40%
+         May train skill [581]Alloying to 80%
+         May train skill [582]Amalgamate to 80%
+         May train skill [583]Cannibalize to 80%
+         May study spell [584]Mould ring to 75%
+         May study spell [585]Sneezing powder to 75%
+         May study spell [586]Hangover cure to 90%
+         May train skill [587]Mix elixir to 90%
+
+                                 Level 30
+         Has trained skill [588]Mix potion to at least 76%
+         Has trained skill [589]Knowledge of alchemy to at least 76%
+         May train skill [590]Mix potion to 100%
+         May train skill [591]Knowledge of alchemy to 100%
+         May train skill [592]Refining to 75%
+         May study spell [593]Shift blade to 100%
+         May study spell [594]Summon homonculus to 100%
+         May train skill [595]Blacksmithing to 50%
+         May train skill [596]Alloying to 100%
+         May train skill [597]Amalgamate to 100%
+         May train skill [598]Cannibalize to 100%
+         May study spell [599]Mould ring to 100%
+         May study spell [600]Sneezing powder to 100%
+         May study spell [601]Hangover cure to 100%
+         May train skill [602]Mix elixir to 100%
+
+                   Allows joining to the following guild:
+                     Guild of Alchemy
+
+   [603]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [604]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=Guild%20of%20Alchemy&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=Guild%20of%20Alchemy&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=Guild%20of%20Alchemy&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=lanfear
+  23. http://www.bat.org/help/skills.php?str=plant_lore
+  24. http://www.bat.org/help/skills.php?str=cast_generic
+  25. http://www.bat.org/help/skills.php?str=attack
+  26. http://www.bat.org/help/skills.php?str=dissection
+  27. http://www.bat.org/help/skills.php?str=short_blades
+  28. http://www.bat.org/help/skills.php?str=gutblade
+  29. http://www.bat.org/help/spells.php?str=detect_race
+  30. http://www.bat.org/help/skills.php?str=mix_juice
+  31. http://www.bat.org/help/skills.php?str=plant_lore
+  32. http://www.bat.org/help/skills.php?str=dissection
+  33. http://www.bat.org/help/skills.php?str=plant_lore
+  34. http://www.bat.org/help/skills.php?str=cast_generic
+  35. http://www.bat.org/help/skills.php?str=attack
+  36. http://www.bat.org/help/skills.php?str=dissection
+  37. http://www.bat.org/help/skills.php?str=long_blades
+  38. http://www.bat.org/help/skills.php?str=short_blades
+  39. http://www.bat.org/help/skills.php?str=gutblade
+  40. http://www.bat.org/help/skills.php?str=consider
+  41. http://www.bat.org/help/spells.php?str=detect_race
+  42. http://www.bat.org/help/skills.php?str=mix_juice
+  43. http://www.bat.org/help/skills.php?str=plant_lore
+  44. http://www.bat.org/help/skills.php?str=dissection
+  45. http://www.bat.org/help/skills.php?str=plant_lore
+  46. http://www.bat.org/help/skills.php?str=cast_generic
+  47. http://www.bat.org/help/skills.php?str=attack
+  48. http://www.bat.org/help/skills.php?str=dissection
+  49. http://www.bat.org/help/skills.php?str=long_blades
+  50. http://www.bat.org/help/skills.php?str=short_blades
+  51. http://www.bat.org/help/skills.php?str=gutblade
+  52. http://www.bat.org/help/skills.php?str=consider
+  53. http://www.bat.org/help/spells.php?str=preserve_corpse
+  54. http://www.bat.org/help/spells.php?str=detect_race
+  55. http://www.bat.org/help/skills.php?str=mix_juice
+  56. http://www.bat.org/help/skills.php?str=plant_lore
+  57. http://www.bat.org/help/skills.php?str=dissection
+  58. http://www.bat.org/help/skills.php?str=plant_lore
+  59. http://www.bat.org/help/skills.php?str=cast_generic
+  60. http://www.bat.org/help/skills.php?str=attack
+  61. http://www.bat.org/help/skills.php?str=dissection
+  62. http://www.bat.org/help/skills.php?str=long_blades
+  63. http://www.bat.org/help/skills.php?str=short_blades
+  64. http://www.bat.org/help/skills.php?str=gutblade
+  65. http://www.bat.org/help/skills.php?str=consider
+  66. http://www.bat.org/help/spells.php?str=preserve_corpse
+  67. http://www.bat.org/help/spells.php?str=create_money
+  68. http://www.bat.org/help/spells.php?str=detect_race
+  69. http://www.bat.org/help/skills.php?str=mix_juice
+  70. http://www.bat.org/help/skills.php?str=plant_lore
+  71. http://www.bat.org/help/skills.php?str=dissection
+  72. http://www.bat.org/help/skills.php?str=plant_lore
+  73. http://www.bat.org/help/skills.php?str=cast_generic
+  74. http://www.bat.org/help/skills.php?str=attack
+  75. http://www.bat.org/help/skills.php?str=dissection
+  76. http://www.bat.org/help/skills.php?str=long_blades
+  77. http://www.bat.org/help/skills.php?str=short_blades
+  78. http://www.bat.org/help/skills.php?str=gutblade
+  79. http://www.bat.org/help/skills.php?str=consider
+  80. http://www.bat.org/help/spells.php?str=preserve_corpse
+  81. http://www.bat.org/help/spells.php?str=create_money
+  82. http://www.bat.org/help/skills.php?str=mana_control
+  83. http://www.bat.org/help/spells.php?str=detect_race
+  84. http://www.bat.org/help/skills.php?str=mix_juice
+  85. http://www.bat.org/help/skills.php?str=dissection
+  86. http://www.bat.org/help/skills.php?str=attack
+  87. http://www.bat.org/help/skills.php?str=dissection
+  88. http://www.bat.org/help/skills.php?str=long_blades
+  89. http://www.bat.org/help/skills.php?str=short_blades
+  90. http://www.bat.org/help/skills.php?str=gutblade
+  91. http://www.bat.org/help/skills.php?str=consider
+  92. http://www.bat.org/help/spells.php?str=preserve_corpse
+  93. http://www.bat.org/help/spells.php?str=create_money
+  94. http://www.bat.org/help/skills.php?str=mana_control
+  95. http://www.bat.org/help/spells.php?str=create_herb
+  96. http://www.bat.org/help/skills.php?str=cast_special
+  97. http://www.bat.org/help/spells.php?str=detect_race
+  98. http://www.bat.org/help/skills.php?str=mix_juice
+  99. http://www.bat.org/help/skills.php?str=dissection
+ 100. http://www.bat.org/help/skills.php?str=attack
+ 101. http://www.bat.org/help/skills.php?str=dissection
+ 102. http://www.bat.org/help/skills.php?str=long_blades
+ 103. http://www.bat.org/help/skills.php?str=short_blades
+ 104. http://www.bat.org/help/skills.php?str=gutblade
+ 105. http://www.bat.org/help/skills.php?str=consider
+ 106. http://www.bat.org/help/spells.php?str=preserve_corpse
+ 107. http://www.bat.org/help/spells.php?str=create_money
+ 108. http://www.bat.org/help/skills.php?str=mana_control
+ 109. http://www.bat.org/help/spells.php?str=create_herb
+ 110. http://www.bat.org/help/skills.php?str=cast_special
+ 111. http://www.bat.org/help/skills.php?str=cast_information
+ 112. http://www.bat.org/help/spells.php?str=detect_race
+ 113. http://www.bat.org/help/skills.php?str=mix_juice
+ 114. http://www.bat.org/help/skills.php?str=dissection
+ 115. http://www.bat.org/help/skills.php?str=dissection
+ 116. http://www.bat.org/help/skills.php?str=long_blades
+ 117. http://www.bat.org/help/skills.php?str=short_blades
+ 118. http://www.bat.org/help/skills.php?str=gutblade
+ 119. http://www.bat.org/help/skills.php?str=consider
+ 120. http://www.bat.org/help/spells.php?str=create_money
+ 121. http://www.bat.org/help/skills.php?str=mana_control
+ 122. http://www.bat.org/help/spells.php?str=create_herb
+ 123. http://www.bat.org/help/skills.php?str=cast_special
+ 124. http://www.bat.org/help/skills.php?str=cast_information
+ 125. http://www.bat.org/help/skills.php?str=ceremony
+ 126. http://www.bat.org/help/spells.php?str=detect_race
+ 127. http://www.bat.org/help/skills.php?str=mix_juice
+ 128. http://www.bat.org/help/skills.php?str=dissection
+ 129. http://www.bat.org/help/skills.php?str=dissection
+ 130. http://www.bat.org/help/skills.php?str=gutblade
+ 131. http://www.bat.org/help/skills.php?str=consider
+ 132. http://www.bat.org/help/skills.php?str=mana_control
+ 133. http://www.bat.org/help/spells.php?str=create_herb
+ 134. http://www.bat.org/help/skills.php?str=cast_special
+ 135. http://www.bat.org/help/skills.php?str=cast_information
+ 136. http://www.bat.org/help/skills.php?str=ceremony
+ 137. http://www.bat.org/help/spells.php?str=identify
+ 138. http://www.bat.org/help/spells.php?str=detect_race
+ 139. http://www.bat.org/help/spells.php?str=aura_detection
+ 140. http://www.bat.org/help/skills.php?str=mix_juice
+ 141. http://www.bat.org/help/skills.php?str=dissection
+ 142. http://www.bat.org/help/skills.php?str=dissection
+ 143. http://www.bat.org/help/skills.php?str=gutblade
+ 144. http://www.bat.org/help/skills.php?str=consider
+ 145. http://www.bat.org/help/skills.php?str=mana_control
+ 146. http://www.bat.org/help/spells.php?str=create_herb
+ 147. http://www.bat.org/help/skills.php?str=cast_special
+ 148. http://www.bat.org/help/skills.php?str=cast_information
+ 149. http://www.bat.org/help/skills.php?str=ceremony
+ 150. http://www.bat.org/help/spells.php?str=identify
+ 151. http://www.bat.org/help/spells.php?str=detect_race
+ 152. http://www.bat.org/help/spells.php?str=aura_detection
+ 153. http://www.bat.org/help/skills.php?str=mix_drug
+ 154. http://www.bat.org/help/skills.php?str=throw_control
+ 155. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 156. http://www.bat.org/help/skills.php?str=throw_control
+ 157. http://www.bat.org/help/skills.php?str=gutblade
+ 158. http://www.bat.org/help/skills.php?str=consider
+ 159. http://www.bat.org/help/spells.php?str=create_herb
+ 160. http://www.bat.org/help/skills.php?str=cast_special
+ 161. http://www.bat.org/help/skills.php?str=cast_information
+ 162. http://www.bat.org/help/skills.php?str=ceremony
+ 163. http://www.bat.org/help/spells.php?str=identify
+ 164. http://www.bat.org/help/spells.php?str=aura_detection
+ 165. http://www.bat.org/help/skills.php?str=make_reagent
+ 166. http://www.bat.org/help/skills.php?str=mix_drug
+ 167. http://www.bat.org/help/skills.php?str=throw_control
+ 168. http://www.bat.org/help/skills.php?str=mix_potion
+ 169. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 170. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 171. http://www.bat.org/help/skills.php?str=throw_control
+ 172. http://www.bat.org/help/skills.php?str=mix_potion
+ 173. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 174. http://www.bat.org/help/skills.php?str=gutblade
+ 175. http://www.bat.org/help/spells.php?str=create_herb
+ 176. http://www.bat.org/help/skills.php?str=cast_special
+ 177. http://www.bat.org/help/skills.php?str=cast_information
+ 178. http://www.bat.org/help/skills.php?str=ceremony
+ 179. http://www.bat.org/help/spells.php?str=identify
+ 180. http://www.bat.org/help/spells.php?str=aura_detection
+ 181. http://www.bat.org/help/skills.php?str=make_reagent
+ 182. http://www.bat.org/help/skills.php?str=mix_drug
+ 183. http://www.bat.org/help/skills.php?str=throw_control
+ 184. http://www.bat.org/help/skills.php?str=mix_potion
+ 185. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 186. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 187. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 188. http://www.bat.org/help/skills.php?str=throw_control
+ 189. http://www.bat.org/help/skills.php?str=mix_potion
+ 190. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 191. http://www.bat.org/help/skills.php?str=gutblade
+ 192. http://www.bat.org/help/spells.php?str=create_herb
+ 193. http://www.bat.org/help/skills.php?str=cast_special
+ 194. http://www.bat.org/help/skills.php?str=cast_information
+ 195. http://www.bat.org/help/spells.php?str=identify
+ 196. http://www.bat.org/help/spells.php?str=aura_detection
+ 197. http://www.bat.org/help/skills.php?str=make_reagent
+ 198. http://www.bat.org/help/skills.php?str=mix_drug
+ 199. http://www.bat.org/help/skills.php?str=throw_control
+ 200. http://www.bat.org/help/skills.php?str=mix_potion
+ 201. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 202. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 203. http://www.bat.org/help/skills.php?str=decanting
+ 204. http://www.bat.org/help/skills.php?str=recanting
+ 205. http://www.bat.org/help/skills.php?str=mix_salve
+ 206. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 207. http://www.bat.org/help/skills.php?str=throw_control
+ 208. http://www.bat.org/help/skills.php?str=mix_potion
+ 209. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 210. http://www.bat.org/help/skills.php?str=gutblade
+ 211. http://www.bat.org/help/spells.php?str=create_herb
+ 212. http://www.bat.org/help/skills.php?str=cast_special
+ 213. http://www.bat.org/help/skills.php?str=cast_information
+ 214. http://www.bat.org/help/spells.php?str=identify
+ 215. http://www.bat.org/help/spells.php?str=aura_detection
+ 216. http://www.bat.org/help/skills.php?str=make_reagent
+ 217. http://www.bat.org/help/skills.php?str=mix_drug
+ 218. http://www.bat.org/help/skills.php?str=throw_control
+ 219. http://www.bat.org/help/skills.php?str=mix_potion
+ 220. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 221. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 222. http://www.bat.org/help/skills.php?str=decanting
+ 223. http://www.bat.org/help/skills.php?str=recanting
+ 224. http://www.bat.org/help/skills.php?str=mix_salve
+ 225. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 226. http://www.bat.org/help/spells.php?str=prepare_flask
+ 227. http://www.bat.org/help/spells.php?str=floating_disc
+ 228. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 229. http://www.bat.org/help/skills.php?str=throw_control
+ 230. http://www.bat.org/help/skills.php?str=mix_potion
+ 231. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 232. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 233. http://www.bat.org/help/spells.php?str=prepare_flask
+ 234. http://www.bat.org/help/skills.php?str=gutblade
+ 235. http://www.bat.org/help/spells.php?str=create_herb
+ 236. http://www.bat.org/help/skills.php?str=cast_special
+ 237. http://www.bat.org/help/skills.php?str=cast_information
+ 238. http://www.bat.org/help/spells.php?str=identify
+ 239. http://www.bat.org/help/spells.php?str=aura_detection
+ 240. http://www.bat.org/help/skills.php?str=make_reagent
+ 241. http://www.bat.org/help/skills.php?str=mix_drug
+ 242. http://www.bat.org/help/skills.php?str=throw_control
+ 243. http://www.bat.org/help/skills.php?str=mix_potion
+ 244. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 245. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 246. http://www.bat.org/help/skills.php?str=decanting
+ 247. http://www.bat.org/help/skills.php?str=recanting
+ 248. http://www.bat.org/help/skills.php?str=mix_salve
+ 249. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 250. http://www.bat.org/help/spells.php?str=prepare_flask
+ 251. http://www.bat.org/help/spells.php?str=floating_disc
+ 252. http://www.bat.org/help/spells.php?str=patch_item
+ 253. http://www.bat.org/help/spells.php?str=water_walking
+ 254. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 255. http://www.bat.org/help/skills.php?str=throw_control
+ 256. http://www.bat.org/help/skills.php?str=mix_potion
+ 257. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 258. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 259. http://www.bat.org/help/spells.php?str=prepare_flask
+ 260. http://www.bat.org/help/skills.php?str=gutblade
+ 261. http://www.bat.org/help/spells.php?str=create_herb
+ 262. http://www.bat.org/help/skills.php?str=cast_information
+ 263. http://www.bat.org/help/spells.php?str=identify
+ 264. http://www.bat.org/help/spells.php?str=aura_detection
+ 265. http://www.bat.org/help/skills.php?str=make_reagent
+ 266. http://www.bat.org/help/skills.php?str=mix_drug
+ 267. http://www.bat.org/help/skills.php?str=throw_control
+ 268. http://www.bat.org/help/skills.php?str=mix_potion
+ 269. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 270. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 271. http://www.bat.org/help/skills.php?str=decanting
+ 272. http://www.bat.org/help/skills.php?str=recanting
+ 273. http://www.bat.org/help/skills.php?str=mix_salve
+ 274. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 275. http://www.bat.org/help/spells.php?str=prepare_flask
+ 276. http://www.bat.org/help/spells.php?str=floating_disc
+ 277. http://www.bat.org/help/spells.php?str=patch_item
+ 278. http://www.bat.org/help/spells.php?str=water_walking
+ 279. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 280. http://www.bat.org/help/skills.php?str=throw_control
+ 281. http://www.bat.org/help/skills.php?str=mix_potion
+ 282. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 283. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 284. http://www.bat.org/help/spells.php?str=prepare_flask
+ 285. http://www.bat.org/help/skills.php?str=gutblade
+ 286. http://www.bat.org/help/spells.php?str=create_herb
+ 287. http://www.bat.org/help/spells.php?str=identify
+ 288. http://www.bat.org/help/spells.php?str=aura_detection
+ 289. http://www.bat.org/help/skills.php?str=make_reagent
+ 290. http://www.bat.org/help/skills.php?str=mix_drug
+ 291. http://www.bat.org/help/skills.php?str=throw_control
+ 292. http://www.bat.org/help/skills.php?str=mix_potion
+ 293. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 294. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 295. http://www.bat.org/help/skills.php?str=decanting
+ 296. http://www.bat.org/help/skills.php?str=recanting
+ 297. http://www.bat.org/help/skills.php?str=mix_salve
+ 298. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 299. http://www.bat.org/help/spells.php?str=prepare_flask
+ 300. http://www.bat.org/help/spells.php?str=floating_disc
+ 301. http://www.bat.org/help/spells.php?str=patch_item
+ 302. http://www.bat.org/help/spells.php?str=water_walking
+ 303. http://www.bat.org/help/spells.php?str=dim
+ 304. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 305. http://www.bat.org/help/skills.php?str=throw_control
+ 306. http://www.bat.org/help/skills.php?str=mix_potion
+ 307. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 308. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 309. http://www.bat.org/help/spells.php?str=prepare_flask
+ 310. http://www.bat.org/help/skills.php?str=gutblade
+ 311. http://www.bat.org/help/spells.php?str=create_herb
+ 312. http://www.bat.org/help/spells.php?str=identify
+ 313. http://www.bat.org/help/spells.php?str=aura_detection
+ 314. http://www.bat.org/help/skills.php?str=make_reagent
+ 315. http://www.bat.org/help/skills.php?str=mix_drug
+ 316. http://www.bat.org/help/skills.php?str=throw_control
+ 317. http://www.bat.org/help/skills.php?str=mix_potion
+ 318. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 319. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 320. http://www.bat.org/help/skills.php?str=decanting
+ 321. http://www.bat.org/help/skills.php?str=recanting
+ 322. http://www.bat.org/help/skills.php?str=mix_salve
+ 323. http://www.bat.org/help/skills.php?str=cast_alchemy
+ 324. http://www.bat.org/help/spells.php?str=prepare_flask
+ 325. http://www.bat.org/help/spells.php?str=floating_disc
+ 326. http://www.bat.org/help/spells.php?str=patch_item
+ 327. http://www.bat.org/help/spells.php?str=water_walking
+ 328. http://www.bat.org/help/spells.php?str=dim
+ 329. http://www.bat.org/help/spells.php?str=glow
+ 330. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 331. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 332. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 333. http://www.bat.org/help/skills.php?str=throw_control
+ 334. http://www.bat.org/help/skills.php?str=mix_potion
+ 335. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 336. http://www.bat.org/help/spells.php?str=prepare_flask
+ 337. http://www.bat.org/help/skills.php?str=gutblade
+ 338. http://www.bat.org/help/spells.php?str=create_herb
+ 339. http://www.bat.org/help/skills.php?str=make_reagent
+ 340. http://www.bat.org/help/skills.php?str=mix_drug
+ 341. http://www.bat.org/help/skills.php?str=throw_control
+ 342. http://www.bat.org/help/skills.php?str=mix_potion
+ 343. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 344. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 345. http://www.bat.org/help/skills.php?str=decanting
+ 346. http://www.bat.org/help/skills.php?str=recanting
+ 347. http://www.bat.org/help/skills.php?str=mix_salve
+ 348. http://www.bat.org/help/spells.php?str=prepare_flask
+ 349. http://www.bat.org/help/spells.php?str=floating_disc
+ 350. http://www.bat.org/help/spells.php?str=patch_item
+ 351. http://www.bat.org/help/spells.php?str=water_walking
+ 352. http://www.bat.org/help/spells.php?str=dim
+ 353. http://www.bat.org/help/spells.php?str=glow
+ 354. http://www.bat.org/help/spells.php?str=feather_weight
+ 355. http://www.bat.org/help/spells.php?str=instant_fermentation
+ 356. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 357. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 358. http://www.bat.org/help/skills.php?str=throw_control
+ 359. http://www.bat.org/help/skills.php?str=mix_potion
+ 360. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 361. http://www.bat.org/help/spells.php?str=prepare_flask
+ 362. http://www.bat.org/help/skills.php?str=gutblade
+ 363. http://www.bat.org/help/spells.php?str=create_herb
+ 364. http://www.bat.org/help/spells.php?str=lift_of_load
+ 365. http://www.bat.org/help/skills.php?str=make_reagent
+ 366. http://www.bat.org/help/skills.php?str=throw_control
+ 367. http://www.bat.org/help/skills.php?str=mix_potion
+ 368. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 369. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 370. http://www.bat.org/help/skills.php?str=decanting
+ 371. http://www.bat.org/help/skills.php?str=recanting
+ 372. http://www.bat.org/help/skills.php?str=mix_salve
+ 373. http://www.bat.org/help/spells.php?str=prepare_flask
+ 374. http://www.bat.org/help/spells.php?str=floating_disc
+ 375. http://www.bat.org/help/spells.php?str=patch_item
+ 376. http://www.bat.org/help/spells.php?str=water_walking
+ 377. http://www.bat.org/help/spells.php?str=dim
+ 378. http://www.bat.org/help/spells.php?str=glow
+ 379. http://www.bat.org/help/spells.php?str=feather_weight
+ 380. http://www.bat.org/help/spells.php?str=aegis
+ 381. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 382. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 383. http://www.bat.org/help/skills.php?str=throw_control
+ 384. http://www.bat.org/help/skills.php?str=mix_potion
+ 385. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 386. http://www.bat.org/help/spells.php?str=prepare_flask
+ 387. http://www.bat.org/help/spells.php?str=create_herb
+ 388. http://www.bat.org/help/spells.php?str=lift_of_load
+ 389. http://www.bat.org/help/skills.php?str=throw_control
+ 390. http://www.bat.org/help/skills.php?str=mix_potion
+ 391. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 392. http://www.bat.org/help/skills.php?str=swift_scalpel
+ 393. http://www.bat.org/help/skills.php?str=decanting
+ 394. http://www.bat.org/help/skills.php?str=recanting
+ 395. http://www.bat.org/help/skills.php?str=mix_salve
+ 396. http://www.bat.org/help/spells.php?str=prepare_flask
+ 397. http://www.bat.org/help/spells.php?str=floating_disc
+ 398. http://www.bat.org/help/spells.php?str=patch_item
+ 399. http://www.bat.org/help/spells.php?str=water_walking
+ 400. http://www.bat.org/help/spells.php?str=dim
+ 401. http://www.bat.org/help/spells.php?str=glow
+ 402. http://www.bat.org/help/spells.php?str=feather_weight
+ 403. http://www.bat.org/help/spells.php?str=aegis
+ 404. http://www.bat.org/help/spells.php?str=shift_blade
+ 405. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 406. http://www.bat.org/help/spells.php?str=hangover_cure
+ 407. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 408. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 409. http://www.bat.org/help/skills.php?str=mix_elixir
+ 410. http://www.bat.org/help/skills.php?str=throw_control
+ 411. http://www.bat.org/help/skills.php?str=mix_potion
+ 412. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 413. http://www.bat.org/help/spells.php?str=prepare_flask
+ 414. http://www.bat.org/help/spells.php?str=create_herb
+ 415. http://www.bat.org/help/spells.php?str=lift_of_load
+ 416. http://www.bat.org/help/skills.php?str=throw_control
+ 417. http://www.bat.org/help/skills.php?str=mix_potion
+ 418. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 419. http://www.bat.org/help/skills.php?str=decanting
+ 420. http://www.bat.org/help/skills.php?str=recanting
+ 421. http://www.bat.org/help/skills.php?str=mix_salve
+ 422. http://www.bat.org/help/spells.php?str=prepare_flask
+ 423. http://www.bat.org/help/spells.php?str=floating_disc
+ 424. http://www.bat.org/help/spells.php?str=patch_item
+ 425. http://www.bat.org/help/spells.php?str=water_walking
+ 426. http://www.bat.org/help/spells.php?str=dim
+ 427. http://www.bat.org/help/spells.php?str=glow
+ 428. http://www.bat.org/help/spells.php?str=feather_weight
+ 429. http://www.bat.org/help/spells.php?str=aegis
+ 430. http://www.bat.org/help/spells.php?str=shift_blade
+ 431. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 432. http://www.bat.org/help/skills.php?str=essence_eye
+ 433. http://www.bat.org/help/spells.php?str=hangover_cure
+ 434. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 435. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 436. http://www.bat.org/help/skills.php?str=mix_elixir
+ 437. http://www.bat.org/help/skills.php?str=throw_control
+ 438. http://www.bat.org/help/skills.php?str=mix_potion
+ 439. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 440. http://www.bat.org/help/spells.php?str=prepare_flask
+ 441. http://www.bat.org/help/spells.php?str=create_herb
+ 442. http://www.bat.org/help/spells.php?str=lift_of_load
+ 443. http://www.bat.org/help/skills.php?str=throw_control
+ 444. http://www.bat.org/help/skills.php?str=mix_potion
+ 445. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 446. http://www.bat.org/help/spells.php?str=prepare_flask
+ 447. http://www.bat.org/help/spells.php?str=floating_disc
+ 448. http://www.bat.org/help/spells.php?str=patch_item
+ 449. http://www.bat.org/help/spells.php?str=water_walking
+ 450. http://www.bat.org/help/spells.php?str=dim
+ 451. http://www.bat.org/help/spells.php?str=glow
+ 452. http://www.bat.org/help/spells.php?str=feather_weight
+ 453. http://www.bat.org/help/spells.php?str=aegis
+ 454. http://www.bat.org/help/skills.php?str=refining
+ 455. http://www.bat.org/help/spells.php?str=shift_blade
+ 456. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 457. http://www.bat.org/help/skills.php?str=essence_eye
+ 458. http://www.bat.org/help/skills.php?str=quick_chant
+ 459. http://www.bat.org/help/spells.php?str=hangover_cure
+ 460. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 461. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 462. http://www.bat.org/help/skills.php?str=mix_elixir
+ 463. http://www.bat.org/help/skills.php?str=throw_control
+ 464. http://www.bat.org/help/skills.php?str=mix_potion
+ 465. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 466. http://www.bat.org/help/spells.php?str=create_herb
+ 467. http://www.bat.org/help/spells.php?str=lift_of_load
+ 468. http://www.bat.org/help/skills.php?str=throw_control
+ 469. http://www.bat.org/help/skills.php?str=mix_potion
+ 470. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 471. http://www.bat.org/help/spells.php?str=patch_item
+ 472. http://www.bat.org/help/spells.php?str=water_walking
+ 473. http://www.bat.org/help/spells.php?str=dim
+ 474. http://www.bat.org/help/spells.php?str=glow
+ 475. http://www.bat.org/help/spells.php?str=feather_weight
+ 476. http://www.bat.org/help/spells.php?str=aegis
+ 477. http://www.bat.org/help/skills.php?str=refining
+ 478. http://www.bat.org/help/spells.php?str=shift_blade
+ 479. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 480. http://www.bat.org/help/skills.php?str=essence_eye
+ 481. http://www.bat.org/help/skills.php?str=quick_chant
+ 482. http://www.bat.org/help/spells.php?str=hangover_cure
+ 483. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 484. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 485. http://www.bat.org/help/skills.php?str=mix_elixir
+ 486. http://www.bat.org/help/skills.php?str=throw_control
+ 487. http://www.bat.org/help/skills.php?str=mix_potion
+ 488. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 489. http://www.bat.org/help/spells.php?str=create_herb
+ 490. http://www.bat.org/help/spells.php?str=lift_of_load
+ 491. http://www.bat.org/help/skills.php?str=throw_control
+ 492. http://www.bat.org/help/skills.php?str=mix_potion
+ 493. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 494. http://www.bat.org/help/spells.php?str=dim
+ 495. http://www.bat.org/help/spells.php?str=glow
+ 496. http://www.bat.org/help/spells.php?str=feather_weight
+ 497. http://www.bat.org/help/spells.php?str=aegis
+ 498. http://www.bat.org/help/skills.php?str=refining
+ 499. http://www.bat.org/help/spells.php?str=shift_blade
+ 500. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 501. http://www.bat.org/help/skills.php?str=essence_eye
+ 502. http://www.bat.org/help/skills.php?str=quick_chant
+ 503. http://www.bat.org/help/spells.php?str=hangover_cure
+ 504. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 505. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 506. http://www.bat.org/help/skills.php?str=mix_elixir
+ 507. http://www.bat.org/help/skills.php?str=throw_control
+ 508. http://www.bat.org/help/skills.php?str=mix_potion
+ 509. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 510. http://www.bat.org/help/skills.php?str=throw_control
+ 511. http://www.bat.org/help/skills.php?str=mix_potion
+ 512. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 513. http://www.bat.org/help/spells.php?str=dim
+ 514. http://www.bat.org/help/spells.php?str=glow
+ 515. http://www.bat.org/help/spells.php?str=feather_weight
+ 516. http://www.bat.org/help/spells.php?str=aegis
+ 517. http://www.bat.org/help/skills.php?str=refining
+ 518. http://www.bat.org/help/spells.php?str=shift_blade
+ 519. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 520. http://www.bat.org/help/skills.php?str=essence_eye
+ 521. http://www.bat.org/help/skills.php?str=blacksmithing
+ 522. http://www.bat.org/help/skills.php?str=alloying
+ 523. http://www.bat.org/help/skills.php?str=amalgamate
+ 524. http://www.bat.org/help/skills.php?str=cannibalize
+ 525. http://www.bat.org/help/spells.php?str=hangover_cure
+ 526. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 527. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 528. http://www.bat.org/help/skills.php?str=mix_elixir
+ 529. http://www.bat.org/help/skills.php?str=throw_control
+ 530. http://www.bat.org/help/skills.php?str=mix_potion
+ 531. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 532. http://www.bat.org/help/skills.php?str=throw_control
+ 533. http://www.bat.org/help/skills.php?str=mix_potion
+ 534. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 535. http://www.bat.org/help/spells.php?str=glow
+ 536. http://www.bat.org/help/spells.php?str=feather_weight
+ 537. http://www.bat.org/help/spells.php?str=aegis
+ 538. http://www.bat.org/help/skills.php?str=refining
+ 539. http://www.bat.org/help/spells.php?str=shift_blade
+ 540. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 541. http://www.bat.org/help/skills.php?str=blacksmithing
+ 542. http://www.bat.org/help/skills.php?str=alloying
+ 543. http://www.bat.org/help/skills.php?str=amalgamate
+ 544. http://www.bat.org/help/skills.php?str=cannibalize
+ 545. http://www.bat.org/help/spells.php?str=mould_ring
+ 546. http://www.bat.org/help/spells.php?str=sneezing_powder
+ 547. http://www.bat.org/help/spells.php?str=hangover_cure
+ 548. http://www.bat.org/help/spells.php?str=blessing_of_intoxication
+ 549. http://www.bat.org/help/spells.php?str=drunken_stupor
+ 550. http://www.bat.org/help/skills.php?str=mix_elixir
+ 551. http://www.bat.org/help/skills.php?str=throw_control
+ 552. http://www.bat.org/help/skills.php?str=mix_potion
+ 553. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 554. http://www.bat.org/help/skills.php?str=throw_control
+ 555. http://www.bat.org/help/skills.php?str=mix_potion
+ 556. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 557. http://www.bat.org/help/spells.php?str=feather_weight
+ 558. http://www.bat.org/help/spells.php?str=aegis
+ 559. http://www.bat.org/help/skills.php?str=refining
+ 560. http://www.bat.org/help/spells.php?str=shift_blade
+ 561. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 562. http://www.bat.org/help/skills.php?str=blacksmithing
+ 563. http://www.bat.org/help/skills.php?str=alloying
+ 564. http://www.bat.org/help/skills.php?str=amalgamate
+ 565. http://www.bat.org/help/skills.php?str=cannibalize
+ 566. http://www.bat.org/help/spells.php?str=mould_ring
+ 567. http://www.bat.org/help/spells.php?str=sneezing_powder
+ 568. http://www.bat.org/help/spells.php?str=hangover_cure
+ 569. http://www.bat.org/help/skills.php?str=mix_elixir
+ 570. http://www.bat.org/help/skills.php?str=throw_control
+ 571. http://www.bat.org/help/skills.php?str=mix_potion
+ 572. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 573. http://www.bat.org/help/skills.php?str=throw_control
+ 574. http://www.bat.org/help/skills.php?str=mix_potion
+ 575. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 576. http://www.bat.org/help/spells.php?str=aegis
+ 577. http://www.bat.org/help/skills.php?str=refining
+ 578. http://www.bat.org/help/spells.php?str=shift_blade
+ 579. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 580. http://www.bat.org/help/skills.php?str=blacksmithing
+ 581. http://www.bat.org/help/skills.php?str=alloying
+ 582. http://www.bat.org/help/skills.php?str=amalgamate
+ 583. http://www.bat.org/help/skills.php?str=cannibalize
+ 584. http://www.bat.org/help/spells.php?str=mould_ring
+ 585. http://www.bat.org/help/spells.php?str=sneezing_powder
+ 586. http://www.bat.org/help/spells.php?str=hangover_cure
+ 587. http://www.bat.org/help/skills.php?str=mix_elixir
+ 588. http://www.bat.org/help/skills.php?str=mix_potion
+ 589. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 590. http://www.bat.org/help/skills.php?str=mix_potion
+ 591. http://www.bat.org/help/skills.php?str=knowledge_of_alchemy
+ 592. http://www.bat.org/help/skills.php?str=refining
+ 593. http://www.bat.org/help/spells.php?str=shift_blade
+ 594. http://www.bat.org/help/spells.php?str=summon_homonculus
+ 595. http://www.bat.org/help/skills.php?str=blacksmithing
+ 596. http://www.bat.org/help/skills.php?str=alloying
+ 597. http://www.bat.org/help/skills.php?str=amalgamate
+ 598. http://www.bat.org/help/skills.php?str=cannibalize
+ 599. http://www.bat.org/help/spells.php?str=mould_ring
+ 600. http://www.bat.org/help/spells.php?str=sneezing_powder
+ 601. http://www.bat.org/help/spells.php?str=hangover_cure
+ 602. http://www.bat.org/help/skills.php?str=mix_elixir
+ 603. http://www.bat.org/help/guilds.php
+ 604. mailto:webmaster@bat.org
+
+   Hidden links:
+ 605. http://www.bat.org/bat.php

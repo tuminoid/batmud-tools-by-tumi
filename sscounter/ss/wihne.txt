@@ -1,0 +1,18 @@
+name: The Association of Eternal Wihners
+gms: Unknown
+maxlvl: 15
+1: dex,skillmax,spellmax,str
+2: dex,skillmax,spellmax,wis
+3: dex,skillmax,int,wis
+4: dex,int,skillmax,wis
+5: dex,int,wis,con
+6: con,int,spellmax,str
+7: con,int,skillmax
+8: con,int,wis
+9: con,int,wis
+10: con,int,spellmax
+11: dex
+12: con,str,dex
+13: dex,con
+14: str,dex,con
+15: str,con,skillmax

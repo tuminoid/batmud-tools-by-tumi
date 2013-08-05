@@ -1,0 +1,70 @@
+Human
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      | 100 | 100 |    (n/a) |
+| Essence eye                   |  80 | 100 |     3772 |
+| First aid                     |  80 | 100 |     8601 |
+| Burial ceremony               |  80 | 100 |    10672 |
+| Tempt                         |  80 | 100 |    19607 |
+| Baptize                       |  81 | 100 |    23129 |
+| Bless                         |  80 | 100 |    21219 |
+| Mana control                  |  75 | 100 |    13790 |
+| Cast generic                  |  85 | 100 |    44253 |
+| Cast heal                     | 100 | 100 |    (n/a) |
+| Cast help                     |  60 | 100 |     5130 |
+| Cast special                  |  80 | 100 |    28761 |
+| Cast teleportation            | 100 | 100 |    (n/a) |
+| Attack                        |  75 |  30 |    (n/a) |
+| Ceremony                      |  80 | 100 |    48371 |
+| Mastery of assistance         | 109 | 100 |    (n/a) |
+| Mastery of medicine           | 100 | 100 |    (n/a) |
+| Bludgeons                     |  46 |  30 |    (n/a) |
+| Quick chant                   | 100 | 100 |    (n/a) |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Sex change                    |  95 |  95 |    (n/a) |
+| Word of recall                |  88 |  95 |    12645 |
+| Blessing of tarmalen          |  80 |  95 |     8601 |
+| Cure light wounds             |  85 |  95 |    13234 |
+| Curse of tarmalen             |  95 |  95 |    (n/a) |
+| Detect alignment              |  80 |  95 |    10672 |
+| Life link                     |  90 |  95 |    25266 |
+| Satiate person                |  72 |  95 |     5355 |
+| Water walking                 |  70 |  95 |     4508 |
+| Light                         |  50 |  95 |      950 |
+| Minor party heal              |  95 |  95 |    (n/a) |
+| Create food                   |  32 |  95 |      338 |
+| Remove scar                   |  80 |  95 |    21219 |
+| Restore                       |  80 |  95 |    21219 |
+| Major party heal              |  95 |  95 |    (n/a) |
+| Natural renewal               |  80 |  95 |    24328 |
+| See the light                 |  60 |  95 |     4339 |
+| Moon sense                    |  70 |  95 |    10912 |
+| Deaths door                   |  95 |  95 |    (n/a) |
+| Summon                        |  80 |  95 |    28761 |
+| Detect misery                 |   0 |  95 |       29 |
+| True party heal               |   0 |  95 |       32 |
+| Cure player                   |  70 |  95 |    15074 |
+| Cure serious wounds           |  80 |  95 |    35687 |
+| Guardian angel                |  44 |  95 |     1602 |
+| Remove poison                 |  80 |  95 |    35687 |
+| Soul hold                     |  44 |  95 |     1602 |
+| Raise dead                    |  91 |  95 |   105584 |
+| Unpain                        |  80 |  95 |    47156 |
+| Heal all                      |  70 |  95 |    21945 |
+| Unstun                        |  86 |  95 |    87134 |
+| Resurrect                     |  95 |  95 |    (n/a) |
+| Cure critical wounds          |  85 |  95 |    92347 |
+| Minor heal                    |  80 |  95 |    60019 |
+| Major heal                    |  91 |  95 |   183091 |
+| Holy way                      |  44 |  95 |     3424 |
+| Lessen poison                 |  50 |  95 |     6130 |
+| True heal                     |  68 |  95 |    28922 |
+| Enhanced vitality             |   0 |  95 |      108 |
+| New body                      |  90 |  95 |   229999 |
+`------------------------------------------------------'

@@ -1,0 +1,7 @@
+1: str,dex,con,int
+2: str,dex,con,int
+3: str,dex,con,int
+4: str,dex,con,int
+5: str,dex,con,int
+6: skillmax,spellmax,dex,con
+7: skillmax,spellmax,dex,con

@@ -1,0 +1,23 @@
+name: Circle of Tranquility
+gms: Formse and Miksa
+maxlvl: 20
+1: skillmax,spellmax,wis,int
+2: skillmax,spellmax,wis,int
+3: skillmax,dex,wis,int
+4: skillmax,con,wis,int
+5: con,int,wis,dex
+6: skillmax,spellmax,wis,str
+7: skillmax,wis,str,dex
+8: con,wis,skillmax,str
+9: con,int,skillmax,dex
+10: skillmax,str,int,dex
+11: skillmax,str,wis,con
+12: con,dex,skillmax,wis
+13: dex,skillmax,str,int
+14: dex,str,wis,parry 
+15: skillmax,str,spellmax,wis
+16: dex,skillmax,parry ,wis
+17: con,skillmax,str
+18: con,str
+19: dex,con
+20: skillmax,str,spellmax,con

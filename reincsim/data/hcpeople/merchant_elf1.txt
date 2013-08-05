@@ -1,0 +1,88 @@
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Create money                  |   0 | 100 |        3 |
+| Cash flow                     |   0 | 100 |        9 |
+| Detect alignment              |   0 | 100 |        9 |
+| Satiate person                |   0 | 100 |        9 |
+| Darkness                      |  60 | 100 |     2117 |
+| Light                         |  60 | 100 |     2117 |
+| Call pigeon                   |   0 | 100 |       13 |
+| Credit check                  |   0 | 100 |       13 |
+| Remote banking                |   0 | 100 |       13 |
+| Create food                   |  60 | 100 |     3563 |
+| Feather weight                |  68 | 100 |     7100 |
+| Floating disc                 |  60 | 100 |     3563 |
+| Identify                      |  60 | 100 |     3563 |
+| Preserve corpse               |   0 | 100 |       19 |
+| Remove scar                   |   0 | 100 |       19 |
+| Money is power                |   0 | 100 |       47 |
+| Aura detection                |  60 | 100 |    12971 |
+| Protect armour                |   0 | 100 |      142 |
+| Protect item                  |   0 | 100 |      142 |
+| Protect weapon                |   0 | 100 |      142 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Appraise                      |   0 |  95 |        4 |
+| Essence eye                   |  77 |  95 |     3427 |
+| Tinning                       |   0 |  95 |        4 |
+| Compare                       |   0 |  95 |        7 |
+| Skinning                      |   0 |  95 |        7 |
+| Exchange money                |   0 |  95 |       14 |
+| Lumberjacking                 |   0 |  95 |       14 |
+| Mining                        |   0 |  95 |       14 |
+| Plastic surgery               |   0 |  95 |       14 |
+| Plant lore                    |  36 |  50 |      383 |
+| Torch creation                |   0 |  70 |       18 |
+| Carpentry                     |   0 |  95 |       22 |
+| Fresh pants                   |   0 |  95 |       22 |
+| Leather craft                 |   0 |  95 |       22 |
+| Law                           |   0 |  95 |       25 |
+| Cast control                  |  59 | 100 |     5538 |
+| Cast generic                  |  80 | 100 |    33837 |
+| Cast help                     |  40 | 100 |     1077 |
+| Cast information              |  50 | 100 |     2549 |
+| Cast protection               |  70 | 100 |    14292 |
+| Cast special                  |   0 | 100 |       34 |
+| Cast teleportation            |  80 |  80 |    (n/a) |
+| Cast transformation           |  60 | 100 |     6037 |
+| Labeling                      |   0 |  95 |       34 |
+| Mineral cutting               |   0 |  95 |       34 |
+| Bargain                       |   0 |  95 |       35 |
+| Cannibalize                   |   0 |  65 |       35 |
+| Sewing                        |   0 |  95 |       35 |
+| Alloying                      |   0 |  75 |       36 |
+| Amalgamate                    |   0 |  95 |       42 |
+| Attack                        |  22 |  45 |      282 |
+| Loan sharking                 |   0 |  95 |       42 |
+| Masonry                       |   0 |  95 |       46 |
+| Make reagent                  |   0 |  95 |       49 |
+| Repair armour                 |   0 |  95 |       49 |
+| Repair item                   |   0 |  95 |       49 |
+| Repair weapon                 |   0 |  95 |       49 |
+| Sculpture                     |   0 |  95 |       49 |
+| Blacksmithing                 |   0 |  95 |       51 |
+| Refining                      |   0 |  95 |       53 |
+| Gem cutting                   |   0 |  95 |       77 |
+| Insider trading               |   0 |  95 |       84 |
+| Glassblowing                  |   0 |  95 |       96 |
+| Shopkeeping                   |   0 |  95 |       96 |
+| Create armour                 |   0 |  95 |      102 |
+| Create weapon                 |   0 |  95 |      102 |
+| Axes                          |   0 |  45 |      108 |
+| Knowledge of identification   |   0 | 100 |      119 |
+| Knowledge of metamorphosis    |   0 | 100 |      119 |
+| Bludgeons                     |  20 |  45 |      736 |
+| Quick chant                   |  81 |  50 |    (n/a) |
+| Chest creation                |   0 |  70 |      152 |
+| Chest lock creation           |   0 |  70 |      152 |
+| Chest trap creation           |   0 |  70 |      152 |
+| Shipbuilding                  |   0 |  95 |      238 |
+| Double mine                   |   0 |  95 |     1345 |
+`------------------------------------------------------'

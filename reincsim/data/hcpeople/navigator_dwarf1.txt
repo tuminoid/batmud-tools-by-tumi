@@ -1,0 +1,29 @@
+Dwarf
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Stargazing                    |   0 | 100 |       10 |
+| Cast generic                  | 100 | 100 |    (n/a) |
+| Cast teleportation            |  69 | 100 |     9834 |
+| Mastery of locating           |  60 | 100 |    15891 |
+| Location memory               |  40 | 100 |    10459 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 5   | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Word of recall                |  40 |  70 |      379 |
+| Dimension door                |  40 |  70 |     1457 |
+| Summon                        |  41 |  70 |     1877 |
+| Teleport with error           |  40 |  70 |     1723 |
+| Teleport without error        |  60 |  60 |    (n/a) |
+| Wizard eye                    |   5 |  70 |      103 |
+| Heavy weight                  |  40 |  70 |     3113 |
+| Banish                        |  30 |  70 |     1575 |
+| Relocate                      |  40 |  70 |     4565 |
+| Go                            |  50 |  70 |    19772 |
+| Mobile cannon                 |  37 |  70 |     7706 |
+`------------------------------------------------------'

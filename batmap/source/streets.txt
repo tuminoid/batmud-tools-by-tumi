@@ -1,0 +1,62 @@
+########################## #########################  NE QUADRANT
+#                        #-#                       # a: Jasper Avenue
+#  ##################### #r# ####################  # b: Ash Street
+# ##CbbbbCbbbbbeeeaaaaa###r###aa|aCaaaaaaaaaaaaa#  # d: Twig Lane
+# #CC##_#jd#_##eee####aaaaaaaaa###i####CaaaaaaaC#  # e: Pauper's Market
+# #k#   |j##  ###f|  ####zzz#### #i#  #f#######b#  # f: Coal Alley
+# #k|   #j|     |f#     #zzz#    #i##_#f#     #b#  # g: Dark Alley
+# #k##_##j# #_# #f##_# ##zzz## #_#kkjjjC# ###.#b#  # h: Mercenaries' Court
+# #CiiiiiC###h###gggg# #yyyyy# #mkkk###f###g#_#b#  # i: bark Street
+# #CiiiiiCiiiiiiiggg## #yyyyy# ##kkk# #hhhdddddC#  # j: Iron Lane
+# #k##_##j##_##mm##_#  #yyyyy#  ##i## |hhh#####3#  # k: Sorcerer's Square
+# #k#   #j|  ##mm|     #yyyyy#   #i####hhh#   #b#  # l: Brick Avenue
+# #k|   |j#  |mmm#     #yyyyy# ###Clllllll###_#b#  # m: Courtyard Fellowship Wizardry
+# #k##_##j#_##mmm##### #yyyyy# #CllllClllClllllC#  # n: Dark Street Corner
+# #CnnnnnCCnnnnCnnnnC# #yyyyy# #pn###r###s#####e#  # o: Lifes End
+# #k#####jj#_##q####l# #yyyyy# #p## #r# |s#   #b#  # p: Timber Lane
+# #k#   #jj#  |q|  #l# #yyyyy# #p# ##r###s#####b#  # q: Boulder Avenue
+# #k#####jj####q####l# #xxxxx# #p###qqqqqCqqqqCb#  # r: Stub Street
+# #CoooooCCooooCooooC# #xxxxx# #ee@eq####s##_#bb#  # s: Tin Street
+# #k#_###jj#####q#_### #xxxxx# #eeee##  #s#  #bb#  # NW QUADRANT
+# #k#   |jj|   |q#     #xxxxx# ####o#   |s#  #bb#  # a: jasper Avenue
+# #k####################wwwww#    #o#   #s|  #b### # b: Basalt Avenue
+# #CaaaCaaaaaCaaaaaCaaatuuuss########## #s#  #b|C### d: Small Marketplace
+###k###b###_#g##_##m#_#tu#ussaaaaaaaaa##########Cb|  e: North Market
+|ddC# |b#   #g#   #m###tuuus#########aaaaaaaaaaaa### f: Northern Silver Street
+###k###b|   |g#####Ciiivvvvv#       ############## # g: Merchant's Square
+# #kCbbb#   #CiiiiCm###xxxxx#                      # h: Outside Lucidahopos Wand shop
+# #kk####   |g#_##mm###xxxxx#     #### ### ######  # i: Marble Boulevard
+# #kk#      #g#  #mCjjjxxxxx#     #oo# #@# #deee#  # J: Bronze Street
+# #kk####_###g####mm###xxxxx# ###_#oo###u###dhhg#  # k: Maple Street
+# #CCfffffffCCffffCC###xxxxx# |jjkllqqqCCqqqdhhg#  # l: Copper Lane
+# #e########gg#####Clllrrrrr# ###lll###CCrsqdfff#  # m: Central Market
+# ###      #gg#   #m###rrrrr#   |mll# #uu####fff#  # n: Granite Avenue
+#          #gg#   #m###rrrrr#   #_#p#_#uu#  #iii#  # o: Slate Avenue
+#          #g##   #ppppprrqr#     #ptttuu#  ##ii#  # p: Brass Alley
+#          |h|    #ppppp##_##     #p###uu|   #ii#  # q: Southern Silver Street
+# #### #####g#    #ppppp## #####_##p# #uu#   |ii#  # r: Nothern Citygate
+# #oo###nnnng######nnnnnn###nnnnnnnC#_#uu#####ii#  #
+# #oonnnnnnnCnnnnnnnnnnnnnCnnnnnnnnnnnnCCnnnnnC##  # C = crossing between 2 streets
+# ########################q#####################   # @ = Entrance sewers/npc
+#                        #-#                       #
+########################## #########################
+
+
+SW QUADRANT               SE QUADRANT                     r: Stage on S side Ruby AV.
+a: Western Stone Avenue   a: Eastern Stone Avenue         s: Roped off area Ruby AV.
+b: Branch alley           b: Eastern Citygate             t: Garnet Alley
+d: Western Citygate       d: Western Knights Court        u: Mahogany Street
+e: Wizard's Alley         e: Northern Knights Court
+f: Onyx Avenue            f: Southern Knights Court       MIDDLE OF CITY
+g: Pine Street            g: Eastern Knights Court        z: Northern Bazaar Entrance
+h: Church + Adv Guild     h: Knights Court                y: Northern Bazaar
+i: Emerald Lane           i: Birch Street                 x: Central Bazaar
+j: Northern Onyx Avenue   j: Pearl Lane                   w: Northern Central Square
+k: Maple Street           k: Outside Brotherhood Wizardry v: Southern Central Square
+l: Southern ONyx Avenue   l: Wizards Square               u: Central Square
+m: Oak Street             m: Western Part Wizards Square  t: Western Central Square
+n: Jade Avenue            n: Jade Avenue                  s: Eastern Central Square
+o: Southwest market       o: Northern Wizards Square      r: Southern Bazaar
+p: Clerics Plaza          p: Elm Street                   q: outside Police Station
+q: Southern City Gate     q: Ruby Avenue
+

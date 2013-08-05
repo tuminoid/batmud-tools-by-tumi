@@ -1,0 +1,2168 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]150 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                [fonter.php?str=The+Brotherhood+of+Wizardry]
+
+                        The Brotherhood of Wizardry
+
+   Command: mage
+   Creators: [22]Alaron, [23]Ulax
+   Maximum level: 35
+   Description:
+   Wielding the powers which are the foundations of our existence, mages
+   have always been regarded with respect and fear. The brotherhood of
+   wizardry defines the path through which these powers can be harnessed
+   to one's will.
+
+                                 New Member
+                Background must be magical
+                May study spell [24]Darkness to 20%
+                May study spell [25]Heal self to 20%
+                May study spell [26]Floating to 20%
+                May study spell [27]Invisibility to 10%
+                May study spell [28]Light to 20%
+                May study spell [29]Moon sense to 20%
+                May train skill [30]Attack to 10%
+                May train skill [31]Cast heal to 10%
+                May train skill [32]Cast generic to 10%
+                May train skill [33]Consider to 20%
+                May train skill [34]Damage criticality to 10%
+                May train skill [35]Essence eye to 20%
+                May train skill [36]Short blades to 10%
+                May train skill [37]Mana control to 10%
+                Receive the Robes of Wizardry
+                Receive the reward for continuing your studies
+
+                                 Level 2
+              Has trained skill [38]Essence eye to at least 20%
+              May study spell [39]Darkness to 40%
+              May study spell [40]Heal self to 40%
+              May study spell [41]Floating to 40%
+              May study spell [42]Floating letters to 40%
+              May study spell [43]Invisibility to 20%
+              May study spell [44]Light to 40%
+              May study spell [45]Moon sense to 40%
+              May study spell [46]Word of recall to 10%
+              May train skill [47]Attack to 20%
+              May train skill [48]Cast heal to 20%
+              May train skill [49]Cast generic to 20%
+              May train skill [50]Consider to 40%
+              May train skill [51]Short blades to 20%
+              May train skill [52]Mana control to 20%
+
+                                  Level 3
+              Has trained skill [53]Cast generic to at least 20%
+              May study spell [54]Chill touch to 10%
+              May study spell [55]Darkness to 60%
+              May study spell [56]Disruption to 10%
+              May study spell [57]Flame arrow to 10%
+              May study spell [58]Floating to 60%
+              May study spell [59]Heal self to 60%
+              May study spell [60]Invisibility to 30%
+              May study spell [61]Light to 60%
+              May study spell [62]Magic missile to 10%
+              May study spell [63]Moon sense to 60%
+              May study spell [64]Shocking grasp to 10%
+              May study spell [65]Thorn spray to 10%
+              May study spell [66]Vacuumbolt to 10%
+              May study spell [67]Word of recall to 20%
+              May train skill [68]Attack to 30%
+              May train skill [69]Cast heal to 30%
+              May train skill [70]Cast generic to 30%
+              May train skill [71]Consider to 60%
+              May train skill [72]Essence eye to 40%
+              May train skill [73]Short blades to 30%
+              May train skill [74]Mana control to 30%
+
+                                  Level 4
+     Must pass 1 out of the following:
+       * Has studied spell [75]Light to at least 40%
+       * Has studied spell [76]Darkness to at least 40%
+              Has trained skill [77]Cast generic to at least 30%
+              May study spell [78]Chill touch to 15%
+              May study spell [79]Darkness to racial maximum
+              May study spell [80]Disruption to 15%
+              May study spell [81]Heal self to racial maximum
+              May study spell [82]Flame arrow to 15%
+              May study spell [83]Floating to 80%
+              May study spell [84]Floating letters to 60%
+              May study spell [85]Invisibility to 40%
+              May study spell [86]Light to racial maximum
+              May study spell [87]Magic missile to 15%
+              May study spell [88]Moon sense to 80%
+              May study spell [89]Shocking grasp to 15%
+              May study spell [90]Thorn spray to 15%
+              May study spell [91]Vacuumbolt to 15%
+              May study spell [92]Word of recall to 30%
+              May train skill [93]Attack to 40%
+              May train skill [94]Cast acid to 20%
+              May train skill [95]Cast asphyxiation to 20%
+              May train skill [96]Cast cold to 20%
+              May train skill [97]Cast electricity to 20%
+              May train skill [98]Cast fire to 20%
+              May train skill [99]Cast generic to 40%
+              May train skill [100]Cast magical to 20%
+              May train skill [101]Cast poison to 20%
+              May train skill [102]Consider to racial maximum
+              May train skill [103]Mana control to 40%
+
+                                 Level 5
+     Must pass 1 out of the following:
+       * Has trained skill [104]Cast acid to at least 20%
+       * Has trained skill [105]Cast asphyxiation to at least 20%
+       * Has trained skill [106]Cast cold to at least 20%
+       * Has trained skill [107]Cast electricity to at least 20%
+       * Has trained skill [108]Cast fire to at least 20%
+       * Has trained skill [109]Cast magical to at least 20%
+       * Has trained skill [110]Cast poison to at least 20%
+             Has studied spell [111]Invisibility to at least 35%
+             May study spell [112]Chill touch to 20%
+             May study spell [113]Disruption to 20%
+             May study spell [114]Feather weight to 20%
+             May study spell [115]Flame arrow to 20%
+             May study spell [116]Floating to racial maximum
+             May study spell [117]Invisibility to 50%
+             May study spell [118]Magic missile to 20%
+             May study spell [119]Moon sense to racial maximum
+             May study spell [120]Shocking grasp to 20%
+             May study spell [121]Thorn spray to 20%
+             May study spell [122]Vacuumbolt to 20%
+             May study spell [123]Word of recall to 40%
+             May train skill [124]Cast generic to 50%
+             May train skill [125]Damage criticality to 20%
+             May train skill [126]Essence eye to 60%
+             May train skill [127]Mana control to 50%
+             May train skill [128]Zapping to 10%
+             May train skill [129]Create staff to racial maximum
+
+                                  Level 6
+     Must pass 1 out of the following:
+       * Has studied spell [130]Chill touch to at least 20%
+       * Has studied spell [131]Disruption to at least 20%
+       * Has studied spell [132]Flame arrow to at least 20%
+       * Has studied spell [133]Magic missile to at least 20%
+       * Has studied spell [134]Shocking grasp to at least 20%
+       * Has studied spell [135]Thorn spray to at least 20%
+       * Has studied spell [136]Vacuumbolt to at least 20%
+                 May study spell [137]Chill touch to 30%
+                 May study spell [138]Disruption to 30%
+                 May study spell [139]Flame arrow to 30%
+                 May study spell [140]Floating letters to 80%
+                 May study spell [141]Invisibility to 60%
+                 May study spell [142]Magic missile to 30%
+                 May study spell [143]Mirror image to 10%
+                 May study spell [144]Shocking grasp to 30%
+                 May study spell [145]Thorn spray to 30%
+                 May study spell [146]Vacuumbolt to 30%
+                 May study spell [147]Word of recall to 50%
+                 May train skill [148]Cast generic to 60%
+                 May train skill [149]Cast protection to 10%
+                 May train skill [150]Mana control to 60%
+                 May train skill [151]Zapping to 20%
+
+                                 Level 7
+             Has trained skill [152]Cast generic to at least 50%
+             May study spell [153]Chill touch to 40%
+             May study spell [154]Disruption to 40%
+             May study spell [155]Feather weight to 30%
+             May study spell [156]Flame arrow to 40%
+             May study spell [157]Invisibility to 70%
+             May study spell [158]Magic missile to 40%
+             May study spell [159]Mirror image to 20%
+             May study spell [160]Shocking grasp to 40%
+             May study spell [161]Teleport with error to 10%
+             May study spell [162]Thorn spray to 40%
+             May study spell [163]Vacuumbolt to 40%
+             May study spell [164]Word of recall to 60%
+             May study spell [165]Heavy weight to 20%
+             May train skill [166]Cast acid to 40%
+             May train skill [167]Cast asphyxiation to 40%
+             May train skill [168]Cast cold to 40%
+             May train skill [169]Cast electricity to 40%
+             May train skill [170]Cast fire to 40%
+             May train skill [171]Cast generic to 70%
+             May train skill [172]Cast magical to 40%
+             May train skill [173]Cast poison to 40%
+             May train skill [174]Cast protection to 20%
+             May train skill [175]Essence eye to racial maximum
+             May train skill [176]Mana control to 70%
+             May train skill [177]Zapping to 30%
+
+                                 Level 8
+     Must pass 1 out of the following:
+       * Has trained skill [178]Cast acid to at least 40%
+       * Has trained skill [179]Cast asphyxiation to at least 40%
+       * Has trained skill [180]Cast cold to at least 40%
+       * Has trained skill [181]Cast electricity to at least 40%
+       * Has trained skill [182]Cast fire to at least 40%
+       * Has trained skill [183]Cast magical to at least 40%
+       * Has trained skill [184]Cast poison to at least 40%
+           Has trained skill [185]Mana control to at least 40%
+           May study spell [186]Chill touch to 50%
+           May study spell [187]Disruption to 50%
+           May study spell [188]Feather weight to 40%
+           May study spell [189]Flame arrow to 50%
+           May study spell [190]Floating letters to racial maximum
+           May study spell [191]Invisibility to racial maximum
+           May study spell [192]Magic missile to 50%
+           May study spell [193]Mirror image to 30%
+           May study spell [194]Shocking grasp to 50%
+           May study spell [195]Teleport with error to 20%
+           May study spell [196]Thorn spray to 50%
+           May study spell [197]Vacuumbolt to 50%
+           May study spell [198]Word of recall to 70%
+           May study spell [199]Heavy weight to 40%
+           May train skill [200]Cast generic to racial maximum
+           May train skill [201]Cast protection to 30%
+           May train skill [202]Mana control to racial maximum
+           May train skill [203]Zapping to 40%
+
+                                 Level 9
+            Has studied spell [204]Mirror image to at least 30%
+            Has studied spell [205]Word of recall to at least 50%
+            Has trained skill [206]Zapping to at least 40%
+            May study spell [207]Acid wind to 10%
+            May study spell [208]Chill touch to 60%
+            May study spell [209]Disruption to 60%
+            May study spell [210]Firebolt to 10%
+            May study spell [211]Flame arrow to 60%
+            May study spell [212]Flaming ice to 10%
+            May study spell [213]Greater darkness to 25%
+            May study spell [214]Greater light to 25%
+            May study spell [215]Lightning bolt to 10%
+            May study spell [216]Magic missile to 60%
+            May study spell [217]Mirror image to 40%
+            May study spell [218]Poison blast to 10%
+            May study spell [219]Shocking grasp to 60%
+            May study spell [220]Suffocation to 10%
+            May study spell [221]Summon lesser spores to 10%
+            May study spell [222]Teleport with error to 30%
+            May study spell [223]Thorn spray to 60%
+            May study spell [224]Vacuumbolt to 60%
+            May study spell [225]Word of recall to racial maximum
+            May study spell [226]Heavy weight to 60%
+            May train skill [227]Cast protection to 40%
+            May train skill [228]Zapping to 50%
+
+                                 Level 10
+     Must pass 1 out of the following:
+       * Has studied spell [229]Chill touch to at least 50%
+       * Has studied spell [230]Disruption to at least 50%
+       * Has studied spell [231]Flame arrow to at least 50%
+       * Has studied spell [232]Magic missile to at least 50%
+       * Has studied spell [233]Shocking grasp to at least 50%
+       * Has studied spell [234]Thorn spray to at least 50%
+       * Has studied spell [235]Vacuumbolt to at least 50%
+             May study spell [236]Acid wind to 20%
+             May study spell [237]Chill touch to 70%
+             May study spell [238]Disruption to 70%
+             May study spell [239]Feather weight to 50%
+             May study spell [240]Firebolt to 20%
+             May study spell [241]Flame arrow to 70%
+             May study spell [242]Flaming ice to 20%
+             May study spell [243]Lightning bolt to 20%
+             May study spell [244]Magic missile to 70%
+             May study spell [245]Mirror image to 50%
+             May study spell [246]Poison blast to 20%
+             May study spell [247]Shocking grasp to 70%
+             May study spell [248]Suffocation to 20%
+             May study spell [249]Summon lesser spores to 20%
+             May study spell [250]Teleport with error to 40%
+             May study spell [251]Thorn spray to 70%
+             May study spell [252]Vacuumbolt to 70%
+             May study spell [253]Heavy weight to racial maximum
+             May train skill [254]Cast acid to 60%
+             May train skill [255]Cast asphyxiation to 60%
+             May train skill [256]Cast cold to 60%
+             May train skill [257]Cast electricity to 60%
+             May train skill [258]Cast fire to 60%
+             May train skill [259]Cast magical to 60%
+             May train skill [260]Cast poison to 60%
+             May train skill [261]Cast protection to 50%
+             May train skill [262]Cast teleportation to 10%
+             May train skill [263]Damage criticality to 30%
+             May train skill [264]Quick chant to 5%
+             May train skill [265]Zapping to 50%
+
+                                 Level 11
+     Must pass 1 out of the following:
+       * Has studied spell [266]Acid wind to at least 20%
+       * Has studied spell [267]Firebolt to at least 20%
+       * Has studied spell [268]Flaming ice to at least 20%
+       * Has studied spell [269]Lightning bolt to at least 20%
+       * Has studied spell [270]Poison blast to at least 20%
+       * Has studied spell [271]Suffocation to at least 20%
+       * Has studied spell [272]Summon lesser spores to at least 20%
+     Must pass 1 out of the following:
+       * Has trained skill [273]Cast acid to at least 50%
+       * Has trained skill [274]Cast asphyxiation to at least 50%
+       * Has trained skill [275]Cast cold to at least 50%
+       * Has trained skill [276]Cast electricity to at least 50%
+       * Has trained skill [277]Cast fire to at least 50%
+       * Has trained skill [278]Cast magical to at least 50%
+       * Has trained skill [279]Cast poison to at least 50%
+            May study spell [280]Acid wind to 30%
+            May study spell [281]Chill touch to racial maximum
+            May study spell [282]Disruption to racial maximum
+            May study spell [283]Feather weight to 65%
+            May study spell [284]Firebolt to 30%
+            May study spell [285]Flame arrow to racial maximum
+            May study spell [286]Flaming ice to 30%
+            May study spell [287]Lightning bolt to 30%
+            May study spell [288]Magic missile to racial maximum
+            May study spell [289]Mirror image to 60%
+            May study spell [290]Poison blast to 30%
+            May study spell [291]Shocking grasp to racial maximum
+            May study spell [292]Suffocation to 30%
+            May study spell [293]Summon lesser spores to 30%
+            May study spell [294]Teleport with error to 50%
+            May study spell [295]Thorn spray to racial maximum
+            May study spell [296]Vacuumbolt to racial maximum
+            May train skill [297]Cast protection to 60%
+            May train skill [298]Cast teleportation to 20%
+            May train skill [299]Quick chant to 10%
+            May train skill [300]Zapping to 60%
+
+                                 Level 12
+     Must pass 1 out of the following:
+       * Has studied spell [301]Chill touch to at least 65%
+       * Has studied spell [302]Disruption to at least 65%
+       * Has studied spell [303]Flame arrow to at least 65%
+       * Has studied spell [304]Magic missile to at least 65%
+       * Has studied spell [305]Shocking grasp to at least 65%
+       * Has studied spell [306]Thorn spray to at least 65%
+       * Has studied spell [307]Vacuumbolt to at least 65%
+               May study spell [308]Acid wind to 40%
+               May study spell [309]Firebolt to 40%
+               May study spell [310]Flaming ice to 40%
+               May study spell [311]Lightning bolt to 40%
+               May study spell [312]Mirror image to 70%
+               May study spell [313]Poison blast to 40%
+               May study spell [314]Suffocation to 40%
+               May study spell [315]Summon lesser spores to 40%
+               May study spell [316]Teleport with error to 60%
+               May train skill [317]Cast protection to 70%
+               May train skill [318]Cast teleportation to 30%
+               May train skill [319]Quick chant to 15%
+               May train skill [320]Zapping to 70%
+
+                                 Level 13
+          Has studied spell [321]Teleport with error to at least 40%
+          Has trained skill [322]Quick chant to at least 15%
+          May study spell [323]Acid wind to 50%
+          May study spell [324]Feather weight to 75%
+          May study spell [325]Firebolt to 50%
+          May study spell [326]Flaming ice to 50%
+          May study spell [327]Lightning bolt to 50%
+          May study spell [328]Mirror image to racial maximum
+          May study spell [329]Poison blast to 50%
+          May study spell [330]Suffocation to 50%
+          May study spell [331]Summon lesser spores to 50%
+          May study spell [332]Teleport with error to 70%
+          May train skill [333]Cast acid to 80%
+          May train skill [334]Cast asphyxiation to 80%
+          May train skill [335]Cast cold to 80%
+          May train skill [336]Cast electricity to 80%
+          May train skill [337]Cast fire to 80%
+          May train skill [338]Cast magical to 80%
+          May train skill [339]Cast poison to 80%
+          May train skill [340]Cast protection to racial maximum
+          May train skill [341]Cast teleportation to 40%
+          May train skill [342]Quick chant to 20%
+          May train skill [343]Zapping to racial maximum
+
+                                 Level 14
+     Must pass 1 out of the following:
+       * Has trained skill [344]Cast acid to at least 65%
+       * Has trained skill [345]Cast asphyxiation to at least 65%
+       * Has trained skill [346]Cast cold to at least 65%
+       * Has trained skill [347]Cast electricity to at least 65%
+       * Has trained skill [348]Cast fire to at least 65%
+       * Has trained skill [349]Cast magical to at least 65%
+       * Has trained skill [350]Cast poison to at least 65%
+          May study spell [351]Acid arrow to 10%
+          May study spell [352]Acid wind to 60%
+          May study spell [353]Blast lightning to 10%
+          May study spell [354]Chaos bolt to 10%
+          May study spell [355]Darkfire to 10%
+          May study spell [356]Fire blast to 10%
+          May study spell [357]Firebolt to 60%
+          May study spell [358]Flaming ice to 60%
+          May study spell [359]Levin bolt to 10%
+          May study spell [360]Lightning bolt to 60%
+          May study spell [361]Poison blast to 60%
+          May study spell [362]Suffocation to 60%
+          May study spell [363]Summon lesser spores to 60%
+          May study spell [364]Teleport with error to racial maximum
+          May study spell [365]Venom strike to 10%
+          May train skill [366]Cast teleportation to 50%
+          May train skill [367]Quick chant to 25%
+
+                                 Level 15
+     Must pass 1 out of the following:
+       * Has studied spell [368]Acid wind to at least 50%
+       * Has studied spell [369]Firebolt to at least 50%
+       * Has studied spell [370]Flaming ice to at least 50%
+       * Has studied spell [371]Lightning bolt to at least 50%
+       * Has studied spell [372]Poison blast to at least 50%
+       * Has studied spell [373]Suffocation to at least 50%
+       * Has studied spell [374]Summon lesser spores to at least 50%
+               May study spell [375]Acid arrow to 20%
+               May study spell [376]Acid rain to 10%
+               May study spell [377]Acid wind to 70%
+               May study spell [378]Blast lightning to 20%
+               May study spell [379]Chain lightning to 10%
+               May study spell [380]Chaos bolt to 20%
+               May study spell [381]Cone of cold to 10%
+               May study spell [382]Darkfire to 20%
+               May study spell [383]Feather weight to 85%
+               May study spell [384]Fire blast to 20%
+               May study spell [385]Firebolt to 70%
+               May study spell [386]Flaming ice to 70%
+               May study spell [387]Levin bolt to 20%
+               May study spell [388]Lightning bolt to 70%
+               May study spell [389]Magic wave to 10%
+               May study spell [390]Meteor swarm to 10%
+               May study spell [391]Poison blast to 70%
+               May study spell [392]Poison spray to 10%
+               May study spell [393]Suffocation to 70%
+               May study spell [394]Summon lesser spores to 70%
+               May study spell [395]Vacuum ball to 10%
+               May study spell [396]Venom strike to 20%
+               May train skill [397]Cast teleportation to 60%
+               May train skill [398]Damage criticality to 40%
+               May train skill [399]Quick chant to 30%
+               May train skill [400]Wandmaking to 10%
+
+                                 Level 16
+     Must pass 1 out of the following:
+       * Has studied spell [401]Acid arrow to at least 20%
+       * Has studied spell [402]Blast lightning to at least 20%
+       * Has studied spell [403]Chaos bolt to at least 20%
+       * Has studied spell [404]Darkfire to at least 20%
+       * Has studied spell [405]Fire blast to at least 20%
+       * Has studied spell [406]Levin bolt to at least 20%
+       * Has studied spell [407]Venom strike to at least 20%
+         May study spell [408]Acid arrow to 30%
+         May study spell [409]Acid rain to 20%
+         May study spell [410]Acid wind to racial maximum
+         May study spell [411]Blast lightning to 30%
+         May study spell [412]Chain lightning to 20%
+         May study spell [413]Chaos bolt to 30%
+         May study spell [414]Cone of cold to 20%
+         May study spell [415]Darkfire to 30%
+         May study spell [416]Fire blast to 30%
+         May study spell [417]Firebolt to racial maximum
+         May study spell [418]Flaming ice to racial maximum
+         May study spell [419]Greater darkness to 55%
+         May study spell [420]Greater light to 55%
+         May study spell [421]Levin bolt to 30%
+         May study spell [422]Lightning bolt to racial maximum
+         May study spell [423]Magic wave to 20%
+         May study spell [424]Meteor swarm to 20%
+         May study spell [425]Poison blast to racial maximum
+         May study spell [426]Poison spray to 20%
+         May study spell [427]Suffocation to racial maximum
+         May study spell [428]Summon lesser spores to racial maximum
+         May study spell [429]Vacuum ball to 20%
+         May study spell [430]Venom strike to 30%
+         May train skill [431]Cast acid to racial maximum
+         May train skill [432]Cast asphyxiation to racial maximum
+         May train skill [433]Cast cold to racial maximum
+         May train skill [434]Cast electricity to racial maximum
+         May train skill [435]Cast fire to racial maximum
+         May train skill [436]Cast magical to racial maximum
+         May train skill [437]Cast poison to racial maximum
+         May train skill [438]Cast teleportation to 70%
+         May train skill [439]Quick chant to 35%
+         May train skill [440]Wandmaking to 20%
+
+                                 Level 17
+     Must pass 1 out of the following:
+       * Has studied spell [441]Acid rain to at least 20%
+       * Has studied spell [442]Chain lightning to at least 20%
+       * Has studied spell [443]Cone of cold to at least 20%
+       * Has studied spell [444]Magic wave to at least 20%
+       * Has studied spell [445]Meteor swarm to at least 20%
+       * Has studied spell [446]Poison spray to at least 20%
+       * Has studied spell [447]Vacuum ball to at least 20%
+     Must pass 1 out of the following:
+       * Has studied spell [448]Acid wind to at least 65%
+       * Has studied spell [449]Firebolt to at least 65%
+       * Has studied spell [450]Flaming ice to at least 65%
+       * Has studied spell [451]Lightning bolt to at least 65%
+       * Has studied spell [452]Poison blast to at least 65%
+       * Has studied spell [453]Suffocation to at least 65%
+       * Has studied spell [454]Summon lesser spores to at least 65%
+          May study spell [455]Acid arrow to 40%
+          May study spell [456]Acid rain to 30%
+          May study spell [457]Blast lightning to 40%
+          May study spell [458]Chain lightning to 30%
+          May study spell [459]Chaos bolt to 40%
+          May study spell [460]Cone of cold to 30%
+          May study spell [461]Darkfire to 40%
+          May study spell [462]Fire blast to 40%
+          May study spell [463]Levin bolt to 40%
+          May study spell [464]Magic wave to 30%
+          May study spell [465]Meteor swarm to 30%
+          May study spell [466]Poison spray to 30%
+          May study spell [467]Teleport without error to 10%
+          May study spell [468]Vacuum ball to 30%
+          May study spell [469]Venom strike to 40%
+          May train skill [470]Cast teleportation to racial maximum
+          May train skill [471]Quick chant to 40%
+          May train skill [472]Wandmaking to 30%
+
+                                 Level 18
+          Has trained skill [473]Quick chant to at least 35%
+          Has trained skill [474]Cast teleportation to at least 40%
+          Has trained skill [475]Wandmaking to at least 30%
+          May study spell [476]Acid arrow to 50%
+          May study spell [477]Acid rain to 40%
+          May study spell [478]Blast lightning to 50%
+          May study spell [479]Chain lightning to 40%
+          May study spell [480]Chaos bolt to 50%
+          May study spell [481]Cone of cold to 40%
+          May study spell [482]Darkfire to 50%
+          May study spell [483]Fire blast to 50%
+          May study spell [484]Levin bolt to 50%
+          May study spell [485]Magic wave to 40%
+          May study spell [486]Meteor swarm to 40%
+          May study spell [487]Poison spray to 40%
+          May study spell [488]Relocate to 10%
+          May study spell [489]Teleport without error to 20%
+          May study spell [490]Vacuum ball to 40%
+          May study spell [491]Venom strike to 50%
+          May train skill [492]Quick chant to 45%
+          May train skill [493]Wandmaking to 40%
+
+                                 Level 19
+        Has studied spell [494]Teleport without error to at least 20%
+     Must pass 1 out of the following:
+       * Has studied spell [495]Greater darkness to at least 45%
+       * Has studied spell [496]Greater light to at least 45%
+        May study spell [497]Acid arrow to 60%
+        May study spell [498]Acid rain to 50%
+        May study spell [499]Acid ray to 10%
+        May study spell [500]Blast lightning to 60%
+        May study spell [501]Chain lightning to 50%
+        May study spell [502]Chaos bolt to 60%
+        May study spell [503]Cone of cold to 50%
+        May study spell [504]Darkfire to 60%
+        May study spell [505]Enhance vision to 30%
+        May study spell [506]Fire blast to 60%
+        May study spell [507]Forked lightning to 10%
+        May study spell [508]Greater darkness to 85%
+        May study spell [509]Greater light to 85%
+        May study spell [510]Icebolt to 10%
+        May study spell [511]Levin bolt to 60%
+        May study spell [512]Magic wave to 50%
+        May study spell [513]Meteor blast to 10%
+        May study spell [514]Meteor swarm to 50%
+        May study spell [515]Poison spray to 50%
+        May study spell [516]Power blast to 10%
+        May study spell [517]Relocate to 20%
+        May study spell [518]Strangulation to 10%
+        May study spell [519]Summon greater spores to 10%
+        May study spell [520]Teleport without error to 30%
+        May study spell [521]Vacuum ball to 50%
+        May study spell [522]Venom strike to 60%
+        May train skill [523]Quick chant to 50%
+        May train skill [524]Wandmaking to 50%
+
+                                 Level 20
+     Must pass 1 out of the following:
+       * Has studied spell [525]Acid arrow to at least 50%
+       * Has studied spell [526]Blast lightning to at least 50%
+       * Has studied spell [527]Chaos bolt to at least 50%
+       * Has studied spell [528]Darkfire to at least 50%
+       * Has studied spell [529]Fire blast to at least 50%
+       * Has studied spell [530]Levin bolt to at least 50%
+       * Has studied spell [531]Venom strike to at least 50%
+              May study spell [532]Acid arrow to 70%
+              May study spell [533]Acid rain to 60%
+              May study spell [534]Acid ray to 20%
+              May study spell [535]Blast lightning to 70%
+              May study spell [536]Chain lightning to 60%
+              May study spell [537]Chaos bolt to 70%
+              May study spell [538]Cone of cold to 60%
+              May study spell [539]Darkfire to 70%
+              May study spell [540]Feather weight to 100%
+              May study spell [541]Fire blast to 70%
+              May study spell [542]Forked lightning to 20%
+              May study spell [543]Icebolt to 20%
+              May study spell [544]Levin bolt to 70%
+              May study spell [545]Magic wave to 60%
+              May study spell [546]Meteor blast to 20%
+              May study spell [547]Meteor swarm to 60%
+              May study spell [548]Poison spray to 60%
+              May study spell [549]Power blast to 20%
+              May study spell [550]Relocate to 30%
+              May study spell [551]Strangulation to 20%
+              May study spell [552]Summon greater spores to 20%
+              May study spell [553]Teleport without error to 40%
+              May study spell [554]Vacuum ball to 60%
+              May study spell [555]Venom strike to 70%
+              May train skill [556]Analysis of magic lore to 5%
+              May train skill [557]Conceal spellcasting to 5%
+              May train skill [558]Damage criticality to 50%
+              May train skill [559]Quick chant to 55%
+              May train skill [560]Wandmaking to 60%
+
+                                 Level 21
+     Must pass 1 out of the following:
+       * Has studied spell [561]Acid rain to at least 50%
+       * Has studied spell [562]Chain lightning to at least 50%
+       * Has studied spell [563]Cone of cold to at least 50%
+       * Has studied spell [564]Magic wave to at least 50%
+       * Has studied spell [565]Meteor swarm to at least 50%
+       * Has studied spell [566]Poison spray to at least 50%
+       * Has studied spell [567]Vacuum ball to at least 50%
+     Must pass 1 out of the following:
+       * Has studied spell [568]Acid ray to at least 20%
+       * Has studied spell [569]Forked lightning to at least 20%
+       * Has studied spell [570]Icebolt to at least 20%
+       * Has studied spell [571]Meteor blast to at least 20%
+       * Has studied spell [572]Power blast to at least 20%
+       * Has studied spell [573]Strangulation to at least 20%
+       * Has studied spell [574]Summon greater spores to at least 20%
+            May study spell [575]Acid arrow to racial maximum
+            May study spell [576]Acid rain to 70%
+            May study spell [577]Acid ray to 30%
+            May study spell [578]Blast lightning to racial maximum
+            May study spell [579]Chain lightning to 70%
+            May study spell [580]Chaos bolt to racial maximum
+            May study spell [581]Cone of cold to 70%
+            May study spell [582]Darkfire to racial maximum
+            May study spell [583]Enhance vision to 45%
+            May study spell [584]Fire blast to racial maximum
+            May study spell [585]Forked lightning to 30%
+            May study spell [586]Icebolt to 30%
+            May study spell [587]Levin bolt to racial maximum
+            May study spell [588]Magic wave to 70%
+            May study spell [589]Meteor blast to 30%
+            May study spell [590]Meteor swarm to 70%
+            May study spell [591]Poison spray to 70%
+            May study spell [592]Power blast to 30%
+            May study spell [593]Relocate to 40%
+            May study spell [594]Strangulation to 30%
+            May study spell [595]Summon greater spores to 30%
+            May study spell [596]Teleport without error to 50%
+            May study spell [597]Vacuum ball to 70%
+            May study spell [598]Venom strike to racial maximum
+            May train skill [599]Analysis of magic lore to 10%
+            May train skill [600]Conceal spellcasting to 10%
+            May train skill [601]Quick chant to 60%
+            May train skill [602]Wandmaking to 70%
+
+                                 Level 22
+     Must pass 1 out of the following:
+       * Has studied spell [603]Acid arrow to at least 65%
+       * Has studied spell [604]Blast lightning to at least 65%
+       * Has studied spell [605]Chaos bolt to at least 65%
+       * Has studied spell [606]Darkfire to at least 65%
+       * Has studied spell [607]Fire blast to at least 65%
+       * Has studied spell [608]Levin bolt to at least 65%
+       * Has studied spell [609]Venom strike to at least 65%
+            Has studied spell [610]Relocate to at least 35%
+            May study spell [611]Acid rain to racial maximum
+            May study spell [612]Acid ray to 40%
+            May study spell [613]Chain lightning to racial maximum
+            May study spell [614]Cone of cold to racial maximum
+            May study spell [615]Forked lightning to 40%
+            May study spell [616]Icebolt to 40%
+            May study spell [617]Magic wave to racial maximum
+            May study spell [618]Meteor blast to 40%
+            May study spell [619]Meteor swarm to racial maximum
+            May study spell [620]Poison spray to racial maximum
+            May study spell [621]Power blast to 40%
+            May study spell [622]Relocate to 50%
+            May study spell [623]Strangulation to 40%
+            May study spell [624]Summon greater spores to 40%
+            May study spell [625]Teleport without error to 60%
+            May study spell [626]Vacuum ball to racial maximum
+            May train skill [627]Analysis of magic lore to 15%
+            May train skill [628]Conceal spellcasting to 15%
+            May train skill [629]Quick chant to 65%
+            May train skill [630]Wandmaking to racial maximum
+
+                                 Level 23
+     Must pass 1 out of the following:
+       * Has studied spell [631]Acid rain to at least 65%
+       * Has studied spell [632]Chain lightning to at least 65%
+       * Has studied spell [633]Cone of cold to at least 65%
+       * Has studied spell [634]Magic wave to at least 65%
+       * Has studied spell [635]Meteor swarm to at least 65%
+       * Has studied spell [636]Poison spray to at least 65%
+       * Has studied spell [637]Vacuum ball to at least 65%
+        Has studied spell [638]Teleport without error to at least 40%
+        May study spell [639]Acid ray to 50%
+        May study spell [640]Enhance vision to 65%
+        May study spell [641]Forked lightning to 50%
+        May study spell [642]Icebolt to 50%
+        May study spell [643]Meteor blast to 50%
+        May study spell [644]Power blast to 50%
+        May study spell [645]Relocate to 60%
+        May study spell [646]Strangulation to 50%
+        May study spell [647]Summon greater spores to 50%
+        May study spell [648]Teleport without error to 70%
+        May train skill [649]Analysis of magic lore to 20%
+        May train skill [650]Conceal spellcasting to 20%
+        May train skill [651]Quick chant to 70%
+
+                                 Level 24
+        Has studied spell [652]Relocate to at least 45%
+        Has trained skill [653]Conceal spellcasting to at least 20%
+        May study spell [654]Acid blast to 10%
+        May study spell [655]Acid ray to 60%
+        May study spell [656]Blast vacuum to 10%
+        May study spell [657]Cold ray to 10%
+        May study spell [658]Electrocution to 10%
+        May study spell [659]Forked lightning to 60%
+        May study spell [660]Golden arrow to 10%
+        May study spell [661]Icebolt to 60%
+        May study spell [662]Lava blast to 10%
+        May study spell [663]Meteor blast to 60%
+        May study spell [664]Power blast to 60%
+        May study spell [665]Relocate to 70%
+        May study spell [666]Strangulation to 60%
+        May study spell [667]Summon carnal spores to 10%
+        May study spell [668]Summon greater spores to 60%
+        May study spell [669]Teleport without error to racial maximum
+        May train skill [670]Analysis of magic lore to 25%
+        May train skill [671]Conceal spellcasting to 25%
+        May train skill [672]Quick chant to 75%
+
+                                 Level 25
+     Must pass 1 out of the following:
+       * Has studied spell [673]Acid ray to at least 50%
+       * Has studied spell [674]Forked lightning to at least 50%
+       * Has studied spell [675]Icebolt to at least 50%
+       * Has studied spell [676]Meteor blast to at least 50%
+       * Has studied spell [677]Power blast to at least 50%
+       * Has studied spell [678]Strangulation to at least 50%
+       * Has studied spell [679]Summon greater spores to at least 50%
+              May study spell [680]Acid blast to 20%
+              May study spell [681]Acid ray to 70%
+              May study spell [682]Acid storm to 10%
+              May study spell [683]Blast vacuum to 20%
+              May study spell [684]Cold ray to 20%
+              May study spell [685]Dimension door to 10%
+              May study spell [686]Electrocution to 20%
+              May study spell [687]Enhance vision to 85%
+              May study spell [688]Forked lightning to 70%
+              May study spell [689]Golden arrow to 20%
+              May study spell [690]Hailstorm to 10%
+              May study spell [691]Icebolt to 70%
+              May study spell [692]Lava blast to 20%
+              May study spell [693]Lava storm to 10%
+              May study spell [694]Lightning storm to 10%
+              May study spell [695]Magic eruption to 10%
+              May study spell [696]Meteor blast to 70%
+              May study spell [697]Power blast to 70%
+              May study spell [698]Relocate to racial maximum
+              May study spell [699]Strangulation to 70%
+              May study spell [700]Summon carnal spores to 20%
+              May study spell [701]Summon greater spores to 70%
+              May study spell [702]Vacuum globe to 10%
+              May train skill [703]Analysis of magic lore to 30%
+              May train skill [704]Conceal spellcasting to 30%
+              May train skill [705]Damage criticality to 60%
+              May train skill [706]Quick chant to racial maximum
+
+                                 Level 26
+     Must pass 1 out of the following:
+       * Has studied spell [707]Acid blast to at least 20%
+       * Has studied spell [708]Blast vacuum to at least 20%
+       * Has studied spell [709]Cold ray to at least 20%
+       * Has studied spell [710]Electrocution to at least 20%
+       * Has studied spell [711]Golden arrow to at least 20%
+       * Has studied spell [712]Lava blast to at least 20%
+       * Has studied spell [713]Summon carnal spores to at least 20%
+         May study spell [714]Acid blast to 30%
+         May study spell [715]Acid ray to racial maximum
+         May study spell [716]Acid storm to 20%
+         May study spell [717]Blast vacuum to 30%
+         May study spell [718]Cold ray to 30%
+         May study spell [719]Dimension door to 20%
+         May study spell [720]Electrocution to 30%
+         May study spell [721]Forked lightning to racial maximum
+         May study spell [722]Golden arrow to 30%
+         May study spell [723]Greater darkness to racial maximum
+         May study spell [724]Greater light to racial maximum
+         May study spell [725]Hailstorm to 20%
+         May study spell [726]Icebolt to racial maximum
+         May study spell [727]Lava blast to 30%
+         May study spell [728]Lava storm to 20%
+         May study spell [729]Lightning storm to 20%
+         May study spell [730]Magic eruption to 20%
+         May study spell [731]Meteor blast to racial maximum
+         May study spell [732]Power blast to racial maximum
+         May study spell [733]Strangulation to racial maximum
+         May study spell [734]Summon carnal spores to 30%
+         May study spell [735]Summon greater spores to racial maximum
+         May study spell [736]Vacuum globe to 20%
+         May train skill [737]Analysis of magic lore to 35%
+         May train skill [738]Conceal spellcasting to 35%
+
+                                 Level 27
+     Must pass 1 out of the following:
+       * Has studied spell [739]Acid ray to at least 65%
+       * Has studied spell [740]Forked lightning to at least 65%
+       * Has studied spell [741]Icebolt to at least 65%
+       * Has studied spell [742]Meteor blast to at least 65%
+       * Has studied spell [743]Power blast to at least 65%
+       * Has studied spell [744]Strangulation to at least 65%
+       * Has studied spell [745]Summon greater spores to at least 65%
+              May study spell [746]Acid blast to 40%
+              May study spell [747]Acid storm to 30%
+              May study spell [748]Blast vacuum to 40%
+              May study spell [749]Cold ray to 40%
+              May study spell [750]Degenerate person to 20%
+              May study spell [751]Dimension door to 30%
+              May study spell [752]Electrocution to 40%
+              May study spell [753]Golden arrow to 40%
+              May study spell [754]Hailstorm to 30%
+              May study spell [755]Lava blast to 40%
+              May study spell [756]Lava storm to 30%
+              May study spell [757]Lightning storm to 30%
+              May study spell [758]Magic eruption to 30%
+              May study spell [759]Summon to 10%
+              May study spell [760]Summon carnal spores to 40%
+              May study spell [761]Vacuum globe to 30%
+              May train skill [762]Analysis of magic lore to 40%
+              May train skill [763]Conceal spellcasting to 40%
+
+                                 Level 28
+        Has trained skill [764]Analysis of magic lore to at least 25%
+        May study spell [765]Acid blast to 50%
+        May study spell [766]Acid storm to 40%
+        May study spell [767]Blast vacuum to 50%
+        May study spell [768]Cold ray to 50%
+        May study spell [769]Dimension door to 40%
+        May study spell [770]Electrocution to 50%
+        May study spell [771]Golden arrow to 50%
+        May study spell [772]Hailstorm to 40%
+        May study spell [773]Killing cloud to 10%
+        May study spell [774]Lava blast to 50%
+        May study spell [775]Lava storm to 40%
+        May study spell [776]Lightning storm to 40%
+        May study spell [777]Magic eruption to 40%
+        May study spell [778]Summon to 20%
+        May study spell [779]Summon carnal spores to 50%
+        May study spell [780]Vacuum globe to 40%
+        May train skill [781]Analysis of magic lore to 45%
+        May train skill [782]Conceal spellcasting to 45%
+
+                                 Level 29
+         Has studied spell [783]Summon to at least 20%
+         May study spell [784]Acid blast to 60%
+         May study spell [785]Acid storm to 50%
+         May study spell [786]Blast vacuum to 60%
+         May study spell [787]Cold ray to 60%
+         May study spell [788]Degenerate person to 40%
+         May study spell [789]Dimension door to 50%
+         May study spell [790]Electrocution to 60%
+         May study spell [791]Golden arrow to 60%
+         May study spell [792]Hailstorm to 50%
+         May study spell [793]Killing cloud to 20%
+         May study spell [794]Lava blast to 60%
+         May study spell [795]Lava storm to 50%
+         May study spell [796]Lightning storm to 50%
+         May study spell [797]Magic eruption to 50%
+         May study spell [798]Summon to 30%
+         May study spell [799]Summon carnal spores to 60%
+         May study spell [800]Vacuum globe to 50%
+         May train skill [801]Analysis of magic lore to 50%
+         May train skill [802]Conceal spellcasting to 50%
+         May train skill [803]Knowledge of asphyxiation to 10%
+         May train skill [804]Knowledge of magic lore to 10%
+         May train skill [805]Knowledge of toxicology to 10%
+         May train skill [806]Mastery of arctic powers to 10%
+         May train skill [807]Mastery of control to 10%
+         May train skill [808]Theory of corrosion to 10%
+         May train skill [809]Theory of electrical engineering to 10%
+         May train skill [810]Theory of pyromania to 10%
+
+                                 Level 30
+     Must pass 1 out of the following:
+       * Has studied spell [811]Acid blast to at least 50%
+       * Has studied spell [812]Blast vacuum to at least 50%
+       * Has studied spell [813]Cold ray to at least 50%
+       * Has studied spell [814]Electrocution to at least 50%
+       * Has studied spell [815]Golden arrow to at least 50%
+       * Has studied spell [816]Killing cloud to at least 20%
+       * Has studied spell [817]Lava blast to at least 50%
+       * Has studied spell [818]Summon carnal spores to at least 50%
+     Must pass 1 out of the following:
+       * Has trained skill [819]Knowledge of asphyxiation to at least 10%
+       * Has trained skill [820]Knowledge of magic lore to at least 10%
+       * Has trained skill [821]Knowledge of toxicology to at least 10%
+       * Has trained skill [822]Mastery of arctic powers to at least 10%
+       * Has trained skill [823]Theory of corrosion to at least 10%
+       * Has trained skill [824]Theory of electrical engineering to at least 10%
+       * Has trained skill [825]Theory of pyromania to at least 10%
+         May study spell [826]Acid blast to 70%
+         May study spell [827]Acid storm to 60%
+         May study spell [828]Blast vacuum to 70%
+         May study spell [829]Cold ray to 70%
+         May study spell [830]Dimension door to 60%
+         May study spell [831]Electrocution to 70%
+         May study spell [832]Enhance vision to racial maximum
+         May study spell [833]Golden arrow to 70%
+         May study spell [834]Hailstorm to 60%
+         May study spell [835]Killing cloud to 30%
+         May study spell [836]Lava blast to 70%
+         May study spell [837]Lava storm to 60%
+         May study spell [838]Lightning storm to 60%
+         May study spell [839]Magic eruption to 60%
+         May study spell [840]Summon to 40%
+         May study spell [841]Summon carnal spores to 70%
+         May study spell [842]Vacuum globe to 60%
+         May train skill [843]Analysis of magic lore to 55%
+         May train skill [844]Conceal spellcasting to 55%
+         May train skill [845]Damage criticality to 70%
+         May train skill [846]Knowledge of asphyxiation to 20%
+         May train skill [847]Knowledge of magic lore to 20%
+         May train skill [848]Knowledge of toxicology to 20%
+         May train skill [849]Mastery of arctic powers to 20%
+         May train skill [850]Mastery of control to 25%
+         May train skill [851]Theory of corrosion to 20%
+         May train skill [852]Theory of electrical engineering to 20%
+         May train skill [853]Theory of pyromania to 20%
+         May study spell [854]Uncontrollable hideous laughter to 20%
+
+                                 Level 31
+     Must pass 1 out of the following:
+       * Has studied spell [855]Acid storm to at least 50%
+       * Has studied spell [856]Hailstorm to at least 50%
+       * Has studied spell [857]Killing cloud to at least 25%
+       * Has studied spell [858]Lava storm to at least 50%
+       * Has studied spell [859]Lightning storm to at least 50%
+       * Has studied spell [860]Magic eruption to at least 50%
+       * Has studied spell [861]Vacuum globe to at least 50%
+       * Has studied spell [862]Summon carnal spores to at least 50%
+     Must pass 1 out of the following:
+       * Has trained skill [863]Knowledge of asphyxiation to at least 20%
+       * Has trained skill [864]Knowledge of magic lore to at least 20%
+       * Has trained skill [865]Knowledge of toxicology to at least 20%
+       * Has trained skill [866]Mastery of arctic powers to at least 20%
+       * Has trained skill [867]Theory of corrosion to at least 20%
+       * Has trained skill [868]Theory of electrical engineering to at least 20%
+       * Has trained skill [869]Theory of pyromania to at least 20%
+         May study spell [870]Acid blast to racial maximum
+         May study spell [871]Acid storm to 70%
+         May study spell [872]Blast vacuum to racial maximum
+         May study spell [873]Cold ray to racial maximum
+         May study spell [874]Degenerate person to 60%
+         May study spell [875]Dimension door to 70%
+         May study spell [876]Electrocution to racial maximum
+         May study spell [877]Golden arrow to racial maximum
+         May study spell [878]Hailstorm to 70%
+         May study spell [879]Killing cloud to 40%
+         May study spell [880]Lava blast to racial maximum
+         May study spell [881]Lava storm to 70%
+         May study spell [882]Lightning storm to 70%
+         May study spell [883]Magic eruption to 70%
+         May study spell [884]Summon to 50%
+         May study spell [885]Summon carnal spores to racial maximum
+         May study spell [886]Vacuum globe to 70%
+         May train skill [887]Analysis of magic lore to 60%
+         May train skill [888]Conceal spellcasting to 60%
+         May train skill [889]Knowledge of asphyxiation to 30%
+         May train skill [890]Knowledge of magic lore to 30%
+         May train skill [891]Knowledge of toxicology to 30%
+         May train skill [892]Mastery of arctic powers to 30%
+         May train skill [893]Theory of corrosion to 30%
+         May train skill [894]Theory of electrical engineering to 30%
+         May train skill [895]Theory of pyromania to 30%
+         May study spell [896]Uncontrollable hideous laughter to 36%
+
+                                 Level 32
+     Must pass 1 out of the following:
+       * Has studied spell [897]Acid blast to at least 65%
+       * Has studied spell [898]Blast vacuum to at least 65%
+       * Has studied spell [899]Cold ray to at least 65%
+       * Has studied spell [900]Electrocution to at least 65%
+       * Has studied spell [901]Golden arrow to at least 65%
+       * Has studied spell [902]Killing cloud to at least 40%
+       * Has studied spell [903]Lava blast to at least 65%
+       * Has studied spell [904]Summon carnal spores to at least 65%
+     Must pass 1 out of the following:
+       * Has trained skill [905]Knowledge of asphyxiation to at least 30%
+       * Has trained skill [906]Knowledge of magic lore to at least 30%
+       * Has trained skill [907]Knowledge of toxicology to at least 30%
+       * Has trained skill [908]Mastery of arctic powers to at least 30%
+       * Has trained skill [909]Theory of corrosion to at least 30%
+       * Has trained skill [910]Theory of electrical engineering to at least 30%
+       * Has trained skill [911]Theory of pyromania to at least 30%
+         May study spell [912]Acid storm to racial maximum
+         May study spell [913]Dimension door to racial maximum
+         May study spell [914]Hailstorm to racial maximum
+         May study spell [915]Killing cloud to 50%
+         May study spell [916]Lava storm to racial maximum
+         May study spell [917]Lightning storm to racial maximum
+         May study spell [918]Magic eruption to racial maximum
+         May study spell [919]Summon to 60%
+         May study spell [920]Vacuum globe to racial maximum
+         May train skill [921]Analysis of magic lore to 65%
+         May train skill [922]Conceal spellcasting to 65%
+         May train skill [923]Knowledge of asphyxiation to 40%
+         May train skill [924]Knowledge of magic lore to 40%
+         May train skill [925]Knowledge of toxicology to 40%
+         May train skill [926]Mastery of arctic powers to 40%
+         May train skill [927]Mastery of control to 50%
+         May train skill [928]Theory of corrosion to 40%
+         May train skill [929]Theory of electrical engineering to 40%
+         May train skill [930]Theory of pyromania to 40%
+         May study spell [931]Uncontrollable hideous laughter to 52%
+
+                                 Level 33
+     Must pass 1 out of the following:
+       * Has studied spell [932]Acid storm to at least 65%
+       * Has studied spell [933]Hailstorm to at least 65%
+       * Has studied spell [934]Killing cloud to at least 50%
+       * Has studied spell [935]Lava storm to at least 65%
+       * Has studied spell [936]Lightning storm to at least 65%
+       * Has studied spell [937]Magic eruption to at least 65%
+       * Has studied spell [938]Vacuum globe to at least 65%
+     Must pass 1 out of the following:
+       * Has trained skill [939]Knowledge of asphyxiation to at least 40%
+       * Has trained skill [940]Knowledge of magic lore to at least 40%
+       * Has trained skill [941]Knowledge of toxicology to at least 40%
+       * Has trained skill [942]Mastery of arctic powers to at least 40%
+       * Has trained skill [943]Theory of corrosion to at least 40%
+       * Has trained skill [944]Theory of electrical engineering to at least 40%
+       * Has trained skill [945]Theory of pyromania to at least 40%
+         Has trained skill [946]Conceal spellcasting to at least 40%
+         Has studied spell [947]Summon to at least 40%
+         May study spell [948]Degenerate person to 80%
+         May study spell [949]Killing cloud to 60%
+         May study spell [950]Summon to 70%
+         May train skill [951]Analysis of magic lore to 70%
+         May train skill [952]Conceal spellcasting to 70%
+         May train skill [953]Knowledge of asphyxiation to 50%
+         May train skill [954]Knowledge of magic lore to 50%
+         May train skill [955]Knowledge of toxicology to 50%
+         May train skill [956]Mastery of arctic powers to 50%
+         May train skill [957]Mastery of control to 65%
+         May train skill [958]Theory of corrosion to 50%
+         May train skill [959]Theory of electrical engineering to 50%
+         May train skill [960]Theory of pyromania to 50%
+         May study spell [961]Uncontrollable hideous laughter to 68%
+
+                                 Level 34
+     Must pass 1 out of the following:
+       * Has trained skill [962]Knowledge of asphyxiation to at least 50%
+       * Has trained skill [963]Knowledge of magic lore to at least 50%
+       * Has trained skill [964]Knowledge of toxicology to at least 50%
+       * Has trained skill [965]Mastery of arctic powers to at least 50%
+       * Has trained skill [966]Theory of corrosion to at least 50%
+       * Has trained skill [967]Theory of electrical engineering to at least 50%
+       * Has trained skill [968]Theory of pyromania to at least 50%
+         May study spell [969]Killing cloud to 70%
+         May study spell [970]Summon to racial maximum
+         May train skill [971]Analysis of magic lore to 75%
+         May train skill [972]Conceal spellcasting to 75%
+         May train skill [973]Knowledge of asphyxiation to 60%
+         May train skill [974]Knowledge of magic lore to 60%
+         May train skill [975]Knowledge of toxicology to 60%
+         May train skill [976]Mastery of arctic powers to 60%
+         May train skill [977]Mastery of control to 80%
+         May train skill [978]Theory of corrosion to 60%
+         May train skill [979]Theory of electrical engineering to 60%
+         May train skill [980]Theory of pyromania to 60%
+         May study spell [981]Uncontrollable hideous laughter to 84%
+
+                                 Level 35
+     Must pass 1 out of the following:
+       * Has trained skill [982]Knowledge of asphyxiation to at least 60%
+       * Has trained skill [983]Knowledge of magic lore to at least 60%
+       * Has trained skill [984]Knowledge of toxicology to at least 60%
+       * Has trained skill [985]Mastery of arctic powers to at least 60%
+       * Has trained skill [986]Theory of corrosion to at least 60%
+       * Has trained skill [987]Theory of electrical engineering to at least 60%
+       * Has trained skill [988]Theory of pyromania to at least 60%
+       Has trained skill [989]Analysis of magic lore to at least 70%
+       Has trained skill [990]Conceal spellcasting to at least 70%
+       Has trained skill [991]Wandmaking to at least 70%
+       Has trained skill [992]Zapping to at least 70%
+       May study spell [993]Degenerate person to racial maximum
+       May study spell [994]Killing cloud to racial maximum
+       May train skill [995]Analysis of magic lore to racial maximum
+       May train skill [996]Conceal spellcasting to racial maximum
+       May train skill [997]Damage criticality to racial maximum
+       May train skill [998]Knowledge of asphyxiation to racial maximum
+       May train skill [999]Knowledge of magic lore to racial maximum
+       May train skill [1000]Knowledge of toxicology to racial maximum
+       May train skill [1001]Mastery of arctic powers to racial maximum
+       May train skill [1002]Mastery of control to racial maximum
+       May train skill [1003]Theory of corrosion to racial maximum
+     May train skill [1004]Theory of electrical engineering to racial maximum
+       May train skill [1005]Theory of pyromania to racial maximum
+       May study spell [1006]Uncontrollable hideous laughter to 100%
+
+                   Allows joining to the following guild:
+                     The Brotherhood of Wizardry
+
+   [1007]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [1008]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Brotherhood%20of%20Wizardry&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Brotherhood%20of%20Wizardry&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Brotherhood%20of%20Wizardry&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=alaron
+  23. http://www.bat.org/help/finger.php?str=ulax
+  24. http://www.bat.org/help/spells.php?str=darkness
+  25. http://www.bat.org/help/spells.php?str=heal_self
+  26. http://www.bat.org/help/spells.php?str=floating
+  27. http://www.bat.org/help/spells.php?str=invisibility
+  28. http://www.bat.org/help/spells.php?str=light
+  29. http://www.bat.org/help/spells.php?str=moon_sense
+  30. http://www.bat.org/help/skills.php?str=attack
+  31. http://www.bat.org/help/skills.php?str=cast_heal
+  32. http://www.bat.org/help/skills.php?str=cast_generic
+  33. http://www.bat.org/help/skills.php?str=consider
+  34. http://www.bat.org/help/skills.php?str=damage_criticality
+  35. http://www.bat.org/help/skills.php?str=essence_eye
+  36. http://www.bat.org/help/skills.php?str=short_blades
+  37. http://www.bat.org/help/skills.php?str=mana_control
+  38. http://www.bat.org/help/skills.php?str=essence_eye
+  39. http://www.bat.org/help/spells.php?str=darkness
+  40. http://www.bat.org/help/spells.php?str=heal_self
+  41. http://www.bat.org/help/spells.php?str=floating
+  42. http://www.bat.org/help/spells.php?str=floating_letters
+  43. http://www.bat.org/help/spells.php?str=invisibility
+  44. http://www.bat.org/help/spells.php?str=light
+  45. http://www.bat.org/help/spells.php?str=moon_sense
+  46. http://www.bat.org/help/spells.php?str=word_of_recall
+  47. http://www.bat.org/help/skills.php?str=attack
+  48. http://www.bat.org/help/skills.php?str=cast_heal
+  49. http://www.bat.org/help/skills.php?str=cast_generic
+  50. http://www.bat.org/help/skills.php?str=consider
+  51. http://www.bat.org/help/skills.php?str=short_blades
+  52. http://www.bat.org/help/skills.php?str=mana_control
+  53. http://www.bat.org/help/skills.php?str=cast_generic
+  54. http://www.bat.org/help/spells.php?str=chill_touch
+  55. http://www.bat.org/help/spells.php?str=darkness
+  56. http://www.bat.org/help/spells.php?str=disruption
+  57. http://www.bat.org/help/spells.php?str=flame_arrow
+  58. http://www.bat.org/help/spells.php?str=floating
+  59. http://www.bat.org/help/spells.php?str=heal_self
+  60. http://www.bat.org/help/spells.php?str=invisibility
+  61. http://www.bat.org/help/spells.php?str=light
+  62. http://www.bat.org/help/spells.php?str=magic_missile
+  63. http://www.bat.org/help/spells.php?str=moon_sense
+  64. http://www.bat.org/help/spells.php?str=shocking_grasp
+  65. http://www.bat.org/help/spells.php?str=thorn_spray
+  66. http://www.bat.org/help/spells.php?str=vacuumbolt
+  67. http://www.bat.org/help/spells.php?str=word_of_recall
+  68. http://www.bat.org/help/skills.php?str=attack
+  69. http://www.bat.org/help/skills.php?str=cast_heal
+  70. http://www.bat.org/help/skills.php?str=cast_generic
+  71. http://www.bat.org/help/skills.php?str=consider
+  72. http://www.bat.org/help/skills.php?str=essence_eye
+  73. http://www.bat.org/help/skills.php?str=short_blades
+  74. http://www.bat.org/help/skills.php?str=mana_control
+  75. http://www.bat.org/help/spells.php?str=light
+  76. http://www.bat.org/help/spells.php?str=darkness
+  77. http://www.bat.org/help/skills.php?str=cast_generic
+  78. http://www.bat.org/help/spells.php?str=chill_touch
+  79. http://www.bat.org/help/spells.php?str=darkness
+  80. http://www.bat.org/help/spells.php?str=disruption
+  81. http://www.bat.org/help/spells.php?str=heal_self
+  82. http://www.bat.org/help/spells.php?str=flame_arrow
+  83. http://www.bat.org/help/spells.php?str=floating
+  84. http://www.bat.org/help/spells.php?str=floating_letters
+  85. http://www.bat.org/help/spells.php?str=invisibility
+  86. http://www.bat.org/help/spells.php?str=light
+  87. http://www.bat.org/help/spells.php?str=magic_missile
+  88. http://www.bat.org/help/spells.php?str=moon_sense
+  89. http://www.bat.org/help/spells.php?str=shocking_grasp
+  90. http://www.bat.org/help/spells.php?str=thorn_spray
+  91. http://www.bat.org/help/spells.php?str=vacuumbolt
+  92. http://www.bat.org/help/spells.php?str=word_of_recall
+  93. http://www.bat.org/help/skills.php?str=attack
+  94. http://www.bat.org/help/skills.php?str=cast_acid
+  95. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+  96. http://www.bat.org/help/skills.php?str=cast_cold
+  97. http://www.bat.org/help/skills.php?str=cast_electricity
+  98. http://www.bat.org/help/skills.php?str=cast_fire
+  99. http://www.bat.org/help/skills.php?str=cast_generic
+ 100. http://www.bat.org/help/skills.php?str=cast_magical
+ 101. http://www.bat.org/help/skills.php?str=cast_poison
+ 102. http://www.bat.org/help/skills.php?str=consider
+ 103. http://www.bat.org/help/skills.php?str=mana_control
+ 104. http://www.bat.org/help/skills.php?str=cast_acid
+ 105. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 106. http://www.bat.org/help/skills.php?str=cast_cold
+ 107. http://www.bat.org/help/skills.php?str=cast_electricity
+ 108. http://www.bat.org/help/skills.php?str=cast_fire
+ 109. http://www.bat.org/help/skills.php?str=cast_magical
+ 110. http://www.bat.org/help/skills.php?str=cast_poison
+ 111. http://www.bat.org/help/spells.php?str=invisibility
+ 112. http://www.bat.org/help/spells.php?str=chill_touch
+ 113. http://www.bat.org/help/spells.php?str=disruption
+ 114. http://www.bat.org/help/spells.php?str=feather_weight
+ 115. http://www.bat.org/help/spells.php?str=flame_arrow
+ 116. http://www.bat.org/help/spells.php?str=floating
+ 117. http://www.bat.org/help/spells.php?str=invisibility
+ 118. http://www.bat.org/help/spells.php?str=magic_missile
+ 119. http://www.bat.org/help/spells.php?str=moon_sense
+ 120. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 121. http://www.bat.org/help/spells.php?str=thorn_spray
+ 122. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 123. http://www.bat.org/help/spells.php?str=word_of_recall
+ 124. http://www.bat.org/help/skills.php?str=cast_generic
+ 125. http://www.bat.org/help/skills.php?str=damage_criticality
+ 126. http://www.bat.org/help/skills.php?str=essence_eye
+ 127. http://www.bat.org/help/skills.php?str=mana_control
+ 128. http://www.bat.org/help/skills.php?str=zapping
+ 129. http://www.bat.org/help/skills.php?str=create_staff
+ 130. http://www.bat.org/help/spells.php?str=chill_touch
+ 131. http://www.bat.org/help/spells.php?str=disruption
+ 132. http://www.bat.org/help/spells.php?str=flame_arrow
+ 133. http://www.bat.org/help/spells.php?str=magic_missile
+ 134. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 135. http://www.bat.org/help/spells.php?str=thorn_spray
+ 136. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 137. http://www.bat.org/help/spells.php?str=chill_touch
+ 138. http://www.bat.org/help/spells.php?str=disruption
+ 139. http://www.bat.org/help/spells.php?str=flame_arrow
+ 140. http://www.bat.org/help/spells.php?str=floating_letters
+ 141. http://www.bat.org/help/spells.php?str=invisibility
+ 142. http://www.bat.org/help/spells.php?str=magic_missile
+ 143. http://www.bat.org/help/spells.php?str=mirror_image
+ 144. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 145. http://www.bat.org/help/spells.php?str=thorn_spray
+ 146. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 147. http://www.bat.org/help/spells.php?str=word_of_recall
+ 148. http://www.bat.org/help/skills.php?str=cast_generic
+ 149. http://www.bat.org/help/skills.php?str=cast_protection
+ 150. http://www.bat.org/help/skills.php?str=mana_control
+ 151. http://www.bat.org/help/skills.php?str=zapping
+ 152. http://www.bat.org/help/skills.php?str=cast_generic
+ 153. http://www.bat.org/help/spells.php?str=chill_touch
+ 154. http://www.bat.org/help/spells.php?str=disruption
+ 155. http://www.bat.org/help/spells.php?str=feather_weight
+ 156. http://www.bat.org/help/spells.php?str=flame_arrow
+ 157. http://www.bat.org/help/spells.php?str=invisibility
+ 158. http://www.bat.org/help/spells.php?str=magic_missile
+ 159. http://www.bat.org/help/spells.php?str=mirror_image
+ 160. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 161. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 162. http://www.bat.org/help/spells.php?str=thorn_spray
+ 163. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 164. http://www.bat.org/help/spells.php?str=word_of_recall
+ 165. http://www.bat.org/help/spells.php?str=heavy_weight
+ 166. http://www.bat.org/help/skills.php?str=cast_acid
+ 167. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 168. http://www.bat.org/help/skills.php?str=cast_cold
+ 169. http://www.bat.org/help/skills.php?str=cast_electricity
+ 170. http://www.bat.org/help/skills.php?str=cast_fire
+ 171. http://www.bat.org/help/skills.php?str=cast_generic
+ 172. http://www.bat.org/help/skills.php?str=cast_magical
+ 173. http://www.bat.org/help/skills.php?str=cast_poison
+ 174. http://www.bat.org/help/skills.php?str=cast_protection
+ 175. http://www.bat.org/help/skills.php?str=essence_eye
+ 176. http://www.bat.org/help/skills.php?str=mana_control
+ 177. http://www.bat.org/help/skills.php?str=zapping
+ 178. http://www.bat.org/help/skills.php?str=cast_acid
+ 179. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 180. http://www.bat.org/help/skills.php?str=cast_cold
+ 181. http://www.bat.org/help/skills.php?str=cast_electricity
+ 182. http://www.bat.org/help/skills.php?str=cast_fire
+ 183. http://www.bat.org/help/skills.php?str=cast_magical
+ 184. http://www.bat.org/help/skills.php?str=cast_poison
+ 185. http://www.bat.org/help/skills.php?str=mana_control
+ 186. http://www.bat.org/help/spells.php?str=chill_touch
+ 187. http://www.bat.org/help/spells.php?str=disruption
+ 188. http://www.bat.org/help/spells.php?str=feather_weight
+ 189. http://www.bat.org/help/spells.php?str=flame_arrow
+ 190. http://www.bat.org/help/spells.php?str=floating_letters
+ 191. http://www.bat.org/help/spells.php?str=invisibility
+ 192. http://www.bat.org/help/spells.php?str=magic_missile
+ 193. http://www.bat.org/help/spells.php?str=mirror_image
+ 194. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 195. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 196. http://www.bat.org/help/spells.php?str=thorn_spray
+ 197. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 198. http://www.bat.org/help/spells.php?str=word_of_recall
+ 199. http://www.bat.org/help/spells.php?str=heavy_weight
+ 200. http://www.bat.org/help/skills.php?str=cast_generic
+ 201. http://www.bat.org/help/skills.php?str=cast_protection
+ 202. http://www.bat.org/help/skills.php?str=mana_control
+ 203. http://www.bat.org/help/skills.php?str=zapping
+ 204. http://www.bat.org/help/spells.php?str=mirror_image
+ 205. http://www.bat.org/help/spells.php?str=word_of_recall
+ 206. http://www.bat.org/help/skills.php?str=zapping
+ 207. http://www.bat.org/help/spells.php?str=acid_wind
+ 208. http://www.bat.org/help/spells.php?str=chill_touch
+ 209. http://www.bat.org/help/spells.php?str=disruption
+ 210. http://www.bat.org/help/spells.php?str=firebolt
+ 211. http://www.bat.org/help/spells.php?str=flame_arrow
+ 212. http://www.bat.org/help/spells.php?str=flaming_ice
+ 213. http://www.bat.org/help/spells.php?str=greater_darkness
+ 214. http://www.bat.org/help/spells.php?str=greater_light
+ 215. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 216. http://www.bat.org/help/spells.php?str=magic_missile
+ 217. http://www.bat.org/help/spells.php?str=mirror_image
+ 218. http://www.bat.org/help/spells.php?str=poison_blast
+ 219. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 220. http://www.bat.org/help/spells.php?str=suffocation
+ 221. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 222. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 223. http://www.bat.org/help/spells.php?str=thorn_spray
+ 224. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 225. http://www.bat.org/help/spells.php?str=word_of_recall
+ 226. http://www.bat.org/help/spells.php?str=heavy_weight
+ 227. http://www.bat.org/help/skills.php?str=cast_protection
+ 228. http://www.bat.org/help/skills.php?str=zapping
+ 229. http://www.bat.org/help/spells.php?str=chill_touch
+ 230. http://www.bat.org/help/spells.php?str=disruption
+ 231. http://www.bat.org/help/spells.php?str=flame_arrow
+ 232. http://www.bat.org/help/spells.php?str=magic_missile
+ 233. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 234. http://www.bat.org/help/spells.php?str=thorn_spray
+ 235. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 236. http://www.bat.org/help/spells.php?str=acid_wind
+ 237. http://www.bat.org/help/spells.php?str=chill_touch
+ 238. http://www.bat.org/help/spells.php?str=disruption
+ 239. http://www.bat.org/help/spells.php?str=feather_weight
+ 240. http://www.bat.org/help/spells.php?str=firebolt
+ 241. http://www.bat.org/help/spells.php?str=flame_arrow
+ 242. http://www.bat.org/help/spells.php?str=flaming_ice
+ 243. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 244. http://www.bat.org/help/spells.php?str=magic_missile
+ 245. http://www.bat.org/help/spells.php?str=mirror_image
+ 246. http://www.bat.org/help/spells.php?str=poison_blast
+ 247. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 248. http://www.bat.org/help/spells.php?str=suffocation
+ 249. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 250. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 251. http://www.bat.org/help/spells.php?str=thorn_spray
+ 252. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 253. http://www.bat.org/help/spells.php?str=heavy_weight
+ 254. http://www.bat.org/help/skills.php?str=cast_acid
+ 255. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 256. http://www.bat.org/help/skills.php?str=cast_cold
+ 257. http://www.bat.org/help/skills.php?str=cast_electricity
+ 258. http://www.bat.org/help/skills.php?str=cast_fire
+ 259. http://www.bat.org/help/skills.php?str=cast_magical
+ 260. http://www.bat.org/help/skills.php?str=cast_poison
+ 261. http://www.bat.org/help/skills.php?str=cast_protection
+ 262. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 263. http://www.bat.org/help/skills.php?str=damage_criticality
+ 264. http://www.bat.org/help/skills.php?str=quick_chant
+ 265. http://www.bat.org/help/skills.php?str=zapping
+ 266. http://www.bat.org/help/spells.php?str=acid_wind
+ 267. http://www.bat.org/help/spells.php?str=firebolt
+ 268. http://www.bat.org/help/spells.php?str=flaming_ice
+ 269. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 270. http://www.bat.org/help/spells.php?str=poison_blast
+ 271. http://www.bat.org/help/spells.php?str=suffocation
+ 272. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 273. http://www.bat.org/help/skills.php?str=cast_acid
+ 274. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 275. http://www.bat.org/help/skills.php?str=cast_cold
+ 276. http://www.bat.org/help/skills.php?str=cast_electricity
+ 277. http://www.bat.org/help/skills.php?str=cast_fire
+ 278. http://www.bat.org/help/skills.php?str=cast_magical
+ 279. http://www.bat.org/help/skills.php?str=cast_poison
+ 280. http://www.bat.org/help/spells.php?str=acid_wind
+ 281. http://www.bat.org/help/spells.php?str=chill_touch
+ 282. http://www.bat.org/help/spells.php?str=disruption
+ 283. http://www.bat.org/help/spells.php?str=feather_weight
+ 284. http://www.bat.org/help/spells.php?str=firebolt
+ 285. http://www.bat.org/help/spells.php?str=flame_arrow
+ 286. http://www.bat.org/help/spells.php?str=flaming_ice
+ 287. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 288. http://www.bat.org/help/spells.php?str=magic_missile
+ 289. http://www.bat.org/help/spells.php?str=mirror_image
+ 290. http://www.bat.org/help/spells.php?str=poison_blast
+ 291. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 292. http://www.bat.org/help/spells.php?str=suffocation
+ 293. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 294. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 295. http://www.bat.org/help/spells.php?str=thorn_spray
+ 296. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 297. http://www.bat.org/help/skills.php?str=cast_protection
+ 298. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 299. http://www.bat.org/help/skills.php?str=quick_chant
+ 300. http://www.bat.org/help/skills.php?str=zapping
+ 301. http://www.bat.org/help/spells.php?str=chill_touch
+ 302. http://www.bat.org/help/spells.php?str=disruption
+ 303. http://www.bat.org/help/spells.php?str=flame_arrow
+ 304. http://www.bat.org/help/spells.php?str=magic_missile
+ 305. http://www.bat.org/help/spells.php?str=shocking_grasp
+ 306. http://www.bat.org/help/spells.php?str=thorn_spray
+ 307. http://www.bat.org/help/spells.php?str=vacuumbolt
+ 308. http://www.bat.org/help/spells.php?str=acid_wind
+ 309. http://www.bat.org/help/spells.php?str=firebolt
+ 310. http://www.bat.org/help/spells.php?str=flaming_ice
+ 311. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 312. http://www.bat.org/help/spells.php?str=mirror_image
+ 313. http://www.bat.org/help/spells.php?str=poison_blast
+ 314. http://www.bat.org/help/spells.php?str=suffocation
+ 315. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 316. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 317. http://www.bat.org/help/skills.php?str=cast_protection
+ 318. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 319. http://www.bat.org/help/skills.php?str=quick_chant
+ 320. http://www.bat.org/help/skills.php?str=zapping
+ 321. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 322. http://www.bat.org/help/skills.php?str=quick_chant
+ 323. http://www.bat.org/help/spells.php?str=acid_wind
+ 324. http://www.bat.org/help/spells.php?str=feather_weight
+ 325. http://www.bat.org/help/spells.php?str=firebolt
+ 326. http://www.bat.org/help/spells.php?str=flaming_ice
+ 327. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 328. http://www.bat.org/help/spells.php?str=mirror_image
+ 329. http://www.bat.org/help/spells.php?str=poison_blast
+ 330. http://www.bat.org/help/spells.php?str=suffocation
+ 331. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 332. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 333. http://www.bat.org/help/skills.php?str=cast_acid
+ 334. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 335. http://www.bat.org/help/skills.php?str=cast_cold
+ 336. http://www.bat.org/help/skills.php?str=cast_electricity
+ 337. http://www.bat.org/help/skills.php?str=cast_fire
+ 338. http://www.bat.org/help/skills.php?str=cast_magical
+ 339. http://www.bat.org/help/skills.php?str=cast_poison
+ 340. http://www.bat.org/help/skills.php?str=cast_protection
+ 341. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 342. http://www.bat.org/help/skills.php?str=quick_chant
+ 343. http://www.bat.org/help/skills.php?str=zapping
+ 344. http://www.bat.org/help/skills.php?str=cast_acid
+ 345. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 346. http://www.bat.org/help/skills.php?str=cast_cold
+ 347. http://www.bat.org/help/skills.php?str=cast_electricity
+ 348. http://www.bat.org/help/skills.php?str=cast_fire
+ 349. http://www.bat.org/help/skills.php?str=cast_magical
+ 350. http://www.bat.org/help/skills.php?str=cast_poison
+ 351. http://www.bat.org/help/spells.php?str=acid_arrow
+ 352. http://www.bat.org/help/spells.php?str=acid_wind
+ 353. http://www.bat.org/help/spells.php?str=blast_lightning
+ 354. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 355. http://www.bat.org/help/spells.php?str=darkfire
+ 356. http://www.bat.org/help/spells.php?str=fire_blast
+ 357. http://www.bat.org/help/spells.php?str=firebolt
+ 358. http://www.bat.org/help/spells.php?str=flaming_ice
+ 359. http://www.bat.org/help/spells.php?str=levin_bolt
+ 360. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 361. http://www.bat.org/help/spells.php?str=poison_blast
+ 362. http://www.bat.org/help/spells.php?str=suffocation
+ 363. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 364. http://www.bat.org/help/spells.php?str=teleport_with_error
+ 365. http://www.bat.org/help/spells.php?str=venom_strike
+ 366. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 367. http://www.bat.org/help/skills.php?str=quick_chant
+ 368. http://www.bat.org/help/spells.php?str=acid_wind
+ 369. http://www.bat.org/help/spells.php?str=firebolt
+ 370. http://www.bat.org/help/spells.php?str=flaming_ice
+ 371. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 372. http://www.bat.org/help/spells.php?str=poison_blast
+ 373. http://www.bat.org/help/spells.php?str=suffocation
+ 374. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 375. http://www.bat.org/help/spells.php?str=acid_arrow
+ 376. http://www.bat.org/help/spells.php?str=acid_rain
+ 377. http://www.bat.org/help/spells.php?str=acid_wind
+ 378. http://www.bat.org/help/spells.php?str=blast_lightning
+ 379. http://www.bat.org/help/spells.php?str=chain_lightning
+ 380. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 381. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 382. http://www.bat.org/help/spells.php?str=darkfire
+ 383. http://www.bat.org/help/spells.php?str=feather_weight
+ 384. http://www.bat.org/help/spells.php?str=fire_blast
+ 385. http://www.bat.org/help/spells.php?str=firebolt
+ 386. http://www.bat.org/help/spells.php?str=flaming_ice
+ 387. http://www.bat.org/help/spells.php?str=levin_bolt
+ 388. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 389. http://www.bat.org/help/spells.php?str=magic_wave
+ 390. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 391. http://www.bat.org/help/spells.php?str=poison_blast
+ 392. http://www.bat.org/help/spells.php?str=poison_spray
+ 393. http://www.bat.org/help/spells.php?str=suffocation
+ 394. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 395. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 396. http://www.bat.org/help/spells.php?str=venom_strike
+ 397. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 398. http://www.bat.org/help/skills.php?str=damage_criticality
+ 399. http://www.bat.org/help/skills.php?str=quick_chant
+ 400. http://www.bat.org/help/skills.php?str=wandmaking
+ 401. http://www.bat.org/help/spells.php?str=acid_arrow
+ 402. http://www.bat.org/help/spells.php?str=blast_lightning
+ 403. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 404. http://www.bat.org/help/spells.php?str=darkfire
+ 405. http://www.bat.org/help/spells.php?str=fire_blast
+ 406. http://www.bat.org/help/spells.php?str=levin_bolt
+ 407. http://www.bat.org/help/spells.php?str=venom_strike
+ 408. http://www.bat.org/help/spells.php?str=acid_arrow
+ 409. http://www.bat.org/help/spells.php?str=acid_rain
+ 410. http://www.bat.org/help/spells.php?str=acid_wind
+ 411. http://www.bat.org/help/spells.php?str=blast_lightning
+ 412. http://www.bat.org/help/spells.php?str=chain_lightning
+ 413. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 414. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 415. http://www.bat.org/help/spells.php?str=darkfire
+ 416. http://www.bat.org/help/spells.php?str=fire_blast
+ 417. http://www.bat.org/help/spells.php?str=firebolt
+ 418. http://www.bat.org/help/spells.php?str=flaming_ice
+ 419. http://www.bat.org/help/spells.php?str=greater_darkness
+ 420. http://www.bat.org/help/spells.php?str=greater_light
+ 421. http://www.bat.org/help/spells.php?str=levin_bolt
+ 422. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 423. http://www.bat.org/help/spells.php?str=magic_wave
+ 424. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 425. http://www.bat.org/help/spells.php?str=poison_blast
+ 426. http://www.bat.org/help/spells.php?str=poison_spray
+ 427. http://www.bat.org/help/spells.php?str=suffocation
+ 428. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 429. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 430. http://www.bat.org/help/spells.php?str=venom_strike
+ 431. http://www.bat.org/help/skills.php?str=cast_acid
+ 432. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 433. http://www.bat.org/help/skills.php?str=cast_cold
+ 434. http://www.bat.org/help/skills.php?str=cast_electricity
+ 435. http://www.bat.org/help/skills.php?str=cast_fire
+ 436. http://www.bat.org/help/skills.php?str=cast_magical
+ 437. http://www.bat.org/help/skills.php?str=cast_poison
+ 438. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 439. http://www.bat.org/help/skills.php?str=quick_chant
+ 440. http://www.bat.org/help/skills.php?str=wandmaking
+ 441. http://www.bat.org/help/spells.php?str=acid_rain
+ 442. http://www.bat.org/help/spells.php?str=chain_lightning
+ 443. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 444. http://www.bat.org/help/spells.php?str=magic_wave
+ 445. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 446. http://www.bat.org/help/spells.php?str=poison_spray
+ 447. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 448. http://www.bat.org/help/spells.php?str=acid_wind
+ 449. http://www.bat.org/help/spells.php?str=firebolt
+ 450. http://www.bat.org/help/spells.php?str=flaming_ice
+ 451. http://www.bat.org/help/spells.php?str=lightning_bolt
+ 452. http://www.bat.org/help/spells.php?str=poison_blast
+ 453. http://www.bat.org/help/spells.php?str=suffocation
+ 454. http://www.bat.org/help/spells.php?str=summon_lesser_spores
+ 455. http://www.bat.org/help/spells.php?str=acid_arrow
+ 456. http://www.bat.org/help/spells.php?str=acid_rain
+ 457. http://www.bat.org/help/spells.php?str=blast_lightning
+ 458. http://www.bat.org/help/spells.php?str=chain_lightning
+ 459. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 460. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 461. http://www.bat.org/help/spells.php?str=darkfire
+ 462. http://www.bat.org/help/spells.php?str=fire_blast
+ 463. http://www.bat.org/help/spells.php?str=levin_bolt
+ 464. http://www.bat.org/help/spells.php?str=magic_wave
+ 465. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 466. http://www.bat.org/help/spells.php?str=poison_spray
+ 467. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 468. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 469. http://www.bat.org/help/spells.php?str=venom_strike
+ 470. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 471. http://www.bat.org/help/skills.php?str=quick_chant
+ 472. http://www.bat.org/help/skills.php?str=wandmaking
+ 473. http://www.bat.org/help/skills.php?str=quick_chant
+ 474. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 475. http://www.bat.org/help/skills.php?str=wandmaking
+ 476. http://www.bat.org/help/spells.php?str=acid_arrow
+ 477. http://www.bat.org/help/spells.php?str=acid_rain
+ 478. http://www.bat.org/help/spells.php?str=blast_lightning
+ 479. http://www.bat.org/help/spells.php?str=chain_lightning
+ 480. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 481. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 482. http://www.bat.org/help/spells.php?str=darkfire
+ 483. http://www.bat.org/help/spells.php?str=fire_blast
+ 484. http://www.bat.org/help/spells.php?str=levin_bolt
+ 485. http://www.bat.org/help/spells.php?str=magic_wave
+ 486. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 487. http://www.bat.org/help/spells.php?str=poison_spray
+ 488. http://www.bat.org/help/spells.php?str=relocate
+ 489. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 490. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 491. http://www.bat.org/help/spells.php?str=venom_strike
+ 492. http://www.bat.org/help/skills.php?str=quick_chant
+ 493. http://www.bat.org/help/skills.php?str=wandmaking
+ 494. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 495. http://www.bat.org/help/spells.php?str=greater_darkness
+ 496. http://www.bat.org/help/spells.php?str=greater_light
+ 497. http://www.bat.org/help/spells.php?str=acid_arrow
+ 498. http://www.bat.org/help/spells.php?str=acid_rain
+ 499. http://www.bat.org/help/spells.php?str=acid_ray
+ 500. http://www.bat.org/help/spells.php?str=blast_lightning
+ 501. http://www.bat.org/help/spells.php?str=chain_lightning
+ 502. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 503. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 504. http://www.bat.org/help/spells.php?str=darkfire
+ 505. http://www.bat.org/help/spells.php?str=enhance_vision
+ 506. http://www.bat.org/help/spells.php?str=fire_blast
+ 507. http://www.bat.org/help/spells.php?str=forked_lightning
+ 508. http://www.bat.org/help/spells.php?str=greater_darkness
+ 509. http://www.bat.org/help/spells.php?str=greater_light
+ 510. http://www.bat.org/help/spells.php?str=icebolt
+ 511. http://www.bat.org/help/spells.php?str=levin_bolt
+ 512. http://www.bat.org/help/spells.php?str=magic_wave
+ 513. http://www.bat.org/help/spells.php?str=meteor_blast
+ 514. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 515. http://www.bat.org/help/spells.php?str=poison_spray
+ 516. http://www.bat.org/help/spells.php?str=power_blast
+ 517. http://www.bat.org/help/spells.php?str=relocate
+ 518. http://www.bat.org/help/spells.php?str=strangulation
+ 519. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 520. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 521. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 522. http://www.bat.org/help/spells.php?str=venom_strike
+ 523. http://www.bat.org/help/skills.php?str=quick_chant
+ 524. http://www.bat.org/help/skills.php?str=wandmaking
+ 525. http://www.bat.org/help/spells.php?str=acid_arrow
+ 526. http://www.bat.org/help/spells.php?str=blast_lightning
+ 527. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 528. http://www.bat.org/help/spells.php?str=darkfire
+ 529. http://www.bat.org/help/spells.php?str=fire_blast
+ 530. http://www.bat.org/help/spells.php?str=levin_bolt
+ 531. http://www.bat.org/help/spells.php?str=venom_strike
+ 532. http://www.bat.org/help/spells.php?str=acid_arrow
+ 533. http://www.bat.org/help/spells.php?str=acid_rain
+ 534. http://www.bat.org/help/spells.php?str=acid_ray
+ 535. http://www.bat.org/help/spells.php?str=blast_lightning
+ 536. http://www.bat.org/help/spells.php?str=chain_lightning
+ 537. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 538. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 539. http://www.bat.org/help/spells.php?str=darkfire
+ 540. http://www.bat.org/help/spells.php?str=feather_weight
+ 541. http://www.bat.org/help/spells.php?str=fire_blast
+ 542. http://www.bat.org/help/spells.php?str=forked_lightning
+ 543. http://www.bat.org/help/spells.php?str=icebolt
+ 544. http://www.bat.org/help/spells.php?str=levin_bolt
+ 545. http://www.bat.org/help/spells.php?str=magic_wave
+ 546. http://www.bat.org/help/spells.php?str=meteor_blast
+ 547. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 548. http://www.bat.org/help/spells.php?str=poison_spray
+ 549. http://www.bat.org/help/spells.php?str=power_blast
+ 550. http://www.bat.org/help/spells.php?str=relocate
+ 551. http://www.bat.org/help/spells.php?str=strangulation
+ 552. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 553. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 554. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 555. http://www.bat.org/help/spells.php?str=venom_strike
+ 556. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 557. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 558. http://www.bat.org/help/skills.php?str=damage_criticality
+ 559. http://www.bat.org/help/skills.php?str=quick_chant
+ 560. http://www.bat.org/help/skills.php?str=wandmaking
+ 561. http://www.bat.org/help/spells.php?str=acid_rain
+ 562. http://www.bat.org/help/spells.php?str=chain_lightning
+ 563. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 564. http://www.bat.org/help/spells.php?str=magic_wave
+ 565. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 566. http://www.bat.org/help/spells.php?str=poison_spray
+ 567. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 568. http://www.bat.org/help/spells.php?str=acid_ray
+ 569. http://www.bat.org/help/spells.php?str=forked_lightning
+ 570. http://www.bat.org/help/spells.php?str=icebolt
+ 571. http://www.bat.org/help/spells.php?str=meteor_blast
+ 572. http://www.bat.org/help/spells.php?str=power_blast
+ 573. http://www.bat.org/help/spells.php?str=strangulation
+ 574. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 575. http://www.bat.org/help/spells.php?str=acid_arrow
+ 576. http://www.bat.org/help/spells.php?str=acid_rain
+ 577. http://www.bat.org/help/spells.php?str=acid_ray
+ 578. http://www.bat.org/help/spells.php?str=blast_lightning
+ 579. http://www.bat.org/help/spells.php?str=chain_lightning
+ 580. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 581. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 582. http://www.bat.org/help/spells.php?str=darkfire
+ 583. http://www.bat.org/help/spells.php?str=enhance_vision
+ 584. http://www.bat.org/help/spells.php?str=fire_blast
+ 585. http://www.bat.org/help/spells.php?str=forked_lightning
+ 586. http://www.bat.org/help/spells.php?str=icebolt
+ 587. http://www.bat.org/help/spells.php?str=levin_bolt
+ 588. http://www.bat.org/help/spells.php?str=magic_wave
+ 589. http://www.bat.org/help/spells.php?str=meteor_blast
+ 590. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 591. http://www.bat.org/help/spells.php?str=poison_spray
+ 592. http://www.bat.org/help/spells.php?str=power_blast
+ 593. http://www.bat.org/help/spells.php?str=relocate
+ 594. http://www.bat.org/help/spells.php?str=strangulation
+ 595. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 596. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 597. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 598. http://www.bat.org/help/spells.php?str=venom_strike
+ 599. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 600. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 601. http://www.bat.org/help/skills.php?str=quick_chant
+ 602. http://www.bat.org/help/skills.php?str=wandmaking
+ 603. http://www.bat.org/help/spells.php?str=acid_arrow
+ 604. http://www.bat.org/help/spells.php?str=blast_lightning
+ 605. http://www.bat.org/help/spells.php?str=chaos_bolt
+ 606. http://www.bat.org/help/spells.php?str=darkfire
+ 607. http://www.bat.org/help/spells.php?str=fire_blast
+ 608. http://www.bat.org/help/spells.php?str=levin_bolt
+ 609. http://www.bat.org/help/spells.php?str=venom_strike
+ 610. http://www.bat.org/help/spells.php?str=relocate
+ 611. http://www.bat.org/help/spells.php?str=acid_rain
+ 612. http://www.bat.org/help/spells.php?str=acid_ray
+ 613. http://www.bat.org/help/spells.php?str=chain_lightning
+ 614. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 615. http://www.bat.org/help/spells.php?str=forked_lightning
+ 616. http://www.bat.org/help/spells.php?str=icebolt
+ 617. http://www.bat.org/help/spells.php?str=magic_wave
+ 618. http://www.bat.org/help/spells.php?str=meteor_blast
+ 619. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 620. http://www.bat.org/help/spells.php?str=poison_spray
+ 621. http://www.bat.org/help/spells.php?str=power_blast
+ 622. http://www.bat.org/help/spells.php?str=relocate
+ 623. http://www.bat.org/help/spells.php?str=strangulation
+ 624. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 625. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 626. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 627. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 628. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 629. http://www.bat.org/help/skills.php?str=quick_chant
+ 630. http://www.bat.org/help/skills.php?str=wandmaking
+ 631. http://www.bat.org/help/spells.php?str=acid_rain
+ 632. http://www.bat.org/help/spells.php?str=chain_lightning
+ 633. http://www.bat.org/help/spells.php?str=cone_of_cold
+ 634. http://www.bat.org/help/spells.php?str=magic_wave
+ 635. http://www.bat.org/help/spells.php?str=meteor_swarm
+ 636. http://www.bat.org/help/spells.php?str=poison_spray
+ 637. http://www.bat.org/help/spells.php?str=vacuum_ball
+ 638. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 639. http://www.bat.org/help/spells.php?str=acid_ray
+ 640. http://www.bat.org/help/spells.php?str=enhance_vision
+ 641. http://www.bat.org/help/spells.php?str=forked_lightning
+ 642. http://www.bat.org/help/spells.php?str=icebolt
+ 643. http://www.bat.org/help/spells.php?str=meteor_blast
+ 644. http://www.bat.org/help/spells.php?str=power_blast
+ 645. http://www.bat.org/help/spells.php?str=relocate
+ 646. http://www.bat.org/help/spells.php?str=strangulation
+ 647. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 648. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 649. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 650. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 651. http://www.bat.org/help/skills.php?str=quick_chant
+ 652. http://www.bat.org/help/spells.php?str=relocate
+ 653. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 654. http://www.bat.org/help/spells.php?str=acid_blast
+ 655. http://www.bat.org/help/spells.php?str=acid_ray
+ 656. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 657. http://www.bat.org/help/spells.php?str=cold_ray
+ 658. http://www.bat.org/help/spells.php?str=electrocution
+ 659. http://www.bat.org/help/spells.php?str=forked_lightning
+ 660. http://www.bat.org/help/spells.php?str=golden_arrow
+ 661. http://www.bat.org/help/spells.php?str=icebolt
+ 662. http://www.bat.org/help/spells.php?str=lava_blast
+ 663. http://www.bat.org/help/spells.php?str=meteor_blast
+ 664. http://www.bat.org/help/spells.php?str=power_blast
+ 665. http://www.bat.org/help/spells.php?str=relocate
+ 666. http://www.bat.org/help/spells.php?str=strangulation
+ 667. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 668. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 669. http://www.bat.org/help/spells.php?str=teleport_without_error
+ 670. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 671. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 672. http://www.bat.org/help/skills.php?str=quick_chant
+ 673. http://www.bat.org/help/spells.php?str=acid_ray
+ 674. http://www.bat.org/help/spells.php?str=forked_lightning
+ 675. http://www.bat.org/help/spells.php?str=icebolt
+ 676. http://www.bat.org/help/spells.php?str=meteor_blast
+ 677. http://www.bat.org/help/spells.php?str=power_blast
+ 678. http://www.bat.org/help/spells.php?str=strangulation
+ 679. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 680. http://www.bat.org/help/spells.php?str=acid_blast
+ 681. http://www.bat.org/help/spells.php?str=acid_ray
+ 682. http://www.bat.org/help/spells.php?str=acid_storm
+ 683. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 684. http://www.bat.org/help/spells.php?str=cold_ray
+ 685. http://www.bat.org/help/spells.php?str=dimension_door
+ 686. http://www.bat.org/help/spells.php?str=electrocution
+ 687. http://www.bat.org/help/spells.php?str=enhance_vision
+ 688. http://www.bat.org/help/spells.php?str=forked_lightning
+ 689. http://www.bat.org/help/spells.php?str=golden_arrow
+ 690. http://www.bat.org/help/spells.php?str=hailstorm
+ 691. http://www.bat.org/help/spells.php?str=icebolt
+ 692. http://www.bat.org/help/spells.php?str=lava_blast
+ 693. http://www.bat.org/help/spells.php?str=lava_storm
+ 694. http://www.bat.org/help/spells.php?str=lightning_storm
+ 695. http://www.bat.org/help/spells.php?str=magic_eruption
+ 696. http://www.bat.org/help/spells.php?str=meteor_blast
+ 697. http://www.bat.org/help/spells.php?str=power_blast
+ 698. http://www.bat.org/help/spells.php?str=relocate
+ 699. http://www.bat.org/help/spells.php?str=strangulation
+ 700. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 701. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 702. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 703. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 704. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 705. http://www.bat.org/help/skills.php?str=damage_criticality
+ 706. http://www.bat.org/help/skills.php?str=quick_chant
+ 707. http://www.bat.org/help/spells.php?str=acid_blast
+ 708. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 709. http://www.bat.org/help/spells.php?str=cold_ray
+ 710. http://www.bat.org/help/spells.php?str=electrocution
+ 711. http://www.bat.org/help/spells.php?str=golden_arrow
+ 712. http://www.bat.org/help/spells.php?str=lava_blast
+ 713. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 714. http://www.bat.org/help/spells.php?str=acid_blast
+ 715. http://www.bat.org/help/spells.php?str=acid_ray
+ 716. http://www.bat.org/help/spells.php?str=acid_storm
+ 717. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 718. http://www.bat.org/help/spells.php?str=cold_ray
+ 719. http://www.bat.org/help/spells.php?str=dimension_door
+ 720. http://www.bat.org/help/spells.php?str=electrocution
+ 721. http://www.bat.org/help/spells.php?str=forked_lightning
+ 722. http://www.bat.org/help/spells.php?str=golden_arrow
+ 723. http://www.bat.org/help/spells.php?str=greater_darkness
+ 724. http://www.bat.org/help/spells.php?str=greater_light
+ 725. http://www.bat.org/help/spells.php?str=hailstorm
+ 726. http://www.bat.org/help/spells.php?str=icebolt
+ 727. http://www.bat.org/help/spells.php?str=lava_blast
+ 728. http://www.bat.org/help/spells.php?str=lava_storm
+ 729. http://www.bat.org/help/spells.php?str=lightning_storm
+ 730. http://www.bat.org/help/spells.php?str=magic_eruption
+ 731. http://www.bat.org/help/spells.php?str=meteor_blast
+ 732. http://www.bat.org/help/spells.php?str=power_blast
+ 733. http://www.bat.org/help/spells.php?str=strangulation
+ 734. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 735. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 736. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 737. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 738. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 739. http://www.bat.org/help/spells.php?str=acid_ray
+ 740. http://www.bat.org/help/spells.php?str=forked_lightning
+ 741. http://www.bat.org/help/spells.php?str=icebolt
+ 742. http://www.bat.org/help/spells.php?str=meteor_blast
+ 743. http://www.bat.org/help/spells.php?str=power_blast
+ 744. http://www.bat.org/help/spells.php?str=strangulation
+ 745. http://www.bat.org/help/spells.php?str=summon_greater_spores
+ 746. http://www.bat.org/help/spells.php?str=acid_blast
+ 747. http://www.bat.org/help/spells.php?str=acid_storm
+ 748. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 749. http://www.bat.org/help/spells.php?str=cold_ray
+ 750. http://www.bat.org/help/spells.php?str=degenerate_person
+ 751. http://www.bat.org/help/spells.php?str=dimension_door
+ 752. http://www.bat.org/help/spells.php?str=electrocution
+ 753. http://www.bat.org/help/spells.php?str=golden_arrow
+ 754. http://www.bat.org/help/spells.php?str=hailstorm
+ 755. http://www.bat.org/help/spells.php?str=lava_blast
+ 756. http://www.bat.org/help/spells.php?str=lava_storm
+ 757. http://www.bat.org/help/spells.php?str=lightning_storm
+ 758. http://www.bat.org/help/spells.php?str=magic_eruption
+ 759. http://www.bat.org/help/spells.php?str=summon
+ 760. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 761. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 762. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 763. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 764. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 765. http://www.bat.org/help/spells.php?str=acid_blast
+ 766. http://www.bat.org/help/spells.php?str=acid_storm
+ 767. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 768. http://www.bat.org/help/spells.php?str=cold_ray
+ 769. http://www.bat.org/help/spells.php?str=dimension_door
+ 770. http://www.bat.org/help/spells.php?str=electrocution
+ 771. http://www.bat.org/help/spells.php?str=golden_arrow
+ 772. http://www.bat.org/help/spells.php?str=hailstorm
+ 773. http://www.bat.org/help/spells.php?str=killing_cloud
+ 774. http://www.bat.org/help/spells.php?str=lava_blast
+ 775. http://www.bat.org/help/spells.php?str=lava_storm
+ 776. http://www.bat.org/help/spells.php?str=lightning_storm
+ 777. http://www.bat.org/help/spells.php?str=magic_eruption
+ 778. http://www.bat.org/help/spells.php?str=summon
+ 779. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 780. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 781. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 782. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 783. http://www.bat.org/help/spells.php?str=summon
+ 784. http://www.bat.org/help/spells.php?str=acid_blast
+ 785. http://www.bat.org/help/spells.php?str=acid_storm
+ 786. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 787. http://www.bat.org/help/spells.php?str=cold_ray
+ 788. http://www.bat.org/help/spells.php?str=degenerate_person
+ 789. http://www.bat.org/help/spells.php?str=dimension_door
+ 790. http://www.bat.org/help/spells.php?str=electrocution
+ 791. http://www.bat.org/help/spells.php?str=golden_arrow
+ 792. http://www.bat.org/help/spells.php?str=hailstorm
+ 793. http://www.bat.org/help/spells.php?str=killing_cloud
+ 794. http://www.bat.org/help/spells.php?str=lava_blast
+ 795. http://www.bat.org/help/spells.php?str=lava_storm
+ 796. http://www.bat.org/help/spells.php?str=lightning_storm
+ 797. http://www.bat.org/help/spells.php?str=magic_eruption
+ 798. http://www.bat.org/help/spells.php?str=summon
+ 799. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 800. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 801. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 802. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 803. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 804. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 805. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 806. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 807. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 808. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 809. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 810. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 811. http://www.bat.org/help/spells.php?str=acid_blast
+ 812. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 813. http://www.bat.org/help/spells.php?str=cold_ray
+ 814. http://www.bat.org/help/spells.php?str=electrocution
+ 815. http://www.bat.org/help/spells.php?str=golden_arrow
+ 816. http://www.bat.org/help/spells.php?str=killing_cloud
+ 817. http://www.bat.org/help/spells.php?str=lava_blast
+ 818. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 819. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 820. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 821. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 822. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 823. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 824. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 825. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 826. http://www.bat.org/help/spells.php?str=acid_blast
+ 827. http://www.bat.org/help/spells.php?str=acid_storm
+ 828. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 829. http://www.bat.org/help/spells.php?str=cold_ray
+ 830. http://www.bat.org/help/spells.php?str=dimension_door
+ 831. http://www.bat.org/help/spells.php?str=electrocution
+ 832. http://www.bat.org/help/spells.php?str=enhance_vision
+ 833. http://www.bat.org/help/spells.php?str=golden_arrow
+ 834. http://www.bat.org/help/spells.php?str=hailstorm
+ 835. http://www.bat.org/help/spells.php?str=killing_cloud
+ 836. http://www.bat.org/help/spells.php?str=lava_blast
+ 837. http://www.bat.org/help/spells.php?str=lava_storm
+ 838. http://www.bat.org/help/spells.php?str=lightning_storm
+ 839. http://www.bat.org/help/spells.php?str=magic_eruption
+ 840. http://www.bat.org/help/spells.php?str=summon
+ 841. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 842. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 843. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 844. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 845. http://www.bat.org/help/skills.php?str=damage_criticality
+ 846. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 847. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 848. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 849. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 850. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 851. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 852. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 853. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 854. http://www.bat.org/help/spells.php?str=uncontrollable_hideous_laughter
+ 855. http://www.bat.org/help/spells.php?str=acid_storm
+ 856. http://www.bat.org/help/spells.php?str=hailstorm
+ 857. http://www.bat.org/help/spells.php?str=killing_cloud
+ 858. http://www.bat.org/help/spells.php?str=lava_storm
+ 859. http://www.bat.org/help/spells.php?str=lightning_storm
+ 860. http://www.bat.org/help/spells.php?str=magic_eruption
+ 861. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 862. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 863. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 864. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 865. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 866. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 867. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 868. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 869. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 870. http://www.bat.org/help/spells.php?str=acid_blast
+ 871. http://www.bat.org/help/spells.php?str=acid_storm
+ 872. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 873. http://www.bat.org/help/spells.php?str=cold_ray
+ 874. http://www.bat.org/help/spells.php?str=degenerate_person
+ 875. http://www.bat.org/help/spells.php?str=dimension_door
+ 876. http://www.bat.org/help/spells.php?str=electrocution
+ 877. http://www.bat.org/help/spells.php?str=golden_arrow
+ 878. http://www.bat.org/help/spells.php?str=hailstorm
+ 879. http://www.bat.org/help/spells.php?str=killing_cloud
+ 880. http://www.bat.org/help/spells.php?str=lava_blast
+ 881. http://www.bat.org/help/spells.php?str=lava_storm
+ 882. http://www.bat.org/help/spells.php?str=lightning_storm
+ 883. http://www.bat.org/help/spells.php?str=magic_eruption
+ 884. http://www.bat.org/help/spells.php?str=summon
+ 885. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 886. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 887. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 888. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 889. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 890. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 891. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 892. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 893. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 894. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 895. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 896. http://www.bat.org/help/spells.php?str=uncontrollable_hideous_laughter
+ 897. http://www.bat.org/help/spells.php?str=acid_blast
+ 898. http://www.bat.org/help/spells.php?str=blast_vacuum
+ 899. http://www.bat.org/help/spells.php?str=cold_ray
+ 900. http://www.bat.org/help/spells.php?str=electrocution
+ 901. http://www.bat.org/help/spells.php?str=golden_arrow
+ 902. http://www.bat.org/help/spells.php?str=killing_cloud
+ 903. http://www.bat.org/help/spells.php?str=lava_blast
+ 904. http://www.bat.org/help/spells.php?str=summon_carnal_spores
+ 905. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 906. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 907. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 908. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 909. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 910. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 911. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 912. http://www.bat.org/help/spells.php?str=acid_storm
+ 913. http://www.bat.org/help/spells.php?str=dimension_door
+ 914. http://www.bat.org/help/spells.php?str=hailstorm
+ 915. http://www.bat.org/help/spells.php?str=killing_cloud
+ 916. http://www.bat.org/help/spells.php?str=lava_storm
+ 917. http://www.bat.org/help/spells.php?str=lightning_storm
+ 918. http://www.bat.org/help/spells.php?str=magic_eruption
+ 919. http://www.bat.org/help/spells.php?str=summon
+ 920. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 921. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 922. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 923. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 924. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 925. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 926. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 927. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 928. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 929. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 930. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 931. http://www.bat.org/help/spells.php?str=uncontrollable_hideous_laughter
+ 932. http://www.bat.org/help/spells.php?str=acid_storm
+ 933. http://www.bat.org/help/spells.php?str=hailstorm
+ 934. http://www.bat.org/help/spells.php?str=killing_cloud
+ 935. http://www.bat.org/help/spells.php?str=lava_storm
+ 936. http://www.bat.org/help/spells.php?str=lightning_storm
+ 937. http://www.bat.org/help/spells.php?str=magic_eruption
+ 938. http://www.bat.org/help/spells.php?str=vacuum_globe
+ 939. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 940. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 941. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 942. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 943. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 944. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 945. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 946. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 947. http://www.bat.org/help/spells.php?str=summon
+ 948. http://www.bat.org/help/spells.php?str=degenerate_person
+ 949. http://www.bat.org/help/spells.php?str=killing_cloud
+ 950. http://www.bat.org/help/spells.php?str=summon
+ 951. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 952. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 953. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 954. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 955. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 956. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 957. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 958. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 959. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 960. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 961. http://www.bat.org/help/spells.php?str=uncontrollable_hideous_laughter
+ 962. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 963. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 964. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 965. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 966. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 967. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 968. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 969. http://www.bat.org/help/spells.php?str=killing_cloud
+ 970. http://www.bat.org/help/spells.php?str=summon
+ 971. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 972. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 973. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 974. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 975. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 976. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 977. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 978. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 979. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 980. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 981. http://www.bat.org/help/spells.php?str=uncontrollable_hideous_laughter
+ 982. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 983. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 984. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 985. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 986. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 987. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 988. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 989. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 990. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 991. http://www.bat.org/help/skills.php?str=wandmaking
+ 992. http://www.bat.org/help/skills.php?str=zapping
+ 993. http://www.bat.org/help/spells.php?str=degenerate_person
+ 994. http://www.bat.org/help/spells.php?str=killing_cloud
+ 995. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 996. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 997. http://www.bat.org/help/skills.php?str=damage_criticality
+ 998. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 999. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+1000. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+1001. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+1002. http://www.bat.org/help/skills.php?str=mastery_of_control
+1003. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+1004. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+1005. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+1006. http://www.bat.org/help/spells.php?str=uncontrollable_hideous_laughter
+1007. http://www.bat.org/help/guilds.php
+1008. mailto:webmaster@bat.org
+
+   Hidden links:
+1009. http://www.bat.org/bat.php

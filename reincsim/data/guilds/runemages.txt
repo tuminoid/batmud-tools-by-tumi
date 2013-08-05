@@ -1,0 +1,1052 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]150 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                  [fonter.php?str=The+Faculte+of+Runemagi]
+
+                          The Faculte of Runemagi
+
+   Command: runemages
+   Creators: [22]Nalle, [23]Shardik
+   Maximum level: 30
+   Description:
+   The Faculte of the Runemagi is an order of scholars dedicated to
+   the research of ancient runes and the magic therein. The lore weaved
+   by the runemages originates from world magic, encapsulated into
+   runestones. The stones can be sculpted by the mage himself and must
+   then be placed into his personal cryptroom located in a labyrinthine
+   network of underground tunnels, below the campus of the faculte.
+   The mindset of the guild is atheistic, the view on magic is
+   scientific;
+   the worship of gods and all things religious are frowned upon and
+   ridiculed. New spells can only be mastered through extensive research
+   and as a result, new initiates will not successfully cast spells for
+   quite a while after joining the guild.
+   As any respectable guild, the runemagi only accept new initiates
+   of a civilized background.
+
+                                New Member
+                 Background must be civilized
+                 Receive the Guild Item.
+                 Receive guild bonuses as you advance.
+                 May train skill [24]Attack to 10%
+                 May train skill [25]Consider to 10%
+                 May train skill [26]Plant lore to 10%
+                 May train skill [27]Runic research to 30%
+                 May train skill [28]Craft runestone to 30%
+                 May train skill [29]Runescribing to 30%
+                 May train skill [30]Cast generic to 10%
+                 May train skill [31]Cast special to 5%
+                 May train skill [32]Cast information to 10%
+
+                                 Level 2
+                 May train skill [33]Attack to 20%
+                 May train skill [34]Consider to 14%
+                 May train skill [35]Plant lore to 20%
+                 May train skill [36]Runic research to 33%
+                 May train skill [37]Craft runestone to 33%
+                 May train skill [38]Runescribing to 33%
+                 May train skill [39]Essence eye to 20%
+                 May train skill [40]Cast generic to 18%
+                 May train skill [41]Cast special to 9%
+                 May train skill [42]Cast information to 22%
+
+                                 Level 3
+                 May train skill [43]Attack to 30%
+                 May train skill [44]Consider to 18%
+                 May train skill [45]Plant lore to 30%
+                 May train skill [46]Runic research to 37%
+                 May train skill [47]Craft runestone to 37%
+                 May train skill [48]Runescribing to 37%
+                 May train skill [49]Essence eye to 30%
+                 May train skill [50]Cast generic to 26%
+                 May train skill [51]Cast special to 13%
+                 May train skill [52]Cast information to 35%
+
+                                 Level 4
+                 May train skill [53]Attack to 40%
+                 May train skill [54]Consider to 23%
+                 May train skill [55]Plant lore to 40%
+                 May train skill [56]Runic research to 41%
+                 May train skill [57]Craft runestone to 41%
+                 May train skill [58]Runescribing to 41%
+                 May train skill [59]Essence eye to 40%
+                 May train skill [60]Cast cold to 10%
+                 May train skill [61]Cast generic to 34%
+                 May train skill [62]Cast special to 17%
+                 May train skill [63]Cast information to 47%
+
+                                 Level 5
+                 May train skill [64]Attack to 50%
+                 May train skill [65]Consider to 27%
+                 May train skill [66]Plant lore to 50%
+                 May train skill [67]Amalgamate to 5%
+                 May train skill [68]Runic research to 44%
+                 May train skill [69]Craft runestone to 44%
+                 May train skill [70]Runescribing to 44%
+                 May train skill [71]Essence eye to 50%
+                 May train skill [72]Mana control to 10%
+                 May train skill [73]Cast cold to 22%
+                 May train skill [74]Cast generic to 42%
+                 May train skill [75]Cast special to 21%
+                 May train skill [76]Cast information to 60%
+
+                                 Level 6
+                 May train skill [77]Consider to 32%
+                 May train skill [78]Plant lore to 60%
+                 May train skill [79]Amalgamate to 8%
+                 May train skill [80]Runic research to 48%
+                 May train skill [81]Craft runestone to 48%
+                 May train skill [82]Runescribing to 48%
+                 May train skill [83]Essence eye to 60%
+                 May train skill [84]Mana control to 19%
+                 May train skill [85]Cast cold to 35%
+                 May train skill [86]Cast generic to 50%
+                 May train skill [87]Cast special to 25%
+                 May train skill [88]Cast information to 72%
+
+                                 Level 7
+                May train skill [89]Consider to 36%
+                May train skill [90]Plant lore to 70%
+                May train skill [91]Amalgamate to 11%
+                May train skill [92]Runic research to 52%
+                May train skill [93]Craft runestone to 52%
+                May train skill [94]Runescribing to 52%
+                May train skill [95]Essence eye to 70%
+                May train skill [96]Mana control to 28%
+                May train skill [97]Cast teleportation to 20%
+                May train skill [98]Cast cold to 47%
+                May train skill [99]Cast generic to 59%
+                May train skill [100]Cast special to 29%
+                May train skill [101]Cast information to 85%
+
+                                  Level 8
+                May train skill [102]Consider to 41%
+                May train skill [103]Plant lore to 80%
+                May train skill [104]Amalgamate to 14%
+                May train skill [105]Runic research to 55%
+                May train skill [106]Craft runestone to 55%
+                May train skill [107]Runescribing to 55%
+                May train skill [108]Essence eye to 80%
+                May train skill [109]Mana control to 37%
+                May train skill [110]Cast teleportation to 30%
+                May train skill [111]Cast cold to 60%
+                May train skill [112]Cast generic to 67%
+                May train skill [113]Cast special to 33%
+
+                                  Level 9
+                May train skill [114]Consider to 45%
+                May train skill [115]Plant lore to 90%
+                May train skill [116]Amalgamate to 17%
+                May train skill [117]Runic research to 59%
+                May train skill [118]Craft runestone to 59%
+                May train skill [119]Runescribing to 59%
+                May train skill [120]Essence eye to 90%
+                May train skill [121]Mana control to 46%
+                May train skill [122]Cast teleportation to 41%
+                May train skill [123]Cast cold to 72%
+                May train skill [124]Cast electricity to 10%
+                May train skill [125]Cast generic to 75%
+                May train skill [126]Cast special to 38%
+
+                                 Level 10
+                May train skill [127]Consider to 50%
+                May train skill [128]Plant lore to 100%
+                May train skill [129]Mining to 10%
+                May train skill [130]Refining to 5%
+                May train skill [131]Amalgamate to 20%
+                May train skill [132]Masonry to 5%
+                May train skill [133]Runic research to 63%
+                May train skill [134]Craft runestone to 63%
+                May train skill [135]Runescribing to 63%
+                May train skill [136]Aether flow to 10%
+                May train skill [137]Essence eye to 100%
+                May train skill [138]Mana control to 55%
+                May train skill [139]Zapping to 30%
+                May train skill [140]Cast teleportation to 52%
+                May train skill [141]Cast cold to 85%
+                May train skill [142]Cast electricity to 22%
+                May train skill [143]Cast generic to 83%
+                May train skill [144]Cast special to 42%
+                May train skill [145]Cast asphyxiation to 10%
+
+                                 Level 11
+                May train skill [146]Mining to 14%
+                May train skill [147]Refining to 7%
+                May train skill [148]Amalgamate to 23%
+                May train skill [149]Masonry to 6%
+                May train skill [150]Runic research to 66%
+                May train skill [151]Craft runestone to 66%
+                May train skill [152]Runescribing to 66%
+                May train skill [153]Aether flow to 14%
+                May train skill [154]Mana control to 64%
+                May train skill [155]Zapping to 40%
+                May train skill [156]Cast teleportation to 63%
+                May train skill [157]Cast electricity to 35%
+                May train skill [158]Cast generic to 91%
+                May train skill [159]Cast special to 46%
+                May train skill [160]Cast asphyxiation to 28%
+
+                                 Level 12
+                May train skill [161]Mining to 18%
+                May train skill [162]Refining to 9%
+                May train skill [163]Amalgamate to 26%
+                May train skill [164]Masonry to 7%
+                May train skill [165]Runic research to 70%
+                May train skill [166]Craft runestone to 70%
+                May train skill [167]Runescribing to 70%
+                May train skill [168]Aether flow to 19%
+                May train skill [169]Mana control to 73%
+                May train skill [170]Zapping to 50%
+                May train skill [171]Cast teleportation to 74%
+                May train skill [172]Cast electricity to 47%
+                May train skill [173]Cast fire to 10%
+                May train skill [174]Cast generic to 100%
+                May train skill [175]Cast special to 50%
+                May train skill [176]Cast asphyxiation to 47%
+                May train skill [177]Cast control to 10%
+
+                                 Level 13
+                May train skill [178]Mining to 22%
+                May train skill [179]Refining to 11%
+                May train skill [180]Amalgamate to 29%
+                May train skill [181]Masonry to 8%
+                May train skill [182]Runic research to 74%
+                May train skill [183]Craft runestone to 74%
+                May train skill [184]Runescribing to 74%
+                May train skill [185]Aether flow to 23%
+                May train skill [186]Mana control to 82%
+                May train skill [187]Zapping to 60%
+                May train skill [188]Cast teleportation to 85%
+                May train skill [189]Cast electricity to 60%
+                May train skill [190]Cast fire to 22%
+                May train skill [191]Cast special to 54%
+                May train skill [192]Cast asphyxiation to 66%
+                May train skill [193]Cast control to 22%
+
+                                 Level 14
+                May train skill [194]Mining to 27%
+                May train skill [195]Refining to 14%
+                May train skill [196]Amalgamate to 32%
+                May train skill [197]Masonry to 9%
+                May train skill [198]Runic research to 77%
+                May train skill [199]Craft runestone to 77%
+                May train skill [200]Runescribing to 77%
+                May train skill [201]Aether flow to 28%
+                May train skill [202]Mana control to 91%
+                May train skill [203]Zapping to 70%
+                May train skill [204]Cast electricity to 72%
+                May train skill [205]Cast fire to 35%
+                May train skill [206]Cast special to 58%
+                May train skill [207]Cast asphyxiation to 85%
+                May train skill [208]Cast control to 35%
+
+                                 Level 15
+               May train skill [209]Mining to 31%
+               May train skill [210]Refining to 16%
+               May train skill [211]Amalgamate to 35%
+               May train skill [212]Masonry to 10%
+               May train skill [213]Gem cutting to 5%
+               May train skill [214]Runic research to 81%
+               May train skill [215]Craft runestone to 81%
+               May train skill [216]Runescribing to 81%
+               May train skill [217]Aether flow to 32%
+               May train skill [218]Method of runemagery to 10%
+               May train skill [219]Mana control to 100%
+               May train skill [220]Zapping to 80%
+               May train skill [221]Cast electricity to 85%
+               May train skill [222]Cast fire to 47%
+               May train skill [223]Cast acid to 10%
+               May train skill [224]Cast special to 62%
+               May train skill [225]Cast control to 47%
+
+                                 Level 16
+               May train skill [226]Mining to 35%
+               May train skill [227]Refining to 18%
+               May train skill [228]Amalgamate to 38%
+               May train skill [229]Masonry to 11%
+               May train skill [230]Gem cutting to 6%
+               May train skill [231]Runic research to 85%
+               May train skill [232]Craft runestone to 85%
+               May train skill [233]Runescribing to 85%
+               May train skill [234]Aether flow to 37%
+               May train skill [235]Method of runemagery to 16%
+               May train skill [236]Zapping to 90%
+               May train skill [237]Cast fire to 60%
+               May train skill [238]Cast acid to 22%
+               May train skill [239]Cast special to 66%
+               May train skill [240]Cast control to 60%
+
+                                 Level 17
+               May train skill [241]Mining to 40%
+               May train skill [242]Refining to 20%
+               May train skill [243]Amalgamate to 41%
+               May train skill [244]Masonry to 12%
+               May train skill [245]Gem cutting to 7%
+               May train skill [246]Runic research to 88%
+               May train skill [247]Craft runestone to 88%
+               May train skill [248]Runescribing to 88%
+               May train skill [249]Aether flow to 41%
+               May train skill [250]Method of runemagery to 22%
+               May train skill [251]Zapping to 100%
+               May train skill [252]Cast fire to 72%
+               May train skill [253]Cast acid to 35%
+               May train skill [254]Cast special to 71%
+               May train skill [255]Cast control to 72%
+
+                                 Level 18
+               May train skill [256]Mining to 44%
+               May train skill [257]Refining to 23%
+               May train skill [258]Amalgamate to 44%
+               May train skill [259]Masonry to 13%
+               May train skill [260]Gem cutting to 8%
+               May train skill [261]Runic research to 92%
+               May train skill [262]Craft runestone to 92%
+               May train skill [263]Runescribing to 92%
+               May train skill [264]Aether flow to 46%
+               May train skill [265]Method of runemagery to 28%
+               May train skill [266]Cast fire to 85%
+               May train skill [267]Cast acid to 47%
+               May train skill [268]Cast special to 75%
+               May train skill [269]Cast control to 85%
+
+                                 Level 19
+               May train skill [270]Mining to 48%
+               May train skill [271]Refining to 25%
+               May train skill [272]Amalgamate to 47%
+               May train skill [273]Masonry to 14%
+               May train skill [274]Gem cutting to 9%
+               May train skill [275]Runic research to 96%
+               May train skill [276]Craft runestone to 96%
+               May train skill [277]Runescribing to 96%
+               May train skill [278]Aether flow to 50%
+               May train skill [279]Method of runemagery to 34%
+               May train skill [280]Cast acid to 60%
+               May train skill [281]Cast special to 79%
+               May train skill [282]Cast magical to 10%
+
+                                 Level 20
+              May train skill [283]Mining to 53%
+              May train skill [284]Refining to 27%
+              May train skill [285]Amalgamate to 50%
+              May train skill [286]Masonry to 15%
+              May train skill [287]Gem cutting to 10%
+              May train skill [288]Runic research to 100%
+              May train skill [289]Craft runestone to 100%
+              May train skill [290]Runescribing to 100%
+              May train skill [291]Aether flow to 55%
+              May train skill [292]Method of runemagery to 40%
+              May train skill [293]Quick chant to 15%
+              May train skill [294]Analysis of magic lore to 10%
+              May train skill [295]Cast heal to 10%
+              May train skill [296]Cast acid to 72%
+              May train skill [297]Cast special to 83%
+              May train skill [298]Cast magical to 22%
+
+                                 Level 21
+              May train skill [299]Mining to 57%
+              May train skill [300]Refining to 29%
+              May train skill [301]Masonry to 16%
+              May train skill [302]Gem cutting to 11%
+              May train skill [303]Aether flow to 59%
+              May train skill [304]Method of runemagery to 46%
+              May train skill [305]Quick chant to 22%
+              May train skill [306]Analysis of magic lore to 20%
+              May train skill [307]Cast heal to 20%
+              May train skill [308]Cast acid to 85%
+              May train skill [309]Cast special to 87%
+              May train skill [310]Cast magical to 35%
+
+                                 Level 22
+              May train skill [311]Mining to 61%
+              May train skill [312]Refining to 32%
+              May train skill [313]Masonry to 17%
+              May train skill [314]Gem cutting to 12%
+              May train skill [315]Aether flow to 64%
+              May train skill [316]Method of runemagery to 52%
+              May train skill [317]Quick chant to 30%
+              May train skill [318]Analysis of magic lore to 30%
+              May train skill [319]Cast heal to 30%
+              May train skill [320]Cast special to 91%
+              May train skill [321]Cast magical to 47%
+              May train skill [322]Cast transformation to 10%
+
+                                 Level 23
+              May train skill [323]Mining to 66%
+              May train skill [324]Refining to 34%
+              May train skill [325]Masonry to 18%
+              May train skill [326]Gem cutting to 13%
+              May train skill [327]Aether flow to 68%
+              May train skill [328]Method of runemagery to 58%
+              May train skill [329]Quick chant to 37%
+              May train skill [330]Analysis of magic lore to 40%
+              May train skill [331]Cast heal to 40%
+              May train skill [332]Cast special to 95%
+              May train skill [333]Cast magical to 60%
+              May train skill [334]Cast transformation to 25%
+
+                                 Level 24
+              May train skill [335]Mining to 70%
+              May train skill [336]Refining to 36%
+              May train skill [337]Masonry to 19%
+              May train skill [338]Gem cutting to 14%
+              May train skill [339]Aether flow to 73%
+              May train skill [340]Method of runemagery to 64%
+              May train skill [341]Quick chant to 45%
+              May train skill [342]Analysis of magic lore to 50%
+              May train skill [343]Cast heal to 50%
+              May train skill [344]Cast special to 100%
+              May train skill [345]Cast magical to 72%
+              May train skill [346]Cast transformation to 40%
+              May train skill [347]Cast protection to 10%
+
+                                 Level 25
+         May train skill [348]Mining to 75%
+         May train skill [349]Refining to 38%
+         May train skill [350]Masonry to 20%
+         May train skill [351]Gem cutting to 15%
+         May train skill [352]Aether flow to 77%
+         May train skill [353]Method of runemagery to 70%
+         May train skill [354]Quick chant to 52%
+         May train skill [355]Conceal spellcasting to 10%
+         May train skill [356]Analysis of magic lore to 60%
+         May train skill [357]Damage criticality to 10%
+         May train skill [358]Cast heal to 60%
+         May train skill [359]Cast magical to 85%
+         May train skill [360]Cast poison to 20%
+         May train skill [361]Cast transformation to 55%
+         May train skill [362]Cast protection to 25%
+         May train skill [363]Knowledge of asphyxiation to 10%
+         May train skill [364]Knowledge of magic lore to 10%
+         May train skill [365]Knowledge of toxicology to 10%
+         May train skill [366]Mastery of arctic powers to 10%
+         May train skill [367]Mastery of control to 10%
+         May train skill [368]Theory of corrosion to 10%
+         May train skill [369]Theory of electrical engineering to 10%
+         May train skill [370]Theory of pyromania to 10%
+
+                                 Level 26
+         May train skill [371]Refining to 41%
+         May train skill [372]Masonry to 21%
+         May train skill [373]Gem cutting to 16%
+         May train skill [374]Aether flow to 82%
+         May train skill [375]Method of runemagery to 76%
+         May train skill [376]Quick chant to 60%
+         May train skill [377]Conceal spellcasting to 22%
+         May train skill [378]Analysis of magic lore to 70%
+         May train skill [379]Damage criticality to 21%
+         May train skill [380]Cast poison to 33%
+         May train skill [381]Cast transformation to 70%
+         May train skill [382]Cast protection to 40%
+         May train skill [383]Knowledge of asphyxiation to 18%
+         May train skill [384]Knowledge of magic lore to 18%
+         May train skill [385]Knowledge of toxicology to 18%
+         May train skill [386]Mastery of arctic powers to 18%
+         May train skill [387]Mastery of control to 18%
+         May train skill [388]Theory of corrosion to 18%
+         May train skill [389]Theory of electrical engineering to 18%
+         May train skill [390]Theory of pyromania to 18%
+
+                                 Level 27
+         May train skill [391]Refining to 43%
+         May train skill [392]Masonry to 22%
+         May train skill [393]Gem cutting to 17%
+         May train skill [394]Aether flow to 86%
+         May train skill [395]Method of runemagery to 82%
+         May train skill [396]Quick chant to 67%
+         May train skill [397]Conceal spellcasting to 34%
+         May train skill [398]Analysis of magic lore to 80%
+         May train skill [399]Damage criticality to 32%
+         May train skill [400]Cast poison to 46%
+         May train skill [401]Cast transformation to 85%
+         May train skill [402]Cast protection to 55%
+         May train skill [403]Knowledge of asphyxiation to 26%
+         May train skill [404]Knowledge of magic lore to 26%
+         May train skill [405]Knowledge of toxicology to 26%
+         May train skill [406]Mastery of arctic powers to 26%
+         May train skill [407]Mastery of control to 26%
+         May train skill [408]Theory of corrosion to 26%
+         May train skill [409]Theory of electrical engineering to 26%
+         May train skill [410]Theory of pyromania to 26%
+
+                                 Level 28
+         May train skill [411]Refining to 45%
+         May train skill [412]Masonry to 23%
+         May train skill [413]Gem cutting to 18%
+         May train skill [414]Aether flow to 91%
+         May train skill [415]Method of runemagery to 88%
+         May train skill [416]Quick chant to 75%
+         May train skill [417]Conceal spellcasting to 46%
+         May train skill [418]Analysis of magic lore to 90%
+         May train skill [419]Damage criticality to 43%
+         May train skill [420]Cast poison to 59%
+         May train skill [421]Cast protection to 70%
+         May train skill [422]Knowledge of asphyxiation to 34%
+         May train skill [423]Knowledge of magic lore to 34%
+         May train skill [424]Knowledge of toxicology to 34%
+         May train skill [425]Mastery of arctic powers to 34%
+         May train skill [426]Mastery of control to 34%
+         May train skill [427]Theory of corrosion to 34%
+         May train skill [428]Theory of electrical engineering to 34%
+         May train skill [429]Theory of pyromania to 34%
+
+                                 Level 29
+         May train skill [430]Refining to 47%
+         May train skill [431]Masonry to 24%
+         May train skill [432]Gem cutting to 19%
+         May train skill [433]Aether flow to 95%
+         May train skill [434]Method of runemagery to 94%
+         May train skill [435]Quick chant to 82%
+         May train skill [436]Conceal spellcasting to 58%
+         May train skill [437]Damage criticality to 54%
+         May train skill [438]Cast poison to 72%
+         May train skill [439]Cast protection to 85%
+         May train skill [440]Knowledge of asphyxiation to 42%
+         May train skill [441]Knowledge of magic lore to 42%
+         May train skill [442]Knowledge of toxicology to 42%
+         May train skill [443]Mastery of arctic powers to 42%
+         May train skill [444]Mastery of control to 42%
+         May train skill [445]Theory of corrosion to 42%
+         May train skill [446]Theory of electrical engineering to 42%
+         May train skill [447]Theory of pyromania to 42%
+
+                                 Level 30
+         May train skill [448]Refining to 50%
+         May train skill [449]Masonry to 25%
+         May train skill [450]Gem cutting to 20%
+         May train skill [451]Aether flow to 100%
+         May train skill [452]Method of runemagery to 100%
+         May train skill [453]Quick chant to 90%
+         May train skill [454]Conceal spellcasting to 70%
+         May train skill [455]Damage criticality to 65%
+         May train skill [456]Cast poison to 85%
+         May train skill [457]Knowledge of asphyxiation to 50%
+         May train skill [458]Knowledge of magic lore to 50%
+         May train skill [459]Knowledge of toxicology to 50%
+         May train skill [460]Mastery of arctic powers to 50%
+         May train skill [461]Mastery of control to 50%
+         May train skill [462]Theory of corrosion to 50%
+         May train skill [463]Theory of electrical engineering to 50%
+         May train skill [464]Theory of pyromania to 50%
+
+                   Allows joining to the following guild:
+                     The Faculte of Runemagi
+
+   [465]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [466]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Faculte%20of%20Runemagi&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Faculte%20of%20Runemagi&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Faculte%20of%20Runemagi&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=nalle
+  23. http://www.bat.org/help/finger.php?str=shardik
+  24. http://www.bat.org/help/skills.php?str=attack
+  25. http://www.bat.org/help/skills.php?str=consider
+  26. http://www.bat.org/help/skills.php?str=plant_lore
+  27. http://www.bat.org/help/skills.php?str=runic_research
+  28. http://www.bat.org/help/skills.php?str=craft_runestone
+  29. http://www.bat.org/help/skills.php?str=runescribing
+  30. http://www.bat.org/help/skills.php?str=cast_generic
+  31. http://www.bat.org/help/skills.php?str=cast_special
+  32. http://www.bat.org/help/skills.php?str=cast_information
+  33. http://www.bat.org/help/skills.php?str=attack
+  34. http://www.bat.org/help/skills.php?str=consider
+  35. http://www.bat.org/help/skills.php?str=plant_lore
+  36. http://www.bat.org/help/skills.php?str=runic_research
+  37. http://www.bat.org/help/skills.php?str=craft_runestone
+  38. http://www.bat.org/help/skills.php?str=runescribing
+  39. http://www.bat.org/help/skills.php?str=essence_eye
+  40. http://www.bat.org/help/skills.php?str=cast_generic
+  41. http://www.bat.org/help/skills.php?str=cast_special
+  42. http://www.bat.org/help/skills.php?str=cast_information
+  43. http://www.bat.org/help/skills.php?str=attack
+  44. http://www.bat.org/help/skills.php?str=consider
+  45. http://www.bat.org/help/skills.php?str=plant_lore
+  46. http://www.bat.org/help/skills.php?str=runic_research
+  47. http://www.bat.org/help/skills.php?str=craft_runestone
+  48. http://www.bat.org/help/skills.php?str=runescribing
+  49. http://www.bat.org/help/skills.php?str=essence_eye
+  50. http://www.bat.org/help/skills.php?str=cast_generic
+  51. http://www.bat.org/help/skills.php?str=cast_special
+  52. http://www.bat.org/help/skills.php?str=cast_information
+  53. http://www.bat.org/help/skills.php?str=attack
+  54. http://www.bat.org/help/skills.php?str=consider
+  55. http://www.bat.org/help/skills.php?str=plant_lore
+  56. http://www.bat.org/help/skills.php?str=runic_research
+  57. http://www.bat.org/help/skills.php?str=craft_runestone
+  58. http://www.bat.org/help/skills.php?str=runescribing
+  59. http://www.bat.org/help/skills.php?str=essence_eye
+  60. http://www.bat.org/help/skills.php?str=cast_cold
+  61. http://www.bat.org/help/skills.php?str=cast_generic
+  62. http://www.bat.org/help/skills.php?str=cast_special
+  63. http://www.bat.org/help/skills.php?str=cast_information
+  64. http://www.bat.org/help/skills.php?str=attack
+  65. http://www.bat.org/help/skills.php?str=consider
+  66. http://www.bat.org/help/skills.php?str=plant_lore
+  67. http://www.bat.org/help/skills.php?str=amalgamate
+  68. http://www.bat.org/help/skills.php?str=runic_research
+  69. http://www.bat.org/help/skills.php?str=craft_runestone
+  70. http://www.bat.org/help/skills.php?str=runescribing
+  71. http://www.bat.org/help/skills.php?str=essence_eye
+  72. http://www.bat.org/help/skills.php?str=mana_control
+  73. http://www.bat.org/help/skills.php?str=cast_cold
+  74. http://www.bat.org/help/skills.php?str=cast_generic
+  75. http://www.bat.org/help/skills.php?str=cast_special
+  76. http://www.bat.org/help/skills.php?str=cast_information
+  77. http://www.bat.org/help/skills.php?str=consider
+  78. http://www.bat.org/help/skills.php?str=plant_lore
+  79. http://www.bat.org/help/skills.php?str=amalgamate
+  80. http://www.bat.org/help/skills.php?str=runic_research
+  81. http://www.bat.org/help/skills.php?str=craft_runestone
+  82. http://www.bat.org/help/skills.php?str=runescribing
+  83. http://www.bat.org/help/skills.php?str=essence_eye
+  84. http://www.bat.org/help/skills.php?str=mana_control
+  85. http://www.bat.org/help/skills.php?str=cast_cold
+  86. http://www.bat.org/help/skills.php?str=cast_generic
+  87. http://www.bat.org/help/skills.php?str=cast_special
+  88. http://www.bat.org/help/skills.php?str=cast_information
+  89. http://www.bat.org/help/skills.php?str=consider
+  90. http://www.bat.org/help/skills.php?str=plant_lore
+  91. http://www.bat.org/help/skills.php?str=amalgamate
+  92. http://www.bat.org/help/skills.php?str=runic_research
+  93. http://www.bat.org/help/skills.php?str=craft_runestone
+  94. http://www.bat.org/help/skills.php?str=runescribing
+  95. http://www.bat.org/help/skills.php?str=essence_eye
+  96. http://www.bat.org/help/skills.php?str=mana_control
+  97. http://www.bat.org/help/skills.php?str=cast_teleportation
+  98. http://www.bat.org/help/skills.php?str=cast_cold
+  99. http://www.bat.org/help/skills.php?str=cast_generic
+ 100. http://www.bat.org/help/skills.php?str=cast_special
+ 101. http://www.bat.org/help/skills.php?str=cast_information
+ 102. http://www.bat.org/help/skills.php?str=consider
+ 103. http://www.bat.org/help/skills.php?str=plant_lore
+ 104. http://www.bat.org/help/skills.php?str=amalgamate
+ 105. http://www.bat.org/help/skills.php?str=runic_research
+ 106. http://www.bat.org/help/skills.php?str=craft_runestone
+ 107. http://www.bat.org/help/skills.php?str=runescribing
+ 108. http://www.bat.org/help/skills.php?str=essence_eye
+ 109. http://www.bat.org/help/skills.php?str=mana_control
+ 110. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 111. http://www.bat.org/help/skills.php?str=cast_cold
+ 112. http://www.bat.org/help/skills.php?str=cast_generic
+ 113. http://www.bat.org/help/skills.php?str=cast_special
+ 114. http://www.bat.org/help/skills.php?str=consider
+ 115. http://www.bat.org/help/skills.php?str=plant_lore
+ 116. http://www.bat.org/help/skills.php?str=amalgamate
+ 117. http://www.bat.org/help/skills.php?str=runic_research
+ 118. http://www.bat.org/help/skills.php?str=craft_runestone
+ 119. http://www.bat.org/help/skills.php?str=runescribing
+ 120. http://www.bat.org/help/skills.php?str=essence_eye
+ 121. http://www.bat.org/help/skills.php?str=mana_control
+ 122. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 123. http://www.bat.org/help/skills.php?str=cast_cold
+ 124. http://www.bat.org/help/skills.php?str=cast_electricity
+ 125. http://www.bat.org/help/skills.php?str=cast_generic
+ 126. http://www.bat.org/help/skills.php?str=cast_special
+ 127. http://www.bat.org/help/skills.php?str=consider
+ 128. http://www.bat.org/help/skills.php?str=plant_lore
+ 129. http://www.bat.org/help/skills.php?str=mining
+ 130. http://www.bat.org/help/skills.php?str=refining
+ 131. http://www.bat.org/help/skills.php?str=amalgamate
+ 132. http://www.bat.org/help/skills.php?str=masonry
+ 133. http://www.bat.org/help/skills.php?str=runic_research
+ 134. http://www.bat.org/help/skills.php?str=craft_runestone
+ 135. http://www.bat.org/help/skills.php?str=runescribing
+ 136. http://www.bat.org/help/skills.php?str=aether_flow
+ 137. http://www.bat.org/help/skills.php?str=essence_eye
+ 138. http://www.bat.org/help/skills.php?str=mana_control
+ 139. http://www.bat.org/help/skills.php?str=zapping
+ 140. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 141. http://www.bat.org/help/skills.php?str=cast_cold
+ 142. http://www.bat.org/help/skills.php?str=cast_electricity
+ 143. http://www.bat.org/help/skills.php?str=cast_generic
+ 144. http://www.bat.org/help/skills.php?str=cast_special
+ 145. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 146. http://www.bat.org/help/skills.php?str=mining
+ 147. http://www.bat.org/help/skills.php?str=refining
+ 148. http://www.bat.org/help/skills.php?str=amalgamate
+ 149. http://www.bat.org/help/skills.php?str=masonry
+ 150. http://www.bat.org/help/skills.php?str=runic_research
+ 151. http://www.bat.org/help/skills.php?str=craft_runestone
+ 152. http://www.bat.org/help/skills.php?str=runescribing
+ 153. http://www.bat.org/help/skills.php?str=aether_flow
+ 154. http://www.bat.org/help/skills.php?str=mana_control
+ 155. http://www.bat.org/help/skills.php?str=zapping
+ 156. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 157. http://www.bat.org/help/skills.php?str=cast_electricity
+ 158. http://www.bat.org/help/skills.php?str=cast_generic
+ 159. http://www.bat.org/help/skills.php?str=cast_special
+ 160. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 161. http://www.bat.org/help/skills.php?str=mining
+ 162. http://www.bat.org/help/skills.php?str=refining
+ 163. http://www.bat.org/help/skills.php?str=amalgamate
+ 164. http://www.bat.org/help/skills.php?str=masonry
+ 165. http://www.bat.org/help/skills.php?str=runic_research
+ 166. http://www.bat.org/help/skills.php?str=craft_runestone
+ 167. http://www.bat.org/help/skills.php?str=runescribing
+ 168. http://www.bat.org/help/skills.php?str=aether_flow
+ 169. http://www.bat.org/help/skills.php?str=mana_control
+ 170. http://www.bat.org/help/skills.php?str=zapping
+ 171. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 172. http://www.bat.org/help/skills.php?str=cast_electricity
+ 173. http://www.bat.org/help/skills.php?str=cast_fire
+ 174. http://www.bat.org/help/skills.php?str=cast_generic
+ 175. http://www.bat.org/help/skills.php?str=cast_special
+ 176. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 177. http://www.bat.org/help/skills.php?str=cast_control
+ 178. http://www.bat.org/help/skills.php?str=mining
+ 179. http://www.bat.org/help/skills.php?str=refining
+ 180. http://www.bat.org/help/skills.php?str=amalgamate
+ 181. http://www.bat.org/help/skills.php?str=masonry
+ 182. http://www.bat.org/help/skills.php?str=runic_research
+ 183. http://www.bat.org/help/skills.php?str=craft_runestone
+ 184. http://www.bat.org/help/skills.php?str=runescribing
+ 185. http://www.bat.org/help/skills.php?str=aether_flow
+ 186. http://www.bat.org/help/skills.php?str=mana_control
+ 187. http://www.bat.org/help/skills.php?str=zapping
+ 188. http://www.bat.org/help/skills.php?str=cast_teleportation
+ 189. http://www.bat.org/help/skills.php?str=cast_electricity
+ 190. http://www.bat.org/help/skills.php?str=cast_fire
+ 191. http://www.bat.org/help/skills.php?str=cast_special
+ 192. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 193. http://www.bat.org/help/skills.php?str=cast_control
+ 194. http://www.bat.org/help/skills.php?str=mining
+ 195. http://www.bat.org/help/skills.php?str=refining
+ 196. http://www.bat.org/help/skills.php?str=amalgamate
+ 197. http://www.bat.org/help/skills.php?str=masonry
+ 198. http://www.bat.org/help/skills.php?str=runic_research
+ 199. http://www.bat.org/help/skills.php?str=craft_runestone
+ 200. http://www.bat.org/help/skills.php?str=runescribing
+ 201. http://www.bat.org/help/skills.php?str=aether_flow
+ 202. http://www.bat.org/help/skills.php?str=mana_control
+ 203. http://www.bat.org/help/skills.php?str=zapping
+ 204. http://www.bat.org/help/skills.php?str=cast_electricity
+ 205. http://www.bat.org/help/skills.php?str=cast_fire
+ 206. http://www.bat.org/help/skills.php?str=cast_special
+ 207. http://www.bat.org/help/skills.php?str=cast_asphyxiation
+ 208. http://www.bat.org/help/skills.php?str=cast_control
+ 209. http://www.bat.org/help/skills.php?str=mining
+ 210. http://www.bat.org/help/skills.php?str=refining
+ 211. http://www.bat.org/help/skills.php?str=amalgamate
+ 212. http://www.bat.org/help/skills.php?str=masonry
+ 213. http://www.bat.org/help/skills.php?str=gem_cutting
+ 214. http://www.bat.org/help/skills.php?str=runic_research
+ 215. http://www.bat.org/help/skills.php?str=craft_runestone
+ 216. http://www.bat.org/help/skills.php?str=runescribing
+ 217. http://www.bat.org/help/skills.php?str=aether_flow
+ 218. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 219. http://www.bat.org/help/skills.php?str=mana_control
+ 220. http://www.bat.org/help/skills.php?str=zapping
+ 221. http://www.bat.org/help/skills.php?str=cast_electricity
+ 222. http://www.bat.org/help/skills.php?str=cast_fire
+ 223. http://www.bat.org/help/skills.php?str=cast_acid
+ 224. http://www.bat.org/help/skills.php?str=cast_special
+ 225. http://www.bat.org/help/skills.php?str=cast_control
+ 226. http://www.bat.org/help/skills.php?str=mining
+ 227. http://www.bat.org/help/skills.php?str=refining
+ 228. http://www.bat.org/help/skills.php?str=amalgamate
+ 229. http://www.bat.org/help/skills.php?str=masonry
+ 230. http://www.bat.org/help/skills.php?str=gem_cutting
+ 231. http://www.bat.org/help/skills.php?str=runic_research
+ 232. http://www.bat.org/help/skills.php?str=craft_runestone
+ 233. http://www.bat.org/help/skills.php?str=runescribing
+ 234. http://www.bat.org/help/skills.php?str=aether_flow
+ 235. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 236. http://www.bat.org/help/skills.php?str=zapping
+ 237. http://www.bat.org/help/skills.php?str=cast_fire
+ 238. http://www.bat.org/help/skills.php?str=cast_acid
+ 239. http://www.bat.org/help/skills.php?str=cast_special
+ 240. http://www.bat.org/help/skills.php?str=cast_control
+ 241. http://www.bat.org/help/skills.php?str=mining
+ 242. http://www.bat.org/help/skills.php?str=refining
+ 243. http://www.bat.org/help/skills.php?str=amalgamate
+ 244. http://www.bat.org/help/skills.php?str=masonry
+ 245. http://www.bat.org/help/skills.php?str=gem_cutting
+ 246. http://www.bat.org/help/skills.php?str=runic_research
+ 247. http://www.bat.org/help/skills.php?str=craft_runestone
+ 248. http://www.bat.org/help/skills.php?str=runescribing
+ 249. http://www.bat.org/help/skills.php?str=aether_flow
+ 250. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 251. http://www.bat.org/help/skills.php?str=zapping
+ 252. http://www.bat.org/help/skills.php?str=cast_fire
+ 253. http://www.bat.org/help/skills.php?str=cast_acid
+ 254. http://www.bat.org/help/skills.php?str=cast_special
+ 255. http://www.bat.org/help/skills.php?str=cast_control
+ 256. http://www.bat.org/help/skills.php?str=mining
+ 257. http://www.bat.org/help/skills.php?str=refining
+ 258. http://www.bat.org/help/skills.php?str=amalgamate
+ 259. http://www.bat.org/help/skills.php?str=masonry
+ 260. http://www.bat.org/help/skills.php?str=gem_cutting
+ 261. http://www.bat.org/help/skills.php?str=runic_research
+ 262. http://www.bat.org/help/skills.php?str=craft_runestone
+ 263. http://www.bat.org/help/skills.php?str=runescribing
+ 264. http://www.bat.org/help/skills.php?str=aether_flow
+ 265. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 266. http://www.bat.org/help/skills.php?str=cast_fire
+ 267. http://www.bat.org/help/skills.php?str=cast_acid
+ 268. http://www.bat.org/help/skills.php?str=cast_special
+ 269. http://www.bat.org/help/skills.php?str=cast_control
+ 270. http://www.bat.org/help/skills.php?str=mining
+ 271. http://www.bat.org/help/skills.php?str=refining
+ 272. http://www.bat.org/help/skills.php?str=amalgamate
+ 273. http://www.bat.org/help/skills.php?str=masonry
+ 274. http://www.bat.org/help/skills.php?str=gem_cutting
+ 275. http://www.bat.org/help/skills.php?str=runic_research
+ 276. http://www.bat.org/help/skills.php?str=craft_runestone
+ 277. http://www.bat.org/help/skills.php?str=runescribing
+ 278. http://www.bat.org/help/skills.php?str=aether_flow
+ 279. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 280. http://www.bat.org/help/skills.php?str=cast_acid
+ 281. http://www.bat.org/help/skills.php?str=cast_special
+ 282. http://www.bat.org/help/skills.php?str=cast_magical
+ 283. http://www.bat.org/help/skills.php?str=mining
+ 284. http://www.bat.org/help/skills.php?str=refining
+ 285. http://www.bat.org/help/skills.php?str=amalgamate
+ 286. http://www.bat.org/help/skills.php?str=masonry
+ 287. http://www.bat.org/help/skills.php?str=gem_cutting
+ 288. http://www.bat.org/help/skills.php?str=runic_research
+ 289. http://www.bat.org/help/skills.php?str=craft_runestone
+ 290. http://www.bat.org/help/skills.php?str=runescribing
+ 291. http://www.bat.org/help/skills.php?str=aether_flow
+ 292. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 293. http://www.bat.org/help/skills.php?str=quick_chant
+ 294. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 295. http://www.bat.org/help/skills.php?str=cast_heal
+ 296. http://www.bat.org/help/skills.php?str=cast_acid
+ 297. http://www.bat.org/help/skills.php?str=cast_special
+ 298. http://www.bat.org/help/skills.php?str=cast_magical
+ 299. http://www.bat.org/help/skills.php?str=mining
+ 300. http://www.bat.org/help/skills.php?str=refining
+ 301. http://www.bat.org/help/skills.php?str=masonry
+ 302. http://www.bat.org/help/skills.php?str=gem_cutting
+ 303. http://www.bat.org/help/skills.php?str=aether_flow
+ 304. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 305. http://www.bat.org/help/skills.php?str=quick_chant
+ 306. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 307. http://www.bat.org/help/skills.php?str=cast_heal
+ 308. http://www.bat.org/help/skills.php?str=cast_acid
+ 309. http://www.bat.org/help/skills.php?str=cast_special
+ 310. http://www.bat.org/help/skills.php?str=cast_magical
+ 311. http://www.bat.org/help/skills.php?str=mining
+ 312. http://www.bat.org/help/skills.php?str=refining
+ 313. http://www.bat.org/help/skills.php?str=masonry
+ 314. http://www.bat.org/help/skills.php?str=gem_cutting
+ 315. http://www.bat.org/help/skills.php?str=aether_flow
+ 316. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 317. http://www.bat.org/help/skills.php?str=quick_chant
+ 318. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 319. http://www.bat.org/help/skills.php?str=cast_heal
+ 320. http://www.bat.org/help/skills.php?str=cast_special
+ 321. http://www.bat.org/help/skills.php?str=cast_magical
+ 322. http://www.bat.org/help/skills.php?str=cast_transformation
+ 323. http://www.bat.org/help/skills.php?str=mining
+ 324. http://www.bat.org/help/skills.php?str=refining
+ 325. http://www.bat.org/help/skills.php?str=masonry
+ 326. http://www.bat.org/help/skills.php?str=gem_cutting
+ 327. http://www.bat.org/help/skills.php?str=aether_flow
+ 328. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 329. http://www.bat.org/help/skills.php?str=quick_chant
+ 330. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 331. http://www.bat.org/help/skills.php?str=cast_heal
+ 332. http://www.bat.org/help/skills.php?str=cast_special
+ 333. http://www.bat.org/help/skills.php?str=cast_magical
+ 334. http://www.bat.org/help/skills.php?str=cast_transformation
+ 335. http://www.bat.org/help/skills.php?str=mining
+ 336. http://www.bat.org/help/skills.php?str=refining
+ 337. http://www.bat.org/help/skills.php?str=masonry
+ 338. http://www.bat.org/help/skills.php?str=gem_cutting
+ 339. http://www.bat.org/help/skills.php?str=aether_flow
+ 340. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 341. http://www.bat.org/help/skills.php?str=quick_chant
+ 342. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 343. http://www.bat.org/help/skills.php?str=cast_heal
+ 344. http://www.bat.org/help/skills.php?str=cast_special
+ 345. http://www.bat.org/help/skills.php?str=cast_magical
+ 346. http://www.bat.org/help/skills.php?str=cast_transformation
+ 347. http://www.bat.org/help/skills.php?str=cast_protection
+ 348. http://www.bat.org/help/skills.php?str=mining
+ 349. http://www.bat.org/help/skills.php?str=refining
+ 350. http://www.bat.org/help/skills.php?str=masonry
+ 351. http://www.bat.org/help/skills.php?str=gem_cutting
+ 352. http://www.bat.org/help/skills.php?str=aether_flow
+ 353. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 354. http://www.bat.org/help/skills.php?str=quick_chant
+ 355. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 356. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 357. http://www.bat.org/help/skills.php?str=damage_criticality
+ 358. http://www.bat.org/help/skills.php?str=cast_heal
+ 359. http://www.bat.org/help/skills.php?str=cast_magical
+ 360. http://www.bat.org/help/skills.php?str=cast_poison
+ 361. http://www.bat.org/help/skills.php?str=cast_transformation
+ 362. http://www.bat.org/help/skills.php?str=cast_protection
+ 363. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 364. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 365. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 366. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 367. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 368. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 369. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 370. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 371. http://www.bat.org/help/skills.php?str=refining
+ 372. http://www.bat.org/help/skills.php?str=masonry
+ 373. http://www.bat.org/help/skills.php?str=gem_cutting
+ 374. http://www.bat.org/help/skills.php?str=aether_flow
+ 375. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 376. http://www.bat.org/help/skills.php?str=quick_chant
+ 377. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 378. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 379. http://www.bat.org/help/skills.php?str=damage_criticality
+ 380. http://www.bat.org/help/skills.php?str=cast_poison
+ 381. http://www.bat.org/help/skills.php?str=cast_transformation
+ 382. http://www.bat.org/help/skills.php?str=cast_protection
+ 383. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 384. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 385. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 386. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 387. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 388. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 389. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 390. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 391. http://www.bat.org/help/skills.php?str=refining
+ 392. http://www.bat.org/help/skills.php?str=masonry
+ 393. http://www.bat.org/help/skills.php?str=gem_cutting
+ 394. http://www.bat.org/help/skills.php?str=aether_flow
+ 395. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 396. http://www.bat.org/help/skills.php?str=quick_chant
+ 397. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 398. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 399. http://www.bat.org/help/skills.php?str=damage_criticality
+ 400. http://www.bat.org/help/skills.php?str=cast_poison
+ 401. http://www.bat.org/help/skills.php?str=cast_transformation
+ 402. http://www.bat.org/help/skills.php?str=cast_protection
+ 403. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 404. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 405. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 406. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 407. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 408. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 409. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 410. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 411. http://www.bat.org/help/skills.php?str=refining
+ 412. http://www.bat.org/help/skills.php?str=masonry
+ 413. http://www.bat.org/help/skills.php?str=gem_cutting
+ 414. http://www.bat.org/help/skills.php?str=aether_flow
+ 415. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 416. http://www.bat.org/help/skills.php?str=quick_chant
+ 417. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 418. http://www.bat.org/help/skills.php?str=analysis_of_magic_lore
+ 419. http://www.bat.org/help/skills.php?str=damage_criticality
+ 420. http://www.bat.org/help/skills.php?str=cast_poison
+ 421. http://www.bat.org/help/skills.php?str=cast_protection
+ 422. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 423. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 424. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 425. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 426. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 427. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 428. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 429. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 430. http://www.bat.org/help/skills.php?str=refining
+ 431. http://www.bat.org/help/skills.php?str=masonry
+ 432. http://www.bat.org/help/skills.php?str=gem_cutting
+ 433. http://www.bat.org/help/skills.php?str=aether_flow
+ 434. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 435. http://www.bat.org/help/skills.php?str=quick_chant
+ 436. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 437. http://www.bat.org/help/skills.php?str=damage_criticality
+ 438. http://www.bat.org/help/skills.php?str=cast_poison
+ 439. http://www.bat.org/help/skills.php?str=cast_protection
+ 440. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 441. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 442. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 443. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 444. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 445. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 446. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 447. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 448. http://www.bat.org/help/skills.php?str=refining
+ 449. http://www.bat.org/help/skills.php?str=masonry
+ 450. http://www.bat.org/help/skills.php?str=gem_cutting
+ 451. http://www.bat.org/help/skills.php?str=aether_flow
+ 452. http://www.bat.org/help/skills.php?str=method_of_runemagery
+ 453. http://www.bat.org/help/skills.php?str=quick_chant
+ 454. http://www.bat.org/help/skills.php?str=conceal_spellcasting
+ 455. http://www.bat.org/help/skills.php?str=damage_criticality
+ 456. http://www.bat.org/help/skills.php?str=cast_poison
+ 457. http://www.bat.org/help/skills.php?str=knowledge_of_asphyxiation
+ 458. http://www.bat.org/help/skills.php?str=knowledge_of_magic_lore
+ 459. http://www.bat.org/help/skills.php?str=knowledge_of_toxicology
+ 460. http://www.bat.org/help/skills.php?str=mastery_of_arctic_powers
+ 461. http://www.bat.org/help/skills.php?str=mastery_of_control
+ 462. http://www.bat.org/help/skills.php?str=theory_of_corrosion
+ 463. http://www.bat.org/help/skills.php?str=theory_of_electrical_engineering
+ 464. http://www.bat.org/help/skills.php?str=theory_of_pyromania
+ 465. http://www.bat.org/help/guilds.php
+ 466. mailto:webmaster@bat.org
+
+   Hidden links:
+ 467. http://www.bat.org/bat.php

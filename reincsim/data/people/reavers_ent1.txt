@@ -1,0 +1,75 @@
+Ent
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Appraise                      |   0 |  90 |  65 |       21 |
+| Consider                      |  60 |  90 |  50 |    (n/a) |
+| Bash                          |  53 |  90 | 100 |     5131 |
+| Mana control                  |  80 |  90 |  50 |    (n/a) |
+| Cast destruction              |  80 |  90 | 100 |    57808 |
+| Cast generic                  |  90 |  90 | 100 |   106929 |
+| Attack                        |  91 |  90 | 100 |   353311 |
+| Reave shield                  |  50 |  90 | 100 |    13594 |
+| Riot                          |  50 |  90 | 100 |    14722 |
+| Prayer to destruction         |  80 |  90 | 100 |   121557 |
+| Polearms                      |  50 |  90 |  90 |    17448 |
+| Reave weapon                  |  50 |  90 | 100 |    17448 |
+| Scythe swipe                  |  75 |  90 | 100 |    95723 |
+| Rebellion                     |  60 |  90 | 100 |    37922 |
+| Rampant cutting               |  50 |  90 | 100 |    19053 |
+| Axes                          |  80 |  90 |  90 |   151046 |
+| Corrosive cut                 |  50 |  90 | 100 |    19594 |
+| Infernal arc                  |  50 |  90 | 100 |    19594 |
+| Reave armour                  |  50 |  90 | 100 |    19594 |
+| Impale                        |   0 |  90 |  80 |      172 |
+| Mastery of destruction        |   0 |  90 | 100 |      172 |
+| Reaver strike                 |  50 |  90 | 100 |    21665 |
+| True reaving                  |  60 |  90 | 100 |    44863 |
+| Breath of doom                |  50 |  90 | 100 |    22187 |
+| Cleave                        |   0 |  90 |  80 |      183 |
+| Find weakness                 |  50 |  90 |  50 |    (n/a) |
+| Wrath of hells wind           |  50 |  90 | 100 |    22187 |
+| Blood harvest                 |  80 |  90 | 100 |   190299 |
+| Endurance                     |  35 |  90 |  35 |    (n/a) |
+| Stun                          |  60 |  90 |  70 |    49425 |
+| Riposte                       |  50 |  90 |  50 |    (n/a) |
+| Way of the scythe             |  75 |  90 | 100 |   154679 |
+| Combat damage analysis        |  50 |  90 |  95 |    27692 |
+| Discipline                    |  60 |  90 |  50 |    (n/a) |
+| Mangle                        |   0 |  90 |  80 |      256 |
+| Reaving                       |   0 |  90 |  80 |      263 |
+| Enhance criticals             |  50 |  90 |  80 |    33436 |
+| Parry                         |  75 |  90 |  75 |    (n/a) |
+| Tumbling attack               |  30 |  90 |  30 |    (n/a) |
+| Stunned maneuvers             |  60 |  90 |  60 |    (n/a) |
+| Combat sense                  |  80 |  90 |  80 |    (n/a) |
+| Dodge                         |  75 |  90 |  75 |    (n/a) |
+`-----------------------------------------------------------'
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Spells available at level 30  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Detect race                   |   0 |  92 | 100 |       19 |
+| Infravision                   |  70 |  92 |  70 |    (n/a) |
+| Darkness                      |   0 |  92 |  70 |       22 |
+| Word of attrition             |  50 |  92 | 100 |     2292 |
+| Glory of destruction          |  80 |  92 | 100 |    46929 |
+| Immolate scythe               |  50 |  92 | 100 |     7927 |
+| Reaping of bile               |  50 |  92 | 100 |     7927 |
+| Word of spite                 |  75 |  92 | 100 |    42189 |
+| Call scythe                   |  60 |  92 | 100 |    17241 |
+| Spirit drain                  |  60 |  92 | 100 |    17886 |
+| Shattered feast               |  80 |  92 | 100 |    70663 |
+| Call armour                   |  50 |  92 | 100 |     9691 |
+| Blood seeker                  |  61 |  92 | 100 |    23903 |
+| Word of blasting              |  75 |  92 | 100 |    68423 |
+| Word of slaughter             |  50 |  92 | 100 |    12222 |
+| Word of destruction           |  60 |  92 | 100 |    27212 |
+| Black hole                    |  50 |  92 | 100 |    13570 |
+| Word of genocide              |  60 |  92 | 100 |    28420 |
+| Word of apocalypse            |  50 |  92 | 100 |    14114 |
+| Word of oblivion              |  50 |  92 | 100 |    14911 |
+`-----------------------------------------------------------'

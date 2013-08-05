@@ -1,0 +1,103 @@
+Name: Legion of Sacred Avalon
+Command: avalon+
+Guild masters: Stalker, Dargoth, Cutter, Heinz, Vivian, Stormslayer, Idles and K
+arrstone
+Your level: 0
+Maximum level: 15
+
+Description:
+Default description
+Abilities gained when joining:
+ None
+
+Abilities and requirements at each level:
+ Level 1:
+  Abilities:
+   Statmax of dex +3
+   Skillmax of all +1
+   Statmax of int +3
+   Statmax of con +3
+ Level 2:
+  Abilities:
+   Statmax of dex +4
+   Statmax of int +4
+   Statmax of con +4
+   Skillmax of all +1
+ Level 3:
+  Abilities:
+   Statmax of dex +5
+   Statmax of con +5
+   Skillmax of all +1
+   Skillmax of parry +4
+ Level 4:
+  Abilities:
+   Statmax of dex +6
+   Statmax of con +6
+   Skillmax of all +1
+   Skillmax of dodge +5
+ Level 5:
+  Abilities:
+   Statmax of dex +8
+   Statmax of con +8
+   Skillmax of all +1
+   Skillmax of parry +6
+ Level 6:
+  Abilities:
+   Statmax of dex +4
+   Statmax of int +4
+   Statmax of wis +4
+   Statmax of con +4
+ Level 7:
+  Abilities:
+   Statmax of dex +5
+   Statmax of int +5
+   Statmax of wis +5
+   Statmax of con +5
+ Level 8:
+  Abilities:
+   Statmax of wis +6
+   Statmax of dex +6
+   Statmax of con +6
+   Skillmax of dodge +5
+ Level 9:
+  Abilities:
+   Statmax of int +8
+   Statmax of wis +8
+   Statmax of dex +8
+   Statmax of con +8
+ Level 10:
+  Abilities:
+   Statmax of int +9
+   Statmax of wis +9
+   Statmax of dex +9
+   Statmax of con +9
+ Level 11:
+  Abilities:
+   Statmax of wis +5
+   Statmax of dex +5
+   Statmax of con +5
+   Skillmax of all +1
+ Level 12:
+  Abilities:
+   Statmax of wis +6
+   Statmax of dex +6
+   Statmax of con +6
+   Statmax of str +6
+ Level 13:
+  Abilities:
+   Statmax of con +8
+   Statmax of dex +8
+   Skillmax of all +1
+ Level 14:
+  Abilities:
+   Statmax of con +9
+   Statmax of dex +9
+   Skillmax of all +1
+ Level 15:
+  Abilities:
+   Statmax of con +10
+   Statmax of dex +10
+   Skillmax of all +3
+
+Allows joining to the following guild:
+ Legion of Sacred Avalon

@@ -1,0 +1,65 @@
+Ogre
+                                ,----------------------------.
+                                |Percentiles      | Adv. cost|
+,-------------------------------+-----------------+----------|
+| Skills available at level 35  | Cur | Rac | Max | Exp      |
+|===============================|=====|=====|=====|==========|
+| Consider                      |   0 |  82 | 100 |       13 |
+| Push                          |   0 |  82 | 100 |       13 |
+| Tinning                       |   0 |  82 | 100 |       13 |
+| Alcohol tolerance             |   0 |  82 |  70 |       17 |
+| Compare                       |   0 |  82 |  70 |       17 |
+| Controlled panic              |   0 |  82 | 100 |       17 |
+| First aid                     |   0 |  82 |  80 |       21 |
+| Alertness                     |   0 |  82 | 100 |       25 |
+| Bash                          |   0 |  82 | 100 |       25 |
+| Battlecry                     |   0 |  82 | 100 |       25 |
+| Swim                          |   0 |  82 | 100 |       25 |
+| Plant lore                    |   0 |  82 |  50 |       29 |
+| Hunting                       |   0 |  82 | 100 |       33 |
+| Torch creation                |   0 |  82 |  80 |       33 |
+| Camping                       |   0 |  82 |  50 |       36 |
+| Fire building                 |   0 |  82 |  40 |       36 |
+| Fishing                       |   0 |  82 |  50 |       36 |
+| Hiking                        |   0 |  82 |  65 |       36 |
+| Track                         |   0 |  82 | 100 |       36 |
+| Kick                          |   0 |  82 | 100 |       39 |
+| Throw weight                  |   0 |  82 | 100 |      140 |
+| Switch weapon                 |   0 |  82 | 100 |       43 |
+| Looting and burning           |   0 |  82 | 100 |       49 |
+| Attack                        |   0 |  82 | 100 |       58 |
+| Detect trap                   |   0 |  82 |  55 |       72 |
+| Brawling                      |   0 |  82 | 100 |       83 |
+| Negate offhand penalty        |   0 |  82 |  80 |       93 |
+| Shield bash                   |   0 |  82 |  40 |       93 |
+| Axes                          |   0 |  82 |  85 |      101 |
+| Enrage                        |   0 |  82 | 100 |      103 |
+| Bludgeons                     |   0 |  82 | 100 |      110 |
+| Lure                          |   0 |  82 | 100 |      110 |
+| Rescue                        |   0 |  82 |  50 |      110 |
+| Cleave                        |   0 |  82 | 100 |      113 |
+| Find weakness                 |   0 |  82 | 100 |      113 |
+| Grapple                       |   0 |  82 | 100 |      113 |
+| Frenzy                        |   0 |  82 | 100 |      115 |
+| Endurance                     |   0 |  82 | 100 |      120 |
+| Pound                         |   0 |  82 | 100 |      120 |
+| Stun                          |   0 |  82 | 100 |      120 |
+| Riposte                       |   0 |  82 |  80 |      124 |
+| Cold tolerance                |   0 |  82 | 100 |      127 |
+| Fire walking                  |   0 |  82 | 100 |      127 |
+| Toxic immunity                |   0 |  82 | 100 |      127 |
+| Pain threshold                |   0 |  82 | 100 |      131 |
+| Combat damage analysis        |   0 |  82 | 100 |      138 |
+| Barbaric ways                 |   0 |  82 |  37 |      147 |
+| Leadership                    |   0 |  82 |  40 |      147 |
+| Discipline                    |   0 |  82 | 100 |      155 |
+| Reaving                       |   0 |  82 | 100 |      161 |
+| Enhance criticals             |   0 |  82 | 100 |      164 |
+| Pulverize                     |   0 |  82 | 100 |      164 |
+| Parry                         |   0 |  82 |  65 |      170 |
+| Tumbling attack               |   0 |  82 |  90 |      180 |
+| Stunned maneuvers             |   0 |  82 |  40 |      190 |
+| Combat sense                  |   0 |  82 |  50 |      196 |
+| Dodge                         |   0 |  82 |  80 |      198 |
+`-----------------------------------------------------------'
+

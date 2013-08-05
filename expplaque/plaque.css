@@ -1,0 +1,26 @@
+/* plaque.css (C) Tumi 2001-2004 */
+
+
+DIV.webplaque-expmakers {
+	font-family: Verdana, Arial, "Times New Roman", "Courier New";
+	width: 90%;
+	border: 1px solid Black;
+	text-align: left;
+	padding: 1em;
+}
+
+DIV.webplaque-graph {
+	font-family: Verdana, Arial, "Times New Roman", "Courier New";
+	width: 90%;
+	border: 1px solid Black;
+	text-align: left;
+	padding: 1em;
+}
+
+
+DIV.bottom {
+	float: right;
+	clear: both;
+	width: 50%;
+}
+

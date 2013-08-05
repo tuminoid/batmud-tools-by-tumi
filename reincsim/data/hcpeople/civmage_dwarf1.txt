@@ -1,0 +1,102 @@
+Dwarf
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  40 | 100 |      105 |
+| Essence eye                   |  52 | 100 |      297 |
+| Zapping                       |  20 |  70 |       31 |
+| Mana control                  |  57 | 100 |     2578 |
+| Cast acid                     |   0 |  85 |       25 |
+| Cast asphyxiation             |   0 |  85 |       25 |
+| Cast cold                     |   0 |  85 |       25 |
+| Cast control                  |   0 |  85 |       25 |
+| Cast electricity              |   0 |  85 |       25 |
+| Cast fire                     |   0 |  85 |       25 |
+| Cast generic                  | 100 | 100 |    (n/a) |
+| Cast heal                     |  16 |  60 |      101 |
+| Cast help                     |  37 | 100 |      623 |
+| Cast information              |  95 |  85 |    (n/a) |
+| Cast magical                  |   0 |  85 |       25 |
+| Cast poison                   |   0 |  85 |       25 |
+| Cast protection               |  85 |  85 |    (n/a) |
+| Cast special                  |   0 |  85 |       25 |
+| Cast teleportation            |  69 |  85 |     9834 |
+| Cast transformation           | 100 |  65 |    (n/a) |
+| Attack                        |  50 |  50 |    (n/a) |
+| Short blades                  |  38 |  50 |     1143 |
+| Knowledge of asphyxiation     |   0 |   2 |       89 |
+| Knowledge of magic lore       |   0 |   2 |       89 |
+| Knowledge of toxicology       |   0 |   2 |       89 |
+| Mastery of arctic powers      |   0 |   2 |       89 |
+| Theory of corrosion           |   0 |   2 |       89 |
+| Theory of electrical engineering|   0 |   2 |       89 |
+| Theory of pyromania           |   0 |   2 |       89 |
+| Quick chant                   |  52 | 100 |     9357 |
+| Conceal spellcasting          |   0 |  50 |      136 |
+| Analysis of magic lore        |   0 |  80 |      195 |
+| Damage criticality            |   0 |  50 |      812 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 25  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Clairvoyance                  |   0 |  70 |       10 |
+| Word of recall                |  40 |  68 |      379 |
+| Floating letters              |  30 |  70 |      216 |
+| Infravision                   |   0 |  70 |       15 |
+| See invisible                 |   0 |  70 |       15 |
+| See magic                     |   0 |  70 |       15 |
+| Satiate person                |   0 |  70 |       19 |
+| Water walking                 |   0 |  70 |       19 |
+| Darkness                      |   0 |  70 |       22 |
+| Light                         |   0 |  70 |       22 |
+| Flip                          |   0 |  70 |       29 |
+| Create food                   |  40 |  70 |     1270 |
+| Enhance vision                |   0 |  70 |       39 |
+| Floating disc                 |  70 |  70 |    (n/a) |
+| Identify                      |  70 |  70 |    (n/a) |
+| Mirror image                  |   0 |  70 |       55 |
+| Chill touch                   |   0 |  70 |       67 |
+| Disruption                    |   0 |  70 |       67 |
+| Flame arrow                   |   0 |  70 |       67 |
+| Heal self                     |  70 |  70 |    (n/a) |
+| Magic missile                 |  66 |  70 |    20102 |
+| Shocking grasp                |   0 |  70 |       67 |
+| Thorn spray                   |   0 |  70 |       67 |
+| Vacuumbolt                    |   0 |  70 |       67 |
+| Wizard eye                    |   5 |  70 |      103 |
+| Heavy weight                  |  40 |  70 |     3113 |
+| Acid wind                     |   0 |  70 |      113 |
+| Firebolt                      |   0 |  70 |      113 |
+| Flaming ice                   |   0 |  70 |      113 |
+| Lightning bolt                |   0 |  70 |      113 |
+| Poison blast                  |   0 |  70 |      113 |
+| Suffocation                   |   0 |  70 |      113 |
+| Summon lesser spores          |   0 |  70 |      113 |
+| Acid arrow                    |   0 |  70 |      153 |
+| Blast lightning               |   0 |  70 |      153 |
+| Chaos bolt                    |   0 |  70 |      153 |
+| Darkfire                      |   0 |  70 |      153 |
+| Fire blast                    |   0 |  70 |      153 |
+| Levin bolt                    |   0 |  70 |      153 |
+| Venom strike                  |   0 |  70 |      153 |
+| Invisibility                  |   0 |  70 |      158 |
+| Acid rain                     |   0 |  70 |      189 |
+| Chain lightning               |   0 |  70 |      189 |
+| Cone of cold                  |   0 |  70 |      189 |
+| Magic wave                    |   0 |  70 |      189 |
+| Meteor swarm                  |   0 |  70 |      189 |
+| Poison spray                  |   0 |  70 |      189 |
+| Vacuum ball                   |   0 |  70 |      189 |
+| Acid ray                      |   0 |  70 |      190 |
+| Forked lightning              |   0 |  70 |      190 |
+| Icebolt                       |   0 |  70 |      190 |
+| Meteor blast                  |   0 |  70 |      190 |
+| Power blast                   |   0 |  70 |      190 |
+| Strangulation                 |   0 |  70 |      190 |
+| Summon greater spores         |   0 |  70 |      190 |
+| Quicksilver                   |   0 |  70 |      226 |
+`------------------------------------------------------'

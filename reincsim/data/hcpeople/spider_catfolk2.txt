@@ -1,0 +1,71 @@
+Catfolk
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  75 |  92 |     2595 |
+| Essence eye                   |  60 |  92 |      712 |
+| First aid                     |   0 |  80 |        8 |
+| Tempt                         |   0 |  92 |       19 |
+| Hiding                        |   0 |  80 |       22 |
+| Mana control                  |  78 |  92 |    18910 |
+| Throw weight                  |  80 |  50 |    (n/a) |
+| Switch weapon                 |  26 |  92 |      244 |
+| Cast demonology               |  56 | 100 |     3848 |
+| Cast generic                  |  90 | 100 |    72094 |
+| Cast harm                     |  75 |  60 |    (n/a) |
+| Cast heal                     |  47 |  60 |     1772 |
+| Cast information              |  60 |  90 |     5433 |
+| Cast poison                   |  39 | 100 |      889 |
+| Cast protection               |  55 |  60 |     3531 |
+| Cast special                  |  65 |  80 |     8359 |
+| Cast teleportation            |  45 |  60 |     1490 |
+| Cast transformation           |  45 |  60 |     1490 |
+| Attack                        |  92 |  92 |    (n/a) |
+| Ceremony                      |  65 |  92 |    14060 |
+| Short blades                  |  61 |  92 |     9960 |
+| Negate offhand penalty        |  26 |  92 |      768 |
+| Stab                          |  60 |  90 |    15368 |
+| Knowledge of infernal entities|  40 | 100 |     3402 |
+| Knowledge of toxicology       |  10 | 100 |      255 |
+| Mastery of spider servants    |   0 | 100 |      107 |
+| Quick chant                   |  78 |  50 |    (n/a) |
+| Stun                          |  68 |  60 |    (n/a) |
+| Discipline                    |  56 |  60 |    45172 |
+| Pierce                        |  20 |  75 |     2029 |
+| Parry                         |  33 |  60 |     9671 |
+| Stunned maneuvers             |  60 |  60 |    (n/a) |
+| Combat sense                  |  35 |  60 |    22846 |
+| Dodge                         |  76 |  60 |    (n/a) |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Spider eye                    |   0 |  86 |        6 |
+| Spider gaze                   |   0 |  86 |        6 |
+| Spider servant                |   0 |  86 |        6 |
+| Infravision                   |   0 |  86 |        8 |
+| Spider walk                   |   0 |  86 |       10 |
+| Spider web                    |   0 |  86 |       15 |
+| Spider touch                  |   0 |  86 |       18 |
+| Spider gate                   |   0 |  86 |       22 |
+| Hunger of the spider          |  48 |  86 |     1530 |
+| Spider demon sacrifice        |  53 |  86 |     2513 |
+| Spider demon conjuration      |  53 |  86 |     2821 |
+| Spider demon control          |  75 |  86 |    18793 |
+| Spider demon channeling       |  53 |  86 |     3407 |
+| Poison                        |   0 |  86 |       37 |
+| Remove poison                 |  28 |  86 |      427 |
+| Spider demon inquiry          |  36 |  86 |      851 |
+| Spider demon banishment       |  53 |  86 |     3960 |
+| Heavy weight                  |   0 |  86 |       54 |
+| Poison cloud                  |   0 |  86 |       56 |
+| Venom blade                   |   0 |  86 |       71 |
+| Spider wrath                  |   0 |  86 |       81 |
+| Toxic dilution                |   0 |  86 |      127 |
+| Spider demon mass sacrifice   |   0 |  86 |      720 |
+| Prayer to the spider queen    |   0 |  86 |     1210 |
+`------------------------------------------------------'

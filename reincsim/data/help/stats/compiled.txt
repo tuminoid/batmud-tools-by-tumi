@@ -1,0 +1,695 @@
+TINMEN      3.34
+TROLL       3.32
+OGRE        3.33
+GIANT       3.17
+THRIKHREN   2.66
+ENT         3.02
+ORC         2.99/3.05
+MINOTAUR    3.24
+GARGOYLE    3.33
+
+
+TINMEN NOMAD
+  Hit Points     Spell Points     Endurance Points
+   1104/1104         52/52             334/392
+Str: Superb (121+++)      Dex: Impressive (82++)    Con: Impressive (159)
+Int: Average (70)         Wis: Average (22+)
+Cha: Tolerable (50)       Siz: Large (67)
+
+TINMEN NOMAD
+@Morloc   Hit Points     Spell Points     Endurance Points
+@Morloc     774/971          41/46             328/324
+@Morloc Str: Nice (109)           Dex: Great (77)           Con: Nice (119)
+@Morloc Int: Low (59)             Wis: Average (25)
+@Morloc Cha: Nice (74)            Siz: Large (67)
+
+TINMEN NOMAD
+Lightscape tells you '29lvl tinmen'
+Lightscape tells you 'Hp: 685 (1015) Sp: 51 (51) Ep: 340 (340)'
+Lightscape tells you 'Str: Impressive (136+), Dex: Nice (75-), Con: Great
+    (132), Int: Mediocre (71-), Wis: Good (38-), Cha: Average (50+), Siz:
+    Large (67)'
+
+TINMEN NOMAD
+  Hit Points     Spell Points     Endurance Points
+   1074/1074         51/51             350/350
+Str: Great (120)          Dex: Great (82)           Con: Impressive (150)
+Int: Average (70)         Wis: Average (22)
+Cha: Attractive (84)      Siz: Large (67)
+
+
+
+TROLL NOMAD
+  Hit Points     Spell Points     Endurance Points
+   1089/1089         31/31             384/384
+Str: Great (153)          Dex: Impressive (105)     Con: Nice (147)
+Int: Average (30)         Wis: Average (35)
+Cha: Good-looking (99)    Siz: Huge (82)
+
+TROLL NOMAD
+  Hit Points     Spell Points     Endurance Points
+    511/914          31/31             171/283
+Str: Average (91)         Dex: Adequate (61)        Con: Average (94)
+Int: Average (31)         Wis: Mediocre (34)
+Cha: Tolerable (50)       Siz: Huge (82)
+
+TROLL NOMAD
+@Interactive   Hit Points     Spell Points     Endurance Points
+@Interactive    1169/1169         31/31             400/400
+@Interactive Str: Nice (147)           Dex: Superb (117)         Con: Great
+    (171)
+@Interactive Int: Average (31)         Wis: Mediocre (34)
+@Interactive Cha: Attractive (88)      Siz: Huge (82)
+
+
+OGRE NOMAD
+You grunt 'Str: Good (135), Dex: Great (75), Con: Excellent (192), Int:
+Mediocre (34), Wis: Mediocre (34), Cha: Average (64), Siz: Huge (88).' You
+grunt 'Hp: 1257 (1257) Sp: 32 (32) Ep: 396 (366).'
+
+OGRE NOMAD
+  Hit Points     Spell Points     Endurance Points
+   1023/1023         32/32             354/326
+Str: Good (132)           Dex: Nice (71)            Con: Adequate (122)
+Int: Average (35)         Wis: Average (35)
+Cha: Nice (67)            Siz: Huge (88)
+
+OGRE NOMAD
+@Sethar   Hit Points     Spell Points     Endurance Points
+@Sethar    1066/1066         32/32             337/337
+@Sethar Str: Adequate (113)       Dex: Excellent (85)       Con: Good (135)
+@Sethar Int: Mediocre (34)        Wis: Mediocre (34)
+@Sethar Cha: Good-looking (98)    Siz: Huge (88)
+
+OGRE NOMAD
+Alcal tells you 'Hp: 371 (886) Sp: 24 (27) Ep: 259 (273)'
+Alcal tells you 'Str: Mediocre (82), Dex: Adequate (55+), Con: Mediocre
+ (87), Int: Low (28), Wis: Low (28), Cha: Tolerable (48), Siz: Large (76)'
+
+OGRE NOMAD
+Rjak tells you 'Hp: 1435 (1435) Sp: 32 (32) Ep: 403 (403)'
+Rjak tells you 'Str: Great (156), Dex: Incredible (100), Con: Superb (245),
+ Int: Mediocre (34), Wis: Average (35), Cha: Good-looking (99), Siz: Huge
+ (88)'
+
+
+
+
+GIANT NOMAD
+  Hit Points     Spell Points     Endurance Points
+    929/1061         20/20             328/391
+Str: Excellent (199)      Dex: Impressive (94+)     Con: Good (141)
+Int: Adequate (20)        Wis: Adequate (20)
+Cha: Tolerable (46)       Siz: Enormous (100)
+
+GIANT NOMAD
+  Hit Points     Spell Points     Endurance Points
+   1137/1137         20/20             389/389
+Str: Nice (170)           Dex: Impressive (97)      Con: Nice (165)
+Int: Adequate (20)        Wis: Adequate (20)
+Cha: Nice (73)            Siz: Enormous (100)
+
+GIANT NOMAD
+@Murgan   Hit Points     Spell Points     Endurance Points
+@Murgan    1108/1108         16/16             307/400
+@Murgan Str: Great (143++)        Dex: Incredible (81++)    Con: Nice (143+)
+@Murgan Int: Decent (20-)         Wis: Low (20-)
+@Murgan Cha: Good-looking (93)    Siz: Enormous (100)
+
+GIANT NOMAD
+  Hit Points     Spell Points     Endurance Points
+@Ilgoroth    1023/1023         20/20             341/326
+@Ilgoroth Str: Adequate (139)       Dex: Good (67)            Con: Adequate
+    (129)
+@Ilgoroth Int: Adequate (20)        Wis: Adequate (20)
+@Ilgoroth Cha: Tolerable (48)       Siz: Enormous (100)
+
+GIANT NOMAD
+Murgan tells you 'Hp: 1071 (1071) Sp: 20 (20) Ep: 343 (350)'
+Murgan tells you 'Str: Good (145), Dex: Great (81), Con: Good (144), Int:
+ Adequate (20), Wis: Adequate (20), Cha: Average (61), Siz: Enormous (100)'
+
+
+
+
+ORC NOMAD
+@Reima   Hit Points     Spell Points     Endurance Points
+@Reima     600/889          38/38             327/327
+@Reima Str: Adequate (99)        Dex: Adequate (85+)       Con: Decent (92+)
+@Reima Int: Average (34)         Wis: Mediocre (38)
+@Reima Cha: Good-looking (90)    Siz: Large (72)
+
+ORC NOMAD
+@Nobbs   Hit Points     Spell Points     Endurance Points
+@Nobbs     625/1030         38/38             211/374
+@Nobbs Str: Excellent (137+)     Dex: Adequate (94+)       Con: Nice (145+)
+@Nobbs Int: Average (34)         Wis: Mediocre (38)
+@Nobbs Cha: Nice (74)            Siz: Large (72)
+
+ORC NOMAD
+Kape tells you 'Hp: 994 (1296) Sp: 38 (38) Ep: 379 (409)'
+Kape tells you 'Str: Excellent (154), Dex: Impressive (149), Con: Awesome
+ (232), Int: Average (34), Wis: Mediocre (38), Cha: Nice (71), Siz: Large
+ (72)'
+
+ORC NOMAD
+Glenfast tells you 'Hp: 398 (933) Sp: 38 (38) Ep: 264 (357)'
+Glenfast tells you 'Str: Good (110+), Dex: Nice (107+), Con: Adequate (116), Int:
+ Average (34), Wis: Mediocre (38), Cha: Nice (75), Siz: Large (72)'
+
+
+
+GARGOYLE NOMAD
+@Cozmo   Hit Points     Spell Points     Endurance Points
+@Cozmo    1281/1318         21/21             149/407
+@Cozmo Str: Dazzling (200++)     Dex: Excellent (105+)     Con: Impressive (212)
+@Cozmo Int: Decent (24)          Wis: Mediocre (24-)
+@Cozmo Cha: Average (59)         Siz: Colossal (90)
+
+GARGOYLE NOMAD
+Flab tells you 'Hp: 1102 (1102) Sp: 23 (23) Ep: 349 (349)'
+Flab tells you 'Str: Good (120), Dex: Nice (88), Con: Good (147), Int:
+ Decent (24), Wis: Decent (24), Cha: Good-looking (91), Siz: Colossal (90)'
+
+GARGOYLE NOMAD
+Varsin tells you 'Hp: 1092 (1092) Sp: 23 (23) Ep: 181 (334)'
+Varsin tells you 'Str: Adequate (102+), Dex: Good (84-), Con: Good (144), Int: Decent
+ (24), Wis: Decent (24), Cha: Attractive (87), Siz: Colossal (90)'
+
+
+
+
+MINOTAUR NOMAD
+  Hit Points     Spell Points     Endurance Points
+   1014/1014         31/31             254/343
+Str: Adequate (112)       Dex: Nice (97)            Con: Adequate (124)
+Int: Average (31)         Wis: Average (31)
+Cha: Good-looking (98)    Siz: Huge (87)
+
+MINOTAUR NOMAD
+Silos tells you 'Hp: 972 (972) Sp: 31 (31) Ep: 356 (329)'
+Silos tells you 'You grunt 'Str: Good (125), Dex: Good (83), Con: Decent (111), Int:
+ Average'
+Silos tells you '(31), Wis: Average (31), Cha: Good-looking (89), Siz: Huge
+ (87).''
+
+MINOTAUR NOMAD
+Rigel tells you 'Hp: 1092 (1092) Sp: 31 (31) Ep: 238 (379)'
+Rigel tells you 'Str: Great (144), Dex: Great (101+), Con: Nice (143+), Int: Average
+ (31), Wis: Average (31), Cha: Gorgeous (100+), Siz: Huge (87)'
+
+MINOTAUR NOMAD
+Tuli tells you 'Hp: 1008 (1008) Sp: 31 (31) Ep: 334 (334)'
+Tuli tells you 'Str: Good (119), Dex: Good (85), Con: Adequate (122), Int: Average
+ (31), Wis: Average (31), Cha: Attractive (82), Siz: Huge (87)'
+
+
+
+DWARF NOMAD
+Jkk tells you 'Hp: 983 (983) Sp: 43 (43) Ep: 358 (358)'
+Jkk tells you 'Str: Nice (124), Dex: Nice (91), Con: Great (132), Int:
+ Mediocre (41), Wis: Mediocre (46), Cha: Nice (69), Siz: Short (43)'
+
+
+
+CROMAGNON NOMAD
+Rankku tells you 'Hp: 1091 (1091) Sp: 30 (30) Ep: 400 (400)'
+Rankku tells you 'Str: Incredible (162), Dex: Excellent (113), Con:
+ Excellent (157), Int: Average (31), Wis: Average (32), Cha: Good-looking (92),
+ Siz: Large (72)'
+
+
+
+DRACONIAN NOMAD
+Yggrasil tells you 'Hp: 964 (964) Sp: 26 (26) Ep: 309 (309)'
+Yggrasil tells you 'Str: Good (109++), Dex: Good (68-), Con: Decent (101+),
+ Int: Mediocre (31-), Wis: Mediocre (31-), Cha: Tolerable (49), Siz: Huge
+ (85)'
+
+
+BARSOOMIAN NOMAD
+Kyo tells you 'Str: Impressive (97++), Dex: Good (120++), Con: Superb (173), Int:
+ Low (40-), Wis: Average (33), Cha: Nice (73), Siz: Average (50)'
+Kyo tells you 'Hp: 1057 (1078) Sp: 30 (30) Ep: 108 (400)'
+
+BARSOOMIAN NOMAD
+Ulath tells you 'Hp: 896 (896) Sp: 31 (31) Ep: 389 (389)'
+Ulath tells you 'Str: Good (76), Dex: Nice (156), Con: Nice (115), Int: Mediocre
+ (38), Wis: Average (31), Cha: Average (59), Siz: Average (50)'
+
+BARSOOMIAN NOMAD
+Zard tells you 'Hp: 925 (925) Sp: 32 (32) Ep: 402 (374)'
+Zard tells you 'Str: Nice (82), Dex: Good (134), Con: Great (124), Int: Mediocre
+ (38), Wis: Average (31+), Cha: Nice (76), Siz: Average (50)'
+
+
+
+
+ZOMBIE GOODRELIG
+  Hit Points     Spell Points     Endurance Points
+    634/634         920/920            230/240
+Str: Average (42)         Dex: Average (20)         Con: Decent (123)
+Int: Nice (65)            Wis: Superb (220)
+Cha: Nice (76)            Siz: Average (51)
+
+ZOMBIE GOODRELIG
+@Asael   Hit Points     Spell Points     Endurance Points
+@Asael     579/579         775/775            232/232
+@Asael Str: Mediocre (39)        Dex: Decent (24)          Con: Average (103)
+@Asael Int: Decent (48)          Wis: Excellent (174)
+@Asael Cha: Good-looking (98)    Siz: Average (51)
+
+ZOMBIE GOODRELIG
+Marzo tells you 'Hp: 579 (579) Sp: 911 (911) Ep: 232 (232)'
+Marzo tells you 'Str: Mediocre (39), Dex: Decent (24), Con: Average (103),
+ Int: Superb (107), Wis: Incredible (200), Cha: Eyesore (39), Siz: Average
+ (51)'
+
+ZOMBIE GOODRELIG
+Hit Points     Spell Points     Endurance Points
+     579/579         761/761            232/232
+Str: Mediocre (39)        Dex: Decent (24)          Con: Average (103)
+Int: Adequate (53)        Wis: Excellent (167)
+Cha: Nice (72)            Siz: Average (51)
+
+ZOMBIE GOODRELIG
+Andthi tells you 'Hp: 593 (593) Sp: 1190 (1306) Ep: 221 (221)'
+Andthi tells you 'Str: Mediocre (53--), Dex: Weak (38--), Con: Average (118-), Int:
+ Impressive (79+), Wis: Divine (250+++), Cha: Good-looking (89), Siz: Average (51)'
+
+
+
+SPRITE GOODRELIG
+    435/435         934/934             72/289'
+Str: Good (43)            Dex: Mediocre (94)        Con: Impressive (65)'
+Int: Incredible (161)     Wis: Dazzling (187)'
+Cha: Attractive (80)      Siz: Short (37)'
+
+
+
+ELF GOODRELIG
+  Hit Points     Spell Points     Endurance Points
+    487/487         803/803            249/249
+Str: Mediocre (43)        Dex: Mediocre (57)        Con: Adequate (67)
+Int: Adequate (105)       Wis: Excellent (172)
+Cha: Nice (70)            Siz: Average (53)
+
+ELF GOODRELIG
+  Hit Points     Spell Points     Endurance Points
+    503/503         739/739            263/264
+Str: Average (48)         Dex: Average (67)         Con: Adequate (73)
+Int: Decent (92)          Wis: Great (153)
+Cha: Nice (76)            Siz: Average (53)
+
+
+
+DUCK GOODRELIG
+  Hit Points     Spell Points     Endurance Points
+    441/441         598/792            243/243
+Str: Mediocre (36)        Dex: Low (54)             Con: Adequate (62)
+Int: Mediocre (85)        Wis: Impressive (156)
+Cha: Tolerable (50)       Siz: Short (39)
+
+DUCK GOODRELIG
+  Hit Points     Spell Points     Endurance Points
+    449/449         826/826            256/256
+Str: Average (38)         Dex: Average (64)         Con: Good (65)
+Int: Adequate (120)       Wis: Excellent (154)
+Cha: Good-looking (99)    Siz: Short (39)
+
+
+
+CATFOLK GOODRELIG
+ Hit Points     Spell Points     Endurance Points
+   455/651         201/435            313/313
+Str: Decent (76)          Dex: Decent (97)          Con: Good (84)
+Int: Decent (63)          Wis: Good (83)
+Cha: Attractive (83)      Siz: Big (57)
+
+CATFOLK GOODRELIG
+Hit Points     Spell Points     Endurance Points
+488/652         409/542            316/316
+Str: Average (65)         Dex: Average (95)         Con: Great (105)
+Int: Decent (63)          Wis: Great (103)
+Cha: Nice (75)            Siz: Big (57)
+
+CATFOLK GOODRELIG
+Kreegah tells you 'Str: Decent (71++), Dex: Great (111+++), Con: Nice (94),
+    Int: Average (58-), Wis: Low (82---), Cha: Nice (74), Siz: Big (57)'
+Kreegah tells you 'Hp: 618 (618) Sp: 386 (386) Ep: 191 (383)'
+
+CATFOLK GOODRELIG
+Nail tells you 'Hp: 337 (726) Sp: 548 (606) Ep: 149 (373)'
+Nail tells you 'Str: Good (101), Dex: Good (122), Con: Impressive (129), Int:
+    Decent (63), Wis: Incredible (130), Cha: Average (58), Siz: Big (57)'
+
+CATFOLK GOODRELIG
+Calath tells you 'Hp: 615 (615) Sp: 482 (482) Ep: 291 (291)'
+Calath tells you 'Str: Low (56), Dex: Mediocre (81), Con: Nice (93), Int:
+    Decent (57), Wis: Good (80), Cha: Eyesore (44), Siz: Big (57)'
+
+
+
+OGRE GOODRELIG
+Tarli tells you 'Hp: 1226 (1226) Sp: 311 (463) Ep: 312 (400)'
+Tarli tells you 'Str: Good (115++), Dex: Excellent (75+), Con: Awesome (250+),
+    Int: Adequate (50-), Wis: Superb (97-), Cha: Attractive (78), Siz: Huge
+    (88)'
+
+
+
+VALAR GOODRELIG
+Dargon tells you 'Hp: 664 (731) Sp: 208 (611) Ep: 322 (340)'
+Dargon tells you 'Str: Average (91), Dex: Adequate (100), Con: Excellent
+    (131), Int: Decent (76), Wis: Good (118), Cha: Good-looking (99), Siz:
+    Huge (82)'
+
+
+
+
+
+
+
+
+THRIKHREN MAGICAL
+  Hit Points     Spell Points     Endurance Points
+    387/387        1538/1271           247/247
+Str: Good (45)            Dex: Good (43)            Con: Superb (83)
+Int: Superb (260)         Wis: Superb (166)
+Cha: Good-looking (93)    Siz: Short (41)
+
+THRIKHREN MAGICAL
+@Smoking     421/421        1318/1336           262/267
+@Smoking Str: Impressive (65)      Dex: Nice (47)            Con: Dazzling (96)
+@Smoking Int: Awesome (293)        Wis: Dazzling (181)
+@Smoking Cha: Attractive (84)      Siz: Short (41)
+
+THRIKHREN MAGICAL
+  Hit Points     Spell Points     Endurance Points
+    263/263        1064/1064           203/203
+Str: Average (31)         Dex: Average (29)         Con: Decent (37)
+Int: Excellent (206)      Wis: Great (113)
+Cha: Attractive (80)      Siz: Short (41)
+
+THRIKHREN MAGICAL
+Sraz tells you 'Hp: 263 (263) Sp: 1058 (1058) Ep: 202 (203)'
+Sraz tells you 'Str: Average (31), Dex: Average (29), Con: Decent (37),
+ Int: Excellent (209), Wis: Nice (101), Cha: Good-looking (99), Siz: Short
+ (41)'
+
+THRIKHREN MAGICAL
+Balthas tells you 'Hp: 268 (268) Sp: 1174 (1174) Ep: 190 (190)'
+Balthas tells you 'Str: Slight (31-), Dex: Slight (29-), Con: Adequate
+ (45-), Int: Superb (185+++), Wis: Adequate (80+), Cha: Good-looking (94), Siz:
+ Short (41)'
+
+
+
+
+KOBOLD MAGICAL
+  Hit Points     Spell Points     Endurance Points
+    400/400        1018/1018           272/272
+Str: Decent (55)          Dex: Decent (63)          Con: Great (84)
+Int: Divine (227)         Wis: Awesome (131)
+Cha: Tolerable (54)       Siz: Short (42)
+
+
+
+ELF MAGICAL
+@Lim   Hit Points     Spell Points     Endurance Points
+@Lim     379/379        1143/1143           249/249
+@Lim Str: Mediocre (43)        Dex: Mediocre (57)        Con: Adequate (67)
+@Lim Int: Dazzling (237)       Wis: Incredible (191)
+@Lim Cha: Nice (77)            Siz: Average (53)
+
+
+
+DUCK MAGICAL
+  Hit Points     Spell Points     Endurance Points
+    291/291        1094/1094           236/236
+Str: Mediocre (36)        Dex: Low (54)             Con: Average (47)
+Int: Incredible (216)     Wis: Great (131)
+Cha: Nice (69)            Siz: Short (39)
+
+DUCK MAGICAL
+@Ragnhild   Hit Points     Spell Points     Endurance Points
+@Ragnhild     283/283        1090/1090           234/234
+@Ragnhild Str: Mediocre (36)        Dex: Low (54)             Con: Mediocre (44)
+@Ragnhild Int: Superb (222)         Wis: Good (112)
+@Ragnhild Cha: Good-looking (90)    Siz: Short (39)
+
+
+BROWNIE MAGICAL
+Sandoval tells you 'Hp: 212 (222) Sp: 692 (786) Ep: 225 (230)'
+Sandoval tells you 'Str: Average (27), Dex: Mediocre (61), Con: Average (28), Int:
+ Good (117), Wis: Decent (78), Cha: Tolerable (50), Siz: Short (35)'
+
+
+
+
+TINMEN CIVILIZED
+@Farliss   Hit Points     Spell Points     Endurance Points
+@Farliss     946/946         365/365            345/345
+@Farliss Str: Average (69)         Dex: Incredible (100)     Con: Impressive
+    (154)
+@Farliss Int: Average (78)         Wis: Impressive (51)
+@Farliss Cha: Attractive (78)      Siz: Large (67)
+
+
+
+WOLFMAN CIVILIZED
+  Hit Points     Spell Points     Endurance Points
+    679/679         334/334            277/277
+Str: Mediocre (59)        Dex: Decent (76)          Con: Mediocre (76)
+Int: Decent (61)          Wis: Adequate (67)
+
+
+
+SPRITE CIVILIZED
+ Hit Points     Spell Points     Endurance Points
+   467/467         416/416            190/278
+Str: Decent (34)          Dex: Average (100)        Con: Adequate (41)
+Int: Average (73)         Wis: Decent (70)
+Cha: Tolerable (50)       Siz: Short (37)
+
+SPRITE CIVILIZED
+ Hit Points     Spell Points     Endurance Points
+   299/464         405/463            127/297
+Str: Decent (33)          Dex: Decent (120)         Con: Adequate (40)
+Int: Adequate (85)        Wis: Adequate (81)
+Cha: Tolerable (50)       Siz: Short (37)
+
+
+
+HUMAN CIVILIZED
+ Hit Points     Spell Points     Endurance Points
+   669/669         490/490            286/286
+Str: Average (65)         Dex: Adequate (79)        Con: Adequate (79)
+Int: Good (88)            Wis: Good (88)
+Cha: Tolerable (50)       Siz: Big (59)
+
+HUMAN CIVILIZED
+  Hit Points     Spell Points     Endurance Points
+    687/687         514/514            228/298
+Str: Decent (71)    Dex: Good (85)      Con: Good (85
+Int: Good (94)            Wis: Good (94)
+Cha: Gorgeous (100)       Siz: Big (59)
+
+
+BARSOOMIAN CIVILIZED
+Dave tells you 'Hp: 650 (650) Sp: 276 (276) Ep: 317 (317)'
+Dave tells you 'Str: Average (57), Dex: Decent (112), Con: Decent (79), Int: Adequate
+ (56), Wis: Nice (49), Cha: Tolerable (50), Siz: Average (50)'
+
+
+
+
+
+
+TINMEN EVILRELIG
+  Hit Points     Spell Points     Endurance Points
+  901/901         390/390           329/329
+Str: Nice (99+)           Dex: Nice (68)            Con: Excellent (148)
+Int: Decent (80)          Wis: Incredible (52)
+Cha: Good-looking (90)    Siz: Large (67)
+
+TINMEN EVILRELIG
+Dolan tells you 'Hp: 711 (711) Sp: 386 (386) Ep: 256 (256)'
+Dolan tells you 'Str: Decent (76+), Dex: Mediocre (39), Con: Adequate (90),
+ Int: Mediocre (69), Wis: Incredible (55), Cha: Nice (77), Siz: Large (67)'
+
+
+
+
+WOLFMAN EVILRELIG
+@Blackstar   Hit Points     Spell Points     Endurance Points
+@Blackstar     705/705         388/388            316/316
+@Blackstar Str: Decent (81)          Dex: Good (95)            Con: Decent (94)
+@Blackstar Int: Average (53)         Wis: Good (73)
+@Blackstar Cha: Average (58)         Siz: Big (65)
+
+
+
+OGRE EVILRELIG
+@Strikerbum   Hit Points     Spell Points     Endurance Points
+@Strikerbum     531/900         402/402            206/316
+@Strikerbum Str: Adequate (111+)      Dex: Good (58+)           Con: Good (135)
+@Strikerbum Int: Decent (44)          Wis: Superb (92)
+@Strikerbum Cha: Nice (69)            Siz: Huge (88)
+
+
+
+HUMAN EVILRELIG
+@Azgaroth   Hit Points     Spell Points     Endurance Points
+@Azgaroth     638/638         226/478            180/294
+@Azgaroth Str: Average (66)         Dex: Good (86)            Con: Adequate (79)
+@Azgaroth Int: Average (61)         Wis: Adequate (81)
+@Azgaroth Cha: Good-looking (92)    Siz: Big (59)
+
+
+
+ENT EVILRELIG
+  Hit Points     Spell Points     Endurance Points
+    929/929         674/674            128/298
+Str: Great (142+)         Dex: Awesome (15)         Con: Dazzling (163)
+Int: Decent (52)          Wis: Good (158)
+Cha: Tolerable (46)       Siz: Colossal (92)
+
+ENT EVILRELIG
+  Hit Points     Spell Points     Endurance Points
+    808/808         834/834            317/317
+Str: Adequate (103)       Dex: Divine (77)          Con: Impressive (123)
+Int: Good (65)            Wis: Excellent (211)
+Cha: Attractive (82)      Siz: Colossal (92)
+
+ENT EVILRELIG
+  Hit Points     Spell Points     Endurance Points
+    862/862         616/629            333/325
+Str: Good (122)           Dex: Divine (67)          Con: Superb (141)
+Int: Adequate (59)        Wis: Adequate (139)
+Cha: Nice (68)            Siz: Colossal (92)
+
+
+
+CATFOLK EVILRELIG
+  Hit Points     Spell Points     Endurance Points
+    744/744         435/435            363/363
+Str: Decent (80)          Dex: Good (113++)         Con: Excellent (114)
+Int: Decent (63)          Wis: Good (83)
+Cha: Nice (76)            Siz: Big (57)
+
+
+
+
+
+
+
+
+LEPRECHAUN GOODRELIG
+Mudax tells you 'Hp: 440 (440) Sp: 575 (964) Ep: 284 (284)'
+Mudax tells you 'Str: Good (45), Dex: Average (89-), Con: Excellent (66+),
+ Int: Average (94-), Wis: Awesome (213-), Cha: Good-looking (99), Siz: Short
+ (38)'
+
+
+DUCK GOODRELIG
+Eronk tells you 'Hp: 439 (439) Sp: 602 (602) Ep: 243 (243)'
+Eronk tells you 'Str: Mediocre (36), Dex: Low (54), Con: Adequate (61),
+ Int: Mediocre (83), Wis: Decent (91), Cha: Tolerable (50), Siz: Short
+ (39)'
+
+LICH GOODRELIG
+Huppu tells you 'Hp: 857 (857) Sp: 684 (684) Ep: 349 (349)'
+Huppu tells you 'Str: Nice (89), Dex: Good (84), Con: Dazzling (171), Int:
+ Adequate (71), Wis: Superb (142), Cha: Average (62), Siz: Big (59)'
+
+DUCK MAGICAL
+Wirah tells you 'Hp: 419 (423) Sp: 1277 (1326) Ep: 235 (235)'
+Wirah tells you 'Str: Mediocre (36), Dex: Mediocre (55), Con: Mediocre
+ (43), Int: Incredible (206), Wis: Good (110), Cha: Nice (71), Siz: Short
+ (39)'
+
+THRIKHREN MAGICAL
+Jenming tells you 'Hp: 277 (277) Sp: 1097 (1520) Ep: 182 (201)'
+Jenming tells you 'Str: Average (31), Dex: Mediocre (29-), Con: Adequate
+ (42), Int: Awesome (233+++), Wis: Great (92++), Cha: Attractive (80), Siz:
+ Short (41)'
+
+ELF CIVILIZED
+Aloysha tells you 'Hp: 595 (595) Sp: 261 (507) Ep: 336 (339)'
+Aloysha tells you 'Str: Impressive (89++), Dex: Nice (110), Con: Adequate
+ (72), Int: Decent (95), Wis: Adequate (103), Cha: Gorgeous (100), Siz: Average
+ (53)'
+
+CATFOLK EVILRELIG
+Soulafein tells you 'Hp: 676 (676) Sp: 414 (414) Ep: 351 (351)'
+Soulafein tells you 'Str: Adequate (93), Dex: Good (123), Con: Nice (92),
+ Int: Decent (58), Wis: Adequate (76), Cha: Attractive (85), Siz: Big (57)'
+
+
+
+CATFOLK EVILRELIG
+Hydborg tells you 'Hp: 518 (620) Sp: 283 (401) Ep: 266 (294)'
+Hydborg tells you 'Str: Decent (70+), Dex: Mediocre (77+), Con: Adequate
+ (74), Int: Decent (58), Wis: Adequate (76-), Cha: Attractive (83), Siz: Big
+ (57)'
+DUCK MAGICAL
+Stefan tells you 'Hp: 288 (288) Sp: 1222 (1222) Ep: 235 (235)'
+Stefan tells you 'Str: Mediocre (36), Dex: Low (54), Con: Average (46),
+ Int: Dazzling (260), Wis: Excellent (145), Cha: Good-looking (95), Siz: Short
+ (39)'
+
+
+
+
+WOLFMAN CIVILIZED
+Cyberlahko tells you 'Hp: 869 (869) Sp: 398 (398) Ep: 379 (380)'
+Cyberlahko tells you 'Str: Decent (80), Dex: Impressive (138), Con: Great
+ (137), Int: Nice (85), Wis: Nice (82), Cha: Tolerable (45), Siz: Big (65)'
+
+
+
+
+
+
+HUMAN CIVILIZED
+Maphesto tells you 'Hp: 629 (629) Sp: 601 (601) Ep: 279 (279)'
+Maphesto tells you 'Str: Average (62), Dex: Adequate (80), Con: Average
+ (66), Int: Good (85), Wis: Incredible (148), Cha: Gorgeous (100), Siz: Big
+ (59)'
+Maphesto tells you 'ja oon civilized human!'
+
+ENT EVIL (DEMON)
+Murrough tells you 'Hp: 1322 (1322) Sp: 912 (929) Ep: 487 (486)'
+Murrough tells you 'Str: Incredible (182+), Dex: Divine (68++), Con: Divine
+ (168+++), Int: Good (52++), Wis: Great (169++), Cha: Nice (68), Siz: Colossal
+ (92)'
+Murrough tells you 'örr dempasta 305 hippee =)'
+
+BARSOOMIAN CIVILIZED
+Blayke tells you 'Hp: 626 (626) Sp: 276 (276) Ep: 303 (303)'
+Blayke tells you 'Str: Average (56), Dex: Decent (102), Con: Average (71),
+ Int: Adequate (56), Wis: Nice (49), Cha: Tolerable (49), Siz: Average
+ (50)'
+Blayke tells you 'barso!'
+
+
+ENT EVILRELIG
+Stargazer tells you 'Hp: 675 (846) Sp: 272 (845) Ep: 280 (322)'
+Stargazer tells you 'Str: Adequate (111), Dex: Divine (72), Con: Superb
+ (136), Int: Great (80), Wis: Excellent (209), Cha: Average (64), Siz: Colossal
+ (92)'
+Stargazer tells you 'tiger priest'
+
+
+
+ELF CIVILIZED
+Tan tells you 'Hp: 554 (554) Sp: 615 (615) Ep: 362 (329)'
+Tan tells you 'Str: Average (48), Dex: Impressive (140), Con: Average (57),
+Int: Nice (120), Wis: Nice (135), Cha: Attractive (79), Siz: Average (53)'
+
+
+DWARF GOODRELIG
+Mathieu tells you 'Hp: 411 (716) Sp: 16 (468) Ep: 285 (317)'
+Mathieu tells you 'Str: Average (77), Dex: Adequate (78), Con: Nice (122),
+ Int: Average (51), Wis: Nice (83), Cha: Attractive (84), Siz: Short (43)'

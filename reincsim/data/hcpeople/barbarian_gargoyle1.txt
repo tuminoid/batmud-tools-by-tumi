@@ -1,0 +1,64 @@
+Gargoyle
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 35  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  80 |  81 |     5326 |
+| Push                          |   0 |  81 |        5 |
+| Tinning                       |   0 |  81 |        5 |
+| Alcohol tolerance             |   0 |  70 |        8 |
+| Compare                       |   0 |  70 |        8 |
+| Controlled panic              |   0 |  81 |        8 |
+| First aid                     |  80 |  80 |    (n/a) |
+| Alertness                     |  81 |  81 |    (n/a) |
+| Bash                          |  51 |  81 |     1463 |
+| Battlecry                     |  80 |  81 |    17811 |
+| Swim                          |   0 |  81 |       17 |
+| Plant lore                    |   0 |  50 |       19 |
+| Torch creation                |  50 |  80 |     1726 |
+| Hunting                       |   0 |  81 |       24 |
+| Camping                       |  50 |  50 |    (n/a) |
+| Fire building                 |  40 |  40 |    (n/a) |
+| Fishing                       |   0 |  50 |       27 |
+| Hiking                        |  65 |  65 |    (n/a) |
+| Track                         |   0 |  81 |       27 |
+| Kick                          |  67 |  81 |     9770 |
+| Throw weight                  |  81 |  81 |    (n/a) |
+| Switch weapon                 |   0 |  81 |       34 |
+| Looting and burning           |  80 |  81 |    40604 |
+| Attack                        |  81 |  81 |    (n/a) |
+| Detect trap                   |   0 |  55 |       70 |
+| Brawling                      |   0 |  81 |       84 |
+| Negate offhand penalty        |  71 |  80 |    49537 |
+| Shield bash                   |  35 |  40 |     2225 |
+| Axes                          |   0 |  81 |      130 |
+| Enrage                        |  73 |  81 |    74271 |
+| Bludgeons                     |  70 |  81 |    65754 |
+| Rescue                        |  50 |  50 |    (n/a) |
+| Lure                          |  88 |  81 |    (n/a) |
+| Grapple                       |   0 |  81 |      167 |
+| Cleave                        |   0 |  81 |      170 |
+| Find weakness                 |  59 |  81 |    27576 |
+| Frenzy                        |  54 |  81 |    18590 |
+| Endurance                     |  41 |  81 |     6702 |
+| Pound                         |  80 |  81 |   193150 |
+| Stun                          |  72 |  81 |    96936 |
+| Riposte                       |  37 |  80 |     5329 |
+| Cold tolerance                |   0 |  81 |      230 |
+| Fire walking                  |   0 |  81 |      230 |
+| Toxic immunity                |   0 |  81 |      230 |
+| Pain threshold                |  56 |  81 |    32400 |
+| Combat damage analysis        |  19 |  81 |     1584 |
+| Barbaric ways                 |  61 |  81 |    74500 |
+| Leadership                    |   0 |  40 |      388 |
+| Discipline                    |  49 |  81 |    32947 |
+| Reaving                       |   0 |  81 |      569 |
+| Enhance criticals             |  58 |  81 |    90865 |
+| Pulverize                     |  41 |  81 |    20996 |
+| Parry                         |  65 |  65 |    (n/a) |
+| Tumbling attack               |  43 |  81 |    39059 |
+| Stunned maneuvers             |  40 |  40 |    (n/a) |
+| Combat sense                  |  50 |  50 |    (n/a) |
+| Dodge                         |  80 |  80 |    (n/a) |
+`------------------------------------------------------'

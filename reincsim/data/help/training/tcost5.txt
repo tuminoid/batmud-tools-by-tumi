@@ -1,0 +1,667 @@
+
+<<< Log from mannerheim.cs.hut.fi started maaliskuu 31, 2004, 18:38:18 >>>
+tcost train int from 10 to 11                                                                
+tcost train int from 11 to 12                                                                
+tcost train int from 12 to 13                                                                
+tcost train int from 13 to 14                                                                
+tcost train int from 14 to 15                                                                
+tcost train int from 15 to 16                                                                
+tcost train int from 16 to 17                                                                
+tcost train int from 17 to 18                                                                
+tcost train int from 18 to 19                                                                
+tcost train int from 19 to 20                                                                
+tcost train int from 20 to 21                                                                
+tcost train int from 21 to 22                                                                
+tcost train int from 22 to 23                                                                
+tcost train int from 23 to 24                                                                
+tcost train int from 24 to 25                                                                
+tcost train int from 25 to 26                                                                
+tcost train int from 26 to 27                                                                
+tcost train int from 27 to 28                                                                
+tcost train int from 28 to 29                                                                
+tcost train int from 29 to 30                                                                
+tcost train int from 30 to 31                                                                
+tcost train int from 31 to 32                                                                
+tcost train int from 32 to 33                                                                
+tcost train int from 33 to 34                                                                
+tcost train int from 34 to 35                                                                
+tcost train int from 35 to 36                                                                
+tcost train int from 36 to 37                                                                
+tcost train int from 37 to 38                                                                
+tcost train int from 38 to 39                                                                
+tcost train int from 39 to 40                                                                
+tcost train int from 40 to 41                                                                
+tcost train int from 41 to 42                                                                
+tcost train int from 42 to 43                                                                
+tcost train int from 43 to 44                                                                
+tcost train int from 44 to 45                                                                
+tcost train int from 45 to 46                                                                
+tcost train int from 46 to 47                                                                
+tcost train int from 47 to 48                                                                
+tcost train int from 48 to 49                                                                
+tcost train int from 49 to 50                                                                
+tcost train int from 50 to 51                                                                
+tcost train int from 51 to 52                                                                
+tcost train int from 52 to 53                                                                
+tcost train int from 53 to 54                                                                
+tcost train int from 54 to 55                                                                
+tcost train int from 55 to 56                                                                
+tcost train int from 56 to 57                                                                
+tcost train int from 57 to 58                                                                
+tcost train int from 58 to 59                                                                
+tcost train int from 59 to 60                                                                
+tcost train int from 60 to 61                                                                
+tcost train int from 61 to 62                                                                
+tcost train int from 62 to 63                                                                
+tcost train int from 63 to 64                                                                
+tcost train int from 64 to 65                                                                
+tcost train int from 65 to 66                                                                
+tcost train int from 66 to 67                                                                
+tcost train int from 67 to 68                                                                
+tcost train int from 68 to 69                                                                
+tcost train int from 69 to 70                                                                
+tcost train int from 70 to 71                                                                
+tcost train int from 71 to 72                                                                
+tcost train int from 72 to 73                                                                
+tcost train int from 73 to 74                                                                
+tcost train int from 74 to 75                                                                
+tcost train int from 75 to 76                                                                
+tcost train int from 76 to 77                                                                
+tcost train int from 77 to 78                                                                
+tcost train int from 78 to 79                                                                
+tcost train int from 79 to 80                                                                
+tcost train int from 80 to 81                                                                
+tcost train int from 81 to 82                                                                
+tcost train int from 82 to 83                                                                
+tcost train int from 83 to 84                                                                
+tcost train int from 84 to 85                                                                
+tcost train int from 85 to 86                                                                
+tcost train int from 86 to 87                                                                
+tcost train int from 87 to 88                                                                
+tcost train int from 88 to 89                                                                
+tcost train int from 89 to 90                                                                
+tcost train int from 90 to 91                                                                
+tcost train int from 91 to 92                                                                
+tcost train int from 92 to 93                                                                
+tcost train int from 93 to 94                                                                
+tcost train int from 94 to 95                                                                
+tcost train int from 95 to 96                                                                
+tcost train int from 96 to 97                                                                
+tcost train int from 97 to 98                                                                
+tcost train int from 98 to 99                                                                
+tcost train int from 99 to 100                                                               
+tcost train int from 100 to 101                                                              
+tcost train int from 101 to 102                                                              
+tcost train int from 102 to 103                                                              
+tcost train int from 103 to 104                                                              
+tcost train int from 104 to 105                                                              
+tcost train int from 105 to 106                                                              
+tcost train int from 106 to 107                                                              
+tcost train int from 107 to 108                                                              
+tcost train int from 108 to 109                                                              
+tcost train int from 109 to 110                                                              
+tcost train int from 110 to 111                                                              
+tcost train int from 111 to 112                                                              
+tcost train int from 112 to 113                                                              
+tcost train int from 113 to 114                                                              
+tcost train int from 114 to 115                                                              
+tcost train int from 115 to 116                                                              
+tcost train int from 116 to 117                                                              
+tcost train int from 117 to 118                                                              
+tcost train int from 118 to 119                                                              
+tcost train int from 119 to 120                                                              
+tcost train int from 120 to 121                                                              
+tcost train int from 121 to 122                                                              
+tcost train int from 122 to 123                                                              
+tcost train int from 123 to 124                                                              
+tcost train int from 124 to 125                                                              
+tcost train int from 125 to 126                                                              
+tcost train int from 126 to 127                                                              
+tcost train int from 127 to 128                                                              
+tcost train int from 128 to 129                                                              
+tcost train int from 129 to 130                                                              
+tcost train int from 130 to 131                                                              
+tcost train int from 131 to 132                                                              
+tcost train int from 132 to 133                                                              
+tcost train int from 133 to 134                                                              
+tcost train int from 134 to 135                                                              
+tcost train int from 135 to 136                                                              
+tcost train int from 136 to 137                                                              
+tcost train int from 137 to 138                                                              
+tcost train int from 138 to 139                                                              
+tcost train int from 139 to 140                                                              
+tcost train int from 140 to 141                                                              
+tcost train int from 141 to 142                                                              
+tcost train int from 142 to 143                                                              
+tcost train int from 143 to 144                                                              
+tcost train int from 144 to 145                                                              
+tcost train int from 145 to 146                                                              
+tcost train int from 146 to 147                                                              
+tcost train int from 147 to 148                                                              
+tcost train int from 148 to 149                                                              
+tcost train int from 149 to 150                                                              
+tcost train int from 150 to 151                                                              
+tcost train int from 151 to 152                                                              
+tcost train int from 152 to 153                                                              
+tcost train int from 153 to 154                                                              
+tcost train int from 154 to 155                                                              
+tcost train int from 155 to 156                                                              
+tcost train int from 156 to 157                                                              
+tcost train int from 157 to 158                                                              
+tcost train int from 158 to 159                                                              
+tcost train int from 159 to 160                                                              
+tcost train int from 160 to 161                                                              
+tcost train int from 161 to 162                                                              
+tcost train int from 162 to 163                                                              
+tcost train int from 163 to 164                                                              
+tcost train int from 164 to 165                                                              
+tcost train int from 165 to 166                                                              
+tcost train int from 166 to 167                                                              
+tcost train int from 167 to 168                                                              
+tcost train int from 168 to 169                                                              
+tcost train int from 169 to 170                                                              
+tcost train int from 170 to 171                                                              
+tcost train int from 171 to 172                                                              
+tcost train int from 172 to 173                                                              
+tcost train int from 173 to 174                                                              
+tcost train int from 174 to 175                                                              
+tcost train int from 175 to 176                                                              
+Training int from 10 to 11 would cost 2 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 11 to 12 would cost 2 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 12 to 13 would cost 2 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 13 to 14 would cost 2 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 14 to 15 would cost 2 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 15 to 16 would cost 2 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 16 to 17 would cost 2 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 17 to 18 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 18 to 19 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 19 to 20 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 20 to 21 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 21 to 22 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 22 to 23 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 23 to 24 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 24 to 25 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 25 to 26 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 26 to 27 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 27 to 28 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 28 to 29 would cost 3 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 29 to 30 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 30 to 31 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 31 to 32 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 32 to 33 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 33 to 34 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 34 to 35 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 35 to 36 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 36 to 37 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 37 to 38 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 38 to 39 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 39 to 40 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 40 to 41 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 41 to 42 would cost 4 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 42 to 43 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 43 to 44 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 44 to 45 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 45 to 46 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 46 to 47 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 47 to 48 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 48 to 49 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 49 to 50 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 50 to 51 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 51 to 52 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 52 to 53 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 53 to 54 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 54 to 55 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 55 to 56 would cost 5 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 56 to 57 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 57 to 58 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 58 to 59 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 59 to 60 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 60 to 61 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 61 to 62 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 62 to 63 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 63 to 64 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 64 to 65 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 65 to 66 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 66 to 67 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 67 to 68 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 68 to 69 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 69 to 70 would cost 6 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 70 to 71 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 71 to 72 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 72 to 73 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 73 to 74 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 74 to 75 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 75 to 76 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 76 to 77 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 77 to 78 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 78 to 79 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 79 to 80 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 80 to 81 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 81 to 82 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 82 to 83 would cost 7 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 83 to 84 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 84 to 85 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 85 to 86 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 86 to 87 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 87 to 88 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 88 to 89 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 89 to 90 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 90 to 91 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 91 to 92 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 92 to 93 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 93 to 94 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 94 to 95 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 95 to 96 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 96 to 97 would cost 8 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 97 to 98 would cost 9 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 98 to 99 would cost 9 training points.                                     
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 99 to 100 would cost 9 training points.                                    
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 100 to 101 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 101 to 102 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 102 to 103 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 103 to 104 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 104 to 105 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 105 to 106 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 106 to 107 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 107 to 108 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 108 to 109 would cost 9 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 109 to 110 would cost 11 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 110 to 111 would cost 13 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 111 to 112 would cost 13 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 112 to 113 would cost 14 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 113 to 114 would cost 14 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 114 to 115 would cost 15 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 115 to 116 would cost 16 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 116 to 117 would cost 17 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 117 to 118 would cost 18 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 118 to 119 would cost 19 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 119 to 120 would cost 21 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 120 to 121 would cost 22 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 121 to 122 would cost 24 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 122 to 123 would cost 27 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 123 to 124 would cost 29 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 124 to 125 would cost 33 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 125 to 126 would cost 36 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 126 to 127 would cost 40 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 127 to 128 would cost 45 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 128 to 129 would cost 50 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 129 to 130 would cost 55 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 130 to 131 would cost 62 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 131 to 132 would cost 70 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 132 to 133 would cost 79 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 133 to 134 would cost 89 training points.                                  
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 134 to 135 would cost 100 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 135 to 136 would cost 114 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 136 to 137 would cost 129 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 137 to 138 would cost 148 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 138 to 139 would cost 168 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 139 to 140 would cost 191 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 140 to 141 would cost 218 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 141 to 142 would cost 249 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 142 to 143 would cost 284 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 143 to 144 would cost 324 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 144 to 145 would cost 371 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 145 to 146 would cost 424 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 146 to 147 would cost 486 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 147 to 148 would cost 556 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 148 to 149 would cost 637 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 149 to 150 would cost 731 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 150 to 151 would cost 838 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 151 to 152 would cost 961 training points.                                 
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 152 to 153 would cost 1102 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 153 to 154 would cost 1264 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 154 to 155 would cost 1450 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 155 to 156 would cost 1664 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 156 to 157 would cost 1909 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 157 to 158 would cost 2191 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 158 to 159 would cost 2515 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 159 to 160 would cost 2888 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 160 to 161 would cost 3315 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 161 to 162 would cost 3806 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 162 to 163 would cost 4371 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 163 to 164 would cost 5019 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 164 to 165 would cost 5764 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 165 to 166 would cost 6619 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 166 to 167 would cost 7601 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 167 to 168 would cost 8729 training points.                                
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 168 to 169 would cost 10025 training points.                               
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 169 to 170 would cost 11514 training points.                               
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 170 to 170 would cost 0 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 171 to 170 would cost 0 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 172 to 170 would cost 0 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 173 to 170 would cost 0 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 174 to 170 would cost 0 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+Training int from 175 to 170 would cost 0 training points.                                   
+-=[ Hp:387/387 Sp:1271/1271 Ep:247/247 Exp:56822 Cash:50 ]=-                                 
+Kg: 0 Al: Aveallis's gift to mankind >                                                       
+<<< Log from mannerheim.cs.hut.fi ended maaliskuu 31, 2004, 18:38:29 >>>

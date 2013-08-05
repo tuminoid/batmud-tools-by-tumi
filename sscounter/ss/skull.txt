@@ -1,0 +1,13 @@
+name: Acolytes of the Skull
+gms: Daran, Poe, Mega, Locray, Marv and Damogles
+maxlvl: 10
+1: spellmax,wis,str
+2: spellmax,wis,str
+3: spellmax,wis,str
+4: spellmax,wis,str
+5: wis,spellmax,str
+6: wis,spellmax
+7: wis,spellmax
+8: wis,spellmax
+9: spellmax,wis
+10: spellmax

@@ -1,0 +1,1290 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]150 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                      [fonter.php?str=Barbarian+Guild]
+
+                              Barbarian Guild
+
+   Command: barbarian
+   Creators: [22]Runeaxe, [23]Digga, [24]Quadra
+   Maximum level: 35
+   Description:
+   The mighty barbarian guild is a loosely run group of battle hardened
+   warriors.
+   Through intense training in the wilds, members become both mentally
+   and
+   physically tough. These ferocious warriors excel at many combat
+   skills.
+
+                                 New Member
+       Background must be nomad
+       In the name of Groo wear the shrunken skull necklace with pride.
+       May train skill [25]Attack to 30%
+       May train skill [26]Push to 40%
+       May train skill [27]Alcohol tolerance to 3%
+       May train skill [28]Consider to 10%
+       May train skill [29]Hunting to 20%
+       May train skill [30]Fishing to 20%
+       May train skill [31]Torch creation to 15%
+       May train skill [32]Looting and burning to 30%
+       May train skill [33]Axes to 10%
+
+                                  Level 2
+                May train skill [34]Attack to 47%
+                May train skill [35]Push to 100%
+                May train skill [36]Bash to 10%
+                May train skill [37]Kick to 20%
+                May train skill [38]Alcohol tolerance to 5%
+                May train skill [39]Consider to 25%
+                May train skill [40]Camping to 10%
+                May train skill [41]Hunting to 31%
+                May train skill [42]Fishing to 26%
+                May train skill [43]Torch creation to 31%
+                May train skill [44]Looting and burning to 65%
+                May train skill [45]Bludgeons to 10%
+                May train skill [46]Axes to 13%
+
+                                 Level 3
+               May train skill [47]Attack to 65%
+               May train skill [48]Bash to 55%
+               May train skill [49]Kick to 46%
+               May train skill [50]Battlecry to 20%
+               May train skill [51]Alcohol tolerance to 7%
+               May train skill [52]Consider to 40%
+               May train skill [53]Camping to 15%
+               May train skill [54]Hunting to 42%
+               May train skill [55]Fishing to 32%
+               May train skill [56]Fire building to 10%
+               May train skill [57]Torch creation to 47%
+               May train skill [58]Tinning to 30%
+               May train skill [59]Looting and burning to 100%
+               May train skill [60]Bludgeons to 16%
+               May train skill [61]Axes to 16%
+
+                                 Level 4
+                 May train skill [62]Attack to 82%
+                 May train skill [63]Bash to 100%
+                 May train skill [64]Kick to 73%
+                 May train skill [65]Alertness to 20%
+                 May train skill [66]Controlled panic to 20%
+                 May train skill [67]Battlecry to 26%
+                 May train skill [68]Alcohol tolerance to 9%
+                 May train skill [69]Consider to 55%
+                 May train skill [70]Camping to 20%
+                 May train skill [71]Hunting to 54%
+                 May train skill [72]Fishing to 38%
+                 May train skill [73]Fire building to 16%
+                 May train skill [74]Compare to 30%
+                 May train skill [75]Torch creation to 63%
+                 May train skill [76]First aid to 20%
+                 May train skill [77]Tinning to 53%
+                 May train skill [78]Bludgeons to 22%
+                 May train skill [79]Axes to 19%
+
+                                  Level 5
+                 May train skill [80]Attack to 100%
+                 May train skill [81]Kick to 100%
+                 May train skill [82]Alertness to 36%
+                 May train skill [83]Controlled panic to 36%
+                 May train skill [84]Brawling to 20%
+                 May train skill [85]Battlecry to 32%
+                 May train skill [86]Throw weight to 20%
+                 May train skill [87]Alcohol tolerance to 11%
+                 May train skill [88]Consider to 70%
+                 May train skill [89]Camping to 25%
+                 May train skill [90]Hunting to 65%
+                 May train skill [91]Fishing to 44%
+                 May train skill [92]Fire building to 22%
+                 May train skill [93]Compare to 43%
+                 May train skill [94]Torch creation to 80%
+                 May train skill [95]Switch weapon to 20%
+                 May train skill [96]First aid to 35%
+                 May train skill [97]Tinning to 76%
+                 May train skill [98]Swim to 30%
+                 May train skill [99]Bludgeons to 29%
+                 May train skill [100]Axes to 22%
+
+                                 Level 6
+                May train skill [101]Alertness to 52%
+                May train skill [102]Controlled panic to 52%
+                May train skill [103]Brawling to 33%
+                May train skill [104]Battlecry to 38%
+                May train skill [105]Throw weight to 28%
+                May train skill [106]Alcohol tolerance to 13%
+                May train skill [107]Consider to 85%
+                May train skill [108]Camping to 30%
+                May train skill [109]Hunting to 77%
+                May train skill [110]Fishing to 50%
+                May train skill [111]Fire building to 28%
+                May train skill [112]Compare to 56%
+                May train skill [113]Switch weapon to 36%
+                May train skill [114]First aid to 50%
+                May train skill [115]Tinning to 100%
+                May train skill [116]Swim to 44%
+                May train skill [117]Bludgeons to 35%
+                May train skill [118]Axes to 25%
+                May train skill [119]Cleave to 20%
+
+                                  Level 7
+              May train skill [120]Alertness to 68%
+              May train skill [121]Controlled panic to 68%
+              May train skill [122]Brawling to 46%
+              May train skill [123]Battlecry to 44%
+              May train skill [124]Throw weight to 36%
+              May train skill [125]Negate offhand penalty to 15%
+              May train skill [126]Alcohol tolerance to 15%
+              May train skill [127]Consider to 100%
+              May train skill [128]Camping to 35%
+              May train skill [129]Hunting to 88%
+              May train skill [130]Fire building to 34%
+              May train skill [131]Compare to 70%
+              May train skill [132]Switch weapon to 52%
+              May train skill [133]First aid to 65%
+              May train skill [134]Plant lore to 5%
+              May train skill [135]Swim to 58%
+              May train skill [136]Bludgeons to 42%
+              May train skill [137]Axes to 28%
+              May train skill [138]Cleave to 24%
+
+                                  Level 8
+              May train skill [139]Alertness to 84%
+              May train skill [140]Controlled panic to 84%
+              May train skill [141]Brawling to 59%
+              May train skill [142]Battlecry to 50%
+              May train skill [143]Throw weight to 44%
+              May train skill [144]Negate offhand penalty to 21%
+              May train skill [145]Alcohol tolerance to 17%
+              May train skill [146]Camping to 40%
+              May train skill [147]Hunting to 100%
+              May train skill [148]Fire building to 40%
+              May train skill [149]Switch weapon to 68%
+              May train skill [150]First aid to 80%
+              May train skill [151]Plant lore to 11%
+              May train skill [152]Swim to 72%
+              May train skill [153]Bludgeons to 48%
+              May train skill [154]Pound to 20%
+              May train skill [155]Axes to 31%
+              May train skill [156]Cleave to 28%
+
+                                  Level 9
+              May train skill [157]Alertness to 100%
+              May train skill [158]Controlled panic to 100%
+              May train skill [159]Brawling to 73%
+              May train skill [160]Battlecry to 56%
+              May train skill [161]Throw weight to 52%
+              May train skill [162]Negate offhand penalty to 28%
+              May train skill [163]Alcohol tolerance to 19%
+              May train skill [164]Camping to 45%
+              May train skill [165]Switch weapon to 84%
+              May train skill [166]Plant lore to 17%
+              May train skill [167]Swim to 86%
+              May train skill [168]Bludgeons to 54%
+              May train skill [169]Pound to 27%
+              May train skill [170]Axes to 35%
+              May train skill [171]Cleave to 32%
+
+                                 Level 10
+              May train skill [172]Brawling to 86%
+              May train skill [173]Battlecry to 63%
+              May train skill [174]Throw weight to 60%
+              May train skill [175]Negate offhand penalty to 34%
+              May train skill [176]Stun to 5%
+              May train skill [177]Alcohol tolerance to 21%
+              May train skill [178]Camping to 50%
+              May train skill [179]Switch weapon to 100%
+              May train skill [180]Plant lore to 24%
+              May train skill [181]Swim to 100%
+              May train skill [182]Bludgeons to 61%
+              May train skill [183]Pound to 34%
+              May train skill [184]Axes to 38%
+              May train skill [185]Cleave to 36%
+
+                                 Level 11
+              May train skill [186]Brawling to 100%
+              May train skill [187]Battlecry to 69%
+              May train skill [188]Throw weight to 68%
+              May train skill [189]Negate offhand penalty to 41%
+              May train skill [190]Stun to 11%
+              May train skill [191]Alcohol tolerance to 23%
+              May train skill [192]Plant lore to 30%
+              May train skill [193]Bludgeons to 67%
+              May train skill [194]Pound to 41%
+              May train skill [195]Axes to 41%
+              May train skill [196]Cleave to 41%
+
+                                 Level 12
+              May train skill [197]Battlecry to 75%
+              May train skill [198]Throw weight to 76%
+              May train skill [199]Negate offhand penalty to 47%
+              May train skill [200]Stun to 17%
+              May train skill [201]Alcohol tolerance to 26%
+              May train skill [202]Plant lore to 37%
+              May train skill [203]Bludgeons to 74%
+              May train skill [204]Pound to 49%
+              May train skill [205]Axes to 44%
+              May train skill [206]Cleave to 45%
+
+                                 Level 13
+              May train skill [207]Battlecry to 81%
+              May train skill [208]Throw weight to 84%
+              May train skill [209]Negate offhand penalty to 54%
+              May train skill [210]Stun to 23%
+              May train skill [211]Alcohol tolerance to 28%
+              May train skill [212]Plant lore to 43%
+              May train skill [213]Enrage to 15%
+              May train skill [214]Bludgeons to 80%
+              May train skill [215]Pound to 56%
+              May train skill [216]Axes to 47%
+              May train skill [217]Cleave to 49%
+
+                                 Level 14
+              May train skill [218]Battlecry to 87%
+              May train skill [219]Throw weight to 92%
+              May train skill [220]Negate offhand penalty to 60%
+              May train skill [221]Stun to 30%
+              May train skill [222]Alcohol tolerance to 30%
+              May train skill [223]Plant lore to 50%
+              May train skill [224]Hiking to 5%
+              May train skill [225]Enrage to 24%
+              May train skill [226]Bludgeons to 87%
+              May train skill [227]Pound to 63%
+              May train skill [228]Axes to 50%
+              May train skill [229]Cleave to 53%
+
+                                 Level 15
+              May train skill [230]Battlecry to 93%
+              May train skill [231]Throw weight to 100%
+              May train skill [232]Negate offhand penalty to 67%
+              May train skill [233]Discipline to 10%
+              May train skill [234]Stun to 36%
+              May train skill [235]Find weakness to 5%
+              May train skill [236]Combat damage analysis to 10%
+              May train skill [237]Alcohol tolerance to 32%
+              May train skill [238]Hiking to 11%
+              May train skill [239]Grapple to 30%
+              May train skill [240]Enrage to 33%
+              May train skill [241]Cold tolerance to 30%
+              May train skill [242]Fire walking to 30%
+              May train skill [243]Bludgeons to 93%
+              May train skill [244]Pound to 70%
+              May train skill [245]Axes to 53%
+              May train skill [246]Cleave to 57%
+
+                                 Level 16
+              May train skill [247]Battlecry to 100%
+              May train skill [248]Negate offhand penalty to 73%
+              May train skill [249]Discipline to 18%
+              May train skill [250]Tumbling attack to 10%
+              May train skill [251]Stun to 42%
+              May train skill [252]Find weakness to 11%
+              May train skill [253]Dodge to 5%
+              May train skill [254]Combat damage analysis to 15%
+              May train skill [255]Alcohol tolerance to 34%
+              May train skill [256]Hiking to 17%
+              May train skill [257]Grapple to 37%
+              May train skill [258]Enrage to 43%
+              May train skill [259]Cold tolerance to 37%
+              May train skill [260]Fire walking to 37%
+              May train skill [261]Bludgeons to 100%
+              May train skill [262]Pound to 78%
+              May train skill [263]Pulverize to 15%
+              May train skill [264]Axes to 56%
+              May train skill [265]Cleave to 62%
+
+                                 Level 17
+              May train skill [266]Negate offhand penalty to 80%
+              May train skill [267]Discipline to 26%
+              May train skill [268]Tumbling attack to 17%
+              May train skill [269]Shield bash to 20%
+              May train skill [270]Stun to 49%
+              May train skill [271]Find weakness to 17%
+              May train skill [272]Dodge to 9%
+              May train skill [273]Combat damage analysis to 20%
+              May train skill [274]Alcohol tolerance to 36%
+              May train skill [275]Hiking to 23%
+              May train skill [276]Grapple to 44%
+              May train skill [277]Enrage to 52%
+              May train skill [278]Cold tolerance to 44%
+              May train skill [279]Fire walking to 44%
+              May train skill [280]Pain threshold to 20%
+              May train skill [281]Pound to 85%
+              May train skill [282]Pulverize to 25%
+              May train skill [283]Axes to 60%
+              May train skill [284]Cleave to 66%
+
+                                 Level 18
+              May train skill [285]Discipline to 34%
+              May train skill [286]Tumbling attack to 24%
+              May train skill [287]Shield bash to 30%
+              May train skill [288]Stun to 55%
+              May train skill [289]Find weakness to 23%
+              May train skill [290]Dodge to 13%
+              May train skill [291]Parry to 10%
+              May train skill [292]Combat damage analysis to 25%
+              May train skill [293]Alcohol tolerance to 38%
+              May train skill [294]Hiking to 29%
+              May train skill [295]Grapple to 51%
+              May train skill [296]Rescue to 30%
+              May train skill [297]Enrage to 62%
+              May train skill [298]Cold tolerance to 51%
+              May train skill [299]Fire walking to 51%
+              May train skill [300]Pain threshold to 28%
+              May train skill [301]Toxic immunity to 20%
+              May train skill [302]Pound to 92%
+              May train skill [303]Pulverize to 36%
+              May train skill [304]Axes to 63%
+              May train skill [305]Cleave to 70%
+
+                                 Level 19
+              May train skill [306]Discipline to 42%
+              May train skill [307]Tumbling attack to 31%
+              May train skill [308]Shield bash to 40%
+              May train skill [309]Stun to 61%
+              May train skill [310]Find weakness to 30%
+              May train skill [311]Dodge to 17%
+              May train skill [312]Parry to 14%
+              May train skill [313]Combat damage analysis to 31%
+              May train skill [314]Alcohol tolerance to 40%
+              May train skill [315]Hiking to 35%
+              May train skill [316]Grapple to 58%
+              May train skill [317]Rescue to 32%
+              May train skill [318]Enrage to 71%
+              May train skill [319]Cold tolerance to 58%
+              May train skill [320]Fire walking to 58%
+              May train skill [321]Pain threshold to 36%
+              May train skill [322]Toxic immunity to 26%
+              May train skill [323]Pound to 100%
+              May train skill [324]Pulverize to 46%
+              May train skill [325]Axes to 66%
+              May train skill [326]Cleave to 74%
+
+                                 Level 20
+              May train skill [327]Discipline to 50%
+              May train skill [328]Tumbling attack to 39%
+              May train skill [329]Stun to 68%
+              May train skill [330]Find weakness to 36%
+              May train skill [331]Dodge to 21%
+              May train skill [332]Parry to 19%
+              May train skill [333]Combat damage analysis to 36%
+              May train skill [334]Alcohol tolerance to 42%
+              May train skill [335]Hiking to 41%
+              May train skill [336]Grapple to 65%
+              May train skill [337]Rescue to 35%
+              May train skill [338]Leadership to 10%
+              May train skill [339]Enrage to 81%
+              May train skill [340]Cold tolerance to 65%
+              May train skill [341]Fire walking to 65%
+              May train skill [342]Pain threshold to 44%
+              May train skill [343]Toxic immunity to 33%
+              May train skill [344]Lure to 20%
+              May train skill [345]Pulverize to 57%
+              May train skill [346]Axes to 69%
+              May train skill [347]Cleave to 78%
+              May train skill [348]Reaving to 10%
+
+                                 Level 21
+              May train skill [349]Discipline to 59%
+              May train skill [350]Tumbling attack to 46%
+              May train skill [351]Stun to 74%
+              May train skill [352]Find weakness to 42%
+              May train skill [353]Dodge to 25%
+              May train skill [354]Parry to 23%
+              May train skill [355]Combat damage analysis to 41%
+              May train skill [356]Alcohol tolerance to 44%
+              May train skill [357]Hiking to 47%
+              May train skill [358]Grapple to 72%
+              May train skill [359]Rescue to 38%
+              May train skill [360]Leadership to 13%
+              May train skill [361]Enrage to 90%
+              May train skill [362]Cold tolerance to 72%
+              May train skill [363]Fire walking to 72%
+              May train skill [364]Pain threshold to 52%
+              May train skill [365]Toxic immunity to 39%
+              May train skill [366]Lure to 28%
+              May train skill [367]Pulverize to 68%
+              May train skill [368]Axes to 72%
+              May train skill [369]Cleave to 83%
+              May train skill [370]Reaving to 28%
+
+                                 Level 22
+              May train skill [371]Discipline to 67%
+              May train skill [372]Tumbling attack to 53%
+              May train skill [373]Stun to 80%
+              May train skill [374]Find weakness to 49%
+              May train skill [375]Dodge to 29%
+              May train skill [376]Parry to 28%
+              May train skill [377]Combat damage analysis to 47%
+              May train skill [378]Alcohol tolerance to 46%
+              May train skill [379]Hiking to 53%
+              May train skill [380]Grapple to 79%
+              May train skill [381]Rescue to 41%
+              May train skill [382]Leadership to 16%
+              May train skill [383]Endurance to 20%
+              May train skill [384]Enrage to 100%
+              May train skill [385]Cold tolerance to 79%
+              May train skill [386]Fire walking to 79%
+              May train skill [387]Pain threshold to 60%
+              May train skill [388]Toxic immunity to 46%
+              May train skill [389]Lure to 36%
+              May train skill [390]Pulverize to 78%
+              May train skill [391]Axes to 75%
+              May train skill [392]Cleave to 87%
+              May train skill [393]Reaving to 46%
+
+                                 Level 23
+              May train skill [394]Discipline to 75%
+              May train skill [395]Tumbling attack to 60%
+              May train skill [396]Stun to 87%
+              May train skill [397]Find weakness to 55%
+              May train skill [398]Enhance criticals to 5%
+              May train skill [399]Dodge to 34%
+              May train skill [400]Parry to 32%
+              May train skill [401]Combat damage analysis to 52%
+              May train skill [402]Alcohol tolerance to 49%
+              May train skill [403]Hiking to 59%
+              May train skill [404]Grapple to 86%
+              May train skill [405]Rescue to 44%
+              May train skill [406]Leadership to 19%
+              May train skill [407]Endurance to 30%
+              May train skill [408]Cold tolerance to 86%
+              May train skill [409]Fire walking to 86%
+              May train skill [410]Pain threshold to 68%
+              May train skill [411]Toxic immunity to 53%
+              May train skill [412]Lure to 44%
+              May train skill [413]Pulverize to 89%
+              May train skill [414]Axes to 78%
+              May train skill [415]Cleave to 91%
+              May train skill [416]Reaving to 64%
+
+                                 Level 24
+              May train skill [417]Discipline to 83%
+              May train skill [418]Tumbling attack to 68%
+              May train skill [419]Stun to 93%
+              May train skill [420]Find weakness to 61%
+              May train skill [421]Enhance criticals to 15%
+              May train skill [422]Dodge to 38%
+              May train skill [423]Parry to 37%
+              May train skill [424]Riposte to 5%
+              May train skill [425]Stunned maneuvers to 10%
+              May train skill [426]Combat damage analysis to 57%
+              May train skill [427]Alcohol tolerance to 51%
+              May train skill [428]Hiking to 65%
+              May train skill [429]Grapple to 93%
+              May train skill [430]Rescue to 47%
+              May train skill [431]Leadership to 22%
+              May train skill [432]Endurance to 40%
+              May train skill [433]Cold tolerance to 93%
+              May train skill [434]Fire walking to 93%
+              May train skill [435]Pain threshold to 76%
+              May train skill [436]Toxic immunity to 59%
+              May train skill [437]Lure to 52%
+              May train skill [438]Pulverize to 100%
+              May train skill [439]Axes to 81%
+              May train skill [440]Cleave to 95%
+              May train skill [441]Reaving to 82%
+
+                                 Level 25
+              May train skill [442]Discipline to 91%
+              May train skill [443]Tumbling attack to 75%
+              May train skill [444]Stun to 100%
+              May train skill [445]Find weakness to 68%
+              May train skill [446]Enhance criticals to 26%
+              May train skill [447]Dodge to 42%
+              May train skill [448]Parry to 42%
+              May train skill [449]Riposte to 12%
+              May train skill [450]Stunned maneuvers to 13%
+              May train skill [451]Combat damage analysis to 62%
+              May train skill [452]Alcohol tolerance to 53%
+              May train skill [453]Grapple to 100%
+              May train skill [454]Rescue to 50%
+              May train skill [455]Leadership to 25%
+              May train skill [456]Endurance to 50%
+              May train skill [457]Detect trap to 20%
+              May train skill [458]Cold tolerance to 100%
+              May train skill [459]Fire walking to 100%
+              May train skill [460]Pain threshold to 84%
+              May train skill [461]Toxic immunity to 66%
+              May train skill [462]Lure to 60%
+              May train skill [463]Axes to 85%
+              May train skill [464]Cleave to 100%
+              May train skill [465]Reaving to 100%
+
+                                 Level 26
+              May train skill [466]Discipline to 100%
+              May train skill [467]Tumbling attack to 82%
+              May train skill [468]Find weakness to 74%
+              May train skill [469]Enhance criticals to 36%
+              May train skill [470]Dodge to 46%
+              May train skill [471]Parry to 46%
+              May train skill [472]Riposte to 20%
+              May train skill [473]Stunned maneuvers to 16%
+              May train skill [474]Combat sense to 10%
+              May train skill [475]Combat damage analysis to 68%
+              May train skill [476]Alcohol tolerance to 55%
+              May train skill [477]Leadership to 28%
+              May train skill [478]Endurance to 60%
+              May train skill [479]Detect trap to 23%
+              May train skill [480]Pain threshold to 92%
+              May train skill [481]Toxic immunity to 73%
+              May train skill [482]Lure to 68%
+
+                                 Level 27
+              May train skill [483]Tumbling attack to 90%
+              May train skill [484]Find weakness to 80%
+              May train skill [485]Enhance criticals to 47%
+              May train skill [486]Dodge to 50%
+              May train skill [487]Parry to 51%
+              May train skill [488]Riposte to 27%
+              May train skill [489]Stunned maneuvers to 19%
+              May train skill [490]Combat sense to 15%
+              May train skill [491]Combat damage analysis to 73%
+              May train skill [492]Alcohol tolerance to 57%
+              May train skill [493]Leadership to 31%
+              May train skill [494]Endurance to 70%
+              May train skill [495]Detect trap to 27%
+              May train skill [496]Pain threshold to 100%
+              May train skill [497]Toxic immunity to 79%
+              May train skill [498]Lure to 76%
+
+                                 Level 28
+              May train skill [499]Find weakness to 87%
+              May train skill [500]Enhance criticals to 57%
+              May train skill [501]Dodge to 54%
+              May train skill [502]Parry to 55%
+              May train skill [503]Riposte to 35%
+              May train skill [504]Stunned maneuvers to 22%
+              May train skill [505]Combat sense to 21%
+              May train skill [506]Combat damage analysis to 78%
+              May train skill [507]Alcohol tolerance to 59%
+              May train skill [508]Leadership to 34%
+              May train skill [509]Endurance to 80%
+              May train skill [510]Detect trap to 30%
+              May train skill [511]Toxic immunity to 86%
+              May train skill [512]Lure to 84%
+
+                                 Level 29
+              May train skill [513]Find weakness to 93%
+              May train skill [514]Enhance criticals to 68%
+              May train skill [515]Dodge to 59%
+              May train skill [516]Parry to 60%
+              May train skill [517]Riposte to 42%
+              May train skill [518]Stunned maneuvers to 25%
+              May train skill [519]Combat sense to 27%
+              May train skill [520]Combat damage analysis to 84%
+              May train skill [521]Alcohol tolerance to 61%
+              May train skill [522]Leadership to 37%
+              May train skill [523]Endurance to 90%
+              May train skill [524]Detect trap to 34%
+              May train skill [525]Track to 20%
+              May train skill [526]Toxic immunity to 93%
+              May train skill [527]Lure to 92%
+
+                                 Level 30
+              May train skill [528]Find weakness to 100%
+              May train skill [529]Enhance criticals to 78%
+              May train skill [530]Dodge to 63%
+              May train skill [531]Parry to 65%
+              May train skill [532]Riposte to 50%
+              May train skill [533]Stunned maneuvers to 28%
+              May train skill [534]Combat sense to 32%
+              May train skill [535]Combat damage analysis to 89%
+              May train skill [536]Alcohol tolerance to 63%
+              May train skill [537]Leadership to 40%
+              May train skill [538]Endurance to 100%
+              May train skill [539]Detect trap to 37%
+              May train skill [540]Track to 36%
+              May train skill [541]Toxic immunity to 100%
+              May train skill [542]Lure to 100%
+              May train skill [543]Barbaric ways to 5%
+
+                                 Level 31
+              May train skill [544]Enhance criticals to 89%
+              May train skill [545]Dodge to 67%
+              May train skill [546]Riposte to 57%
+              May train skill [547]Stunned maneuvers to 31%
+              May train skill [548]Combat sense to 38%
+              May train skill [549]Combat damage analysis to 94%
+              May train skill [550]Alcohol tolerance to 65%
+              May train skill [551]Detect trap to 41%
+              May train skill [552]Track to 52%
+              May train skill [553]Barbaric ways to 24%
+
+                                 Level 32
+             May train skill [554]Enhance criticals to 100%
+             May train skill [555]Dodge to 71%
+             May train skill [556]Riposte to 65%
+             May train skill [557]Stunned maneuvers to 34%
+             May train skill [558]Combat sense to 44%
+             May train skill [559]Combat damage analysis to 100%
+             May train skill [560]Alcohol tolerance to 67%
+             May train skill [561]Detect trap to 44%
+             May train skill [562]Track to 68%
+             May train skill [563]Frenzy to 5%
+             May train skill [564]Barbaric ways to 43%
+
+                                 Level 33
+                May train skill [565]Dodge to 75%
+                May train skill [566]Riposte to 72%
+                May train skill [567]Stunned maneuvers to 37%
+                May train skill [568]Combat sense to 50%
+                May train skill [569]Alcohol tolerance to 70%
+                May train skill [570]Detect trap to 48%
+                May train skill [571]Track to 84%
+                May train skill [572]Frenzy to 36%
+                May train skill [573]Barbaric ways to 62%
+
+                                 Level 34
+                May train skill [574]Dodge to 80%
+                May train skill [575]Riposte to 80%
+                May train skill [576]Stunned maneuvers to 40%
+                May train skill [577]Detect trap to 51%
+                May train skill [578]Track to 100%
+                May train skill [579]Frenzy to 68%
+                May train skill [580]Barbaric ways to 81%
+
+                                 Level 35
+                  May train skill [581]Detect trap to 55%
+                  May train skill [582]Frenzy to 100%
+                  May train skill [583]Barbaric ways to 100%
+
+                   Allows joining to the following guild:
+                     Barbarian Guild
+
+   [584]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [585]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=Barbarian%20Guild&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=Barbarian%20Guild&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=Barbarian%20Guild&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=runeaxe
+  23. http://www.bat.org/help/finger.php?str=digga
+  24. http://www.bat.org/help/finger.php?str=quadra
+  25. http://www.bat.org/help/skills.php?str=attack
+  26. http://www.bat.org/help/skills.php?str=push
+  27. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  28. http://www.bat.org/help/skills.php?str=consider
+  29. http://www.bat.org/help/skills.php?str=hunting
+  30. http://www.bat.org/help/skills.php?str=fishing
+  31. http://www.bat.org/help/skills.php?str=torch_creation
+  32. http://www.bat.org/help/skills.php?str=looting_and_burning
+  33. http://www.bat.org/help/skills.php?str=axes
+  34. http://www.bat.org/help/skills.php?str=attack
+  35. http://www.bat.org/help/skills.php?str=push
+  36. http://www.bat.org/help/skills.php?str=bash
+  37. http://www.bat.org/help/skills.php?str=kick
+  38. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  39. http://www.bat.org/help/skills.php?str=consider
+  40. http://www.bat.org/help/skills.php?str=camping
+  41. http://www.bat.org/help/skills.php?str=hunting
+  42. http://www.bat.org/help/skills.php?str=fishing
+  43. http://www.bat.org/help/skills.php?str=torch_creation
+  44. http://www.bat.org/help/skills.php?str=looting_and_burning
+  45. http://www.bat.org/help/skills.php?str=bludgeons
+  46. http://www.bat.org/help/skills.php?str=axes
+  47. http://www.bat.org/help/skills.php?str=attack
+  48. http://www.bat.org/help/skills.php?str=bash
+  49. http://www.bat.org/help/skills.php?str=kick
+  50. http://www.bat.org/help/skills.php?str=battlecry
+  51. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  52. http://www.bat.org/help/skills.php?str=consider
+  53. http://www.bat.org/help/skills.php?str=camping
+  54. http://www.bat.org/help/skills.php?str=hunting
+  55. http://www.bat.org/help/skills.php?str=fishing
+  56. http://www.bat.org/help/skills.php?str=fire_building
+  57. http://www.bat.org/help/skills.php?str=torch_creation
+  58. http://www.bat.org/help/skills.php?str=tinning
+  59. http://www.bat.org/help/skills.php?str=looting_and_burning
+  60. http://www.bat.org/help/skills.php?str=bludgeons
+  61. http://www.bat.org/help/skills.php?str=axes
+  62. http://www.bat.org/help/skills.php?str=attack
+  63. http://www.bat.org/help/skills.php?str=bash
+  64. http://www.bat.org/help/skills.php?str=kick
+  65. http://www.bat.org/help/skills.php?str=alertness
+  66. http://www.bat.org/help/skills.php?str=controlled_panic
+  67. http://www.bat.org/help/skills.php?str=battlecry
+  68. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  69. http://www.bat.org/help/skills.php?str=consider
+  70. http://www.bat.org/help/skills.php?str=camping
+  71. http://www.bat.org/help/skills.php?str=hunting
+  72. http://www.bat.org/help/skills.php?str=fishing
+  73. http://www.bat.org/help/skills.php?str=fire_building
+  74. http://www.bat.org/help/skills.php?str=compare
+  75. http://www.bat.org/help/skills.php?str=torch_creation
+  76. http://www.bat.org/help/skills.php?str=first_aid
+  77. http://www.bat.org/help/skills.php?str=tinning
+  78. http://www.bat.org/help/skills.php?str=bludgeons
+  79. http://www.bat.org/help/skills.php?str=axes
+  80. http://www.bat.org/help/skills.php?str=attack
+  81. http://www.bat.org/help/skills.php?str=kick
+  82. http://www.bat.org/help/skills.php?str=alertness
+  83. http://www.bat.org/help/skills.php?str=controlled_panic
+  84. http://www.bat.org/help/skills.php?str=brawling
+  85. http://www.bat.org/help/skills.php?str=battlecry
+  86. http://www.bat.org/help/skills.php?str=throw_weight
+  87. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+  88. http://www.bat.org/help/skills.php?str=consider
+  89. http://www.bat.org/help/skills.php?str=camping
+  90. http://www.bat.org/help/skills.php?str=hunting
+  91. http://www.bat.org/help/skills.php?str=fishing
+  92. http://www.bat.org/help/skills.php?str=fire_building
+  93. http://www.bat.org/help/skills.php?str=compare
+  94. http://www.bat.org/help/skills.php?str=torch_creation
+  95. http://www.bat.org/help/skills.php?str=switch_weapon
+  96. http://www.bat.org/help/skills.php?str=first_aid
+  97. http://www.bat.org/help/skills.php?str=tinning
+  98. http://www.bat.org/help/skills.php?str=swim
+  99. http://www.bat.org/help/skills.php?str=bludgeons
+ 100. http://www.bat.org/help/skills.php?str=axes
+ 101. http://www.bat.org/help/skills.php?str=alertness
+ 102. http://www.bat.org/help/skills.php?str=controlled_panic
+ 103. http://www.bat.org/help/skills.php?str=brawling
+ 104. http://www.bat.org/help/skills.php?str=battlecry
+ 105. http://www.bat.org/help/skills.php?str=throw_weight
+ 106. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 107. http://www.bat.org/help/skills.php?str=consider
+ 108. http://www.bat.org/help/skills.php?str=camping
+ 109. http://www.bat.org/help/skills.php?str=hunting
+ 110. http://www.bat.org/help/skills.php?str=fishing
+ 111. http://www.bat.org/help/skills.php?str=fire_building
+ 112. http://www.bat.org/help/skills.php?str=compare
+ 113. http://www.bat.org/help/skills.php?str=switch_weapon
+ 114. http://www.bat.org/help/skills.php?str=first_aid
+ 115. http://www.bat.org/help/skills.php?str=tinning
+ 116. http://www.bat.org/help/skills.php?str=swim
+ 117. http://www.bat.org/help/skills.php?str=bludgeons
+ 118. http://www.bat.org/help/skills.php?str=axes
+ 119. http://www.bat.org/help/skills.php?str=cleave
+ 120. http://www.bat.org/help/skills.php?str=alertness
+ 121. http://www.bat.org/help/skills.php?str=controlled_panic
+ 122. http://www.bat.org/help/skills.php?str=brawling
+ 123. http://www.bat.org/help/skills.php?str=battlecry
+ 124. http://www.bat.org/help/skills.php?str=throw_weight
+ 125. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 126. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 127. http://www.bat.org/help/skills.php?str=consider
+ 128. http://www.bat.org/help/skills.php?str=camping
+ 129. http://www.bat.org/help/skills.php?str=hunting
+ 130. http://www.bat.org/help/skills.php?str=fire_building
+ 131. http://www.bat.org/help/skills.php?str=compare
+ 132. http://www.bat.org/help/skills.php?str=switch_weapon
+ 133. http://www.bat.org/help/skills.php?str=first_aid
+ 134. http://www.bat.org/help/skills.php?str=plant_lore
+ 135. http://www.bat.org/help/skills.php?str=swim
+ 136. http://www.bat.org/help/skills.php?str=bludgeons
+ 137. http://www.bat.org/help/skills.php?str=axes
+ 138. http://www.bat.org/help/skills.php?str=cleave
+ 139. http://www.bat.org/help/skills.php?str=alertness
+ 140. http://www.bat.org/help/skills.php?str=controlled_panic
+ 141. http://www.bat.org/help/skills.php?str=brawling
+ 142. http://www.bat.org/help/skills.php?str=battlecry
+ 143. http://www.bat.org/help/skills.php?str=throw_weight
+ 144. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 145. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 146. http://www.bat.org/help/skills.php?str=camping
+ 147. http://www.bat.org/help/skills.php?str=hunting
+ 148. http://www.bat.org/help/skills.php?str=fire_building
+ 149. http://www.bat.org/help/skills.php?str=switch_weapon
+ 150. http://www.bat.org/help/skills.php?str=first_aid
+ 151. http://www.bat.org/help/skills.php?str=plant_lore
+ 152. http://www.bat.org/help/skills.php?str=swim
+ 153. http://www.bat.org/help/skills.php?str=bludgeons
+ 154. http://www.bat.org/help/skills.php?str=pound
+ 155. http://www.bat.org/help/skills.php?str=axes
+ 156. http://www.bat.org/help/skills.php?str=cleave
+ 157. http://www.bat.org/help/skills.php?str=alertness
+ 158. http://www.bat.org/help/skills.php?str=controlled_panic
+ 159. http://www.bat.org/help/skills.php?str=brawling
+ 160. http://www.bat.org/help/skills.php?str=battlecry
+ 161. http://www.bat.org/help/skills.php?str=throw_weight
+ 162. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 163. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 164. http://www.bat.org/help/skills.php?str=camping
+ 165. http://www.bat.org/help/skills.php?str=switch_weapon
+ 166. http://www.bat.org/help/skills.php?str=plant_lore
+ 167. http://www.bat.org/help/skills.php?str=swim
+ 168. http://www.bat.org/help/skills.php?str=bludgeons
+ 169. http://www.bat.org/help/skills.php?str=pound
+ 170. http://www.bat.org/help/skills.php?str=axes
+ 171. http://www.bat.org/help/skills.php?str=cleave
+ 172. http://www.bat.org/help/skills.php?str=brawling
+ 173. http://www.bat.org/help/skills.php?str=battlecry
+ 174. http://www.bat.org/help/skills.php?str=throw_weight
+ 175. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 176. http://www.bat.org/help/skills.php?str=stun
+ 177. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 178. http://www.bat.org/help/skills.php?str=camping
+ 179. http://www.bat.org/help/skills.php?str=switch_weapon
+ 180. http://www.bat.org/help/skills.php?str=plant_lore
+ 181. http://www.bat.org/help/skills.php?str=swim
+ 182. http://www.bat.org/help/skills.php?str=bludgeons
+ 183. http://www.bat.org/help/skills.php?str=pound
+ 184. http://www.bat.org/help/skills.php?str=axes
+ 185. http://www.bat.org/help/skills.php?str=cleave
+ 186. http://www.bat.org/help/skills.php?str=brawling
+ 187. http://www.bat.org/help/skills.php?str=battlecry
+ 188. http://www.bat.org/help/skills.php?str=throw_weight
+ 189. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 190. http://www.bat.org/help/skills.php?str=stun
+ 191. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 192. http://www.bat.org/help/skills.php?str=plant_lore
+ 193. http://www.bat.org/help/skills.php?str=bludgeons
+ 194. http://www.bat.org/help/skills.php?str=pound
+ 195. http://www.bat.org/help/skills.php?str=axes
+ 196. http://www.bat.org/help/skills.php?str=cleave
+ 197. http://www.bat.org/help/skills.php?str=battlecry
+ 198. http://www.bat.org/help/skills.php?str=throw_weight
+ 199. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 200. http://www.bat.org/help/skills.php?str=stun
+ 201. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 202. http://www.bat.org/help/skills.php?str=plant_lore
+ 203. http://www.bat.org/help/skills.php?str=bludgeons
+ 204. http://www.bat.org/help/skills.php?str=pound
+ 205. http://www.bat.org/help/skills.php?str=axes
+ 206. http://www.bat.org/help/skills.php?str=cleave
+ 207. http://www.bat.org/help/skills.php?str=battlecry
+ 208. http://www.bat.org/help/skills.php?str=throw_weight
+ 209. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 210. http://www.bat.org/help/skills.php?str=stun
+ 211. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 212. http://www.bat.org/help/skills.php?str=plant_lore
+ 213. http://www.bat.org/help/skills.php?str=enrage
+ 214. http://www.bat.org/help/skills.php?str=bludgeons
+ 215. http://www.bat.org/help/skills.php?str=pound
+ 216. http://www.bat.org/help/skills.php?str=axes
+ 217. http://www.bat.org/help/skills.php?str=cleave
+ 218. http://www.bat.org/help/skills.php?str=battlecry
+ 219. http://www.bat.org/help/skills.php?str=throw_weight
+ 220. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 221. http://www.bat.org/help/skills.php?str=stun
+ 222. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 223. http://www.bat.org/help/skills.php?str=plant_lore
+ 224. http://www.bat.org/help/skills.php?str=hiking
+ 225. http://www.bat.org/help/skills.php?str=enrage
+ 226. http://www.bat.org/help/skills.php?str=bludgeons
+ 227. http://www.bat.org/help/skills.php?str=pound
+ 228. http://www.bat.org/help/skills.php?str=axes
+ 229. http://www.bat.org/help/skills.php?str=cleave
+ 230. http://www.bat.org/help/skills.php?str=battlecry
+ 231. http://www.bat.org/help/skills.php?str=throw_weight
+ 232. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 233. http://www.bat.org/help/skills.php?str=discipline
+ 234. http://www.bat.org/help/skills.php?str=stun
+ 235. http://www.bat.org/help/skills.php?str=find_weakness
+ 236. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 237. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 238. http://www.bat.org/help/skills.php?str=hiking
+ 239. http://www.bat.org/help/skills.php?str=grapple
+ 240. http://www.bat.org/help/skills.php?str=enrage
+ 241. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 242. http://www.bat.org/help/skills.php?str=fire_walking
+ 243. http://www.bat.org/help/skills.php?str=bludgeons
+ 244. http://www.bat.org/help/skills.php?str=pound
+ 245. http://www.bat.org/help/skills.php?str=axes
+ 246. http://www.bat.org/help/skills.php?str=cleave
+ 247. http://www.bat.org/help/skills.php?str=battlecry
+ 248. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 249. http://www.bat.org/help/skills.php?str=discipline
+ 250. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 251. http://www.bat.org/help/skills.php?str=stun
+ 252. http://www.bat.org/help/skills.php?str=find_weakness
+ 253. http://www.bat.org/help/skills.php?str=dodge
+ 254. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 255. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 256. http://www.bat.org/help/skills.php?str=hiking
+ 257. http://www.bat.org/help/skills.php?str=grapple
+ 258. http://www.bat.org/help/skills.php?str=enrage
+ 259. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 260. http://www.bat.org/help/skills.php?str=fire_walking
+ 261. http://www.bat.org/help/skills.php?str=bludgeons
+ 262. http://www.bat.org/help/skills.php?str=pound
+ 263. http://www.bat.org/help/skills.php?str=pulverize
+ 264. http://www.bat.org/help/skills.php?str=axes
+ 265. http://www.bat.org/help/skills.php?str=cleave
+ 266. http://www.bat.org/help/skills.php?str=negate_offhand_penalty
+ 267. http://www.bat.org/help/skills.php?str=discipline
+ 268. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 269. http://www.bat.org/help/skills.php?str=shield_bash
+ 270. http://www.bat.org/help/skills.php?str=stun
+ 271. http://www.bat.org/help/skills.php?str=find_weakness
+ 272. http://www.bat.org/help/skills.php?str=dodge
+ 273. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 274. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 275. http://www.bat.org/help/skills.php?str=hiking
+ 276. http://www.bat.org/help/skills.php?str=grapple
+ 277. http://www.bat.org/help/skills.php?str=enrage
+ 278. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 279. http://www.bat.org/help/skills.php?str=fire_walking
+ 280. http://www.bat.org/help/skills.php?str=pain_threshold
+ 281. http://www.bat.org/help/skills.php?str=pound
+ 282. http://www.bat.org/help/skills.php?str=pulverize
+ 283. http://www.bat.org/help/skills.php?str=axes
+ 284. http://www.bat.org/help/skills.php?str=cleave
+ 285. http://www.bat.org/help/skills.php?str=discipline
+ 286. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 287. http://www.bat.org/help/skills.php?str=shield_bash
+ 288. http://www.bat.org/help/skills.php?str=stun
+ 289. http://www.bat.org/help/skills.php?str=find_weakness
+ 290. http://www.bat.org/help/skills.php?str=dodge
+ 291. http://www.bat.org/help/skills.php?str=parry
+ 292. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 293. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 294. http://www.bat.org/help/skills.php?str=hiking
+ 295. http://www.bat.org/help/skills.php?str=grapple
+ 296. http://www.bat.org/help/skills.php?str=rescue
+ 297. http://www.bat.org/help/skills.php?str=enrage
+ 298. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 299. http://www.bat.org/help/skills.php?str=fire_walking
+ 300. http://www.bat.org/help/skills.php?str=pain_threshold
+ 301. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 302. http://www.bat.org/help/skills.php?str=pound
+ 303. http://www.bat.org/help/skills.php?str=pulverize
+ 304. http://www.bat.org/help/skills.php?str=axes
+ 305. http://www.bat.org/help/skills.php?str=cleave
+ 306. http://www.bat.org/help/skills.php?str=discipline
+ 307. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 308. http://www.bat.org/help/skills.php?str=shield_bash
+ 309. http://www.bat.org/help/skills.php?str=stun
+ 310. http://www.bat.org/help/skills.php?str=find_weakness
+ 311. http://www.bat.org/help/skills.php?str=dodge
+ 312. http://www.bat.org/help/skills.php?str=parry
+ 313. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 314. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 315. http://www.bat.org/help/skills.php?str=hiking
+ 316. http://www.bat.org/help/skills.php?str=grapple
+ 317. http://www.bat.org/help/skills.php?str=rescue
+ 318. http://www.bat.org/help/skills.php?str=enrage
+ 319. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 320. http://www.bat.org/help/skills.php?str=fire_walking
+ 321. http://www.bat.org/help/skills.php?str=pain_threshold
+ 322. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 323. http://www.bat.org/help/skills.php?str=pound
+ 324. http://www.bat.org/help/skills.php?str=pulverize
+ 325. http://www.bat.org/help/skills.php?str=axes
+ 326. http://www.bat.org/help/skills.php?str=cleave
+ 327. http://www.bat.org/help/skills.php?str=discipline
+ 328. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 329. http://www.bat.org/help/skills.php?str=stun
+ 330. http://www.bat.org/help/skills.php?str=find_weakness
+ 331. http://www.bat.org/help/skills.php?str=dodge
+ 332. http://www.bat.org/help/skills.php?str=parry
+ 333. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 334. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 335. http://www.bat.org/help/skills.php?str=hiking
+ 336. http://www.bat.org/help/skills.php?str=grapple
+ 337. http://www.bat.org/help/skills.php?str=rescue
+ 338. http://www.bat.org/help/skills.php?str=leadership
+ 339. http://www.bat.org/help/skills.php?str=enrage
+ 340. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 341. http://www.bat.org/help/skills.php?str=fire_walking
+ 342. http://www.bat.org/help/skills.php?str=pain_threshold
+ 343. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 344. http://www.bat.org/help/skills.php?str=lure
+ 345. http://www.bat.org/help/skills.php?str=pulverize
+ 346. http://www.bat.org/help/skills.php?str=axes
+ 347. http://www.bat.org/help/skills.php?str=cleave
+ 348. http://www.bat.org/help/skills.php?str=reaving
+ 349. http://www.bat.org/help/skills.php?str=discipline
+ 350. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 351. http://www.bat.org/help/skills.php?str=stun
+ 352. http://www.bat.org/help/skills.php?str=find_weakness
+ 353. http://www.bat.org/help/skills.php?str=dodge
+ 354. http://www.bat.org/help/skills.php?str=parry
+ 355. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 356. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 357. http://www.bat.org/help/skills.php?str=hiking
+ 358. http://www.bat.org/help/skills.php?str=grapple
+ 359. http://www.bat.org/help/skills.php?str=rescue
+ 360. http://www.bat.org/help/skills.php?str=leadership
+ 361. http://www.bat.org/help/skills.php?str=enrage
+ 362. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 363. http://www.bat.org/help/skills.php?str=fire_walking
+ 364. http://www.bat.org/help/skills.php?str=pain_threshold
+ 365. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 366. http://www.bat.org/help/skills.php?str=lure
+ 367. http://www.bat.org/help/skills.php?str=pulverize
+ 368. http://www.bat.org/help/skills.php?str=axes
+ 369. http://www.bat.org/help/skills.php?str=cleave
+ 370. http://www.bat.org/help/skills.php?str=reaving
+ 371. http://www.bat.org/help/skills.php?str=discipline
+ 372. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 373. http://www.bat.org/help/skills.php?str=stun
+ 374. http://www.bat.org/help/skills.php?str=find_weakness
+ 375. http://www.bat.org/help/skills.php?str=dodge
+ 376. http://www.bat.org/help/skills.php?str=parry
+ 377. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 378. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 379. http://www.bat.org/help/skills.php?str=hiking
+ 380. http://www.bat.org/help/skills.php?str=grapple
+ 381. http://www.bat.org/help/skills.php?str=rescue
+ 382. http://www.bat.org/help/skills.php?str=leadership
+ 383. http://www.bat.org/help/skills.php?str=endurance
+ 384. http://www.bat.org/help/skills.php?str=enrage
+ 385. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 386. http://www.bat.org/help/skills.php?str=fire_walking
+ 387. http://www.bat.org/help/skills.php?str=pain_threshold
+ 388. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 389. http://www.bat.org/help/skills.php?str=lure
+ 390. http://www.bat.org/help/skills.php?str=pulverize
+ 391. http://www.bat.org/help/skills.php?str=axes
+ 392. http://www.bat.org/help/skills.php?str=cleave
+ 393. http://www.bat.org/help/skills.php?str=reaving
+ 394. http://www.bat.org/help/skills.php?str=discipline
+ 395. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 396. http://www.bat.org/help/skills.php?str=stun
+ 397. http://www.bat.org/help/skills.php?str=find_weakness
+ 398. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 399. http://www.bat.org/help/skills.php?str=dodge
+ 400. http://www.bat.org/help/skills.php?str=parry
+ 401. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 402. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 403. http://www.bat.org/help/skills.php?str=hiking
+ 404. http://www.bat.org/help/skills.php?str=grapple
+ 405. http://www.bat.org/help/skills.php?str=rescue
+ 406. http://www.bat.org/help/skills.php?str=leadership
+ 407. http://www.bat.org/help/skills.php?str=endurance
+ 408. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 409. http://www.bat.org/help/skills.php?str=fire_walking
+ 410. http://www.bat.org/help/skills.php?str=pain_threshold
+ 411. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 412. http://www.bat.org/help/skills.php?str=lure
+ 413. http://www.bat.org/help/skills.php?str=pulverize
+ 414. http://www.bat.org/help/skills.php?str=axes
+ 415. http://www.bat.org/help/skills.php?str=cleave
+ 416. http://www.bat.org/help/skills.php?str=reaving
+ 417. http://www.bat.org/help/skills.php?str=discipline
+ 418. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 419. http://www.bat.org/help/skills.php?str=stun
+ 420. http://www.bat.org/help/skills.php?str=find_weakness
+ 421. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 422. http://www.bat.org/help/skills.php?str=dodge
+ 423. http://www.bat.org/help/skills.php?str=parry
+ 424. http://www.bat.org/help/skills.php?str=riposte
+ 425. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 426. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 427. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 428. http://www.bat.org/help/skills.php?str=hiking
+ 429. http://www.bat.org/help/skills.php?str=grapple
+ 430. http://www.bat.org/help/skills.php?str=rescue
+ 431. http://www.bat.org/help/skills.php?str=leadership
+ 432. http://www.bat.org/help/skills.php?str=endurance
+ 433. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 434. http://www.bat.org/help/skills.php?str=fire_walking
+ 435. http://www.bat.org/help/skills.php?str=pain_threshold
+ 436. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 437. http://www.bat.org/help/skills.php?str=lure
+ 438. http://www.bat.org/help/skills.php?str=pulverize
+ 439. http://www.bat.org/help/skills.php?str=axes
+ 440. http://www.bat.org/help/skills.php?str=cleave
+ 441. http://www.bat.org/help/skills.php?str=reaving
+ 442. http://www.bat.org/help/skills.php?str=discipline
+ 443. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 444. http://www.bat.org/help/skills.php?str=stun
+ 445. http://www.bat.org/help/skills.php?str=find_weakness
+ 446. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 447. http://www.bat.org/help/skills.php?str=dodge
+ 448. http://www.bat.org/help/skills.php?str=parry
+ 449. http://www.bat.org/help/skills.php?str=riposte
+ 450. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 451. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 452. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 453. http://www.bat.org/help/skills.php?str=grapple
+ 454. http://www.bat.org/help/skills.php?str=rescue
+ 455. http://www.bat.org/help/skills.php?str=leadership
+ 456. http://www.bat.org/help/skills.php?str=endurance
+ 457. http://www.bat.org/help/skills.php?str=detect_trap
+ 458. http://www.bat.org/help/skills.php?str=cold_tolerance
+ 459. http://www.bat.org/help/skills.php?str=fire_walking
+ 460. http://www.bat.org/help/skills.php?str=pain_threshold
+ 461. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 462. http://www.bat.org/help/skills.php?str=lure
+ 463. http://www.bat.org/help/skills.php?str=axes
+ 464. http://www.bat.org/help/skills.php?str=cleave
+ 465. http://www.bat.org/help/skills.php?str=reaving
+ 466. http://www.bat.org/help/skills.php?str=discipline
+ 467. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 468. http://www.bat.org/help/skills.php?str=find_weakness
+ 469. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 470. http://www.bat.org/help/skills.php?str=dodge
+ 471. http://www.bat.org/help/skills.php?str=parry
+ 472. http://www.bat.org/help/skills.php?str=riposte
+ 473. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 474. http://www.bat.org/help/skills.php?str=combat_sense
+ 475. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 476. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 477. http://www.bat.org/help/skills.php?str=leadership
+ 478. http://www.bat.org/help/skills.php?str=endurance
+ 479. http://www.bat.org/help/skills.php?str=detect_trap
+ 480. http://www.bat.org/help/skills.php?str=pain_threshold
+ 481. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 482. http://www.bat.org/help/skills.php?str=lure
+ 483. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 484. http://www.bat.org/help/skills.php?str=find_weakness
+ 485. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 486. http://www.bat.org/help/skills.php?str=dodge
+ 487. http://www.bat.org/help/skills.php?str=parry
+ 488. http://www.bat.org/help/skills.php?str=riposte
+ 489. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 490. http://www.bat.org/help/skills.php?str=combat_sense
+ 491. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 492. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 493. http://www.bat.org/help/skills.php?str=leadership
+ 494. http://www.bat.org/help/skills.php?str=endurance
+ 495. http://www.bat.org/help/skills.php?str=detect_trap
+ 496. http://www.bat.org/help/skills.php?str=pain_threshold
+ 497. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 498. http://www.bat.org/help/skills.php?str=lure
+ 499. http://www.bat.org/help/skills.php?str=find_weakness
+ 500. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 501. http://www.bat.org/help/skills.php?str=dodge
+ 502. http://www.bat.org/help/skills.php?str=parry
+ 503. http://www.bat.org/help/skills.php?str=riposte
+ 504. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 505. http://www.bat.org/help/skills.php?str=combat_sense
+ 506. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 507. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 508. http://www.bat.org/help/skills.php?str=leadership
+ 509. http://www.bat.org/help/skills.php?str=endurance
+ 510. http://www.bat.org/help/skills.php?str=detect_trap
+ 511. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 512. http://www.bat.org/help/skills.php?str=lure
+ 513. http://www.bat.org/help/skills.php?str=find_weakness
+ 514. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 515. http://www.bat.org/help/skills.php?str=dodge
+ 516. http://www.bat.org/help/skills.php?str=parry
+ 517. http://www.bat.org/help/skills.php?str=riposte
+ 518. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 519. http://www.bat.org/help/skills.php?str=combat_sense
+ 520. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 521. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 522. http://www.bat.org/help/skills.php?str=leadership
+ 523. http://www.bat.org/help/skills.php?str=endurance
+ 524. http://www.bat.org/help/skills.php?str=detect_trap
+ 525. http://www.bat.org/help/skills.php?str=track
+ 526. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 527. http://www.bat.org/help/skills.php?str=lure
+ 528. http://www.bat.org/help/skills.php?str=find_weakness
+ 529. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 530. http://www.bat.org/help/skills.php?str=dodge
+ 531. http://www.bat.org/help/skills.php?str=parry
+ 532. http://www.bat.org/help/skills.php?str=riposte
+ 533. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 534. http://www.bat.org/help/skills.php?str=combat_sense
+ 535. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 536. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 537. http://www.bat.org/help/skills.php?str=leadership
+ 538. http://www.bat.org/help/skills.php?str=endurance
+ 539. http://www.bat.org/help/skills.php?str=detect_trap
+ 540. http://www.bat.org/help/skills.php?str=track
+ 541. http://www.bat.org/help/skills.php?str=toxic_immunity
+ 542. http://www.bat.org/help/skills.php?str=lure
+ 543. http://www.bat.org/help/skills.php?str=barbaric_ways
+ 544. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 545. http://www.bat.org/help/skills.php?str=dodge
+ 546. http://www.bat.org/help/skills.php?str=riposte
+ 547. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 548. http://www.bat.org/help/skills.php?str=combat_sense
+ 549. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 550. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 551. http://www.bat.org/help/skills.php?str=detect_trap
+ 552. http://www.bat.org/help/skills.php?str=track
+ 553. http://www.bat.org/help/skills.php?str=barbaric_ways
+ 554. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 555. http://www.bat.org/help/skills.php?str=dodge
+ 556. http://www.bat.org/help/skills.php?str=riposte
+ 557. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 558. http://www.bat.org/help/skills.php?str=combat_sense
+ 559. http://www.bat.org/help/skills.php?str=combat_damage_analysis
+ 560. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 561. http://www.bat.org/help/skills.php?str=detect_trap
+ 562. http://www.bat.org/help/skills.php?str=track
+ 563. http://www.bat.org/help/skills.php?str=frenzy
+ 564. http://www.bat.org/help/skills.php?str=barbaric_ways
+ 565. http://www.bat.org/help/skills.php?str=dodge
+ 566. http://www.bat.org/help/skills.php?str=riposte
+ 567. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 568. http://www.bat.org/help/skills.php?str=combat_sense
+ 569. http://www.bat.org/help/skills.php?str=alcohol_tolerance
+ 570. http://www.bat.org/help/skills.php?str=detect_trap
+ 571. http://www.bat.org/help/skills.php?str=track
+ 572. http://www.bat.org/help/skills.php?str=frenzy
+ 573. http://www.bat.org/help/skills.php?str=barbaric_ways
+ 574. http://www.bat.org/help/skills.php?str=dodge
+ 575. http://www.bat.org/help/skills.php?str=riposte
+ 576. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 577. http://www.bat.org/help/skills.php?str=detect_trap
+ 578. http://www.bat.org/help/skills.php?str=track
+ 579. http://www.bat.org/help/skills.php?str=frenzy
+ 580. http://www.bat.org/help/skills.php?str=barbaric_ways
+ 581. http://www.bat.org/help/skills.php?str=detect_trap
+ 582. http://www.bat.org/help/skills.php?str=frenzy
+ 583. http://www.bat.org/help/skills.php?str=barbaric_ways
+ 584. http://www.bat.org/help/guilds.php
+ 585. mailto:webmaster@bat.org
+
+   Hidden links:
+ 586. http://www.bat.org/bat.php

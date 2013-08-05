@@ -1,0 +1,47 @@
+Satyr
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Skills available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Consider                      |  50 |  85 |      299 |
+| Push                          |   0 |  85 |        3 |
+| Alcohol tolerance             |   0 |  85 |        6 |
+| Compare                       |   0 |  80 |        6 |
+| First aid                     |   0 |  80 |        8 |
+| Swim                          |  75 |  70 |    (n/a) |
+| Lounging                      |   0 |  85 |       19 |
+| Gloveknock                    |   0 |  85 |       22 |
+| Throw weight                  |   0 |  70 |       22 |
+| Switch weapon                 |   0 |  85 |       25 |
+| Sewing                        |   0 |  85 |       31 |
+| Attack                        |  50 |  85 |     2847 |
+| Short blades                  |   0 |  85 |       51 |
+| Sabre fence                   |   0 |  85 |       69 |
+| Negate offhand penalty        |   0 |  80 |       81 |
+| Rescue                        |   0 |  80 |      117 |
+| Stun                          |   0 |  60 |      145 |
+| Discipline                    |   0 |  70 |      361 |
+| Sabre derobement              |   0 |  85 |      427 |
+| Sabre lunge                   |   0 |  85 |      427 |
+| Sabre parry                   |   0 |  85 |      427 |
+| Enhance criticals             |   0 |  50 |      459 |
+| Parry                         |   0 |  85 |      561 |
+| Sabre feint                   |   0 |  85 |      720 |
+| Sabre remise                  |   0 |  85 |      720 |
+| Sabre riposte                 |   0 |  85 |      975 |
+| Sabre trompement              |   0 |  85 |      975 |
+| Stunned maneuvers             |   0 |  70 |      975 |
+| Dodge                         |  28 |  60 |    13525 |
+| Sabre invito                  |   0 |  85 |     1210 |
+| Battle cadence                |   0 |  85 |     1431 |
+| Sabre tension parry           |   0 |  85 |     2035 |
+`------------------------------------------------------'
+                                ,----------------------.
+                                |Percentiles| Adv. cost|
+,-------------------------------+-----------+----------|
+| Spells available at level 30  | Cur | Max | Exp      |
+|===============================|=====|=====|==========|
+| Call pigeon                   |   0 | 100 |       15 |
+| Cantrip                       |   0 | 100 |       27 |
+`------------------------------------------------------'

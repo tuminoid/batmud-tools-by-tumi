@@ -1,0 +1,1542 @@
+
+   BatMUD
+   [1]++ Play BatMUD ++
+   [spacer.gif]
+   [2]My Character
+   [spacer.gif]
+     [3]-- Game Info --
+   [4]Guilds & Backgrounds
+     [5]The known Races
+     [6]Skills & Spells
+    [7]General helpfiles
+          [8]Quests
+    [9]Maps of the Realm
+    [10]Top player plaque
+   [spacer.gif]
+   [11]Discussions
+   [spacer.gif]
+   [12]++ The Library ++
+   [spacer.gif]
+   [13]Photos & Artwork
+   [spacer.gif]
+   [14]Link collection
+   [spacer.gif]
+   [15]Who is Online
+   [spacer.gif]
+   [16]Organization
+   [spacer.gif]
+   [17]HC BatMUD
+   [spacer.gif]
+   Welcome
+   Twomi!
+   [[18]Log Out] Bat
+
+                             Mud uptime: 18 hrs
+                     Online Users: [19]151 [[20]graph]
+                           [21]batmud.bat.org 23
+
+   [spacer.gif]
+
+                  [fonter.php?str=The+Warrior+Brotherhood]
+
+                          The Warrior Brotherhood
+
+   Command: monk
+   Creator: [22]Delecti
+   Maximum level: 30
+   Description:
+   The Warrior Brotherhood is a group of people who have decided to
+   abandon
+   the trivialities of society and live in a closed environment, the
+   monestary.
+   They live by a very strict code of honor and have taken a vow of
+   poverty.
+   The members of the brotherhood only use their skills in self-defence
+   and
+   believe that using weapons shows unforgivable weakness and despise
+   everyone
+   who does so.
+
+                                 New Member
+                   Background must be good_religious
+     Must pass 1 out of the following:
+       * Gender must be male
+       * Gender must be female
+                   Receive the monk robe
+                   Unable to change gender
+                   May train skill [23]Attack to 40%
+                   May train skill [24]Alertness to 20%
+                   May train skill [25]Hiking to 20%
+                   May train skill [26]Consider to 10%
+                   May train skill [27]Mind over body to 5%
+                   May train skill [28]Punch to 10%
+
+                                  Level 2
+                   May train skill [29]Attack to 44%
+                   May train skill [30]Alertness to 23%
+                   May train skill [31]Hiking to 23%
+                   May train skill [32]Consider to 18%
+                   May train skill [33]Swim to 25%
+                   May train skill [34]Bash to 10%
+                   May train skill [35]Mind over body to 8%
+                   May train skill [36]Punch to 20%
+
+                                  Level 3
+                  Has trained skill [37]Swim to at least 12%
+                  May train skill [38]Attack to 48%
+                  May train skill [39]Alertness to 27%
+                  May train skill [40]Hiking to 27%
+                  May train skill [41]Consider to 26%
+                  May train skill [42]Swim to 37%
+                  May train skill [43]Bash to 17%
+                  May train skill [44]Martial arts to 30%
+                  May train skill [45]Meditation to 5%
+                  May train skill [46]Mind over body to 11%
+                  May train skill [47]Punch to 30%
+
+                                  Level 4
+              Has trained skill [48]Swim to at least 18%
+              Has trained skill [49]Martial arts to at least 19%
+              May train skill [50]Attack to 52%
+              May train skill [51]Alertness to 31%
+              May train skill [52]Hiking to 31%
+              May train skill [53]Consider to 34%
+              May train skill [54]Swim to 50%
+              May train skill [55]Bash to 25%
+              May train skill [56]Martial arts to 33%
+              May train skill [57]Meditation to 8%
+              May train skill [58]Discipline to 15%
+              May train skill [59]Mind over body to 14%
+              May train skill [60]Punch to 40%
+
+                                  Level 5
+              Has trained skill [61]Swim to at least 25%
+              Has trained skill [62]Martial arts to at least 21%
+              May train skill [63]Attack to 57%
+              May train skill [64]Alertness to 35%
+              May train skill [65]Hiking to 34%
+              May train skill [66]Consider to 42%
+              May train skill [67]Swim to 62%
+              May train skill [68]Bash to 32%
+              May train skill [69]Martial arts to 37%
+              May train skill [70]Meditation to 12%
+              May train skill [71]Discipline to 20%
+              May train skill [72]Kiai-cry to 5%
+              May train skill [73]Unarmed parry to 1%
+              May train skill [74]Dodge to 5%
+              May train skill [75]Mind over body to 18%
+              May train skill [76]Fresh pants to 10%
+              May train skill [77]Punch to 50%
+
+                                  Level 6
+              Has trained skill [78]Swim to at least 31%
+              Has trained skill [79]Martial arts to at least 24%
+              May train skill [80]Attack to 61%
+              May train skill [81]Alertness to 39%
+              May train skill [82]Hiking to 38%
+              May train skill [83]Consider to 50%
+              May train skill [84]Swim to 75%
+              May train skill [85]Bash to 40%
+              May train skill [86]Martial arts to 41%
+              May train skill [87]Meditation to 15%
+              May train skill [88]Discipline to 25%
+              May train skill [89]Kiai-cry to 9%
+              May train skill [90]Unarmed parry to 4%
+              May train skill [91]Dodge to 8%
+              May train skill [92]Bless to 15%
+              May train skill [93]Mind over body to 21%
+              May train skill [94]Fresh pants to 18%
+              May train skill [95]Punch to 60%
+
+                                  Level 7
+              Has trained skill [96]Swim to at least 37%
+              Has trained skill [97]Martial arts to at least 26%
+              May train skill [98]Attack to 65%
+              May train skill [99]Alertness to 42%
+              May train skill [100]Hiking to 42%
+              May train skill [101]Consider to 59%
+              May train skill [102]Swim to 87%
+              May train skill [103]Bash to 47%
+              May train skill [104]Martial arts to 44%
+              May train skill [105]Meditation to 19%
+              May train skill [106]Discipline to 30%
+              May train skill [107]Kiai-cry to 13%
+              May train skill [108]Unarmed parry to 8%
+              May train skill [109]Dodge to 11%
+              May train skill [110]Bless to 25%
+              May train skill [111]Baptize to 10%
+              May train skill [112]Mind over body to 24%
+              May train skill [113]Fresh pants to 26%
+              May train skill [114]Punch to 70%
+
+                                 Level 8
+             Has trained skill [115]Swim to at least 43%
+             Has trained skill [116]Martial arts to at least 28%
+             May train skill [117]Attack to 69%
+             May train skill [118]Alertness to 46%
+             May train skill [119]Hiking to 45%
+             May train skill [120]Consider to 67%
+             May train skill [121]Swim to 100%
+             May train skill [122]Bash to 55%
+             May train skill [123]Martial arts to 48%
+             May train skill [124]Meditation to 22%
+             May train skill [125]Discipline to 36%
+             May train skill [126]Kiai-cry to 17%
+             May train skill [127]Unarmed parry to 12%
+             May train skill [128]Dodge to 14%
+             May train skill [129]Bless to 36%
+             May train skill [130]Baptize to 18%
+             May train skill [131]Throw weight to 5%
+             May train skill [132]Mind over body to 27%
+             May train skill [133]Fresh pants to 34%
+             May train skill [134]Leather craft to 10%
+             May train skill [135]Punch to 80%
+
+                                 Level 9
+             Has trained skill [136]Martial arts to at least 31%
+             Has trained skill [137]Throw weight to at least 3%
+             May train skill [138]Attack to 74%
+             May train skill [139]Alertness to 50%
+             May train skill [140]Hiking to 49%
+             May train skill [141]Consider to 75%
+             May train skill [142]Bash to 62%
+             May train skill [143]Martial arts to 52%
+             May train skill [144]Meditation to 26%
+             May train skill [145]Discipline to 41%
+             May train skill [146]Kiai-cry to 22%
+             May train skill [147]Unarmed parry to 16%
+             May train skill [148]Dodge to 18%
+             May train skill [149]Bless to 47%
+             May train skill [150]Baptize to 26%
+             May train skill [151]Throw weight to 11%
+             May train skill [152]Kick to 5%
+             May train skill [153]Mind over body to 31%
+             May train skill [154]Fresh pants to 42%
+             May train skill [155]Leather craft to 17%
+             May train skill [156]Joint lock to 5%
+             May train skill [157]Punch to 90%
+
+                                 Level 10
+             Has trained skill [158]Martial arts to at least 33%
+             Has trained skill [159]Throw weight to at least 6%
+             May train skill [160]Attack to 78%
+             May train skill [161]Alertness to 54%
+             May train skill [162]Hiking to 53%
+             May train skill [163]Consider to 83%
+             May train skill [164]Bash to 70%
+             May train skill [165]Martial arts to 55%
+             May train skill [166]Meditation to 29%
+             May train skill [167]Discipline to 46%
+             May train skill [168]Kiai-cry to 26%
+             May train skill [169]Unarmed parry to 20%
+             May train skill [170]Dodge to 21%
+             May train skill [171]Bless to 58%
+             May train skill [172]Baptize to 34%
+             May train skill [173]Throw weight to 17%
+             May train skill [174]Kick to 13%
+             May train skill [175]Stun to 5%
+             May train skill [176]Mind over body to 34%
+             May train skill [177]Fresh pants to 50%
+             May train skill [178]Leather craft to 24%
+             May train skill [179]Sewing to 10%
+             May train skill [180]Kata to 10%
+             May train skill [181]Vital points to 5%
+             May train skill [182]Joint lock to 9%
+             May train skill [183]Acupuncture to 5%
+             May train skill [184]Punch to 100%
+
+                                 Level 11
+             Has trained skill [185]Martial arts to at least 35%
+             Has trained skill [186]Throw weight to at least 10%
+             May train skill [187]Attack to 82%
+             May train skill [188]Alertness to 58%
+             May train skill [189]Hiking to 56%
+             May train skill [190]Consider to 91%
+             May train skill [191]Bash to 77%
+             May train skill [192]Martial arts to 59%
+             May train skill [193]Meditation to 33%
+             May train skill [194]Discipline to 52%
+             May train skill [195]Kiai-cry to 30%
+             May train skill [196]Unarmed parry to 24%
+             May train skill [197]Dodge to 24%
+             May train skill [198]Bless to 69%
+             May train skill [199]Baptize to 42%
+             May train skill [200]Throw weight to 23%
+             May train skill [201]Kick to 22%
+             May train skill [202]Stun to 9%
+             May train skill [203]Contact reflexes to 5%
+             May train skill [204]Mind over body to 37%
+             May train skill [205]Fresh pants to 58%
+             May train skill [206]Leather craft to 31%
+             May train skill [207]Sewing to 17%
+             May train skill [208]Kata to 14%
+             May train skill [209]Vital points to 9%
+             May train skill [210]Joint lock to 14%
+             May train skill [211]Acupuncture to 9%
+
+                                 Level 12
+             Has trained skill [212]Martial arts to at least 38%
+             Has trained skill [213]Throw weight to at least 13%
+             May train skill [214]Attack to 87%
+             May train skill [215]Alertness to 62%
+             May train skill [216]Hiking to 60%
+             May train skill [217]Consider to 100%
+             May train skill [218]Bash to 85%
+             May train skill [219]Martial arts to 63%
+             May train skill [220]Meditation to 36%
+             May train skill [221]Discipline to 57%
+             May train skill [222]Kiai-cry to 34%
+             May train skill [223]Unarmed parry to 28%
+             May train skill [224]Dodge to 27%
+             May train skill [225]Bless to 80%
+             May train skill [226]Baptize to 50%
+             May train skill [227]Throw weight to 29%
+             May train skill [228]Kick to 30%
+             May train skill [229]Stun to 13%
+             May train skill [230]Contact reflexes to 10%
+             May train skill [231]Enhance criticals to 5%
+             May train skill [232]Mind over body to 41%
+             May train skill [233]Fresh pants to 66%
+             May train skill [234]Leather craft to 38%
+             May train skill [235]Sewing to 24%
+             May train skill [236]Kata to 19%
+             May train skill [237]Vital points to 13%
+             May train skill [238]Joint lock to 18%
+             May train skill [239]Acupuncture to 14%
+
+                                 Level 13
+             Has trained skill [240]Martial arts to at least 40%
+             Has trained skill [241]Throw weight to at least 17%
+             May train skill [242]Attack to 91%
+             May train skill [243]Alertness to 65%
+             May train skill [244]Hiking to 64%
+             May train skill [245]Bash to 92%
+             May train skill [246]Martial arts to 66%
+             May train skill [247]Meditation to 40%
+             May train skill [248]Discipline to 62%
+             May train skill [249]Kiai-cry to 39%
+             May train skill [250]Unarmed parry to 32%
+             May train skill [251]Dodge to 31%
+             May train skill [252]Baptize to 58%
+             May train skill [253]Throw weight to 35%
+             May train skill [254]Kick to 39%
+             May train skill [255]Stun to 17%
+             May train skill [256]Contact reflexes to 15%
+             May train skill [257]Enhance criticals to 9%
+             May train skill [258]Mind over body to 44%
+             May train skill [259]Fresh pants to 74%
+             May train skill [260]Leather craft to 45%
+             May train skill [261]Sewing to 31%
+             May train skill [262]Kata to 23%
+             May train skill [263]Vital points to 17%
+             May train skill [264]Joint lock to 23%
+             May train skill [265]Acupuncture to 19%
+
+                                 Level 14
+             Has trained skill [266]Martial arts to at least 42%
+             Has trained skill [267]Throw weight to at least 21%
+             May train skill [268]Attack to 95%
+             May train skill [269]Alertness to 69%
+             May train skill [270]Hiking to 67%
+             May train skill [271]Bash to 100%
+             May train skill [272]Martial arts to 70%
+             May train skill [273]Meditation to 43%
+             May train skill [274]Discipline to 68%
+             May train skill [275]Kiai-cry to 43%
+             May train skill [276]Unarmed parry to 36%
+             May train skill [277]Dodge to 34%
+             May train skill [278]Baptize to 66%
+             May train skill [279]Throw weight to 41%
+             May train skill [280]Kick to 48%
+             May train skill [281]Stun to 21%
+             May train skill [282]Contact reflexes to 20%
+             May train skill [283]Enhance criticals to 13%
+             May train skill [284]Defence sense to 5%
+             May train skill [285]Mind over body to 47%
+             May train skill [286]Fresh pants to 82%
+             May train skill [287]Leather craft to 52%
+             May train skill [288]Sewing to 38%
+             May train skill [289]Kata to 28%
+             May train skill [290]Vital points to 22%
+             May train skill [291]Joint lock to 27%
+             May train skill [292]Acupuncture to 24%
+
+                                 Level 15
+             Has trained skill [293]Martial arts to at least 45%
+             Has trained skill [294]Throw weight to at least 24%
+             Has trained skill [295]Defence sense to at least 3%
+             May train skill [296]Attack to 100%
+             May train skill [297]Alertness to 73%
+             May train skill [298]Hiking to 71%
+             May train skill [299]Martial arts to 74%
+             May train skill [300]Meditation to 47%
+             May train skill [301]Discipline to 73%
+             May train skill [302]Kiai-cry to 47%
+             May train skill [303]Unarmed parry to 40%
+             May train skill [304]Dodge to 37%
+             May train skill [305]Baptize to 75%
+             May train skill [306]Throw weight to 47%
+             May train skill [307]Kick to 56%
+             May train skill [308]Stun to 25%
+             May train skill [309]Contact reflexes to 25%
+             May train skill [310]Enhance criticals to 17%
+             May train skill [311]Defence sense to 11%
+             May train skill [312]Ki to 5%
+             May train skill [313]Mind over body to 50%
+             May train skill [314]Fresh pants to 90%
+             May train skill [315]Leather craft to 59%
+             May train skill [316]Sewing to 45%
+             May train skill [317]Kata to 32%
+             May train skill [318]Vital points to 26%
+             May train skill [319]Joint lock to 32%
+             May train skill [320]Acupuncture to 28%
+
+                                 Level 16
+             Has trained skill [321]Martial arts to at least 48%
+             Has trained skill [322]Throw weight to at least 28%
+             Has trained skill [323]Defence sense to at least 8%
+             Has trained skill [324]Ki to at least 3%
+             May train skill [325]Alertness to 77%
+             May train skill [326]Combat sense to 10%
+             May train skill [327]Controlled motion to 10%
+             May train skill [328]Hiking to 75%
+             May train skill [329]Martial arts to 77%
+             May train skill [330]Meditation to 50%
+             May train skill [331]Discipline to 78%
+             May train skill [332]Kiai-cry to 51%
+             May train skill [333]Unarmed parry to 44%
+             May train skill [334]Dodge to 40%
+             May train skill [335]Throw weight to 53%
+             May train skill [336]Kick to 65%
+             May train skill [337]Stun to 29%
+             May train skill [338]Contact reflexes to 30%
+             May train skill [339]Enhance criticals to 21%
+             May train skill [340]Defence sense to 17%
+             May train skill [341]Ki to 11%
+             May train skill [342]Mind over body to 54%
+             May train skill [343]Leather craft to 66%
+             May train skill [344]Sewing to 52%
+             May train skill [345]Kata to 37%
+             May train skill [346]Vital points to 30%
+             May train skill [347]Joint lock to 36%
+             May train skill [348]Acupuncture to 33%
+
+                                 Level 17
+             Has trained skill [349]Martial arts to at least 50%
+             Has trained skill [350]Throw weight to at least 31%
+             Has trained skill [351]Defence sense to at least 12%
+             Has trained skill [352]Ki to at least 6%
+             May train skill [353]Alertness to 81%
+             May train skill [354]Combat sense to 12%
+             May train skill [355]Controlled motion to 14%
+             May train skill [356]Hiking to 78%
+             May train skill [357]Martial arts to 81%
+             May train skill [358]Meditation to 54%
+             May train skill [359]Discipline to 84%
+             May train skill [360]Kiai-cry to 56%
+             May train skill [361]Unarmed parry to 48%
+             May train skill [362]Dodge to 44%
+             May train skill [363]Throw weight to 59%
+             May train skill [364]Kick to 74%
+             May train skill [365]Stun to 34%
+             May train skill [366]Contact reflexes to 35%
+             May train skill [367]Enhance criticals to 25%
+             May train skill [368]Defence sense to 23%
+             May train skill [369]Ki to 17%
+             May train skill [370]Mind over body to 57%
+             May train skill [371]Leather craft to 73%
+             May train skill [372]Sewing to 59%
+             May train skill [373]Kata to 41%
+             May train skill [374]Vital points to 34%
+             May train skill [375]Joint lock to 41%
+             May train skill [376]Acupuncture to 38%
+
+                                 Level 18
+             Has trained skill [377]Martial arts to at least 52%
+             Has trained skill [378]Throw weight to at least 35%
+             Has trained skill [379]Defence sense to at least 17%
+             Has trained skill [380]Ki to at least 10%
+             May train skill [381]Alertness to 85%
+             May train skill [382]Combat sense to 15%
+             May train skill [383]Controlled motion to 19%
+             May train skill [384]Hiking to 82%
+             May train skill [385]Martial arts to 85%
+             May train skill [386]Meditation to 57%
+             May train skill [387]Discipline to 89%
+             May train skill [388]Kiai-cry to 60%
+             May train skill [389]Unarmed parry to 52%
+             May train skill [390]Dodge to 47%
+             May train skill [391]Throw weight to 65%
+             May train skill [392]Kick to 82%
+             May train skill [393]Stun to 38%
+             May train skill [394]Contact reflexes to 40%
+             May train skill [395]Enhance criticals to 29%
+             May train skill [396]Defence sense to 30%
+             May train skill [397]Ki to 23%
+             May train skill [398]Stunned maneuvers to 5%
+             May train skill [399]Mind over body to 60%
+             May train skill [400]Leather craft to 80%
+             May train skill [401]Sewing to 66%
+             May train skill [402]Kata to 46%
+             May train skill [403]Vital points to 39%
+             May train skill [404]Joint lock to 45%
+             May train skill [405]Acupuncture to 43%
+
+                                 Level 19
+             Has trained skill [406]Martial arts to at least 55%
+             Has trained skill [407]Throw weight to at least 39%
+             Has trained skill [408]Defence sense to at least 22%
+             Has trained skill [409]Ki to at least 13%
+             May train skill [410]Combat sense to 17%
+             May train skill [411]Controlled motion to 23%
+             May train skill [412]Hiking to 86%
+             May train skill [413]Martial arts to 88%
+             May train skill [414]Meditation to 61%
+             May train skill [415]Discipline to 94%
+             May train skill [416]Kiai-cry to 64%
+             May train skill [417]Unarmed parry to 56%
+             May train skill [418]Dodge to 50%
+             May train skill [419]Throw weight to 71%
+             May train skill [420]Kick to 91%
+             May train skill [421]Stun to 42%
+             May train skill [422]Contact reflexes to 45%
+             May train skill [423]Enhance criticals to 34%
+             May train skill [424]Defence sense to 36%
+             May train skill [425]Ki to 30%
+             May train skill [426]Stunned maneuvers to 12%
+             May train skill [427]Iron palm to 5%
+             May train skill [428]Mind over body to 63%
+             May train skill [429]Sewing to 73%
+             May train skill [430]Kata to 50%
+             May train skill [431]Vital points to 43%
+             May train skill [432]Joint lock to 50%
+             May train skill [433]Acupuncture to 47%
+
+                                 Level 20
+             Has trained skill [434]Martial arts to at least 57%
+             Has trained skill [435]Throw weight to at least 42%
+             Has trained skill [436]Defence sense to at least 27%
+             Has trained skill [437]Ki to at least 18%
+             Has trained skill [438]Iron palm to at least 4%
+             May train skill [439]Combat sense to 20%
+             May train skill [440]Controlled motion to 28%
+             May train skill [441]Hiking to 90%
+             May train skill [442]Martial arts to 92%
+             May train skill [443]Meditation to 64%
+             May train skill [444]Discipline to 100%
+             May train skill [445]Kiai-cry to 68%
+             May train skill [446]Unarmed parry to 60%
+             May train skill [447]Dodge to 53%
+             May train skill [448]Throw weight to 77%
+             May train skill [449]Kick to 100%
+             May train skill [450]Stun to 46%
+             May train skill [451]Contact reflexes to 50%
+             May train skill [452]Enhance criticals to 38%
+             May train skill [453]Defence sense to 42%
+             May train skill [454]Ki to 36%
+             May train skill [455]Stunned maneuvers to 20%
+             May train skill [456]Iron palm to 13%
+             May train skill [457]Find weakness to 5%
+             May train skill [458]Mind over body to 67%
+             May train skill [459]Sewing to 80%
+             May train skill [460]Kata to 55%
+             May train skill [461]Vital points to 47%
+             May train skill [462]Joint lock to 54%
+             May train skill [463]Acupuncture to 52%
+
+                                 Level 21
+             Has trained skill [464]Martial arts to at least 59%
+             Has trained skill [465]Throw weight to at least 46%
+             Has trained skill [466]Defence sense to at least 31%
+             Has trained skill [467]Ki to at least 21%
+             Has trained skill [468]Iron palm to at least 10%
+             Has trained skill [469]Find weakness to at least 2%
+             May train skill [470]Combat sense to 22%
+             May train skill [471]Controlled motion to 33%
+             May train skill [472]Martial arts to 96%
+             May train skill [473]Meditation to 68%
+             May train skill [474]Kiai-cry to 73%
+             May train skill [475]Unarmed parry to 64%
+             May train skill [476]Dodge to 57%
+             May train skill [477]Throw weight to 83%
+             May train skill [478]Stun to 50%
+             May train skill [479]Contact reflexes to 55%
+             May train skill [480]Enhance criticals to 42%
+             May train skill [481]Defence sense to 49%
+             May train skill [482]Ki to 42%
+             May train skill [483]Stunned maneuvers to 28%
+             May train skill [484]Iron palm to 22%
+             May train skill [485]Find weakness to 14%
+             May train skill [486]Mind over body to 70%
+             May train skill [487]Kata to 59%
+             May train skill [488]Vital points to 51%
+             May train skill [489]Joint lock to 59%
+             May train skill [490]Acupuncture to 57%
+
+                                 Level 22
+             Has trained skill [491]Martial arts to at least 62%
+             Has trained skill [492]Throw weight to at least 49%
+             Has trained skill [493]Defence sense to at least 36%
+             Has trained skill [494]Ki to at least 25%
+             Has trained skill [495]Iron palm to at least 17%
+             Has trained skill [496]Find weakness to at least 7%
+             May train skill [497]Combat sense to 25%
+             May train skill [498]Controlled motion to 37%
+             May train skill [499]Martial arts to 100%
+             May train skill [500]Meditation to 71%
+             May train skill [501]Kiai-cry to 77%
+             May train skill [502]Unarmed parry to 68%
+             May train skill [503]Dodge to 60%
+             May train skill [504]Throw weight to 90%
+             May train skill [505]Stun to 54%
+             May train skill [506]Contact reflexes to 60%
+             May train skill [507]Enhance criticals to 46%
+             May train skill [508]Defence sense to 55%
+             May train skill [509]Ki to 49%
+             May train skill [510]Stunned maneuvers to 35%
+             May train skill [511]Iron palm to 30%
+             May train skill [512]Find weakness to 23%
+             May train skill [513]Tumbling attack to 5%
+             May train skill [514]Mind over body to 73%
+             May train skill [515]Kata to 64%
+             May train skill [516]Vital points to 56%
+             May train skill [517]Joint lock to 63%
+             May train skill [518]Acupuncture to 62%
+
+                                 Level 23
+             Has trained skill [519]Defence sense to at least 41%
+             Has trained skill [520]Ki to at least 29%
+             Has trained skill [521]Iron palm to at least 24%
+             Has trained skill [522]Find weakness to at least 11%
+             May train skill [523]Combat sense to 27%
+             May train skill [524]Controlled motion to 42%
+             May train skill [525]Meditation to 75%
+             May train skill [526]Kiai-cry to 81%
+             May train skill [527]Unarmed parry to 72%
+             May train skill [528]Dodge to 63%
+             May train skill [529]Stun to 59%
+             May train skill [530]Contact reflexes to 65%
+             May train skill [531]Enhance criticals to 50%
+             May train skill [532]Defence sense to 61%
+             May train skill [533]Ki to 55%
+             May train skill [534]Stunned maneuvers to 43%
+             May train skill [535]Iron palm to 39%
+             May train skill [536]Find weakness to 33%
+             May train skill [537]Tumbling attack to 16%
+             May train skill [538]Mind over body to 77%
+             May train skill [539]Kata to 68%
+             May train skill [540]Vital points to 60%
+             May train skill [541]Joint lock to 68%
+             May train skill [542]Acupuncture to 66%
+
+                                       Level 24
+             Has trained skill [543]Defence sense to at least 45%
+             Has trained skill [544]Ki to at least 33%
+             Has trained skill [545]Iron palm to at least 31%
+             Has trained skill [546]Find weakness to at least 16%
+             May train skill [547]Combat sense to 30%
+             May train skill [548]Controlled motion to 47%
+             May train skill [549]Meditation to 78%
+             May train skill [550]Kiai-cry to 85%
+             May train skill [551]Unarmed parry to 76%
+             May train skill [552]Dodge to 66%
+             May train skill [553]Stun to 63%
+             May train skill [554]Contact reflexes to 70%
+             May train skill [555]Enhance criticals to 54%
+             May train skill [556]Defence sense to 68%
+             May train skill [557]Ki to 61%
+             May train skill [558]Stunned maneuvers to 51%
+             May train skill [559]Iron palm to 48%
+             May train skill [560]Find weakness to 42%
+             May train skill [561]Tumbling attack to 28%
+             May train skill [562]Mind over body to 80%
+             May train skill [563]Kata to 73%
+             May train skill [564]Vital points to 64%
+             May train skill [565]Joint lock to 72%
+             May train skill [566]Acupuncture to 71%
+     May train skill [567]Throw weight to 100%, special requirements:
+       * Gender must be male
+
+                                 Level 25
+             Has trained skill [568]Defence sense to at least 51%
+             Has trained skill [569]Ki to at least 36%
+             Has trained skill [570]Iron palm to at least 38%
+             Has trained skill [571]Find weakness to at least 21%
+             May train skill [572]Combat sense to 32%
+             May train skill [573]Controlled motion to 51%
+             May train skill [574]Meditation to 82%
+             May train skill [575]Kiai-cry to 90%
+             May train skill [576]Unarmed parry to 80%
+             May train skill [577]Dodge to 70%
+             May train skill [578]Stun to 67%
+             May train skill [579]Contact reflexes to 75%
+             May train skill [580]Enhance criticals to 59%
+             May train skill [581]Defence sense to 74%
+             May train skill [582]Ki to 68%
+             May train skill [583]Stunned maneuvers to 59%
+             May train skill [584]Iron palm to 56%
+             May train skill [585]Find weakness to 52%
+             May train skill [586]Tumbling attack to 40%
+             May train skill [587]Mind over body to 83%
+             May train skill [588]Sculpture to 10%
+             May train skill [589]Kata to 77%
+             May train skill [590]Vital points to 68%
+             May train skill [591]Joint lock to 77%
+             May train skill [592]Acupuncture to 76%
+
+                                     Level 26
+             Has trained skill [593]Defence sense to at least 55%
+             Has trained skill [594]Ki to at least 40%
+             Has trained skill [595]Iron palm to at least 44%
+             Has trained skill [596]Find weakness to at least 26%
+             May train skill [597]Combat sense to 35%
+             May train skill [598]Controlled motion to 56%
+             May train skill [599]Meditation to 85%
+             May train skill [600]Unarmed parry to 84%
+             May train skill [601]Dodge to 73%
+             May train skill [602]Stun to 71%
+             May train skill [603]Contact reflexes to 80%
+             May train skill [604]Enhance criticals to 63%
+             May train skill [605]Defence sense to 80%
+             May train skill [606]Ki to 74%
+             May train skill [607]Stunned maneuvers to 66%
+             May train skill [608]Iron palm to 65%
+             May train skill [609]Find weakness to 61%
+             May train skill [610]Tumbling attack to 52%
+             May train skill [611]Mind over body to 86%
+             May train skill [612]Sculpture to 24%
+             May train skill [613]Kata to 82%
+             May train skill [614]Vital points to 73%
+             May train skill [615]Joint lock to 81%
+             May train skill [616]Acupuncture to 81%
+     May train skill [617]Kiai-cry to 100%, special requirements:
+       * Gender must be female
+
+                                 Level 27
+             Has trained skill [618]Defence sense to at least 60%
+             Has trained skill [619]Ki to at least 44%
+             Has trained skill [620]Iron palm to at least 52%
+             Has trained skill [621]Find weakness to at least 30%
+             May train skill [622]Combat sense to 37%
+             May train skill [623]Controlled motion to 61%
+             May train skill [624]Meditation to 89%
+             May train skill [625]Unarmed parry to 88%
+             May train skill [626]Dodge to 76%
+             May train skill [627]Stun to 75%
+             May train skill [628]Contact reflexes to 85%
+             May train skill [629]Enhance criticals to 67%
+             May train skill [630]Defence sense to 87%
+             May train skill [631]Ki to 80%
+             May train skill [632]Stunned maneuvers to 74%
+             May train skill [633]Iron palm to 74%
+             May train skill [634]Find weakness to 71%
+             May train skill [635]Tumbling attack to 64%
+             May train skill [636]Mind over body to 90%
+             May train skill [637]Sculpture to 38%
+             May train skill [638]Kata to 86%
+             May train skill [639]Vital points to 77%
+             May train skill [640]Joint lock to 86%
+             May train skill [641]Acupuncture to 85%
+
+                                 Level 28
+             Has trained skill [642]Defence sense to at least 65%
+             Has trained skill [643]Ki to at least 48%
+             Has trained skill [644]Iron palm to at least 59%
+             Has trained skill [645]Find weakness to at least 35%
+             May train skill [646]Combat sense to 40%
+             May train skill [647]Controlled motion to 65%
+             May train skill [648]Meditation to 92%
+             May train skill [649]Unarmed parry to 92%
+             May train skill [650]Dodge to 80%
+             May train skill [651]Stun to 80%
+             May train skill [652]Contact reflexes to 90%
+             May train skill [653]Enhance criticals to 71%
+             May train skill [654]Defence sense to 93%
+             May train skill [655]Ki to 87%
+             May train skill [656]Stunned maneuvers to 82%
+             May train skill [657]Iron palm to 82%
+             May train skill [658]Find weakness to 80%
+             May train skill [659]Tumbling attack to 76%
+             May train skill [660]Mind over body to 93%
+             May train skill [661]Sculpture to 52%
+             May train skill [662]Kata to 91%
+             May train skill [663]Vital points to 81%
+             May train skill [664]Joint lock to 90%
+             May train skill [665]Acupuncture to 90%
+
+                                 Level 29
+             Has trained skill [666]Defence sense to at least 69%
+             Has trained skill [667]Ki to at least 52%
+             Has trained skill [668]Iron palm to at least 65%
+             Has trained skill [669]Find weakness to at least 40%
+             May train skill [670]Combat sense to 42%
+             May train skill [671]Controlled motion to 70%
+             May train skill [672]Meditation to 96%
+             May train skill [673]Unarmed parry to 96%
+             May train skill [674]Contact reflexes to 95%
+             May train skill [675]Enhance criticals to 75%
+             May train skill [676]Defence sense to 100%
+             May train skill [677]Ki to 93%
+             May train skill [678]Stunned maneuvers to 90%
+             May train skill [679]Iron palm to 91%
+             May train skill [680]Find weakness to 90%
+             May train skill [681]Tumbling attack to 88%
+             May train skill [682]Mind over body to 96%
+             May train skill [683]Sculpture to 66%
+             May train skill [684]Kata to 95%
+             May train skill [685]Vital points to 85%
+             May train skill [686]Joint lock to 95%
+             May train skill [687]Acupuncture to 95%
+
+                                          Level 30
+               Has trained skill [688]Ki to at least 55%
+               Has trained skill [689]Iron palm to at least 72%
+               May train skill [690]Combat sense to 45%
+               May train skill [691]Controlled motion to 75%
+               May train skill [692]Meditation to 100%
+               May train skill [693]Unarmed parry to 100%
+               May train skill [694]Contact reflexes to 100%
+               May train skill [695]Enhance criticals to 80%
+               May train skill [696]Ki to 100%
+               May train skill [697]Iron palm to 100%
+               May train skill [698]Tumbling attack to 100%
+               May train skill [699]Mind over body to 100%
+               May train skill [700]Sculpture to 80%
+               May train skill [701]Kata to 100%
+               May train skill [702]Vital points to 90%
+               May train skill [703]Joint lock to 100%
+               May train skill [704]Acupuncture to 100%
+     May train skill [705]Stunned maneuvers to 100%, special
+   requirements:
+       * Gender must be male
+     May train skill [706]Find weakness to 100%, special requirements:
+       * Gender must be female
+
+                   Allows joining to the following guild:
+                     The Warrior Brotherhood
+
+   [707]Back to list of guilds
+   [spacer.gif]
+   [spacer.gif]
+
+      © 2002-2005 [708]Balanced Alternative Techniques Ry. All rights
+                                 reserved.
+      All logos and trademarks on this site are the property of their
+                             respective owner.
+   The individual comments are the property of their posters, and may not
+            reflect the views or opinions of the administration.
+
+References
+
+   Visible links
+   1. http://www.bat.org/help/guilds.php?str=The%20Warrior%20Brotherhood&batmenu=5&
+   2. http://www.bat.org/mychar/
+   3. http://www.bat.org/help/guilds.php?str=The%20Warrior%20Brotherhood&batmenu=0&
+   4. http://www.bat.org/help/guilds.php
+   5. http://www.bat.org/help/races.php
+   6. http://www.bat.org/help/skillspell.php
+   7. http://www.bat.org/help/help.php
+   8. http://www.bat.org/help/quests.php
+   9. http://www.bat.org/modules.php?name=Content&pa=showpage&pid=5
+  10. http://www.bat.org/help/plaque.php
+  11. http://www.bat.org/news/
+  12. http://www.bat.org/help/guilds.php?str=The%20Warrior%20Brotherhood&batmenu=3&
+  13. http://www.bat.org/modules.php?name=Gallery
+  14. http://www.bat.org/links/
+  15. http://www.bat.org/help/who.php
+  16. http://www.bat.org/batry/
+  17. http://hcbat.bat.org/
+  18. http://www.bat.org/modules.php?name=Your_Account&op=logout
+  19. http://www.bat.org/help/who.php
+  20. http://www.bat.org/users.php
+  21. telnet://batmud.bat.org/
+  22. http://www.bat.org/help/finger.php?str=delecti
+  23. http://www.bat.org/help/skills.php?str=attack
+  24. http://www.bat.org/help/skills.php?str=alertness
+  25. http://www.bat.org/help/skills.php?str=hiking
+  26. http://www.bat.org/help/skills.php?str=consider
+  27. http://www.bat.org/help/skills.php?str=mind_over_body
+  28. http://www.bat.org/help/skills.php?str=punch
+  29. http://www.bat.org/help/skills.php?str=attack
+  30. http://www.bat.org/help/skills.php?str=alertness
+  31. http://www.bat.org/help/skills.php?str=hiking
+  32. http://www.bat.org/help/skills.php?str=consider
+  33. http://www.bat.org/help/skills.php?str=swim
+  34. http://www.bat.org/help/skills.php?str=bash
+  35. http://www.bat.org/help/skills.php?str=mind_over_body
+  36. http://www.bat.org/help/skills.php?str=punch
+  37. http://www.bat.org/help/skills.php?str=swim
+  38. http://www.bat.org/help/skills.php?str=attack
+  39. http://www.bat.org/help/skills.php?str=alertness
+  40. http://www.bat.org/help/skills.php?str=hiking
+  41. http://www.bat.org/help/skills.php?str=consider
+  42. http://www.bat.org/help/skills.php?str=swim
+  43. http://www.bat.org/help/skills.php?str=bash
+  44. http://www.bat.org/help/skills.php?str=martial_arts
+  45. http://www.bat.org/help/skills.php?str=meditation
+  46. http://www.bat.org/help/skills.php?str=mind_over_body
+  47. http://www.bat.org/help/skills.php?str=punch
+  48. http://www.bat.org/help/skills.php?str=swim
+  49. http://www.bat.org/help/skills.php?str=martial_arts
+  50. http://www.bat.org/help/skills.php?str=attack
+  51. http://www.bat.org/help/skills.php?str=alertness
+  52. http://www.bat.org/help/skills.php?str=hiking
+  53. http://www.bat.org/help/skills.php?str=consider
+  54. http://www.bat.org/help/skills.php?str=swim
+  55. http://www.bat.org/help/skills.php?str=bash
+  56. http://www.bat.org/help/skills.php?str=martial_arts
+  57. http://www.bat.org/help/skills.php?str=meditation
+  58. http://www.bat.org/help/skills.php?str=discipline
+  59. http://www.bat.org/help/skills.php?str=mind_over_body
+  60. http://www.bat.org/help/skills.php?str=punch
+  61. http://www.bat.org/help/skills.php?str=swim
+  62. http://www.bat.org/help/skills.php?str=martial_arts
+  63. http://www.bat.org/help/skills.php?str=attack
+  64. http://www.bat.org/help/skills.php?str=alertness
+  65. http://www.bat.org/help/skills.php?str=hiking
+  66. http://www.bat.org/help/skills.php?str=consider
+  67. http://www.bat.org/help/skills.php?str=swim
+  68. http://www.bat.org/help/skills.php?str=bash
+  69. http://www.bat.org/help/skills.php?str=martial_arts
+  70. http://www.bat.org/help/skills.php?str=meditation
+  71. http://www.bat.org/help/skills.php?str=discipline
+  72. http://www.bat.org/help/skills.php?str=kiai-cry
+  73. http://www.bat.org/help/skills.php?str=unarmed_parry
+  74. http://www.bat.org/help/skills.php?str=dodge
+  75. http://www.bat.org/help/skills.php?str=mind_over_body
+  76. http://www.bat.org/help/skills.php?str=fresh_pants
+  77. http://www.bat.org/help/skills.php?str=punch
+  78. http://www.bat.org/help/skills.php?str=swim
+  79. http://www.bat.org/help/skills.php?str=martial_arts
+  80. http://www.bat.org/help/skills.php?str=attack
+  81. http://www.bat.org/help/skills.php?str=alertness
+  82. http://www.bat.org/help/skills.php?str=hiking
+  83. http://www.bat.org/help/skills.php?str=consider
+  84. http://www.bat.org/help/skills.php?str=swim
+  85. http://www.bat.org/help/skills.php?str=bash
+  86. http://www.bat.org/help/skills.php?str=martial_arts
+  87. http://www.bat.org/help/skills.php?str=meditation
+  88. http://www.bat.org/help/skills.php?str=discipline
+  89. http://www.bat.org/help/skills.php?str=kiai-cry
+  90. http://www.bat.org/help/skills.php?str=unarmed_parry
+  91. http://www.bat.org/help/skills.php?str=dodge
+  92. http://www.bat.org/help/skills.php?str=bless
+  93. http://www.bat.org/help/skills.php?str=mind_over_body
+  94. http://www.bat.org/help/skills.php?str=fresh_pants
+  95. http://www.bat.org/help/skills.php?str=punch
+  96. http://www.bat.org/help/skills.php?str=swim
+  97. http://www.bat.org/help/skills.php?str=martial_arts
+  98. http://www.bat.org/help/skills.php?str=attack
+  99. http://www.bat.org/help/skills.php?str=alertness
+ 100. http://www.bat.org/help/skills.php?str=hiking
+ 101. http://www.bat.org/help/skills.php?str=consider
+ 102. http://www.bat.org/help/skills.php?str=swim
+ 103. http://www.bat.org/help/skills.php?str=bash
+ 104. http://www.bat.org/help/skills.php?str=martial_arts
+ 105. http://www.bat.org/help/skills.php?str=meditation
+ 106. http://www.bat.org/help/skills.php?str=discipline
+ 107. http://www.bat.org/help/skills.php?str=kiai-cry
+ 108. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 109. http://www.bat.org/help/skills.php?str=dodge
+ 110. http://www.bat.org/help/skills.php?str=bless
+ 111. http://www.bat.org/help/skills.php?str=baptize
+ 112. http://www.bat.org/help/skills.php?str=mind_over_body
+ 113. http://www.bat.org/help/skills.php?str=fresh_pants
+ 114. http://www.bat.org/help/skills.php?str=punch
+ 115. http://www.bat.org/help/skills.php?str=swim
+ 116. http://www.bat.org/help/skills.php?str=martial_arts
+ 117. http://www.bat.org/help/skills.php?str=attack
+ 118. http://www.bat.org/help/skills.php?str=alertness
+ 119. http://www.bat.org/help/skills.php?str=hiking
+ 120. http://www.bat.org/help/skills.php?str=consider
+ 121. http://www.bat.org/help/skills.php?str=swim
+ 122. http://www.bat.org/help/skills.php?str=bash
+ 123. http://www.bat.org/help/skills.php?str=martial_arts
+ 124. http://www.bat.org/help/skills.php?str=meditation
+ 125. http://www.bat.org/help/skills.php?str=discipline
+ 126. http://www.bat.org/help/skills.php?str=kiai-cry
+ 127. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 128. http://www.bat.org/help/skills.php?str=dodge
+ 129. http://www.bat.org/help/skills.php?str=bless
+ 130. http://www.bat.org/help/skills.php?str=baptize
+ 131. http://www.bat.org/help/skills.php?str=throw_weight
+ 132. http://www.bat.org/help/skills.php?str=mind_over_body
+ 133. http://www.bat.org/help/skills.php?str=fresh_pants
+ 134. http://www.bat.org/help/skills.php?str=leather_craft
+ 135. http://www.bat.org/help/skills.php?str=punch
+ 136. http://www.bat.org/help/skills.php?str=martial_arts
+ 137. http://www.bat.org/help/skills.php?str=throw_weight
+ 138. http://www.bat.org/help/skills.php?str=attack
+ 139. http://www.bat.org/help/skills.php?str=alertness
+ 140. http://www.bat.org/help/skills.php?str=hiking
+ 141. http://www.bat.org/help/skills.php?str=consider
+ 142. http://www.bat.org/help/skills.php?str=bash
+ 143. http://www.bat.org/help/skills.php?str=martial_arts
+ 144. http://www.bat.org/help/skills.php?str=meditation
+ 145. http://www.bat.org/help/skills.php?str=discipline
+ 146. http://www.bat.org/help/skills.php?str=kiai-cry
+ 147. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 148. http://www.bat.org/help/skills.php?str=dodge
+ 149. http://www.bat.org/help/skills.php?str=bless
+ 150. http://www.bat.org/help/skills.php?str=baptize
+ 151. http://www.bat.org/help/skills.php?str=throw_weight
+ 152. http://www.bat.org/help/skills.php?str=kick
+ 153. http://www.bat.org/help/skills.php?str=mind_over_body
+ 154. http://www.bat.org/help/skills.php?str=fresh_pants
+ 155. http://www.bat.org/help/skills.php?str=leather_craft
+ 156. http://www.bat.org/help/skills.php?str=joint_lock
+ 157. http://www.bat.org/help/skills.php?str=punch
+ 158. http://www.bat.org/help/skills.php?str=martial_arts
+ 159. http://www.bat.org/help/skills.php?str=throw_weight
+ 160. http://www.bat.org/help/skills.php?str=attack
+ 161. http://www.bat.org/help/skills.php?str=alertness
+ 162. http://www.bat.org/help/skills.php?str=hiking
+ 163. http://www.bat.org/help/skills.php?str=consider
+ 164. http://www.bat.org/help/skills.php?str=bash
+ 165. http://www.bat.org/help/skills.php?str=martial_arts
+ 166. http://www.bat.org/help/skills.php?str=meditation
+ 167. http://www.bat.org/help/skills.php?str=discipline
+ 168. http://www.bat.org/help/skills.php?str=kiai-cry
+ 169. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 170. http://www.bat.org/help/skills.php?str=dodge
+ 171. http://www.bat.org/help/skills.php?str=bless
+ 172. http://www.bat.org/help/skills.php?str=baptize
+ 173. http://www.bat.org/help/skills.php?str=throw_weight
+ 174. http://www.bat.org/help/skills.php?str=kick
+ 175. http://www.bat.org/help/skills.php?str=stun
+ 176. http://www.bat.org/help/skills.php?str=mind_over_body
+ 177. http://www.bat.org/help/skills.php?str=fresh_pants
+ 178. http://www.bat.org/help/skills.php?str=leather_craft
+ 179. http://www.bat.org/help/skills.php?str=sewing
+ 180. http://www.bat.org/help/skills.php?str=kata
+ 181. http://www.bat.org/help/skills.php?str=vital_points
+ 182. http://www.bat.org/help/skills.php?str=joint_lock
+ 183. http://www.bat.org/help/skills.php?str=acupuncture
+ 184. http://www.bat.org/help/skills.php?str=punch
+ 185. http://www.bat.org/help/skills.php?str=martial_arts
+ 186. http://www.bat.org/help/skills.php?str=throw_weight
+ 187. http://www.bat.org/help/skills.php?str=attack
+ 188. http://www.bat.org/help/skills.php?str=alertness
+ 189. http://www.bat.org/help/skills.php?str=hiking
+ 190. http://www.bat.org/help/skills.php?str=consider
+ 191. http://www.bat.org/help/skills.php?str=bash
+ 192. http://www.bat.org/help/skills.php?str=martial_arts
+ 193. http://www.bat.org/help/skills.php?str=meditation
+ 194. http://www.bat.org/help/skills.php?str=discipline
+ 195. http://www.bat.org/help/skills.php?str=kiai-cry
+ 196. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 197. http://www.bat.org/help/skills.php?str=dodge
+ 198. http://www.bat.org/help/skills.php?str=bless
+ 199. http://www.bat.org/help/skills.php?str=baptize
+ 200. http://www.bat.org/help/skills.php?str=throw_weight
+ 201. http://www.bat.org/help/skills.php?str=kick
+ 202. http://www.bat.org/help/skills.php?str=stun
+ 203. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 204. http://www.bat.org/help/skills.php?str=mind_over_body
+ 205. http://www.bat.org/help/skills.php?str=fresh_pants
+ 206. http://www.bat.org/help/skills.php?str=leather_craft
+ 207. http://www.bat.org/help/skills.php?str=sewing
+ 208. http://www.bat.org/help/skills.php?str=kata
+ 209. http://www.bat.org/help/skills.php?str=vital_points
+ 210. http://www.bat.org/help/skills.php?str=joint_lock
+ 211. http://www.bat.org/help/skills.php?str=acupuncture
+ 212. http://www.bat.org/help/skills.php?str=martial_arts
+ 213. http://www.bat.org/help/skills.php?str=throw_weight
+ 214. http://www.bat.org/help/skills.php?str=attack
+ 215. http://www.bat.org/help/skills.php?str=alertness
+ 216. http://www.bat.org/help/skills.php?str=hiking
+ 217. http://www.bat.org/help/skills.php?str=consider
+ 218. http://www.bat.org/help/skills.php?str=bash
+ 219. http://www.bat.org/help/skills.php?str=martial_arts
+ 220. http://www.bat.org/help/skills.php?str=meditation
+ 221. http://www.bat.org/help/skills.php?str=discipline
+ 222. http://www.bat.org/help/skills.php?str=kiai-cry
+ 223. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 224. http://www.bat.org/help/skills.php?str=dodge
+ 225. http://www.bat.org/help/skills.php?str=bless
+ 226. http://www.bat.org/help/skills.php?str=baptize
+ 227. http://www.bat.org/help/skills.php?str=throw_weight
+ 228. http://www.bat.org/help/skills.php?str=kick
+ 229. http://www.bat.org/help/skills.php?str=stun
+ 230. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 231. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 232. http://www.bat.org/help/skills.php?str=mind_over_body
+ 233. http://www.bat.org/help/skills.php?str=fresh_pants
+ 234. http://www.bat.org/help/skills.php?str=leather_craft
+ 235. http://www.bat.org/help/skills.php?str=sewing
+ 236. http://www.bat.org/help/skills.php?str=kata
+ 237. http://www.bat.org/help/skills.php?str=vital_points
+ 238. http://www.bat.org/help/skills.php?str=joint_lock
+ 239. http://www.bat.org/help/skills.php?str=acupuncture
+ 240. http://www.bat.org/help/skills.php?str=martial_arts
+ 241. http://www.bat.org/help/skills.php?str=throw_weight
+ 242. http://www.bat.org/help/skills.php?str=attack
+ 243. http://www.bat.org/help/skills.php?str=alertness
+ 244. http://www.bat.org/help/skills.php?str=hiking
+ 245. http://www.bat.org/help/skills.php?str=bash
+ 246. http://www.bat.org/help/skills.php?str=martial_arts
+ 247. http://www.bat.org/help/skills.php?str=meditation
+ 248. http://www.bat.org/help/skills.php?str=discipline
+ 249. http://www.bat.org/help/skills.php?str=kiai-cry
+ 250. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 251. http://www.bat.org/help/skills.php?str=dodge
+ 252. http://www.bat.org/help/skills.php?str=baptize
+ 253. http://www.bat.org/help/skills.php?str=throw_weight
+ 254. http://www.bat.org/help/skills.php?str=kick
+ 255. http://www.bat.org/help/skills.php?str=stun
+ 256. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 257. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 258. http://www.bat.org/help/skills.php?str=mind_over_body
+ 259. http://www.bat.org/help/skills.php?str=fresh_pants
+ 260. http://www.bat.org/help/skills.php?str=leather_craft
+ 261. http://www.bat.org/help/skills.php?str=sewing
+ 262. http://www.bat.org/help/skills.php?str=kata
+ 263. http://www.bat.org/help/skills.php?str=vital_points
+ 264. http://www.bat.org/help/skills.php?str=joint_lock
+ 265. http://www.bat.org/help/skills.php?str=acupuncture
+ 266. http://www.bat.org/help/skills.php?str=martial_arts
+ 267. http://www.bat.org/help/skills.php?str=throw_weight
+ 268. http://www.bat.org/help/skills.php?str=attack
+ 269. http://www.bat.org/help/skills.php?str=alertness
+ 270. http://www.bat.org/help/skills.php?str=hiking
+ 271. http://www.bat.org/help/skills.php?str=bash
+ 272. http://www.bat.org/help/skills.php?str=martial_arts
+ 273. http://www.bat.org/help/skills.php?str=meditation
+ 274. http://www.bat.org/help/skills.php?str=discipline
+ 275. http://www.bat.org/help/skills.php?str=kiai-cry
+ 276. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 277. http://www.bat.org/help/skills.php?str=dodge
+ 278. http://www.bat.org/help/skills.php?str=baptize
+ 279. http://www.bat.org/help/skills.php?str=throw_weight
+ 280. http://www.bat.org/help/skills.php?str=kick
+ 281. http://www.bat.org/help/skills.php?str=stun
+ 282. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 283. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 284. http://www.bat.org/help/skills.php?str=defence_sense
+ 285. http://www.bat.org/help/skills.php?str=mind_over_body
+ 286. http://www.bat.org/help/skills.php?str=fresh_pants
+ 287. http://www.bat.org/help/skills.php?str=leather_craft
+ 288. http://www.bat.org/help/skills.php?str=sewing
+ 289. http://www.bat.org/help/skills.php?str=kata
+ 290. http://www.bat.org/help/skills.php?str=vital_points
+ 291. http://www.bat.org/help/skills.php?str=joint_lock
+ 292. http://www.bat.org/help/skills.php?str=acupuncture
+ 293. http://www.bat.org/help/skills.php?str=martial_arts
+ 294. http://www.bat.org/help/skills.php?str=throw_weight
+ 295. http://www.bat.org/help/skills.php?str=defence_sense
+ 296. http://www.bat.org/help/skills.php?str=attack
+ 297. http://www.bat.org/help/skills.php?str=alertness
+ 298. http://www.bat.org/help/skills.php?str=hiking
+ 299. http://www.bat.org/help/skills.php?str=martial_arts
+ 300. http://www.bat.org/help/skills.php?str=meditation
+ 301. http://www.bat.org/help/skills.php?str=discipline
+ 302. http://www.bat.org/help/skills.php?str=kiai-cry
+ 303. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 304. http://www.bat.org/help/skills.php?str=dodge
+ 305. http://www.bat.org/help/skills.php?str=baptize
+ 306. http://www.bat.org/help/skills.php?str=throw_weight
+ 307. http://www.bat.org/help/skills.php?str=kick
+ 308. http://www.bat.org/help/skills.php?str=stun
+ 309. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 310. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 311. http://www.bat.org/help/skills.php?str=defence_sense
+ 312. http://www.bat.org/help/skills.php?str=ki
+ 313. http://www.bat.org/help/skills.php?str=mind_over_body
+ 314. http://www.bat.org/help/skills.php?str=fresh_pants
+ 315. http://www.bat.org/help/skills.php?str=leather_craft
+ 316. http://www.bat.org/help/skills.php?str=sewing
+ 317. http://www.bat.org/help/skills.php?str=kata
+ 318. http://www.bat.org/help/skills.php?str=vital_points
+ 319. http://www.bat.org/help/skills.php?str=joint_lock
+ 320. http://www.bat.org/help/skills.php?str=acupuncture
+ 321. http://www.bat.org/help/skills.php?str=martial_arts
+ 322. http://www.bat.org/help/skills.php?str=throw_weight
+ 323. http://www.bat.org/help/skills.php?str=defence_sense
+ 324. http://www.bat.org/help/skills.php?str=ki
+ 325. http://www.bat.org/help/skills.php?str=alertness
+ 326. http://www.bat.org/help/skills.php?str=combat_sense
+ 327. http://www.bat.org/help/skills.php?str=controlled_motion
+ 328. http://www.bat.org/help/skills.php?str=hiking
+ 329. http://www.bat.org/help/skills.php?str=martial_arts
+ 330. http://www.bat.org/help/skills.php?str=meditation
+ 331. http://www.bat.org/help/skills.php?str=discipline
+ 332. http://www.bat.org/help/skills.php?str=kiai-cry
+ 333. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 334. http://www.bat.org/help/skills.php?str=dodge
+ 335. http://www.bat.org/help/skills.php?str=throw_weight
+ 336. http://www.bat.org/help/skills.php?str=kick
+ 337. http://www.bat.org/help/skills.php?str=stun
+ 338. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 339. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 340. http://www.bat.org/help/skills.php?str=defence_sense
+ 341. http://www.bat.org/help/skills.php?str=ki
+ 342. http://www.bat.org/help/skills.php?str=mind_over_body
+ 343. http://www.bat.org/help/skills.php?str=leather_craft
+ 344. http://www.bat.org/help/skills.php?str=sewing
+ 345. http://www.bat.org/help/skills.php?str=kata
+ 346. http://www.bat.org/help/skills.php?str=vital_points
+ 347. http://www.bat.org/help/skills.php?str=joint_lock
+ 348. http://www.bat.org/help/skills.php?str=acupuncture
+ 349. http://www.bat.org/help/skills.php?str=martial_arts
+ 350. http://www.bat.org/help/skills.php?str=throw_weight
+ 351. http://www.bat.org/help/skills.php?str=defence_sense
+ 352. http://www.bat.org/help/skills.php?str=ki
+ 353. http://www.bat.org/help/skills.php?str=alertness
+ 354. http://www.bat.org/help/skills.php?str=combat_sense
+ 355. http://www.bat.org/help/skills.php?str=controlled_motion
+ 356. http://www.bat.org/help/skills.php?str=hiking
+ 357. http://www.bat.org/help/skills.php?str=martial_arts
+ 358. http://www.bat.org/help/skills.php?str=meditation
+ 359. http://www.bat.org/help/skills.php?str=discipline
+ 360. http://www.bat.org/help/skills.php?str=kiai-cry
+ 361. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 362. http://www.bat.org/help/skills.php?str=dodge
+ 363. http://www.bat.org/help/skills.php?str=throw_weight
+ 364. http://www.bat.org/help/skills.php?str=kick
+ 365. http://www.bat.org/help/skills.php?str=stun
+ 366. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 367. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 368. http://www.bat.org/help/skills.php?str=defence_sense
+ 369. http://www.bat.org/help/skills.php?str=ki
+ 370. http://www.bat.org/help/skills.php?str=mind_over_body
+ 371. http://www.bat.org/help/skills.php?str=leather_craft
+ 372. http://www.bat.org/help/skills.php?str=sewing
+ 373. http://www.bat.org/help/skills.php?str=kata
+ 374. http://www.bat.org/help/skills.php?str=vital_points
+ 375. http://www.bat.org/help/skills.php?str=joint_lock
+ 376. http://www.bat.org/help/skills.php?str=acupuncture
+ 377. http://www.bat.org/help/skills.php?str=martial_arts
+ 378. http://www.bat.org/help/skills.php?str=throw_weight
+ 379. http://www.bat.org/help/skills.php?str=defence_sense
+ 380. http://www.bat.org/help/skills.php?str=ki
+ 381. http://www.bat.org/help/skills.php?str=alertness
+ 382. http://www.bat.org/help/skills.php?str=combat_sense
+ 383. http://www.bat.org/help/skills.php?str=controlled_motion
+ 384. http://www.bat.org/help/skills.php?str=hiking
+ 385. http://www.bat.org/help/skills.php?str=martial_arts
+ 386. http://www.bat.org/help/skills.php?str=meditation
+ 387. http://www.bat.org/help/skills.php?str=discipline
+ 388. http://www.bat.org/help/skills.php?str=kiai-cry
+ 389. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 390. http://www.bat.org/help/skills.php?str=dodge
+ 391. http://www.bat.org/help/skills.php?str=throw_weight
+ 392. http://www.bat.org/help/skills.php?str=kick
+ 393. http://www.bat.org/help/skills.php?str=stun
+ 394. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 395. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 396. http://www.bat.org/help/skills.php?str=defence_sense
+ 397. http://www.bat.org/help/skills.php?str=ki
+ 398. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 399. http://www.bat.org/help/skills.php?str=mind_over_body
+ 400. http://www.bat.org/help/skills.php?str=leather_craft
+ 401. http://www.bat.org/help/skills.php?str=sewing
+ 402. http://www.bat.org/help/skills.php?str=kata
+ 403. http://www.bat.org/help/skills.php?str=vital_points
+ 404. http://www.bat.org/help/skills.php?str=joint_lock
+ 405. http://www.bat.org/help/skills.php?str=acupuncture
+ 406. http://www.bat.org/help/skills.php?str=martial_arts
+ 407. http://www.bat.org/help/skills.php?str=throw_weight
+ 408. http://www.bat.org/help/skills.php?str=defence_sense
+ 409. http://www.bat.org/help/skills.php?str=ki
+ 410. http://www.bat.org/help/skills.php?str=combat_sense
+ 411. http://www.bat.org/help/skills.php?str=controlled_motion
+ 412. http://www.bat.org/help/skills.php?str=hiking
+ 413. http://www.bat.org/help/skills.php?str=martial_arts
+ 414. http://www.bat.org/help/skills.php?str=meditation
+ 415. http://www.bat.org/help/skills.php?str=discipline
+ 416. http://www.bat.org/help/skills.php?str=kiai-cry
+ 417. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 418. http://www.bat.org/help/skills.php?str=dodge
+ 419. http://www.bat.org/help/skills.php?str=throw_weight
+ 420. http://www.bat.org/help/skills.php?str=kick
+ 421. http://www.bat.org/help/skills.php?str=stun
+ 422. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 423. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 424. http://www.bat.org/help/skills.php?str=defence_sense
+ 425. http://www.bat.org/help/skills.php?str=ki
+ 426. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 427. http://www.bat.org/help/skills.php?str=iron_palm
+ 428. http://www.bat.org/help/skills.php?str=mind_over_body
+ 429. http://www.bat.org/help/skills.php?str=sewing
+ 430. http://www.bat.org/help/skills.php?str=kata
+ 431. http://www.bat.org/help/skills.php?str=vital_points
+ 432. http://www.bat.org/help/skills.php?str=joint_lock
+ 433. http://www.bat.org/help/skills.php?str=acupuncture
+ 434. http://www.bat.org/help/skills.php?str=martial_arts
+ 435. http://www.bat.org/help/skills.php?str=throw_weight
+ 436. http://www.bat.org/help/skills.php?str=defence_sense
+ 437. http://www.bat.org/help/skills.php?str=ki
+ 438. http://www.bat.org/help/skills.php?str=iron_palm
+ 439. http://www.bat.org/help/skills.php?str=combat_sense
+ 440. http://www.bat.org/help/skills.php?str=controlled_motion
+ 441. http://www.bat.org/help/skills.php?str=hiking
+ 442. http://www.bat.org/help/skills.php?str=martial_arts
+ 443. http://www.bat.org/help/skills.php?str=meditation
+ 444. http://www.bat.org/help/skills.php?str=discipline
+ 445. http://www.bat.org/help/skills.php?str=kiai-cry
+ 446. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 447. http://www.bat.org/help/skills.php?str=dodge
+ 448. http://www.bat.org/help/skills.php?str=throw_weight
+ 449. http://www.bat.org/help/skills.php?str=kick
+ 450. http://www.bat.org/help/skills.php?str=stun
+ 451. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 452. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 453. http://www.bat.org/help/skills.php?str=defence_sense
+ 454. http://www.bat.org/help/skills.php?str=ki
+ 455. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 456. http://www.bat.org/help/skills.php?str=iron_palm
+ 457. http://www.bat.org/help/skills.php?str=find_weakness
+ 458. http://www.bat.org/help/skills.php?str=mind_over_body
+ 459. http://www.bat.org/help/skills.php?str=sewing
+ 460. http://www.bat.org/help/skills.php?str=kata
+ 461. http://www.bat.org/help/skills.php?str=vital_points
+ 462. http://www.bat.org/help/skills.php?str=joint_lock
+ 463. http://www.bat.org/help/skills.php?str=acupuncture
+ 464. http://www.bat.org/help/skills.php?str=martial_arts
+ 465. http://www.bat.org/help/skills.php?str=throw_weight
+ 466. http://www.bat.org/help/skills.php?str=defence_sense
+ 467. http://www.bat.org/help/skills.php?str=ki
+ 468. http://www.bat.org/help/skills.php?str=iron_palm
+ 469. http://www.bat.org/help/skills.php?str=find_weakness
+ 470. http://www.bat.org/help/skills.php?str=combat_sense
+ 471. http://www.bat.org/help/skills.php?str=controlled_motion
+ 472. http://www.bat.org/help/skills.php?str=martial_arts
+ 473. http://www.bat.org/help/skills.php?str=meditation
+ 474. http://www.bat.org/help/skills.php?str=kiai-cry
+ 475. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 476. http://www.bat.org/help/skills.php?str=dodge
+ 477. http://www.bat.org/help/skills.php?str=throw_weight
+ 478. http://www.bat.org/help/skills.php?str=stun
+ 479. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 480. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 481. http://www.bat.org/help/skills.php?str=defence_sense
+ 482. http://www.bat.org/help/skills.php?str=ki
+ 483. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 484. http://www.bat.org/help/skills.php?str=iron_palm
+ 485. http://www.bat.org/help/skills.php?str=find_weakness
+ 486. http://www.bat.org/help/skills.php?str=mind_over_body
+ 487. http://www.bat.org/help/skills.php?str=kata
+ 488. http://www.bat.org/help/skills.php?str=vital_points
+ 489. http://www.bat.org/help/skills.php?str=joint_lock
+ 490. http://www.bat.org/help/skills.php?str=acupuncture
+ 491. http://www.bat.org/help/skills.php?str=martial_arts
+ 492. http://www.bat.org/help/skills.php?str=throw_weight
+ 493. http://www.bat.org/help/skills.php?str=defence_sense
+ 494. http://www.bat.org/help/skills.php?str=ki
+ 495. http://www.bat.org/help/skills.php?str=iron_palm
+ 496. http://www.bat.org/help/skills.php?str=find_weakness
+ 497. http://www.bat.org/help/skills.php?str=combat_sense
+ 498. http://www.bat.org/help/skills.php?str=controlled_motion
+ 499. http://www.bat.org/help/skills.php?str=martial_arts
+ 500. http://www.bat.org/help/skills.php?str=meditation
+ 501. http://www.bat.org/help/skills.php?str=kiai-cry
+ 502. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 503. http://www.bat.org/help/skills.php?str=dodge
+ 504. http://www.bat.org/help/skills.php?str=throw_weight
+ 505. http://www.bat.org/help/skills.php?str=stun
+ 506. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 507. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 508. http://www.bat.org/help/skills.php?str=defence_sense
+ 509. http://www.bat.org/help/skills.php?str=ki
+ 510. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 511. http://www.bat.org/help/skills.php?str=iron_palm
+ 512. http://www.bat.org/help/skills.php?str=find_weakness
+ 513. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 514. http://www.bat.org/help/skills.php?str=mind_over_body
+ 515. http://www.bat.org/help/skills.php?str=kata
+ 516. http://www.bat.org/help/skills.php?str=vital_points
+ 517. http://www.bat.org/help/skills.php?str=joint_lock
+ 518. http://www.bat.org/help/skills.php?str=acupuncture
+ 519. http://www.bat.org/help/skills.php?str=defence_sense
+ 520. http://www.bat.org/help/skills.php?str=ki
+ 521. http://www.bat.org/help/skills.php?str=iron_palm
+ 522. http://www.bat.org/help/skills.php?str=find_weakness
+ 523. http://www.bat.org/help/skills.php?str=combat_sense
+ 524. http://www.bat.org/help/skills.php?str=controlled_motion
+ 525. http://www.bat.org/help/skills.php?str=meditation
+ 526. http://www.bat.org/help/skills.php?str=kiai-cry
+ 527. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 528. http://www.bat.org/help/skills.php?str=dodge
+ 529. http://www.bat.org/help/skills.php?str=stun
+ 530. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 531. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 532. http://www.bat.org/help/skills.php?str=defence_sense
+ 533. http://www.bat.org/help/skills.php?str=ki
+ 534. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 535. http://www.bat.org/help/skills.php?str=iron_palm
+ 536. http://www.bat.org/help/skills.php?str=find_weakness
+ 537. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 538. http://www.bat.org/help/skills.php?str=mind_over_body
+ 539. http://www.bat.org/help/skills.php?str=kata
+ 540. http://www.bat.org/help/skills.php?str=vital_points
+ 541. http://www.bat.org/help/skills.php?str=joint_lock
+ 542. http://www.bat.org/help/skills.php?str=acupuncture
+ 543. http://www.bat.org/help/skills.php?str=defence_sense
+ 544. http://www.bat.org/help/skills.php?str=ki
+ 545. http://www.bat.org/help/skills.php?str=iron_palm
+ 546. http://www.bat.org/help/skills.php?str=find_weakness
+ 547. http://www.bat.org/help/skills.php?str=combat_sense
+ 548. http://www.bat.org/help/skills.php?str=controlled_motion
+ 549. http://www.bat.org/help/skills.php?str=meditation
+ 550. http://www.bat.org/help/skills.php?str=kiai-cry
+ 551. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 552. http://www.bat.org/help/skills.php?str=dodge
+ 553. http://www.bat.org/help/skills.php?str=stun
+ 554. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 555. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 556. http://www.bat.org/help/skills.php?str=defence_sense
+ 557. http://www.bat.org/help/skills.php?str=ki
+ 558. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 559. http://www.bat.org/help/skills.php?str=iron_palm
+ 560. http://www.bat.org/help/skills.php?str=find_weakness
+ 561. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 562. http://www.bat.org/help/skills.php?str=mind_over_body
+ 563. http://www.bat.org/help/skills.php?str=kata
+ 564. http://www.bat.org/help/skills.php?str=vital_points
+ 565. http://www.bat.org/help/skills.php?str=joint_lock
+ 566. http://www.bat.org/help/skills.php?str=acupuncture
+ 567. http://www.bat.org/help/skills.php?str=throw_weight
+ 568. http://www.bat.org/help/skills.php?str=defence_sense
+ 569. http://www.bat.org/help/skills.php?str=ki
+ 570. http://www.bat.org/help/skills.php?str=iron_palm
+ 571. http://www.bat.org/help/skills.php?str=find_weakness
+ 572. http://www.bat.org/help/skills.php?str=combat_sense
+ 573. http://www.bat.org/help/skills.php?str=controlled_motion
+ 574. http://www.bat.org/help/skills.php?str=meditation
+ 575. http://www.bat.org/help/skills.php?str=kiai-cry
+ 576. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 577. http://www.bat.org/help/skills.php?str=dodge
+ 578. http://www.bat.org/help/skills.php?str=stun
+ 579. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 580. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 581. http://www.bat.org/help/skills.php?str=defence_sense
+ 582. http://www.bat.org/help/skills.php?str=ki
+ 583. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 584. http://www.bat.org/help/skills.php?str=iron_palm
+ 585. http://www.bat.org/help/skills.php?str=find_weakness
+ 586. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 587. http://www.bat.org/help/skills.php?str=mind_over_body
+ 588. http://www.bat.org/help/skills.php?str=sculpture
+ 589. http://www.bat.org/help/skills.php?str=kata
+ 590. http://www.bat.org/help/skills.php?str=vital_points
+ 591. http://www.bat.org/help/skills.php?str=joint_lock
+ 592. http://www.bat.org/help/skills.php?str=acupuncture
+ 593. http://www.bat.org/help/skills.php?str=defence_sense
+ 594. http://www.bat.org/help/skills.php?str=ki
+ 595. http://www.bat.org/help/skills.php?str=iron_palm
+ 596. http://www.bat.org/help/skills.php?str=find_weakness
+ 597. http://www.bat.org/help/skills.php?str=combat_sense
+ 598. http://www.bat.org/help/skills.php?str=controlled_motion
+ 599. http://www.bat.org/help/skills.php?str=meditation
+ 600. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 601. http://www.bat.org/help/skills.php?str=dodge
+ 602. http://www.bat.org/help/skills.php?str=stun
+ 603. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 604. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 605. http://www.bat.org/help/skills.php?str=defence_sense
+ 606. http://www.bat.org/help/skills.php?str=ki
+ 607. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 608. http://www.bat.org/help/skills.php?str=iron_palm
+ 609. http://www.bat.org/help/skills.php?str=find_weakness
+ 610. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 611. http://www.bat.org/help/skills.php?str=mind_over_body
+ 612. http://www.bat.org/help/skills.php?str=sculpture
+ 613. http://www.bat.org/help/skills.php?str=kata
+ 614. http://www.bat.org/help/skills.php?str=vital_points
+ 615. http://www.bat.org/help/skills.php?str=joint_lock
+ 616. http://www.bat.org/help/skills.php?str=acupuncture
+ 617. http://www.bat.org/help/skills.php?str=kiai-cry
+ 618. http://www.bat.org/help/skills.php?str=defence_sense
+ 619. http://www.bat.org/help/skills.php?str=ki
+ 620. http://www.bat.org/help/skills.php?str=iron_palm
+ 621. http://www.bat.org/help/skills.php?str=find_weakness
+ 622. http://www.bat.org/help/skills.php?str=combat_sense
+ 623. http://www.bat.org/help/skills.php?str=controlled_motion
+ 624. http://www.bat.org/help/skills.php?str=meditation
+ 625. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 626. http://www.bat.org/help/skills.php?str=dodge
+ 627. http://www.bat.org/help/skills.php?str=stun
+ 628. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 629. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 630. http://www.bat.org/help/skills.php?str=defence_sense
+ 631. http://www.bat.org/help/skills.php?str=ki
+ 632. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 633. http://www.bat.org/help/skills.php?str=iron_palm
+ 634. http://www.bat.org/help/skills.php?str=find_weakness
+ 635. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 636. http://www.bat.org/help/skills.php?str=mind_over_body
+ 637. http://www.bat.org/help/skills.php?str=sculpture
+ 638. http://www.bat.org/help/skills.php?str=kata
+ 639. http://www.bat.org/help/skills.php?str=vital_points
+ 640. http://www.bat.org/help/skills.php?str=joint_lock
+ 641. http://www.bat.org/help/skills.php?str=acupuncture
+ 642. http://www.bat.org/help/skills.php?str=defence_sense
+ 643. http://www.bat.org/help/skills.php?str=ki
+ 644. http://www.bat.org/help/skills.php?str=iron_palm
+ 645. http://www.bat.org/help/skills.php?str=find_weakness
+ 646. http://www.bat.org/help/skills.php?str=combat_sense
+ 647. http://www.bat.org/help/skills.php?str=controlled_motion
+ 648. http://www.bat.org/help/skills.php?str=meditation
+ 649. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 650. http://www.bat.org/help/skills.php?str=dodge
+ 651. http://www.bat.org/help/skills.php?str=stun
+ 652. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 653. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 654. http://www.bat.org/help/skills.php?str=defence_sense
+ 655. http://www.bat.org/help/skills.php?str=ki
+ 656. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 657. http://www.bat.org/help/skills.php?str=iron_palm
+ 658. http://www.bat.org/help/skills.php?str=find_weakness
+ 659. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 660. http://www.bat.org/help/skills.php?str=mind_over_body
+ 661. http://www.bat.org/help/skills.php?str=sculpture
+ 662. http://www.bat.org/help/skills.php?str=kata
+ 663. http://www.bat.org/help/skills.php?str=vital_points
+ 664. http://www.bat.org/help/skills.php?str=joint_lock
+ 665. http://www.bat.org/help/skills.php?str=acupuncture
+ 666. http://www.bat.org/help/skills.php?str=defence_sense
+ 667. http://www.bat.org/help/skills.php?str=ki
+ 668. http://www.bat.org/help/skills.php?str=iron_palm
+ 669. http://www.bat.org/help/skills.php?str=find_weakness
+ 670. http://www.bat.org/help/skills.php?str=combat_sense
+ 671. http://www.bat.org/help/skills.php?str=controlled_motion
+ 672. http://www.bat.org/help/skills.php?str=meditation
+ 673. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 674. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 675. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 676. http://www.bat.org/help/skills.php?str=defence_sense
+ 677. http://www.bat.org/help/skills.php?str=ki
+ 678. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 679. http://www.bat.org/help/skills.php?str=iron_palm
+ 680. http://www.bat.org/help/skills.php?str=find_weakness
+ 681. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 682. http://www.bat.org/help/skills.php?str=mind_over_body
+ 683. http://www.bat.org/help/skills.php?str=sculpture
+ 684. http://www.bat.org/help/skills.php?str=kata
+ 685. http://www.bat.org/help/skills.php?str=vital_points
+ 686. http://www.bat.org/help/skills.php?str=joint_lock
+ 687. http://www.bat.org/help/skills.php?str=acupuncture
+ 688. http://www.bat.org/help/skills.php?str=ki
+ 689. http://www.bat.org/help/skills.php?str=iron_palm
+ 690. http://www.bat.org/help/skills.php?str=combat_sense
+ 691. http://www.bat.org/help/skills.php?str=controlled_motion
+ 692. http://www.bat.org/help/skills.php?str=meditation
+ 693. http://www.bat.org/help/skills.php?str=unarmed_parry
+ 694. http://www.bat.org/help/skills.php?str=contact_reflexes
+ 695. http://www.bat.org/help/skills.php?str=enhance_criticals
+ 696. http://www.bat.org/help/skills.php?str=ki
+ 697. http://www.bat.org/help/skills.php?str=iron_palm
+ 698. http://www.bat.org/help/skills.php?str=tumbling_attack
+ 699. http://www.bat.org/help/skills.php?str=mind_over_body
+ 700. http://www.bat.org/help/skills.php?str=sculpture
+ 701. http://www.bat.org/help/skills.php?str=kata
+ 702. http://www.bat.org/help/skills.php?str=vital_points
+ 703. http://www.bat.org/help/skills.php?str=joint_lock
+ 704. http://www.bat.org/help/skills.php?str=acupuncture
+ 705. http://www.bat.org/help/skills.php?str=stunned_maneuvers
+ 706. http://www.bat.org/help/skills.php?str=find_weakness
+ 707. http://www.bat.org/help/guilds.php
+ 708. mailto:webmaster@bat.org
+
+   Hidden links:
+ 709. http://www.bat.org/bat.php

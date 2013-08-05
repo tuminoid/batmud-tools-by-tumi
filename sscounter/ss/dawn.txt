@@ -1,0 +1,9 @@
+name: The Cult of Dawn
+gms: Kyo, Yohoack, Caped and Aiwe
+maxlvl: 6
+1: parry ,dodge ,dex
+2: parry ,dex
+3: dodge ,dex
+4: parry ,dex
+5: parry 
+6: dodge 

@@ -1,0 +1,226 @@
+
+/* plus.css for forumplus */
+
+
+
+
+/* basic layout for tables  */
+
+DIV#content TABLE {
+	font-size: 0.8em;
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	border: 1px solid Black;
+	text-indent: 0.5em;
+}
+
+
+DIV#content TABLE.narrow {
+	width: 50%;
+	margin-left: 10%;
+}
+
+TABLE#invis {
+	font-size: 0.95em !important;
+	padding: 0 !important;
+}
+
+DIV#content TABLE.vertical TR TD:first-child {
+	font-weight: bold;
+	color: Black;
+	background-color: #eeeeee;
+	border-right: 1px dotted Black;
+}
+
+
+DIV#content TR.header {
+	font-weight: bold;
+	color: Black;
+	background-color: #dddddd;
+	padding: 2px;
+	border-bottom: 1px dotted Black;
+}
+
+
+TR.footer {
+	font-weight: bold;
+	color: Black;
+	background-color: #dddddd;
+	padding: 2px;
+	border-top: 1px dotted Black;
+	text-align: right;
+}
+
+
+DIV#content TD {
+	vertical-align: top;
+}
+
+
+
+/* menu and userinformaiton formatting */
+
+TD#forumcontent {
+	border-left: 1px dotted Black !important;
+	margin-bottom: 1em;
+/*	width: 100%;*/
+	padding-left: 0.5em;
+	padding-right: 0.25em;
+}
+
+TD#forumcontent TABLE {
+	padding: 0 !important;
+}
+
+
+.noborders {
+	border: 0;
+}
+
+
+table.plusmenu {
+	width: 10%;
+	max-width: 10%;
+	min-width: 5%;
+	border: 0 !important;
+}
+
+/*
+table#plusmenu TR:first-child {
+	font-weight: bold;
+	font-variant: small-caps;
+	padding: 1em;
+}
+*/
+
+TR.userinfo {
+	text-align: right;
+	font-size: 0.9em;
+}
+
+TR.menutitle {
+	font-size: 1.2em;
+	padding-top: 1em;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+TR.menutitle TD {
+	border-bottom: 1px dotted Black !important;
+}
+
+TR.menuitem {
+	text-indent: 2em;
+}
+
+
+/* party schedules */
+
+TR.partyformation TD {
+	width: 33%;
+}
+
+TABLE.describemember {
+	border: 1px solid Black !important;
+	padding: 0 !important;
+	background-color: #f6f6f6;
+	color: Black;
+}
+
+
+/* member tools */
+
+DIV.membertools {
+	margin-top: 2em;
+	line-height: 1.2em;
+}
+
+
+
+/* memberlist */
+
+TABLE#memberlist {
+	font-size: 0.8em !important;
+}
+
+
+
+/* auctions */
+/* what should lose win boxes look like */
+
+TD.winbid {
+	color: Black;
+	background-color: Lime;
+}
+
+TD.losebid {
+	color: Black;
+	background-color: Yellow;
+}
+
+TD.nobid {
+	color: Black;
+	background-color: #eeeeee;
+}
+
+TD.noauction {
+	color: Red;
+	background-color: inherit;
+}
+
+TD.unablebid {
+	color: Black;
+	background-color: inherit;
+}
+
+TD.completed {
+	color: Black;
+	background-color: Green;
+}
+
+
+TD.winbid, TD.losebid, TD.nobid, TD.noauction, TD.unablebid, TD.completed {
+	text-align: center;
+	border-left: 1px dotted Black;
+	border-right: 1px dotted Black;
+	border-bottom: 1px dotted Black;
+	border-collapse: collapse;
+}
+
+
+
+
+
+
+/* few generic thingies */
+
+DIV#content A {
+	font-size: 0.9em;
+	font-variant: small-caps;
+}
+
+
+/*
+DIV#content INPUT {
+	font-size: 0.8em;
+}
+*/
+
+DIV#content h2 {
+	text-indent: 3em;
+	text-decoration: underline;
+}
+
+
+DIV#content h3 {
+	text-indent: 1.5em;
+	text-decoration: underline;
+}
+
+
+DIV#content td.cntr {
+	text-align: center;
+}
+

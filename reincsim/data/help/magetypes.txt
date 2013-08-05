@@ -1,0 +1,106 @@
+The available damagetypes and their associated skills/spells are:
+Acid
+--------------------------
+   Main spells:
+        Disruption
+        Acid Wind
+        Acid Arrow
+        Acid Ray
+        Acid Blast
+   Area spells:
+        Acid Rain
+        Acid Storm
+   Cast skill:
+        Cast Acid
+   Mastery:
+        Theory of Corrosion
+Asphyxiation
+--------------------------
+   Main spells:
+        Vacuumbolt
+        Suffocation
+        Chaos Bolt
+        Strangulation
+        Blast Vacuum
+   Area spells:
+        Vacuum Ball
+        Vacuum Globe
+   Cast skill:
+        Cast Asphyxiation
+   Mastery:
+        Knowledge of Asphyxiation
+Cold
+--------------------------
+   Main spells:
+        Chill Touch
+        Flaming Ice
+        Darkfire
+        Icebolt
+        Cold Ray
+   Area spells:
+        Cone of Cold
+        Hailstorm
+   Cast skill:
+        Cast Cold
+   Mastery:
+        Mastery of Arctic Powers
+Electricity
+--------------------------
+   Main spells:
+        Shocking Grasp
+        Lightning Bolt
+        Blast Lightning
+        Forked Lightning
+        Electrocution
+   Area spells:
+        Chain Lightning
+        Lightning Storm
+   Cast skill:
+        Cast Electricity
+   Mastery:
+        Theory of Electrical Engineering
+Fire
+--------------------------
+   Main spells:
+        Flame Arrow
+        Firebolt
+        Fire Blast
+        Meteor Blast
+        Lava Blast
+   Area spells:
+        Meteor Swarm
+        Lava Storm
+   Cast skill:
+        Cast Fire
+   Mastery:
+        Theory of Pyromania
+Magical
+--------------------------
+   Main spells:
+        Magic Missile
+        Summon Lesser Spores
+        Levin Bolt
+        Summon Greater Spores
+        Golden Arrow
+   Area spells:
+        Magic Wave
+        Magic Eruption
+   Cast skill:
+        Cast Magical
+   Mastery:
+        Knowledge of Magic Lore
+Poison
+--------------------------
+   Main spells:
+        Thorn Spray
+        Poison Blast
+        Venom Strike
+        Power Blast
+        Summon Carnal Spores
+   Area spells:
+        Poison Spray
+        Killing Cloud
+   Cast skill:
+        Cast Poison
+   Mastery:
+        Knowledge of Toxicology
